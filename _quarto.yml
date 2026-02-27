@@ -1,0 +1,79 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "Metodologi Penelitian"
+  subtitle: "Buku Panduan Praktis untuk Mahasiswa dan Peneliti Muda"
+  reader-mode: true
+  author: "Sunu Bagaskara"
+  language: id
+  date: "9/8/2025"
+  date-format: "D MMMM YYYY"
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 1
+          
+  page-footer:
+    left: |
+      Metodologi Penelitian
+    right: |
+      Buku ini dicetak menggunakan <a href="https://quarto.org/">Quarto</a>.
+  chapters:
+    - index.qmd
+    - 1_1_ilmu.qmd
+    - 1_2_hakikat.qmd
+
+bibliography: references.bib
+bibliographystyle: apa
+
+lang: id
+
+crossref: 
+  sec-prefix: "Bab"
+  fig-prefix: "Gambar"
+  tbl-prefix: "Tabel"
+  eq-prefix: "Persamaan"
+  
+format:
+  html:
+    theme:
+      - united
+    code-link: true
+    author-meta: "Sunu Bagaskara, Entin Nurhayati, Sari Zakiah Akmal, Titi Sahidah Fitriana, & Aswin Januarsjaf"
+    breadcrumb: true
+  pdf:
+    documentclass: book
+    pdf-engine: lualatex
+    lof: true     # aktifkan List of Figures
+    lot: true     # aktifkan List of Tables (opsional)
+    classoption: [openany]
+    papersize: a4
+    mainfont: "Ubuntu light"
+    fontsize: 10pt
+    mainfontoptions: 
+      - UprightFont=Ubuntu light      
+      - ItalicFont=Ubuntu italic
+      - BoldFont=Ubuntu bold
+      - BoldItalicFont=Ubuntu bold italic
+    #sansfont: "Ubuntu Light"
+    #monofont: "Ubuntu Light"
+    geometry: 
+      - paperwidth=8.0000000000000in
+      - paperheight=10.000000000000in
+      - left=1.25in
+      - textwidth= 5.25in
+      - top=1.00in
+      - textheight=8.25in
+    include-in-header: "header.tex"
+    include-after-body: 
+      text: |
+        \printindex
+    toc: true
+    toc-title: "Daftar Isi"
+    linkcolor: blue
+    urlcolor: blue
+    citecolor: blue
+
+editor: visual
