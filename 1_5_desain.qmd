@@ -1,0 +1,207 @@
+# Desain Penelitian dan Strategi Pengumpulan Data
+
+::: callout-note
+## Capaian Pembelajaran
+
+Setelah mempelajari bab ini, mahasiswa mampu:
+
+1.  Menjelaskan pengertian dan fungsi desain penelitian dalam proses penelitian ilmiah.
+2.  Mengidentifikasi berbagai klasifikasi desain penelitian berdasarkan jumlah kontak dengan partisipan, periode penelitian, sumber investigasi, dan metode penelitian.
+3.  Membedakan desain penelitian eksperimental, kuasi-eksperimental, dan non-eksperimental beserta karakteristik utamanya.
+4.  Menjelaskan berbagai metode pengumpulan data yang umum digunakan dalam penelitian psikologi.
+5.  Membedakan metode pengumpulan data berdasarkan sumber data, jenis data, dan interpretasi data.
+6.  Memahami hubungan antara desain penelitian dan strategi pengumpulan data dalam menjawab pertanyaan penelitian.
+:::
+
+## Pengertian Desain Penelitian
+
+Desain penelitian merupakan rencana sistematis yang disusun peneliti untuk menjawab pertanyaan penelitian secara terarah dan dapat dipertanggungjawabkan secara ilmiah. Dalam metodologi penelitian, desain penelitian sering dipahami sebagai *framework* atau kerangka kerja yang menggambarkan bagaimana suatu penelitian akan dilaksanakan, mulai dari perumusan masalah hingga analisis data. Dengan adanya desain penelitian, peneliti dapat memastikan bahwa setiap langkah penelitian saling berkaitan dan mendukung tujuan penelitian yang ingin di
+
+-   **Menjelaskan pengertian dan fungsi desain penelitian** dalam proses penelitian ilmiah.
+
+<!-- -->
+
+-   
+
+    **Mengidentifikasi berbagai klasifikasi desain penelitian** berdasarkan jumlah kontak dengan partisipan, periode penelitian, sumber investigasi, dan metode penelitian.
+
+<!-- -->
+
+-   
+
+    **Membedakan desain penelitian eksperimental, kuasi-eksperimental, dan non-eksperimental** beserta karakteristik utamanya.
+
+<!-- -->
+
+-   
+
+    **Menjelaskan berbagai metode pengumpulan data** yang umum digunakan dalam penelitian psikologi.
+
+<!-- -->
+
+-   
+
+    **Membedakan metode pengumpulan data berdasarkan sumber data, jenis data, dan interpretasi data.**
+
+<!-- -->
+
+-   
+
+    **Memahami hubungan antara desain penelitian dan strategi pengumpulan data** dalam menjawab pertanyaan penelitian.
+
+i\.
+
+Creswell dan Creswell (2018) menjelaskan bahwa desain penelitian merupakan rencana yang menghubungkan pertanyaan penelitian dengan prosedur pengumpulan data, teknik analisis data, dan interpretasi hasil penelitian. Desain penelitian tidak hanya menentukan metode apa yang digunakan, tetapi juga bagaimana metode tersebut diterapkan secara sistematis. Oleh karena itu, penyusunan desain penelitian merupakan tahap penting yang menentukan kualitas suatu penelitian.
+
+Dalam konteks penelitian psikologi, desain penelitian menjadi sangat penting karena fenomena psikologis sering kali kompleks dan melibatkan berbagai faktor yang saling berinteraksi. Desain penelitian yang baik membantu peneliti memilih pendekatan metodologis yang tepat serta menghindari kesalahan prosedural yang dapat memengaruhi validitas penelitian.
+
+## Fungsi Desain Penelitian
+
+Desain penelitian memiliki beberapa fungsi penting dalam proses penelitian ilmiah. Secara umum, desain penelitian membantu peneliti merencanakan dan mengorganisasi seluruh tahapan penelitian agar berjalan secara sistematis.
+
+Beberapa fungsi utama desain penelitian antara lain:
+
+1.  Memberikan kerangka kerja penelitian\
+    Desain penelitian menyediakan panduan yang jelas mengenai langkah-langkah yang harus dilakukan selama penelitian. Kerangka ini membantu peneliti menjaga konsistensi antara pertanyaan penelitian, metode yang digunakan, serta jenis data yang dikumpulkan. Dengan demikian, proses penelitian dapat berlangsung secara lebih terarah dan sistematis.
+2.  Menjamin kualitas penelitian\
+    Desain penelitian yang baik membantu memastikan bahwa prosedur penelitian mampu menghasilkan data yang valid dan reliabel. Melalui perencanaan yang matang, peneliti dapat mengurangi potensi bias serta meningkatkan akurasi hasil penelitian. Hal ini sangat penting terutama dalam penelitian psikologi yang sering melibatkan pengukuran konstruk yang kompleks.
+3.  Mengoptimalkan penggunaan sumber daya penelitian\
+    Penelitian sering kali dibatasi oleh waktu, biaya, dan sumber daya manusia. Desain penelitian membantu peneliti merencanakan penggunaan sumber daya secara efisien sehingga penelitian dapat dilaksanakan secara realistis. Dengan perencanaan yang baik, peneliti dapat menghindari prosedur yang tidak perlu atau tidak relevan dengan tujuan penelitian.
+
+## Komponen Utama Desain Penelitian
+
+Secara umum, desain penelitian mencakup beberapa komponen utama yang saling berkaitan. Komponen-komponen ini membentuk suatu sistem yang memastikan bahwa penelitian dilakukan secara logis dan sistematis.
+
+Komponen utama desain penelitian meliputi:
+
+1.  **Rumusan masalah atau pertanyaan penelitian**\
+    Rumusan masalah merupakan titik awal dari seluruh proses penelitian. Pertanyaan penelitian menentukan fokus penelitian serta jenis informasi yang perlu dikumpulkan. Oleh karena itu, desain penelitian harus selalu disusun dengan mempertimbangkan bagaimana pertanyaan penelitian tersebut akan dijawab.
+
+2.  **Unit analisis dan partisipan penelitian**\
+    Peneliti perlu menentukan siapa atau apa yang menjadi fokus penelitian, misalnya individu, kelompok, organisasi, atau interaksi sosial tertentu. Penentuan unit analisis akan memengaruhi metode pengumpulan data yang digunakan. Misalnya, penelitian yang berfokus pada interaksi kelompok mungkin lebih cocok menggunakan observasi dibandingkan survei individu.
+
+3.  **Strategi pengumpulan data**\
+    Desain penelitian juga harus menjelaskan bagaimana data akan diperoleh. Peneliti perlu memilih metode pengumpulan data yang sesuai dengan tujuan penelitian dan karakteristik fenomena yang diteliti. Strategi ini dapat melibatkan satu metode saja atau kombinasi beberapa metode.
+
+4.  **Strategi analisis data**\
+    Selain pengumpulan data, desain penelitian juga mencakup rencana mengenai bagaimana data tersebut akan dianalisis. Dalam penelitian kuantitatif, analisis biasanya menggunakan teknik statistik. Sebaliknya, dalam penelitian kualitatif analisis sering melibatkan proses interpretasi makna melalui *coding* dan kategorisasi data.
+
+5.  **Pertimbangan validitas dan kualitas penelitian**\
+    Desain penelitian juga harus mempertimbangkan bagaimana menjaga kualitas data dan hasil penelitian. Hal ini mencakup strategi untuk meningkatkan validitas, reliabilitas, serta kredibilitas penelitian. Pembahasan lebih mendalam mengenai isu ini akan dijelaskan pada bab tersendiri mengenai validitas dan kualitas penelitian.
+
+## Klasifikasi Desain Penelitian
+
+Desain penelitian dapat diklasifikasikan berdasarkan beberapa aspek yang berkaitan dengan bagaimana penelitian dirancang dan dilaksanakan. Klasifikasi ini membantu peneliti memahami berbagai alternatif strategi penelitian yang dapat digunakan untuk menjawab pertanyaan penelitian secara tepat. Dalam praktiknya, satu penelitian sering kali memiliki karakteristik dari lebih dari satu tipe desain sekaligus.
+
+Pada bagian ini, desain penelitian dijelaskan berdasarkan lima dimensi utama, yaitu **jumlah kontak dengan partisipan, periode penelitian, dan sumber investigasi**. Masing-masing dimensi memberikan gambaran mengenai bagaimana penelitian dilakukan serta jenis informasi yang dihasilkan.
+
+1.  **Berdasarkan jumlah kontak dengan partisipan**
+
+    Klasifikasi ini merujuk pada seberapa sering peneliti berinteraksi dengan partisipan selama proses pengumpulan data.
+
+    a.  ***Single-contact design***
+
+        Dalam desain ini, peneliti hanya melakukan satu kali kontak dengan partisipan untuk mengumpulkan data penelitian. Pendekatan ini sering digunakan dalam penelitian survei atau studi deskriptif yang bertujuan menggambarkan kondisi tertentu pada satu waktu. Kelebihan desain ini adalah efisiensi dalam hal waktu dan biaya, karena pengumpulan data dapat dilakukan secara relatif cepat. Namun, keterbatasannya adalah peneliti tidak dapat mengamati perubahan kondisi partisipan dari waktu ke waktu.
+
+    b.  ***Multiple-contact design***
+
+        Pada desain ini, peneliti melakukan lebih dari satu kali kontak dengan partisipan selama penelitian berlangsung. Interaksi yang berulang memungkinkan peneliti mengamati perubahan perilaku, sikap, atau kondisi tertentu dalam periode waktu tertentu. Desain ini sering digunakan dalam penelitian longitudinal, eksperimen, atau studi perkembangan. Meskipun memberikan informasi yang lebih mendalam, desain ini biasanya memerlukan waktu dan sumber daya penelitian yang lebih besar.
+
+2.  **Berdasarkan periode penelitian**
+
+    Desain penelitian juga dapat dibedakan berdasarkan hubungan antara waktu penelitian dengan peristiwa yang diteliti. Perspektif waktu ini memengaruhi cara peneliti mengumpulkan data serta bagaimana hubungan antara berbagai faktor dalam penelitian dipahami.
+
+    a.  **Desain retrospektif**
+
+        Desain retrospektif mempelajari fenomena yang telah terjadi di masa lalu. Peneliti menelusuri kembali pengalaman atau kondisi sebelumnya untuk memahami faktor-faktor yang berkaitan dengan fenomena yang sedang diteliti. Data biasanya diperoleh melalui wawancara, kuesioner, arsip, atau dokumen yang tersedia. Meskipun relatif efisien, pendekatan ini sangat bergantung pada keakuratan ingatan partisipan atau kelengkapan data yang tersedia (Hulley et al., 2013).
+
+    b.  **Desain prospektif**
+
+        Desain prospektif mempelajari fenomena yang akan terjadi di masa depan. Dalam desain ini, peneliti terlebih dahulu mengidentifikasi partisipan atau kondisi tertentu, kemudian mengikuti perkembangan mereka dalam periode waktu tertentu untuk mengamati perubahan atau munculnya fenomena yang diteliti. Pendekatan ini memungkinkan peneliti memperoleh data yang lebih sistematis mengenai proses terjadinya suatu peristiwa. Namun, penelitian prospektif biasanya membutuhkan waktu dan sumber daya yang lebih besar dibandingkan penelitian retrospektif (Rothman et al., 2008).
+
+    c.  **Desain retrospektif–prospektif**
+
+        Desain retrospektif–prospektif merupakan kombinasi dari kedua pendekatan sebelumnya. Penelitian dimulai dengan menelusuri informasi mengenai peristiwa di masa lalu, kemudian dilanjutkan dengan pengamatan terhadap perkembangan fenomena tersebut di masa depan. Dengan menggabungkan kedua perspektif waktu tersebut, peneliti dapat memperoleh gambaran yang lebih lengkap mengenai dinamika suatu fenomena.
+
+3.  **Berdasarkan perlakuan terhadap variabel penelitian**
+
+    Desain penelitian juga dapat dibedakan berdasarkan bagaimana peneliti mengendalikan variabel dalam penelitian. Dalam beberapa penelitian, peneliti secara aktif memanipulasi variabel tertentu untuk melihat pengaruhnya terhadap variabel lain. Dalam penelitian lain, peneliti hanya mengamati fenomena yang terjadi secara alami tanpa melakukan manipulasi terhadap variabel penelitian.
+
+    Berdasarkan tingkat kontrol terhadap variabel tersebut, desain penelitian dapat dibedakan menjadi tiga jenis utama (Creswell & Creswell, 2018; Shadish, Cook, & Campbell, 2002).
+
+    1.  **Desain eksperimental**
+
+        Desain eksperimental melibatkan manipulasi variabel independen oleh peneliti untuk melihat pengaruhnya terhadap variabel dependen. Dalam desain ini, peneliti biasanya juga menggunakan kelompok kontrol serta proses randomisasi untuk mengurangi pengaruh variabel luar. Dengan kontrol yang relatif ketat terhadap kondisi penelitian, desain eksperimen memungkinkan peneliti membuat kesimpulan yang lebih kuat mengenai hubungan sebab–akibat antarvariabel. Oleh karena itu, desain ini sering digunakan untuk menguji efektivitas suatu perlakuan atau intervensi.
+
+    2.  **Desain kuasi-eksperimental**
+
+        Desain kuasi-eksperimental memiliki karakteristik yang mirip dengan desain eksperimen karena sama-sama melibatkan pemberian perlakuan terhadap partisipan penelitian. Namun, dalam desain ini peneliti tidak memiliki kendali penuh terhadap proses penentuan kelompok partisipan, misalnya karena tidak memungkinkan melakukan randomisasi. Akibatnya, tingkat kontrol terhadap variabel luar tidak sekuat pada desain eksperimen murni. Meskipun demikian, desain ini tetap banyak digunakan dalam penelitian sosial dan pendidikan karena dapat diterapkan dalam situasi penelitian yang lebih realistis.
+
+    3.  **Desain non-eksperimental**
+
+        Desain non-eksperimental merupakan desain penelitian yang tidak melibatkan manipulasi variabel oleh peneliti. Peneliti hanya mengamati atau mengukur fenomena yang terjadi secara alami tanpa memberikan perlakuan tertentu kepada partisipan penelitian. Desain ini sering digunakan dalam penelitian deskriptif, korelasional, maupun survei. Meskipun tidak memungkinkan peneliti menyimpulkan hubungan sebab–akibat secara langsung, desain ini tetap penting untuk memahami pola hubungan antarvariabel dalam kehidupan nyata.
+
+## Metode Pengumpulan Data
+
+Metode pengumpulan data merujuk pada cara atau prosedur yang digunakan peneliti untuk memperoleh informasi yang diperlukan dalam penelitian. Pemilihan metode pengumpulan data harus disesuaikan dengan tujuan penelitian, jenis pertanyaan penelitian, serta pendekatan metodologis yang digunakan. Dalam penelitian psikologi, metode pengumpulan data tidak hanya berbeda dalam teknik yang digunakan, tetapi juga dapat dibedakan berdasarkan sumber data, jenis data yang dihasilkan, serta cara data tersebut diinterpretasikan.
+
+Secara umum, metode pengumpulan data dapat diklasifikasikan ke dalam beberapa kategori berikut.
+
+1.  **Berdasarkan sumber data**
+
+    Klasifikasi ini merujuk pada dari mana data penelitian diperoleh. Sumber data akan memengaruhi tingkat kedekatan peneliti dengan fenomena yang diteliti serta cara data tersebut dikumpulkan.
+
+    a.  **Data primer**
+
+        Data primer adalah data yang diperoleh secara langsung oleh peneliti dari sumber pertama melalui proses pengumpulan data yang dilakukan dalam penelitian tersebut. Data ini biasanya diperoleh melalui wawancara, observasi, eksperimen, atau penggunaan kuesioner dan tes psikologis. Karena dikumpulkan secara langsung oleh peneliti, data primer biasanya lebih spesifik dan relevan dengan tujuan penelitian yang sedang dilakukan.
+
+        Namun, pengumpulan data primer biasanya memerlukan waktu, tenaga, dan biaya yang lebih besar. Peneliti juga harus memastikan bahwa prosedur pengumpulan data dilakukan secara sistematis agar data yang diperoleh memiliki kualitas yang baik.
+
+    b.  **Data sekunder**
+
+        Data sekunder adalah data yang diperoleh dari sumber yang telah tersedia sebelumnya, seperti laporan penelitian, arsip, dokumen resmi, database, atau publikasi ilmiah. Dalam penelitian sosial dan psikologi, data sekunder sering digunakan untuk melengkapi atau mendukung analisis penelitian. Penggunaan data sekunder dapat membantu peneliti memperoleh informasi dalam waktu yang lebih singkat dibandingkan dengan pengumpulan data primer.
+
+        Meskipun demikian, penggunaan data sekunder memiliki keterbatasan karena peneliti tidak memiliki kendali penuh terhadap proses pengumpulan data tersebut. Oleh karena itu, peneliti perlu memastikan bahwa sumber data yang digunakan memiliki kredibilitas dan relevansi dengan tujuan penelitian.
+
+2.  **Berdasarkan jenis data**
+
+    Metode pengumpulan data juga dapat dibedakan berdasarkan jenis data yang dihasilkan dalam penelitian. Dalam penelitian psikologi dan ilmu sosial, data penelitian umumnya diklasifikasikan menjadi data kuantitatif dan data kualitatif.
+
+    a.  **Data kuantitatif**
+
+        Data kuantitatif merupakan data yang dinyatakan dalam bentuk angka atau dapat diukur secara numerik. Data jenis ini biasanya diperoleh melalui instrumen yang terstruktur seperti kuesioner, tes psikologis, atau pengukuran perilaku tertentu. Analisis data kuantitatif umumnya menggunakan teknik statistik untuk menguji hipotesis atau melihat hubungan antarvariabel.
+
+        Keunggulan data kuantitatif adalah kemampuannya memberikan gambaran yang lebih objektif serta memungkinkan generalisasi hasil penelitian pada populasi yang lebih luas. Namun, pendekatan ini terkadang kurang mampu menangkap makna subjektif dari pengalaman individu.
+
+    b.  **Data kualitatif**
+
+        Data kualitatif merupakan data yang berbentuk deskripsi atau narasi yang menggambarkan pengalaman, persepsi, atau makna yang diberikan individu terhadap suatu fenomena. Data ini biasanya diperoleh melalui wawancara mendalam, observasi, atau analisis dokumen. Pendekatan kualitatif memungkinkan peneliti memahami fenomena secara lebih mendalam dalam konteks sosial dan budaya tertentu.
+
+        Meskipun tidak selalu dapat digeneralisasi secara luas, data kualitatif memberikan pemahaman yang kaya mengenai dinamika pengalaman manusia. Oleh karena itu, pendekatan ini sering digunakan ketika tujuan penelitian adalah memahami proses, makna, atau pengalaman subjektif individu.
+
+3.  **Berdasarkan interpretasi data**
+
+    Selain berdasarkan sumber dan jenis data, metode pengumpulan data juga dapat dibedakan berdasarkan cara data tersebut diinterpretasikan. Dalam konteks ini, data dapat diklasifikasikan sebagai data faktual atau non-faktual.
+
+    a.  **Data faktual**
+
+        Data faktual merujuk pada informasi yang menggambarkan kondisi atau peristiwa yang dapat diverifikasi secara langsung. Data ini biasanya berkaitan dengan fakta objektif, seperti usia, tingkat pendidikan, frekuensi perilaku tertentu, atau kejadian yang dapat diamati. Data faktual sering digunakan dalam penelitian yang bertujuan menggambarkan kondisi nyata atau mengukur variabel secara objektif.
+
+        Karena sifatnya yang relatif objektif, data faktual biasanya lebih mudah dianalisis dan dibandingkan antarpartisipan. Namun, data ini tidak selalu mampu menggambarkan makna subjektif yang dimiliki individu terhadap suatu pengalaman.
+
+    b.  **Data non-faktual**
+
+        Data non-faktual merujuk pada informasi yang berkaitan dengan persepsi, sikap, keyakinan, atau interpretasi individu terhadap suatu fenomena. Data jenis ini tidak selalu dapat diverifikasi secara langsung karena berkaitan dengan pengalaman subjektif individu. Dalam penelitian psikologi, data non-faktual sering digunakan untuk memahami sikap, motivasi, atau pandangan individu terhadap suatu objek atau peristiwa.
+
+        Meskipun bersifat subjektif, data non-faktual tetap memiliki nilai penting dalam penelitian psikologi karena membantu peneliti memahami bagaimana individu memaknai pengalaman mereka. Oleh karena itu, pengumpulan data non-faktual biasanya memerlukan metode yang memungkinkan partisipan mengekspresikan pandangan mereka secara lebih bebas, seperti wawancara atau pertanyaan terbuka.
+
+## Teknik Pengumpulan Data
+
+Dalam penelitian psikologi, data dapat diperoleh melalui berbagai teknik pengumpulan data yang disesuaikan dengan tujuan penelitian, desain penelitian, serta karakteristik fenomena yang diteliti. Setiap teknik memiliki cara pelaksanaan, kelebihan, dan keterbatasan yang berbeda dalam menghasilkan informasi mengenai perilaku, pengalaman, atau karakteristik psikologis individu. Oleh karena itu, peneliti perlu memahami berbagai teknik pengumpulan data agar dapat memilih teknik yang paling tepat untuk menjawab pertanyaan penelitian. Beberapa metode pengumpulan data yang umum digunakan antara lain:
+
+-   **Wawancara**, yaitu interaksi antara peneliti dan partisipan untuk memperoleh informasi mengenai pengalaman, persepsi, atau pandangan mereka;
+-   **Observasi**, yaitu pengamatan sistematis terhadap perilaku atau interaksi sosial dalam konteks tertentu;
+-   **Tes dan skala psikologis**, yaitu instrumen yang digunakan untuk mengukur karakteristik psikologis seperti kecerdasan, sikap, atau kepribadian;
+-   **Kuesioner atau survei**, yaitu instrumen tertulis yang berisi serangkaian pertanyaan yang harus dijawab oleh responden.
+
+Pemilihan metode pengumpulan data harus mempertimbangkan kesesuaian dengan tujuan penelitian, karakteristik fenomena yang diteliti, serta pendekatan metodologis yang digunakan. Pembahasan yang lebih mendalam mengenai teknik pengumpulan data akan dijelaskan pada bab-bab selanjutnya dalam buku ini.
