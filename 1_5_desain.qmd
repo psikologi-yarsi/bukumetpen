@@ -17,29 +17,12 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 Desain penelitian merupakan rencana sistematis yang disusun peneliti untuk menjawab pertanyaan penelitian secara terarah dan dapat dipertanggungjawabkan secara ilmiah. Dalam metodologi penelitian, desain penelitian sering dipahami sebagai *framework* atau kerangka kerja yang menggambarkan bagaimana suatu penelitian akan dilaksanakan, mulai dari perumusan masalah hingga analisis data. Dengan adanya desain penelitian, peneliti dapat memastikan bahwa setiap langkah penelitian saling berkaitan dan mendukung tujuan penelitian yang ingin di
 
--   **Menjelaskan pengertian dan fungsi desain penelitian** dalam proses penelitian ilmiah.
-
-<!-- -->
-
--   **Mengidentifikasi berbagai klasifikasi desain penelitian** berdasarkan jumlah kontak dengan partisipan, periode penelitian, sumber investigasi, dan metode penelitian.
-
-<!-- -->
-
--   **Membedakan desain penelitian eksperimental, kuasi-eksperimental, dan non-eksperimental** beserta karakteristik utamanya.
-
-<!-- -->
-
--   **Menjelaskan berbagai metode pengumpulan data** yang umum digunakan dalam penelitian psikologi.
-
-<!-- -->
-
--   **Membedakan metode pengumpulan data berdasarkan sumber data, jenis data, dan interpretasi data.**
-
-<!-- -->
-
--   **Memahami hubungan antara desain penelitian dan strategi pengumpulan data** dalam menjawab pertanyaan penelitian.
-
-i\.
+-   Menjelaskan pengertian dan fungsi desain penelitian dalam proses penelitian ilmiah.
+-   Mengidentifikasi berbagai klasifikasi desain penelitian berdasarkan jumlah kontak dengan partisipan, periode penelitian, sumber investigasi, dan metode penelitian.
+-   Membedakan desain penelitian eksperimental, kuasi-eksperimental, dan non-eksperimental beserta karakteristik utamanya.
+-   Menjelaskan berbagai metode pengumpulan data yang umum digunakan dalam penelitian psikologi.
+-   Membedakan metode pengumpulan data berdasarkan sumber data, jenis data, dan interpretasi data.
+-   Memahami hubungan antara desain penelitian dan strategi pengumpulan data dalam menjawab pertanyaan penelitian.
 
 Creswell dan Creswell (2018) menjelaskan bahwa desain penelitian merupakan rencana yang menghubungkan pertanyaan penelitian dengan prosedur pengumpulan data, teknik analisis data, dan interpretasi hasil penelitian. Desain penelitian tidak hanya menentukan metode apa yang digunakan, tetapi juga bagaimana metode tersebut diterapkan secara sistematis. Oleh karena itu, penyusunan desain penelitian merupakan tahap penting yang menentukan kualitas suatu penelitian.
 
@@ -195,3 +178,23 @@ Dalam penelitian psikologi, data dapat diperoleh melalui berbagai teknik pengump
 -   **Kuesioner atau survei**, yaitu instrumen tertulis yang berisi serangkaian pertanyaan yang harus dijawab oleh responden.
 
 Pemilihan metode pengumpulan data harus mempertimbangkan kesesuaian dengan tujuan penelitian, karakteristik fenomena yang diteliti, serta pendekatan metodologis yang digunakan. Pembahasan yang lebih mendalam mengenai teknik pengumpulan data akan dijelaskan pada bab-bab selanjutnya dalam buku ini.
+
+::: callout-tip
+## Rangkuman
+
+-   Desain penelitian merupakan rencana sistematis yang mengarahkan proses penelitian untuk menjawab pertanyaan penelitian secara valid dan terstruktur.
+-   Desain penelitian dapat diklasifikasikan berdasarkan jumlah kontak dengan partisipan, periode penelitian, dan perlakuan terhadap variabel penelitian.
+-   Metode pengumpulan data merujuk pada cara yang digunakan peneliti untuk memperoleh data yang diperlukan dalam penelitian.
+-   Data penelitian dapat diklasifikasikan berdasarkan sumber data (primer dan sekunder), jenis data (kuantitatif dan kualitatif), serta interpretasi data (faktual dan non-faktual).
+-   Dalam penelitian psikologi, beberapa teknik pengumpulan data yang sering digunakan antara lain wawancara, observasi, tes atau skala psikologis, serta kuesioner atau survei.
+:::
+
+::: callout-important
+## Refleksi & Diskusi
+
+-   Mengapa desain penelitian perlu dirancang sebelum proses pengumpulan data dilakukan?
+-   Dalam situasi apa peneliti lebih tepat menggunakan desain eksperimental dibandingkan desain non-eksperimental?
+-   Apa perbedaan utama antara data primer dan data sekunder, serta apa kelebihan dan keterbatasan masing-masing?
+-   Mengapa pemilihan teknik pengumpulan data harus disesuaikan dengan tujuan penelitian?
+-   Menurut Anda, dalam penelitian psikologi kapan wawancara lebih tepat digunakan dibandingkan kuesioner?
+:::

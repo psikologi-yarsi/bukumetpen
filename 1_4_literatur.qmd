@@ -1,5 +1,20 @@
 # Tinjauan Literatur dan Pengembangan Kerangka Teoretis
 
+::: callout-note
+## Capaian Pembelajaran
+
+Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
+
+1.  Menjelaskan pengertian tinjauan literatur serta perannya dalam proses penelitian ilmiah.
+2.  Menjelaskan tujuan tinjauan literatur dalam membangun landasan teoretis penelitian.
+3.  Mengidentifikasi berbagai jenis sumber literatur ilmiah yang relevan dengan topik penelitian.
+4.  Menilai kualitas sumber pustaka berdasarkan relevansi, kemutakhiran, dan kredibilitas ilmiahnya.
+5.  Menggunakan strategi penelusuran literatur secara sistematis, seperti backward referencing dan forward referencing.
+6.  Memahami prinsip etika akademik dalam penggunaan sumber literatur dan penulisan kutipan.
+7.  Mengintegrasikan teori dan temuan penelitian sebelumnya dalam suatu kerangka teoretis.
+8.  Mengembangkan model konseptual penelitian yang menjelaskan hubungan antar variabel.
+:::
+
 ## Pengertian Tinjauan Literatur
 
 Dalam penelitian ilmiah, peneliti tidak memulai penelitian dari ruang kosong. Sebaliknya, penelitian selalu dibangun di atas pengetahuan yang telah dikembangkan oleh para peneliti sebelumnya. Oleh karena itu, salah satu tahap penting dalam proses penelitian adalah melakukan tinjauan literatur atau tinjauan pustaka.
@@ -153,3 +168,30 @@ Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi penting.
     Kerangka teoretis juga menjadi dasar bagi perumusan hipotesis penelitian. Hipotesis merupakan pernyataan mengenai hubungan yang diperkirakan terjadi antara dua atau lebih variabel yang dapat diuji secara empiris.
 
     Menurut Neuman (2014), hipotesis yang baik harus memiliki dasar teoritis yang jelas. Artinya, hubungan antar variabel yang diajukan dalam hipotesis harus dapat dijelaskan melalui teori atau temuan penelitian sebelumnya.
+
+::: callout-tip
+## Rangkuman
+
+1.  Tinjauan literatur merupakan proses sistematis untuk menelaah teori, konsep, dan temuan penelitian sebelumnya yang relevan dengan topik penelitian.
+2.  Tinjauan literatur membantu peneliti memahami perkembangan pengetahuan dalam suatu bidang serta mengidentifikasi kesenjangan penelitian.
+3.  Sumber literatur dapat berasal dari berbagai publikasi ilmiah, seperti buku teks, artikel jurnal, laporan penelitian, tesis, disertasi, dan prosiding konferensi.
+4.  Pemilihan sumber pustaka perlu mempertimbangkan relevansi dengan topik penelitian, kemutakhiran sumber, serta kualitas ilmiah publikasi.
+5.  Penelusuran literatur dapat dilakukan melalui berbagai strategi, antara lain menelusuri daftar pustaka dari sumber penting (*backward referencing*) dan mencari penelitian yang mengutip sumber tersebut (*forward referencing*).
+6.  Penggunaan literatur dalam karya ilmiah harus mengikuti prinsip etika akademik, termasuk mencantumkan sumber kutipan secara tepat untuk menghindari plagiarisme.
+7.  Kerangka teoretis merupakan struktur konseptual yang menjelaskan hubungan antar konsep atau variabel dalam penelitian.
+8.  Kerangka teoretis dibangun dengan mengintegrasikan teori dan temuan penelitian sebelumnya untuk menjelaskan fenomena yang diteliti.
+9.  Kerangka teoretis menjadi dasar bagi pengembangan model konseptual penelitian serta perumusan hipotesis.
+:::
+
+::: callout-important
+## Refleksi & DIskusi
+
+-   Mengapa tinjauan literatur menjadi bagian penting dalam penyusunan proposal atau laporan penelitian?
+-   Apa perbedaan fungsi buku teks dan artikel jurnal ilmiah dalam penyusunan tinjauan literatur?
+-   Bagaimana cara menentukan apakah suatu sumber literatur cukup kredibel untuk dijadikan referensi penelitian?
+-   Mengapa peneliti perlu menggunakan sumber pustaka yang relatif mutakhir dalam penelitian ilmiah?
+-   Bagaimana strategi yang dapat digunakan untuk menemukan literatur yang relevan dengan topik penelitian?
+-   Mengapa pengutipan yang tepat penting dalam menjaga integritas akademik dalam penelitian?
+-   Bagaimana teori membantu peneliti menjelaskan hubungan antar variabel dalam suatu penelitian?
+-   Pilih satu topik penelitian psikologi, lalu diskusikan teori apa saja yang dapat digunakan sebagai dasar penyusunan kerangka teoretis penelitian tersebut.
+:::
