@@ -1,0 +1,155 @@
+# Tinjauan Literatur dan Pengembangan Kerangka Teoretis
+
+## Pengertian Tinjauan Literatur
+
+Dalam penelitian ilmiah, peneliti tidak memulai penelitian dari ruang kosong. Sebaliknya, penelitian selalu dibangun di atas pengetahuan yang telah dikembangkan oleh para peneliti sebelumnya. Oleh karena itu, salah satu tahap penting dalam proses penelitian adalah melakukan tinjauan literatur atau tinjauan pustaka.
+
+Tinjauan literatur merupakan proses sistematis untuk mengidentifikasi, mengevaluasi, dan mensintesis berbagai sumber ilmiah yang relevan dengan topik penelitian. Melalui proses ini, peneliti dapat memahami perkembangan teori, temuan empiris, serta pendekatan metodologis yang telah digunakan dalam penelitian sebelumnya.
+
+Secara umum, tujuan utama tinjauan literatur adalah untuk menemukan konsep, teori, atau generalisasi yang dapat dijadikan landasan teoretis bagi penelitian yang akan dilakukan. Selain itu, tinjauan literatur juga membantu peneliti menemukan metode penelitian yang tepat serta memperluas pemahaman mengenai fenomena yang diteliti.
+
+Menurut Creswell dan Creswell (2018), tinjauan literatur memiliki beberapa fungsi penting dalam penelitian, antara lain:
+
+1.  Menunjukkan bahwa peneliti memahami perkembangan pengetahuan pada bidang yang diteliti.
+2.  Mengidentifikasi kesenjangan penelitian (research gap).
+3.  Memberikan dasar konseptual bagi pengembangan hipotesis atau pertanyaan penelitian.
+4.  Menjelaskan bagaimana penelitian yang dilakukan berkontribusi pada pengembangan ilmu pengetahuan.
+
+Dengan demikian, tinjauan literatur tidak sekadar menjadi kumpulan ringkasan penelitian terdahulu, tetapi merupakan analisis kritis yang membantu membangun kerangka berpikir penelitian.
+
+## Tujuan Tinjauan Literatur dalam Penelitian
+
+Dalam penelitian ilmiah, tinjauan literatur memiliki beberapa tujuan utama, yaitu:
+
+1.  Menyusun landasan teori penelitian
+
+    Penelitian membutuhkan kerangka konseptual yang jelas untuk menjelaskan hubungan antar variabel yang diteliti. Melalui tinjauan literatur, peneliti dapat menemukan teori-teori yang relevan untuk menjelaskan fenomena yang sedang diteliti.
+
+    Sebagai contoh, penelitian mengenai motivasi belajar dapat menggunakan teori self-determination dari Deci dan Ryan (2000) sebagai landasan untuk memahami bagaimana kebutuhan psikologis memengaruhi motivasi individu.
+
+2.  Mengidentifikasi temuan penelitian sebelumnya
+
+    Tinjauan literatur membantu peneliti mengetahui apa saja yang telah ditemukan oleh penelitian sebelumnya. Hal ini penting untuk menghindari duplikasi penelitian serta membantu peneliti memahami pola temuan yang telah ada. Menurut Hart (2018), tinjauan literatur yang baik mampu menunjukkan konsistensi maupun perbedaan temuan antar penelitian.
+
+3.  Menentukan pendekatan metodologis yang sesuai
+
+    Selain teori, peneliti juga dapat mempelajari metode yang digunakan dalam penelitian sebelumnya. Informasi ini membantu peneliti memilih desain penelitian, instrumen pengukuran, dan teknik analisis data yang paling tepat.
+
+4.  Memperluas pemahaman terhadap fenomena penelitian
+
+    Melalui berbagai sumber ilmiah, peneliti dapat memperoleh pemahaman yang lebih luas tentang konteks sosial, budaya, maupun psikologis dari fenomena yang diteliti.
+
+Dengan demikian, tinjauan literatur berfungsi sebagai fondasi ilmiah yang memperkuat argumen dan rasionalitas penelitian.
+
+## Sumber-sumber Literatur Ilmiah
+
+Sumber pustaka dalam penelitian dapat dibedakan menjadi dua kategori utama, yaitu sumber acuan umum dan sumber acuan khusus.
+
+1.  Sumber acuan umum
+
+    Sumber acuan umum biasanya digunakan untuk memahami konsep dasar atau teori yang bersifat umum. Contoh sumber acuan umum antara lain:
+
+    -   Buku teks akademik
+    -   Ensiklopedia ilmiah
+    -   *Handbook* dalam bidang ilmu tertentu
+
+    Sumber ini umumnya memberikan gambaran konseptual yang luas mengenai suatu topik penelitian.
+
+2.  Sumber acuan khusus
+
+    Sumber acuan khusus biasanya berisi hasil penelitian yang lebih spesifik dan mutakhir. Beberapa contoh sumber acuan khusus antara lain:
+
+    -   Artikel jurnal ilmiah
+    -   Disertasi atau tesis
+    -   Laporan penelitian
+    -   Prosiding konferensi ilmiah
+    -   Makalah seminar
+    -   Basis data ilmiah di internet
+
+Dalam penelitian ilmiah, artikel jurnal umumnya dianggap sebagai sumber referensi yang paling penting karena memuat temuan penelitian terbaru yang telah melalui proses peer review.
+
+## Kriteria Sumber Literatur yang Baik
+
+Tidak semua sumber bacaan dapat dijadikan rujukan dalam penelitian ilmiah. Oleh karena itu, peneliti perlu mempertimbangkan beberapa kriteria ketika memilih sumber literatur.
+
+1.  Relevansi
+
+    Sumber literatur harus berkaitan langsung dengan topik penelitian yang sedang dikaji. Literatur yang tidak relevan hanya akan memperluas pembahasan tanpa memberikan kontribusi substantif.
+
+2.  Kemutakhiran
+
+    Dalam banyak bidang ilmu, terutama psikologi dan ilmu sosial, pengetahuan terus berkembang. Oleh karena itu, peneliti dianjurkan menggunakan sumber yang relatif mutakhir agar penelitian mencerminkan perkembangan terbaru dalam bidang tersebut.
+
+3.  Kredibilitas ilmiah
+
+    Sumber literatur harus berasal dari publikasi ilmiah yang memiliki reputasi baik, seperti jurnal akademik yang terindeks atau penerbit akademik yang terpercaya.
+
+Perlu diingat bahwa kualitas penelitian tidak ditentukan oleh banyaknya jumlah referensi yang digunakan, melainkan oleh relevansi dan kualitas referensi tersebut.
+
+## Strategi Menelusuri Literatur
+
+Menemukan literatur yang relevan merupakan keterampilan penting bagi seorang peneliti. Terdapat beberapa strategi yang dapat digunakan untuk menelusuri literatur ilmiah.
+
+1.  *Backward referencing*
+
+    *Backward referencing* dilakukan dengan menelusuri daftar pustaka dari artikel atau buku yang dianggap penting. Dengan cara ini, peneliti dapat menemukan sumber-sumber yang menjadi dasar bagi penelitian tersebut. Strategi ini membantu peneliti memahami perkembangan awal suatu konsep atau teori.
+
+2.  *Forward referencing*
+
+    *Forward referencing* dilakukan dengan mencari artikel-artikel yang mengutip suatu karya ilmiah tertentu. Cara ini membantu peneliti mengetahui bagaimana suatu teori atau temuan penelitian berkembang dari waktu ke waktu. Saat ini, proses *forward referencing* dapat dilakukan dengan mudah melalui berbagai basis data ilmiah seperti Google Scholar atau Scopus.
+
+Kombinasi kedua strategi ini memungkinkan peneliti memperoleh gambaran yang lebih komprehensif mengenai perkembangan penelitian pada suatu topik.
+
+## Etika Penggunaan Literatur dan Pengutipan
+
+Dalam penulisan karya ilmiah, penggunaan sumber literatur harus mengikuti prinsip etika akademik. Setiap gagasan, teori, atau data yang berasal dari sumber lain harus disertai dengan kutipan yang jelas.
+
+Kutipan merupakan cara untuk memberi informasi kepada pembaca bahwa sebagian gagasan dalam tulisan berasal dari karya ilmiah sebelumnya. Selain itu, pengutipan juga berfungsi untuk:
+
+1.  Menghargai karya ilmiah peneliti lain
+2.  Menunjukkan dasar ilmiah dari argumentasi peneliti
+3.  Memberikan kesempatan kepada pembaca untuk menelusuri sumber asli
+4.  Menjaga integritas dan kejujuran akademik
+
+Dalam psikologi, gaya penulisan kutipan yang paling banyak digunakan adalah gaya American Psychological Association (APA). Format kutipan biasanya ditulis dalam bentuk:
+
+-   **Kutipan naratif**: penulis menjadi bagian dari kalimat. Contoh: Bandura (1986) menyatakan bahwa pembelajaran sosial terjadi melalui proses observasi.
+-   **Kutipan dalam tanda kurung**: penulis ditulis dalam kurung. Contoh: Pembelajaran sosial dapat terjadi melalui observasi terhadap perilaku orang lain (Bandura, 1986).
+
+Peneliti harus memastikan bahwa setiap sumber yang dikutip dalam teks tercantum dalam daftar pustaka.
+
+## Pengembangan Kerangka Teoretis
+
+Kerangka teoretis merupakan struktur konseptual yang menjelaskan hubungan antara konsep atau variabel utama dalam suatu penelitian. Kerangka ini dibangun berdasarkan teori-teori yang relevan serta temuan empiris dari penelitian sebelumnya. Dengan demikian, kerangka teoretis berfungsi sebagai landasan logis yang menjelaskan mengapa suatu variabel diperkirakan berhubungan dengan variabel lainnya.
+
+Dalam ilmu pengetahuan, teori berperan penting dalam menjelaskan fenomena yang diamati. Kerlinger dan Lee (2000) mendefinisikan teori sebagai *“a set of interrelated constructs (concepts), definitions, and propositions that present a systematic view of phenomena by specifying relations among variables”*. Definisi ini menegaskan bahwa teori menyediakan penjelasan sistematis mengenai hubungan antar variabel yang dapat digunakan untuk memahami dan memprediksi fenomena tertentu.
+
+Kerangka teoretis dalam penelitian pada dasarnya merupakan penerapan teori tersebut untuk menjelaskan fenomena yang menjadi fokus penelitian. Menurut Creswell dan Creswell (2018), kerangka teoretis memberikan dasar konseptual yang membantu peneliti menjelaskan hubungan antar variabel, sekaligus menjadi pijakan dalam merumuskan hipotesis penelitian.
+
+Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi penting.
+
+1.  Menjelaskan fenomena penelitian secara konseptual
+
+    Kerangka teoretis membantu peneliti memahami fenomena penelitian melalui perspektif teori tertentu. Melalui teori, peneliti dapat menjelaskan mekanisme psikologis yang mendasari suatu perilaku atau pengalaman manusia.
+
+    Sebagai contoh, penelitian mengenai perilaku prososial sering dijelaskan melalui teori empati. Batson (2011) menyatakan bahwa empati terhadap penderitaan orang lain dapat memunculkan motivasi altruistik untuk membantu individu tersebut. Dengan menggunakan teori tersebut, peneliti dapat menjelaskan mengapa empati diperkirakan berhubungan dengan perilaku menolong.
+
+2.  Mengidentifikasi variabel penelitian yang relevan
+
+    Teori juga membantu peneliti menentukan variabel-variabel yang penting dalam menjelaskan fenomena yang diteliti. Variabel penelitian biasanya berasal dari konsep-konsep yang terdapat dalam teori.
+
+    Misalnya, dalam penelitian mengenai stres kerja, teori *Job Demand–Resources Model* menjelaskan bahwa kesejahteraan karyawan dipengaruhi oleh tuntutan pekerjaan (job demands) dan sumber daya pekerjaan (job resources). Tuntutan pekerjaan yang tinggi dapat meningkatkan stres, sementara sumber daya seperti dukungan sosial atau otonomi kerja dapat mengurangi dampak negatif tersebut (Bakker & Demerouti, 2007).
+
+    Dengan merujuk pada teori tersebut, peneliti dapat menentukan variabel-variabel penelitian seperti tuntutan kerja, dukungan sosial, dan kesejahteraan psikologis.
+
+3.  Menjelaskan hubungan antar variabel
+
+    Selain membantu menentukan variabel penelitian, teori juga memberikan penjelasan mengenai hubungan antar variabel tersebut. Hubungan ini tidak hanya didasarkan pada asumsi peneliti, tetapi pada argumentasi teoretis yang didukung oleh penelitian sebelumnya.
+
+    Ridley (2012) menyatakan bahwa tinjauan literatur yang baik tidak hanya merangkum penelitian sebelumnya, tetapi juga mengintegrasikan berbagai temuan tersebut untuk membangun argumen yang logis mengenai hubungan antar variabel. Oleh karena itu, kerangka teoretis harus mampu menunjukkan bagaimana teori dan penelitian sebelumnya saling mendukung dalam menjelaskan fenomena yang diteliti.
+
+4.  Menjadi dasar bagi pengembangan hipotesis penelitian
+
+    Kerangka teoretis juga menjadi dasar bagi perumusan hipotesis penelitian. Hipotesis merupakan pernyataan mengenai hubungan yang diperkirakan terjadi antara dua atau lebih variabel yang dapat diuji secara empiris.
+
+    Menurut Neuman (2014), hipotesis yang baik harus memiliki dasar teoritis yang jelas. Artinya, hubungan antar variabel yang diajukan dalam hipotesis harus dapat dijelaskan melalui teori atau temuan penelitian sebelumnya.
