@@ -1,3 +1,13 @@
+---
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
 # Hakikat Penelitian Ilmiah dalam Psikologi
 
 ::: callout-note
@@ -14,15 +24,15 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ## Hakikat Penelitian Ilmiah
 
-Penelitian ilmiah merupakan proses sistematis yang bertujuan untuk memperoleh pengetahuan baru melalui penerapan metode ilmiah. Proses ini melibatkan identifikasi masalah, perumusan pertanyaan, pengumpulan data, serta interpretasi hasil berdasarkan prosedur yang dapat diuji dan direplikasi (Babbie, 2021; Creswell & Creswell, 2018). Dalam psikologi, penelitian menjadi sarana utama untuk membedakan klaim berbasis bukti dari sekadar opini atau intuisi.
+Penelitian ilmiah merupakan proses sistematis yang bertujuan untuk memperoleh pengetahuan baru melalui penerapan metode ilmiah. Proses ini melibatkan identifikasi masalah, perumusan pertanyaan, pengumpulan data, serta interpretasi hasil berdasarkan prosedur yang dapat diuji dan direplikasi [@Babbie2021; @Creswell2018]. Dalam psikologi, penelitian menjadi sarana utama untuk membedakan klaim berbasis bukti dari sekadar opini atau intuisi.
 
-Kerlinger dan Lee (2000) menekankan bahwa penelitian ilmiah adalah penyelidikan terkontrol, empiris, dan kritis terhadap proposisi hipotetis mengenai hubungan antarvariabel. Artinya, penelitian tidak hanya bertanya “apa yang terjadi”, tetapi juga “mengapa hal tersebut terjadi” dan “bagaimana hubungan antarvariabel dapat dijelaskan secara sistematis”. Dalam konteks psikologi, penelitian membantu menjelaskan dinamika perilaku, emosi, dan kognisi secara lebih terstruktur.
+@Kerlinger2000 menekankan bahwa penelitian ilmiah adalah penyelidikan terkontrol, empiris, dan kritis terhadap proposisi hipotetis mengenai hubungan antarvariabel. Artinya, penelitian tidak hanya bertanya “apa yang terjadi”, tetapi juga “mengapa hal tersebut terjadi” dan “bagaimana hubungan antarvariabel dapat dijelaskan secara sistematis”. Dalam konteks psikologi, penelitian membantu menjelaskan dinamika perilaku, emosi, dan kognisi secara lebih terstruktur.
 
-Selain itu, penelitian ilmiah bersifat kumulatif dan terbuka terhadap koreksi. Setiap temuan baru dapat memperkuat, memodifikasi, atau bahkan membantah teori yang telah ada sebelumnya (Popper, 2002). Dengan demikian, penelitian bukanlah upaya mencari kebenaran absolut, melainkan proses berkelanjutan dalam mendekati pemahaman yang lebih akurat mengenai fenomena psikologis.
+Selain itu, penelitian ilmiah bersifat kumulatif dan terbuka terhadap koreksi. Setiap temuan baru dapat memperkuat, memodifikasi, atau bahkan membantah teori yang telah ada sebelumnya [@Popper2005]. Dengan demikian, penelitian bukanlah upaya mencari kebenaran absolut, melainkan proses berkelanjutan dalam mendekati pemahaman yang lebih akurat mengenai fenomena psikologis.
 
 ## Tujuan Penelitian Ilmiah
 
-Penelitian ilmiah dalam psikologi memiliki beberapa tujuan yang berbeda tetapi saling berkaitan. Tujuan-tujuan ini mencerminkan tahapan perkembangan pengetahuan ilmiah dari pemahaman awal hingga aplikasi praktis (Bordens & Abbott, 2018; Gravetter & Forzano, 2018).
+Penelitian ilmiah dalam psikologi memiliki beberapa tujuan yang berbeda tetapi saling berkaitan. Tujuan-tujuan ini mencerminkan tahapan perkembangan pengetahuan ilmiah dari pemahaman awal hingga aplikasi praktis [@Bordens2018; @Gravetter2018].
 
 ### Eksplorasi
 
@@ -32,31 +42,31 @@ Sebagai contoh, ketika media sosial mulai berkembang pesat, banyak penelitian aw
 
 ### Deskripsi
 
-Penelitian deskriptif bertujuan menggambarkan karakteristik suatu fenomena secara sistematis dan akurat. Fokusnya adalah menjawab pertanyaan “bagaimana kondisi yang ada saat ini” tanpa menguji hubungan sebab-akibat (Neuman, 2014). Penelitian deskriptif sering digunakan untuk memetakan prevalensi, distribusi, atau pola perilaku dalam populasi tertentu.
+Penelitian deskriptif bertujuan menggambarkan karakteristik suatu fenomena secara sistematis dan akurat. Fokusnya adalah menjawab pertanyaan “bagaimana kondisi yang ada saat ini” tanpa menguji hubungan sebab-akibat [@Neuman2014]. Penelitian deskriptif sering digunakan untuk memetakan prevalensi, distribusi, atau pola perilaku dalam populasi tertentu.
 
 Misalnya, penelitian yang menggambarkan tingkat kecemasan mahasiswa selama pandemi memberikan gambaran umum kondisi psikologis kelompok tersebut. Meskipun tidak menjelaskan penyebab kecemasan, penelitian deskriptif memberikan data dasar yang sangat penting untuk perumusan kebijakan atau penelitian lanjutan. Dengan demikian, deskripsi merupakan tahap penting dalam membangun pemahaman empiris.
 
 ### Prediksi
 
-Tujuan prediktif dalam penelitian berkaitan dengan kemampuan untuk memperkirakan suatu variabel berdasarkan variabel lain. Penelitian jenis ini biasanya menggunakan pendekatan korelasional untuk mengidentifikasi kekuatan hubungan antarvariabel (Gravetter & Forzano, 2018). Prediksi memiliki nilai praktis yang tinggi, terutama dalam konteks asesmen dan intervensi psikologis.
+Tujuan prediktif dalam penelitian berkaitan dengan kemampuan untuk memperkirakan suatu variabel berdasarkan variabel lain. Penelitian jenis ini biasanya menggunakan pendekatan korelasional untuk mengidentifikasi kekuatan hubungan antarvariabel [@Gravetter2018]. Prediksi memiliki nilai praktis yang tinggi, terutama dalam konteks asesmen dan intervensi psikologis.
 
 Sebagai contoh, skor motivasi belajar dapat digunakan untuk memprediksi prestasi akademik mahasiswa. Meskipun prediksi tidak selalu menunjukkan hubungan sebab-akibat, informasi tersebut tetap bermanfaat dalam praktik pendidikan. Penelitian prediktif membantu pengambilan keputusan berbasis data yang lebih rasional.
 
 ### Eksplanasi
 
-Penelitian eksplanatori bertujuan menjelaskan hubungan sebab-akibat antarvariabel. Untuk mencapai tujuan ini, peneliti harus mengontrol variabel luar dan memanipulasi variabel independen secara sistematis (Shadish, Cook, & Campbell, 2002). Penelitian eksperimen merupakan pendekatan yang paling umum digunakan untuk tujuan eksplanasi.
+Penelitian eksplanatori bertujuan menjelaskan hubungan sebab-akibat antarvariabel. Untuk mencapai tujuan ini, peneliti harus mengontrol variabel luar dan memanipulasi variabel independen secara sistematis [@Shadish2002]. Penelitian eksperimen merupakan pendekatan yang paling umum digunakan untuk tujuan eksplanasi.
 
 Sebagai contoh, untuk mengetahui apakah metode pembelajaran tertentu meningkatkan motivasi belajar, peneliti perlu membandingkan kelompok yang menerima perlakuan dengan kelompok kontrol. Dengan kontrol yang memadai, peneliti dapat menarik kesimpulan mengenai hubungan kausal. Eksplanasi memberikan kontribusi penting terhadap pengembangan teori psikologi.
 
 ### Intervensi
 
-Tujuan intervensi berkaitan dengan upaya menciptakan perubahan yang terencana melalui penerapan strategi tertentu. Penelitian intervensi sering dilakukan dalam konteks klinis, pendidikan, maupun organisasi untuk menguji efektivitas program tertentu (Kazdin, 2017). Tujuan ini menunjukkan bahwa penelitian psikologi tidak hanya bersifat deskriptif, tetapi juga transformatif.
+Tujuan intervensi berkaitan dengan upaya menciptakan perubahan yang terencana melalui penerapan strategi tertentu. Penelitian intervensi sering dilakukan dalam konteks klinis, pendidikan, maupun organisasi untuk menguji efektivitas program tertentu [@Kazdin2024]. Tujuan ini menunjukkan bahwa penelitian psikologi tidak hanya bersifat deskriptif, tetapi juga transformatif.
 
 Sebagai contoh, penelitian mengenai efektivitas terapi kognitif-perilaku dalam mengurangi gejala depresi bertujuan memastikan bahwa intervensi tersebut benar-benar memberikan manfaat. Hasil penelitian semacam ini menjadi dasar praktik berbasis bukti (*evidence-based practice*). Dengan demikian, penelitian intervensi menghubungkan teori dengan praktik nyata.
 
 ## Jenis-Jenis Penelitian
 
-Penelitian dapat diklasifikasikan berdasarkan berbagai kriteria, termasuk tujuan, pendekatan, waktu pengumpulan data, dan desain metodologis. Klasifikasi ini membantu peneliti memilih strategi yang sesuai dengan pertanyaan penelitian (Creswell & Creswell, 2018; Neuman, 2014).
+Penelitian dapat diklasifikasikan berdasarkan berbagai kriteria, termasuk tujuan, pendekatan, waktu pengumpulan data, dan desain metodologis. Klasifikasi ini membantu peneliti memilih strategi yang sesuai dengan pertanyaan penelitian [@Creswell2018; @Neuman2014].
 
 ### Deskriptif vs. Analitis
 
@@ -64,21 +74,21 @@ Penelitian deskriptif berfokus pada penggambaran fenomena, sedangkan penelitian 
 
 ### Terapan vs. Fundamental
 
-Penelitian fundamental bertujuan memperluas pemahaman teoretis tanpa mempertimbangkan aplikasi langsung. Sebaliknya, penelitian terapan berfokus pada penyelesaian masalah praktis yang dihadapi masyarakat (Bordens & Abbott, 2018). Kedua jenis penelitian ini saling melengkapi dalam perkembangan ilmu psikologi.
+Penelitian fundamental bertujuan memperluas pemahaman teoretis tanpa mempertimbangkan aplikasi langsung. Sebaliknya, penelitian terapan berfokus pada penyelesaian masalah praktis yang dihadapi masyarakat [@Bordens2018]. Kedua jenis penelitian ini saling melengkapi dalam perkembangan ilmu psikologi.
 
 ### Kuantitatif vs. Kualitatif
 
-Penelitian kuantitatif berakar pada paradigma positivisme yang menekankan objektivitas, pengukuran numerik, dan pengujian hipotesis (Creswell & Creswell, 2018). Pendekatan ini biasanya menggunakan desain terstruktur, instrumen terstandar, dan sampel besar untuk memungkinkan generalisasi.
+Penelitian kuantitatif berakar pada paradigma positivisme yang menekankan objektivitas, pengukuran numerik, dan pengujian hipotesis [@Creswell2018]. Pendekatan ini biasanya menggunakan desain terstruktur, instrumen terstandar, dan sampel besar untuk memungkinkan generalisasi.
 
-Sebaliknya, penelitian kualitatif berakar pada paradigma konstruktivisme yang menekankan pemahaman makna subjektif dan konteks sosial (Denzin & Lincoln, 2018). Pendekatan ini menggunakan data berupa teks, wawancara, atau observasi mendalam untuk memahami pengalaman partisipan secara holistik.
+Sebaliknya, penelitian kualitatif berakar pada paradigma konstruktivisme yang menekankan pemahaman makna subjektif dan konteks sosial [@Denzin2018]. Pendekatan ini menggunakan data berupa teks, wawancara, atau observasi mendalam untuk memahami pengalaman partisipan secara holistik.
 
 ### Eksperimental vs. Noneksperimental
 
-Penelitian eksperimental melibatkan manipulasi variabel independen dan kontrol terhadap variabel luar untuk menguji hubungan sebab-akibat (Shadish et al., 2002). Penelitian noneksperimental, seperti survei atau studi korelasional, tidak melibatkan manipulasi variabel tetapi tetap memberikan informasi penting mengenai hubungan antarvariabel.
+Penelitian eksperimental melibatkan manipulasi variabel independen dan kontrol terhadap variabel luar untuk menguji hubungan sebab-akibat [@Shadish2002]. Penelitian noneksperimental, seperti survei atau studi korelasional, tidak melibatkan manipulasi variabel tetapi tetap memberikan informasi penting mengenai hubungan antarvariabel.
 
 ## Siklus Proses Penelitian
 
-Penelitian ilmiah merupakan proses siklik yang melibatkan tahapan yang saling berkaitan. Proses ini dimulai dari identifikasi masalah dan berlanjut hingga interpretasi serta evaluasi hasil (Babbie, 2021). Setiap tahap memengaruhi tahap berikutnya, sehingga penelitian bukanlah prosedur linear yang kaku.
+Penelitian ilmiah merupakan proses siklik yang melibatkan tahapan yang saling berkaitan. Proses ini dimulai dari identifikasi masalah dan berlanjut hingga interpretasi serta evaluasi hasil [@Babbie2021]. Setiap tahap memengaruhi tahap berikutnya, sehingga penelitian bukanlah prosedur linear yang kaku.
 
 Tinjauan literatur menjadi tahap penting dalam proses ini karena membantu peneliti memahami posisi penelitiannya dalam konteks ilmu yang lebih luas. Setelah itu, peneliti merancang desain penelitian, mengumpulkan data, dan melakukan analisis. Hasil penelitian kemudian diinterpretasikan dalam kaitannya dengan teori dan penelitian sebelumnya.
 
@@ -96,31 +106,31 @@ Tahapan umum dalam proses penelitian meliputi:
 
 ## Elemen Penelitian Ilmiah
 
-Penelitian ilmiah memiliki struktur yang sistematis dan terstandar. Struktur ini tidak sekadar format penulisan, tetapi mencerminkan logika berpikir ilmiah yang transparan dan dapat diuji (American Psychological Association \[APA\], 2020). Setiap elemen dalam laporan penelitian memiliki fungsi epistemologis tertentu dalam membangun pengetahuan yang dapat dipertanggungjawabkan.
+Penelitian ilmiah memiliki struktur yang sistematis dan terstandar. Struktur ini tidak sekadar format penulisan, tetapi mencerminkan logika berpikir ilmiah yang transparan dan dapat diuji [@AmericanPsychologicalAssociation2020]. Setiap elemen dalam laporan penelitian memiliki fungsi epistemologis tertentu dalam membangun pengetahuan yang dapat dipertanggungjawabkan.
 
 ### Pendahuluan
 
-Pendahuluan menjelaskan latar belakang masalah, konteks fenomena, serta alasan pentingnya penelitian dilakukan. Bagian ini membangun argumentasi ilmiah yang mengarah pada pertanyaan penelitian yang spesifik (Creswell & Creswell, 2018). Dalam psikologi, pendahuluan biasanya menunjukkan kesenjangan antara fenomena empiris dan penjelasan teoretis yang tersedia.
+Pendahuluan menjelaskan latar belakang masalah, konteks fenomena, serta alasan pentingnya penelitian dilakukan. Bagian ini membangun argumentasi ilmiah yang mengarah pada pertanyaan penelitian yang spesifik [@Creswell2018]. Dalam psikologi, pendahuluan biasanya menunjukkan kesenjangan antara fenomena empiris dan penjelasan teoretis yang tersedia.
 
 ### Tinjauan Literatur
 
-Tinjauan literatur menempatkan penelitian dalam tradisi ilmiah yang telah ada. Bagian ini menyajikan teori dan temuan terdahulu secara kritis untuk menunjukkan posisi penelitian yang sedang dilakukan (Neuman, 2014). Tujuannya adalah mengidentifikasi kesenjangan atau inkonsistensi yang menjadi dasar penelitian baru.
+Tinjauan literatur menempatkan penelitian dalam tradisi ilmiah yang telah ada. Bagian ini menyajikan teori dan temuan terdahulu secara kritis untuk menunjukkan posisi penelitian yang sedang dilakukan [@Neuman2014]. Tujuannya adalah mengidentifikasi kesenjangan atau inkonsistensi yang menjadi dasar penelitian baru.
 
 ### Rumusan Masalah dan Hipotesis
 
-Rumusan masalah mengarahkan fokus penelitian agar jelas dan terukur. Dalam penelitian kuantitatif, rumusan masalah biasanya diterjemahkan menjadi hipotesis yang dapat diuji secara empiris (Kerlinger & Lee, 2000). Pada penelitian kualitatif, rumusan masalah lebih berbentuk pertanyaan terbuka yang mengarahkan eksplorasi makna.
+Rumusan masalah mengarahkan fokus penelitian agar jelas dan terukur. Dalam penelitian kuantitatif, rumusan masalah biasanya diterjemahkan menjadi hipotesis yang dapat diuji secara empiris [@Kerlinger2000]. Pada penelitian kualitatif, rumusan masalah lebih berbentuk pertanyaan terbuka yang mengarahkan eksplorasi makna.
 
 ### Metode Penelitian
 
-Bagian metode menjelaskan desain, partisipan, instrumen, prosedur, dan teknik analisis data. Transparansi dalam metode memungkinkan penelitian direplikasi oleh peneliti lain (Gravetter & Forzano, 2018). Bagian ini menjawab pertanyaan bagaimana pengetahuan diperoleh secara sistematis.
+Bagian metode menjelaskan desain, partisipan, instrumen, prosedur, dan teknik analisis data. Transparansi dalam metode memungkinkan penelitian direplikasi oleh peneliti lain [@Gravetter2018]. Bagian ini menjawab pertanyaan bagaimana pengetahuan diperoleh secara sistematis.
 
 ### Hasil
 
-Bagian hasil menyajikan temuan penelitian secara objektif tanpa interpretasi berlebihan. Dalam penelitian kuantitatif, hasil biasanya disajikan dalam bentuk statistik, sedangkan dalam penelitian kualitatif berupa tema atau kategori utama (Field, 2018). Fokusnya adalah pada apa yang ditemukan dari data.
+Bagian hasil menyajikan temuan penelitian secara objektif tanpa interpretasi berlebihan. Dalam penelitian kuantitatif, hasil biasanya disajikan dalam bentuk statistik, sedangkan dalam penelitian kualitatif berupa tema atau kategori utama [@Field2018]. Fokusnya adalah pada apa yang ditemukan dari data.
 
 ### Diskusi
 
-Diskusi menginterpretasikan hasil penelitian dalam kaitannya dengan hipotesis dan teori yang digunakan. Bagian ini juga membahas implikasi serta keterbatasan penelitian (APA, 2020). Diskusi menunjukkan kontribusi penelitian terhadap pengembangan ilmu psikologi.
+Diskusi menginterpretasikan hasil penelitian dalam kaitannya dengan hipotesis dan teori yang digunakan. Bagian ini juga membahas implikasi serta keterbatasan penelitian [@AmericanPsychologicalAssociation2020]. Diskusi menunjukkan kontribusi penelitian terhadap pengembangan ilmu psikologi.
 
 ::: callout-tip
 ## Rangkuman
@@ -140,4 +150,7 @@ Diskusi menginterpretasikan hasil penelitian dalam kaitannya dengan hipotesis da
 -   Mengapa penelitian ilmiah harus mengikuti struktur yang sistematis (pendahuluan, tinjauan literatur, metode, hasil, dan diskusi)?
 -   Apa perbedaan utama antara penelitian kuantitatif dan kualitatif dalam hal tujuan dan pendekatan?
 -   Jika Anda ingin meneliti fenomena “kepercayaan diri mahasiswa saat presentasi”, pendekatan apa yang akan Anda pilih? Jelaskan alasan Anda secara singkat.
+:::
+
+::: {.sectionrefs}
 :::

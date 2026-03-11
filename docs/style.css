@@ -1,9 +1,0 @@
-/* Prefix Bab untuk semua halaman */
-h1::before {
-  content: "Bab " counter(h1) " ";
-}
-
-/* KECUALIKAN halaman index */
-body.quarto-index h1::before {
-  content: "";
-}

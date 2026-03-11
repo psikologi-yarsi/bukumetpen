@@ -27,8 +27,13 @@ book:
     - 1_4_literatur.qmd
     - 1_5_desain.qmd
 
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
 bibliography: references.bib
-bibliographystyle: apa
+reference-section-title: References
+citeproc: true
 
 lang: id
 
@@ -47,5 +52,7 @@ format:
     ##css: style.css
     number-sections: true
     nocite: false
+  pdf:
+    documentclass: scrreprt
   
 editor: visual

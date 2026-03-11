@@ -1,3 +1,13 @@
+---
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
 # Ilmu Pengetahuan dan Penelitian dalam Psikologi
 
 ::: callout-note
@@ -23,7 +33,7 @@ Bab ini membahas dasar-dasar epistemologis penelitian psikologi, yaitu hubungan 
 
 ### Pengertian Pengetahuan
 
-Pengetahuan (*knowledge*) merujuk pada segala bentuk informasi, pemahaman, atau keyakinan yang dimiliki manusia mengenai realitas, baik tentang diri sendiri maupun lingkungan sekitarnya (Babbie, 2021; Kerlinger & Lee, 2000). Pengetahuan dapat diperoleh melalui berbagai cara, seperti pengalaman pribadi, tradisi, pendidikan formal, maupun interaksi sosial.
+Pengetahuan (*knowledge*) merujuk pada segala bentuk informasi, pemahaman, atau keyakinan yang dimiliki manusia mengenai realitas, baik tentang diri sendiri maupun lingkungan sekitarnya [@Babbie2021; @Kerlinger2000]. Pengetahuan dapat diperoleh melalui berbagai cara, seperti pengalaman pribadi, tradisi, pendidikan formal, maupun interaksi sosial.
 
 Dalam konteks kehidupan sehari-hari, pengetahuan sering kali dianggap benar selama pengetahuan tersebut dirasakan masuk akal, bermanfaat, atau sesuai dengan pengalaman subjektif individu. Namun, kriteria kebenaran semacam ini tidak selalu memadai untuk menjelaskan fenomena psikologis yang kompleks dan beragam.
 
@@ -37,7 +47,7 @@ Namun, kriteria tersebut tidak selalu menjamin akurasi. Dalam psikologi, misalny
 
 ### Pengertian Ilmu Pengetahuan
 
-Ilmu pengetahuan (*science*) merupakan bentuk pengetahuan yang diperoleh melalui proses ilmiah yang sistematis, objektif, dan dapat diuji (Kerlinger & Lee, 2000; Creswell & Creswell, 2018). Ilmu pengetahuan tidak hanya bertujuan untuk memahami fenomena, tetapi juga untuk menjelaskan, memprediksi, dan menguji kembali penjelasan tersebut secara empiris.
+Ilmu pengetahuan (*science*) merupakan bentuk pengetahuan yang diperoleh melalui proses ilmiah yang sistematis, objektif, dan dapat diuji [@Kerlinger2000; @Creswell2018]. Ilmu pengetahuan tidak hanya bertujuan untuk memahami fenomena, tetapi juga untuk menjelaskan, memprediksi, dan menguji kembali penjelasan tersebut secara empiris.
 
 Suatu pengetahuan dapat disebut sebagai ilmu pengetahuan apabila memenuhi beberapa kriteria utama, antara lain:
 
@@ -50,11 +60,11 @@ Dengan demikian, ilmu pengetahuan merupakan bagian dari pengetahuan, tetapi memi
 
 ## Cara-cara Memperoleh Pengetahuan
 
-Manusia memperoleh pengetahuan melalui berbagai cara. Setiap cara memiliki kekuatan dan keterbatasan masing-masing dalam menghasilkan pemahaman yang akurat mengenai realitas (Babbie, 2021). Dalam konteks penelitian psikologi, pemahaman terhadap cara-cara ini penting agar mahasiswa mampu membedakan pengetahuan ilmiah dari pengetahuan non-ilmiah.
+Manusia memperoleh pengetahuan melalui berbagai cara. Setiap cara memiliki kekuatan dan keterbatasan masing-masing dalam menghasilkan pemahaman yang akurat mengenai realitas [@Babbie2021]. Dalam konteks penelitian psikologi, pemahaman terhadap cara-cara ini penting agar mahasiswa mampu membedakan pengetahuan ilmiah dari pengetahuan non-ilmiah.
 
 ### Kekukuhan Pendapat (*Tenacity*)
 
-Kekukuhan pendapat merujuk pada keyakinan yang dipertahankan karena telah lama dipercaya atau menjadi bagian dari tradisi sosial (Kerlinger & Lee, 2000). Seseorang menerima suatu pernyataan sebagai benar bukan karena telah diuji, melainkan karena keyakinan tersebut diwariskan dari generasi ke generasi atau dianggap sebagai “kebenaran umum”. Pendekatan ini sering memberikan rasa stabilitas psikologis karena individu tidak perlu terus-menerus mempertanyakan keyakinannya.
+Kekukuhan pendapat merujuk pada keyakinan yang dipertahankan karena telah lama dipercaya atau menjadi bagian dari tradisi sosial [@Kerlinger2000]. Seseorang menerima suatu pernyataan sebagai benar bukan karena telah diuji, melainkan karena keyakinan tersebut diwariskan dari generasi ke generasi atau dianggap sebagai “kebenaran umum”. Pendekatan ini sering memberikan rasa stabilitas psikologis karena individu tidak perlu terus-menerus mempertanyakan keyakinannya.
 
 Sebagai contoh, sebagian masyarakat percaya bahwa anak yang sering bermain di luar rumah akan menjadi “nakal” atau bahwa hukuman fisik efektif membentuk disiplin. Keyakinan tersebut mungkin bertahan lama tanpa pernah diuji melalui penelitian yang sistematis. Dalam konteks ilmiah, pendekatan ini menjadi bermasalah karena tidak memiliki mekanisme untuk mengoreksi kesalahan ketika bukti empiris menunjukkan hasil yang berbeda.
 
@@ -62,7 +72,7 @@ Kelemahan utama kekukuhan pendapat adalah resistensinya terhadap perubahan. Keti
 
 ### Otoritas (*Authority*)
 
-Pengetahuan melalui otoritas diperoleh dengan menerima informasi dari individu atau lembaga yang dianggap memiliki keahlian atau kekuasaan tertentu (Babbie, 2021). Dalam kehidupan akademik, mahasiswa menerima banyak informasi dari dosen, buku teks, atau tokoh ilmiah sebagai sumber yang dapat dipercaya. Pendekatan ini efisien karena memungkinkan transfer pengetahuan secara cepat tanpa harus melakukan verifikasi pribadi terhadap setiap klaim.
+Pengetahuan melalui otoritas diperoleh dengan menerima informasi dari individu atau lembaga yang dianggap memiliki keahlian atau kekuasaan tertentu [@Babbie2021]. Dalam kehidupan akademik, mahasiswa menerima banyak informasi dari dosen, buku teks, atau tokoh ilmiah sebagai sumber yang dapat dipercaya. Pendekatan ini efisien karena memungkinkan transfer pengetahuan secara cepat tanpa harus melakukan verifikasi pribadi terhadap setiap klaim.
 
 Sebagai contoh, seseorang mungkin percaya bahwa metode terapi tertentu paling efektif karena direkomendasikan oleh figur publik atau pakar terkenal. Dalam praktik profesional, otoritas memang memiliki peran penting sebagai rujukan awal. Namun, dalam ilmu pengetahuan, pernyataan otoritatif tetap harus didukung oleh bukti empiris yang dapat diuji dan direplikasi.
 
@@ -70,7 +80,7 @@ Kelemahan utama pendekatan otoritas adalah potensi penerimaan informasi secara t
 
 ### Intuisi (*Intuition*)
 
-Intuisi adalah pengetahuan yang muncul secara spontan tanpa melalui proses penalaran yang eksplisit (Kerlinger & Lee, 2000). Individu sering kali merasa “yakin” terhadap suatu kesimpulan tanpa mampu menjelaskan proses logis yang mendasarinya. Intuisi dapat terbentuk dari pengalaman masa lalu, pola yang tersimpan dalam memori, atau respons emosional yang cepat.
+Intuisi adalah pengetahuan yang muncul secara spontan tanpa melalui proses penalaran yang eksplisit [@Kerlinger2000]. Individu sering kali merasa “yakin” terhadap suatu kesimpulan tanpa mampu menjelaskan proses logis yang mendasarinya. Intuisi dapat terbentuk dari pengalaman masa lalu, pola yang tersimpan dalam memori, atau respons emosional yang cepat.
 
 Sebagai contoh, seorang konselor mungkin merasa bahwa klien tertentu “tidak jujur” hanya berdasarkan kesan awal selama sesi pertama. Meskipun intuisi dapat menjadi sinyal awal untuk melakukan eksplorasi lebih lanjut, intuisi tidak dapat dijadikan dasar kesimpulan profesional tanpa dukungan data yang sistematis. Dalam penelitian, kesan awal harus diuji melalui prosedur pengukuran yang terstandar agar tidak dipengaruhi oleh bias pribadi.
 
@@ -78,7 +88,7 @@ Kelemahan utama intuisi adalah sifatnya yang subyektif dan sulit diverifikasi. I
 
 ### Rasionalisme (*Rationalism*)
 
-Rasionalisme menekankan penggunaan penalaran logis sebagai sumber utama pengetahuan (Creswell & Creswell, 2018). Dalam pendekatan ini, individu menarik kesimpulan melalui proses deduksi berdasarkan prinsip umum yang dianggap benar. Konsistensi logis menjadi ukuran utama dalam menentukan kebenaran suatu pernyataan.
+Rasionalisme menekankan penggunaan penalaran logis sebagai sumber utama pengetahuan [@Creswell2018]. Dalam pendekatan ini, individu menarik kesimpulan melalui proses deduksi berdasarkan prinsip umum yang dianggap benar. Konsistensi logis menjadi ukuran utama dalam menentukan kebenaran suatu pernyataan.
 
 Sebagai ilustrasi, seseorang dapat berargumen bahwa “semua individu yang mengalami stres berat akan mengalami penurunan konsentrasi; mahasiswa A mengalami stres berat; maka mahasiswa A akan mengalami penurunan konsentrasi.” Secara logis, argumen tersebut tampak valid. Namun, dalam kenyataannya, respons individu terhadap stres sangat bervariasi dan dipengaruhi oleh banyak faktor lain.
 
@@ -86,7 +96,7 @@ Kelemahan utama rasionalisme adalah kemungkinan menghasilkan kesimpulan yang log
 
 ### Empirisme (*Empiricism*)
 
-Empirisme menekankan observasi dan pengalaman indrawi sebagai sumber utama pengetahuan (Babbie, 2021; Kerlinger & Lee, 2000). Pengetahuan diperoleh melalui pengamatan langsung terhadap fenomena, kemudian disusun menjadi kesimpulan berdasarkan pola yang ditemukan. Pendekatan ini menjadi fondasi penting dalam penelitian psikologi karena menekankan pentingnya data yang dapat diamati.
+Empirisme menekankan observasi dan pengalaman indrawi sebagai sumber utama pengetahuan [@Babbie2021; @Kerlinger2000]. Pengetahuan diperoleh melalui pengamatan langsung terhadap fenomena, kemudian disusun menjadi kesimpulan berdasarkan pola yang ditemukan. Pendekatan ini menjadi fondasi penting dalam penelitian psikologi karena menekankan pentingnya data yang dapat diamati.
 
 Sebagai contoh, seorang peneliti mungkin mengamati bahwa siswa yang mengikuti program bimbingan belajar menunjukkan peningkatan nilai. Berdasarkan pengamatan tersebut, peneliti dapat menyimpulkan bahwa program tersebut efektif. Namun, tanpa kontrol terhadap variabel lain, kesimpulan tersebut mungkin prematur karena peningkatan nilai dapat dipengaruhi oleh faktor tambahan seperti motivasi atau dukungan keluarga.
 
@@ -94,7 +104,7 @@ Kelemahan utama empirisme adalah ketergantungannya pada persepsi dan interpretas
 
 ## Metode Ilmiah dan Penelitian Psikologi
 
-Metode ilmiah merupakan pendekatan sistematis dalam memperoleh pengetahuan dengan mengintegrasikan rasionalisme dan empirisme dalam satu kerangka penyelidikan ilmiah (Kerlinger & Lee, 2000; Creswell & Creswell, 2018). Metode ini memungkinkan pengetahuan diperoleh secara objektif, terkontrol, dan dapat diuji.
+Metode ilmiah merupakan pendekatan sistematis dalam memperoleh pengetahuan dengan mengintegrasikan rasionalisme dan empirisme dalam satu kerangka penyelidikan ilmiah [@Kerlinger2000; @Creswell2018]. Metode ini memungkinkan pengetahuan diperoleh secara objektif, terkontrol, dan dapat diuji.
 
 Secara umum, metode ilmiah melibatkan tahapan:
 
@@ -133,4 +143,7 @@ Dengan fondasi ini, mahasiswa akan lebih siap mempelajari logika penelitian, des
 -   Mengapa keyakinan yang telah lama dipercaya belum tentu benar secara ilmiah?
 -   Dalam situasi apa intuisi dapat membantu, dan kapan intuisi berpotensi menyesatkan?
 -   Berikan contoh fenomena psikologis yang memerlukan pembuktian ilmiah untuk menghindari kesimpulan keliru.
+:::
+
+::: {.sectionrefs}
 :::
