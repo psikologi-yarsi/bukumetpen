@@ -145,5 +145,5 @@ Dengan fondasi ini, mahasiswa akan lebih siap mempelajari logika penelitian, des
 -   Berikan contoh fenomena psikologis yang memerlukan pembuktian ilmiah untuk menghindari kesimpulan keliru.
 :::
 
-::: {.sectionrefs}
+::: sectionrefs
 :::

@@ -33,7 +33,7 @@ filters:
   - section-bibliographies
 bibliography: references.bib
 reference-section-title: References
-citeproc: true
+csl: apa7id.csl
 
 lang: id
 
@@ -48,7 +48,7 @@ format:
     theme:
       - pandoc
     toc: true
-    toc-depth: 2
+    toc-depth: 4
     ##css: style.css
     number-sections: true
     nocite: false

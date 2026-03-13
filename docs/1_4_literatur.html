@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -32,16 +52,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <link href="./1_5_desain.html" rel="next">
 <link href="./1_2_hakikat.html" rel="prev">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6eccebd63aead2c7211ef328fdf148d2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ae9c50c8c79159b126e2153c26109f93.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -73,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked quarto-light">
+<body class="nav-sidebar docked">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -153,7 +172,7 @@ ul.task-list li input[type="checkbox"] {
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Daftar Isi</h2>
    
-  <ul class="collapse">
+  <ul>
   <li><a href="#pengertian-tinjauan-literatur" id="toc-pengertian-tinjauan-literatur" class="nav-link active" data-scroll-target="#pengertian-tinjauan-literatur"><span class="header-section-number">3.1</span> Pengertian Tinjauan Literatur</a></li>
   <li><a href="#tujuan-tinjauan-literatur-dalam-penelitian" id="toc-tujuan-tinjauan-literatur-dalam-penelitian" class="nav-link" data-scroll-target="#tujuan-tinjauan-literatur-dalam-penelitian"><span class="header-section-number">3.2</span> Tujuan Tinjauan Literatur dalam Penelitian</a></li>
   <li><a href="#sumber-sumber-literatur-ilmiah" id="toc-sumber-sumber-literatur-ilmiah" class="nav-link" data-scroll-target="#sumber-sumber-literatur-ilmiah"><span class="header-section-number">3.3</span> Sumber-sumber Literatur Ilmiah</a></li>
@@ -161,6 +180,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#strategi-menelusuri-literatur" id="toc-strategi-menelusuri-literatur" class="nav-link" data-scroll-target="#strategi-menelusuri-literatur"><span class="header-section-number">3.5</span> Strategi Menelusuri Literatur</a></li>
   <li><a href="#etika-penggunaan-literatur-dan-pengutipan" id="toc-etika-penggunaan-literatur-dan-pengutipan" class="nav-link" data-scroll-target="#etika-penggunaan-literatur-dan-pengutipan"><span class="header-section-number">3.6</span> Etika Penggunaan Literatur dan Pengutipan</a></li>
   <li><a href="#pengembangan-kerangka-teoretis" id="toc-pengembangan-kerangka-teoretis" class="nav-link" data-scroll-target="#pengembangan-kerangka-teoretis"><span class="header-section-number">3.7</span> Pengembangan Kerangka Teoretis</a></li>
+  <li><a href="#bibliography" id="toc-bibliography" class="nav-link" data-scroll-target="#bibliography">Daftar Pustaka</a></li>
   </ul>
 </nav>
     </div>
@@ -209,29 +229,29 @@ Capaian Pembelajaran
 </ol>
 </div>
 </div>
-<section id="pengertian-tinjauan-literatur" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="pengertian-tinjauan-literatur"><span class="header-section-number">3.1</span> Pengertian Tinjauan Literatur</h2>
+<section id="pengertian-tinjauan-literatur" class="level2">
+<h2 class="anchored" data-anchor-id="pengertian-tinjauan-literatur"><span class="header-section-number">3.1</span> Pengertian Tinjauan Literatur</h2>
 <p>Dalam penelitian ilmiah, peneliti tidak memulai penelitian dari ruang kosong. Sebaliknya, penelitian selalu dibangun di atas pengetahuan yang telah dikembangkan oleh para peneliti sebelumnya. Oleh karena itu, salah satu tahap penting dalam proses penelitian adalah melakukan tinjauan literatur atau tinjauan pustaka.</p>
 <p>Tinjauan literatur merupakan proses sistematis untuk mengidentifikasi, mengevaluasi, dan mensintesis berbagai sumber ilmiah yang relevan dengan topik penelitian. Melalui proses ini, peneliti dapat memahami perkembangan teori, temuan empiris, serta pendekatan metodologis yang telah digunakan dalam penelitian sebelumnya.</p>
 <p>Secara umum, tujuan utama tinjauan literatur adalah untuk menemukan konsep, teori, atau generalisasi yang dapat dijadikan landasan teoretis bagi penelitian yang akan dilakukan. Selain itu, tinjauan literatur juga membantu peneliti menemukan metode penelitian yang tepat serta memperluas pemahaman mengenai fenomena yang diteliti.</p>
-<p>Menurut Creswell dan Creswell (2018), tinjauan literatur memiliki beberapa fungsi penting dalam penelitian, antara lain:</p>
+<p>Menurut <span class="citation" data-cites="Creswell2018">Creswell &amp; Clark (<a href="#ref-Creswell2018" role="doc-biblioref">2018</a>)</span>, tinjauan literatur memiliki beberapa fungsi penting dalam penelitian, antara lain:</p>
 <ol type="1">
 <li>Menunjukkan bahwa peneliti memahami perkembangan pengetahuan pada bidang yang diteliti.</li>
-<li>Mengidentifikasi kesenjangan penelitian (research gap).</li>
+<li>Mengidentifikasi kesenjangan penelitian (<em>research gap</em>).</li>
 <li>Memberikan dasar konseptual bagi pengembangan hipotesis atau pertanyaan penelitian.</li>
 <li>Menjelaskan bagaimana penelitian yang dilakukan berkontribusi pada pengembangan ilmu pengetahuan.</li>
 </ol>
 <p>Dengan demikian, tinjauan literatur tidak sekadar menjadi kumpulan ringkasan penelitian terdahulu, tetapi merupakan analisis kritis yang membantu membangun kerangka berpikir penelitian.</p>
 </section>
-<section id="tujuan-tinjauan-literatur-dalam-penelitian" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="tujuan-tinjauan-literatur-dalam-penelitian"><span class="header-section-number">3.2</span> Tujuan Tinjauan Literatur dalam Penelitian</h2>
+<section id="tujuan-tinjauan-literatur-dalam-penelitian" class="level2">
+<h2 class="anchored" data-anchor-id="tujuan-tinjauan-literatur-dalam-penelitian"><span class="header-section-number">3.2</span> Tujuan Tinjauan Literatur dalam Penelitian</h2>
 <p>Dalam penelitian ilmiah, tinjauan literatur memiliki beberapa tujuan utama, yaitu:</p>
 <ol type="1">
 <li><p>Menyusun landasan teori penelitian</p>
 <p>Penelitian membutuhkan kerangka konseptual yang jelas untuk menjelaskan hubungan antar variabel yang diteliti. Melalui tinjauan literatur, peneliti dapat menemukan teori-teori yang relevan untuk menjelaskan fenomena yang sedang diteliti.</p>
-<p>Sebagai contoh, penelitian mengenai motivasi belajar dapat menggunakan teori self-determination dari Deci dan Ryan (2000) sebagai landasan untuk memahami bagaimana kebutuhan psikologis memengaruhi motivasi individu.</p></li>
+<p>Sebagai contoh, penelitian mengenai motivasi belajar dapat menggunakan teori <em>self-determination</em> dari <span class="citation" data-cites="Ryan2000">Ryan &amp; Deci (<a href="#ref-Ryan2000" role="doc-biblioref">2000</a>)</span> sebagai landasan untuk memahami bagaimana kebutuhan psikologis memengaruhi motivasi individu.</p></li>
 <li><p>Mengidentifikasi temuan penelitian sebelumnya</p>
-<p>Tinjauan literatur membantu peneliti mengetahui apa saja yang telah ditemukan oleh penelitian sebelumnya. Hal ini penting untuk menghindari duplikasi penelitian serta membantu peneliti memahami pola temuan yang telah ada. Menurut Hart (2018), tinjauan literatur yang baik mampu menunjukkan konsistensi maupun perbedaan temuan antar penelitian.</p></li>
+<p>Tinjauan literatur membantu peneliti mengetahui apa saja yang telah ditemukan oleh penelitian sebelumnya. Hal ini penting untuk menghindari duplikasi penelitian serta membantu peneliti memahami pola temuan yang telah ada. Menurut <span class="citation" data-cites="Hart2025">Hart (<a href="#ref-Hart2025" role="doc-biblioref">2025</a>)</span>, tinjauan literatur yang baik mampu menunjukkan konsistensi maupun perbedaan temuan antar penelitian.</p></li>
 <li><p>Menentukan pendekatan metodologis yang sesuai</p>
 <p>Selain teori, peneliti juga dapat mempelajari metode yang digunakan dalam penelitian sebelumnya. Informasi ini membantu peneliti memilih desain penelitian, instrumen pengukuran, dan teknik analisis data yang paling tepat.</p></li>
 <li><p>Memperluas pemahaman terhadap fenomena penelitian</p>
@@ -239,8 +259,8 @@ Capaian Pembelajaran
 </ol>
 <p>Dengan demikian, tinjauan literatur berfungsi sebagai fondasi ilmiah yang memperkuat argumen dan rasionalitas penelitian.</p>
 </section>
-<section id="sumber-sumber-literatur-ilmiah" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="sumber-sumber-literatur-ilmiah"><span class="header-section-number">3.3</span> Sumber-sumber Literatur Ilmiah</h2>
+<section id="sumber-sumber-literatur-ilmiah" class="level2">
+<h2 class="anchored" data-anchor-id="sumber-sumber-literatur-ilmiah"><span class="header-section-number">3.3</span> Sumber-sumber Literatur Ilmiah</h2>
 <p>Sumber pustaka dalam penelitian dapat dibedakan menjadi dua kategori utama, yaitu sumber acuan umum dan sumber acuan khusus.</p>
 <ol type="1">
 <li><p>Sumber acuan umum</p>
@@ -264,8 +284,8 @@ Capaian Pembelajaran
 </ol>
 <p>Dalam penelitian ilmiah, artikel jurnal umumnya dianggap sebagai sumber referensi yang paling penting karena memuat temuan penelitian terbaru yang telah melalui proses peer review.</p>
 </section>
-<section id="kriteria-sumber-literatur-yang-baik" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="kriteria-sumber-literatur-yang-baik"><span class="header-section-number">3.4</span> Kriteria Sumber Literatur yang Baik</h2>
+<section id="kriteria-sumber-literatur-yang-baik" class="level2">
+<h2 class="anchored" data-anchor-id="kriteria-sumber-literatur-yang-baik"><span class="header-section-number">3.4</span> Kriteria Sumber Literatur yang Baik</h2>
 <p>Tidak semua sumber bacaan dapat dijadikan rujukan dalam penelitian ilmiah. Oleh karena itu, peneliti perlu mempertimbangkan beberapa kriteria ketika memilih sumber literatur.</p>
 <ol type="1">
 <li><p>Relevansi</p>
@@ -277,8 +297,8 @@ Capaian Pembelajaran
 </ol>
 <p>Perlu diingat bahwa kualitas penelitian tidak ditentukan oleh banyaknya jumlah referensi yang digunakan, melainkan oleh relevansi dan kualitas referensi tersebut.</p>
 </section>
-<section id="strategi-menelusuri-literatur" class="level2" data-number="3.5">
-<h2 data-number="3.5" class="anchored" data-anchor-id="strategi-menelusuri-literatur"><span class="header-section-number">3.5</span> Strategi Menelusuri Literatur</h2>
+<section id="strategi-menelusuri-literatur" class="level2">
+<h2 class="anchored" data-anchor-id="strategi-menelusuri-literatur"><span class="header-section-number">3.5</span> Strategi Menelusuri Literatur</h2>
 <p>Menemukan literatur yang relevan merupakan keterampilan penting bagi seorang peneliti. Terdapat beberapa strategi yang dapat digunakan untuk menelusuri literatur ilmiah.</p>
 <ol type="1">
 <li><p><em>Backward referencing</em></p>
@@ -288,8 +308,8 @@ Capaian Pembelajaran
 </ol>
 <p>Kombinasi kedua strategi ini memungkinkan peneliti memperoleh gambaran yang lebih komprehensif mengenai perkembangan penelitian pada suatu topik.</p>
 </section>
-<section id="etika-penggunaan-literatur-dan-pengutipan" class="level2" data-number="3.6">
-<h2 data-number="3.6" class="anchored" data-anchor-id="etika-penggunaan-literatur-dan-pengutipan"><span class="header-section-number">3.6</span> Etika Penggunaan Literatur dan Pengutipan</h2>
+<section id="etika-penggunaan-literatur-dan-pengutipan" class="level2">
+<h2 class="anchored" data-anchor-id="etika-penggunaan-literatur-dan-pengutipan"><span class="header-section-number">3.6</span> Etika Penggunaan Literatur dan Pengutipan</h2>
 <p>Dalam penulisan karya ilmiah, penggunaan sumber literatur harus mengikuti prinsip etika akademik. Setiap gagasan, teori, atau data yang berasal dari sumber lain harus disertai dengan kutipan yang jelas.</p>
 <p>Kutipan merupakan cara untuk memberi informasi kepada pembaca bahwa sebagian gagasan dalam tulisan berasal dari karya ilmiah sebelumnya. Selain itu, pengutipan juga berfungsi untuk:</p>
 <ol type="1">
@@ -305,26 +325,26 @@ Capaian Pembelajaran
 </ul>
 <p>Peneliti harus memastikan bahwa setiap sumber yang dikutip dalam teks tercantum dalam daftar pustaka.</p>
 </section>
-<section id="pengembangan-kerangka-teoretis" class="level2" data-number="3.7">
-<h2 data-number="3.7" class="anchored" data-anchor-id="pengembangan-kerangka-teoretis"><span class="header-section-number">3.7</span> Pengembangan Kerangka Teoretis</h2>
+<section id="pengembangan-kerangka-teoretis" class="level2">
+<h2 class="anchored" data-anchor-id="pengembangan-kerangka-teoretis"><span class="header-section-number">3.7</span> Pengembangan Kerangka Teoretis</h2>
 <p>Kerangka teoretis merupakan struktur konseptual yang menjelaskan hubungan antara konsep atau variabel utama dalam suatu penelitian. Kerangka ini dibangun berdasarkan teori-teori yang relevan serta temuan empiris dari penelitian sebelumnya. Dengan demikian, kerangka teoretis berfungsi sebagai landasan logis yang menjelaskan mengapa suatu variabel diperkirakan berhubungan dengan variabel lainnya.</p>
-<p>Dalam ilmu pengetahuan, teori berperan penting dalam menjelaskan fenomena yang diamati. Kerlinger dan Lee (2000) mendefinisikan teori sebagai <em>“a set of interrelated constructs (concepts), definitions, and propositions that present a systematic view of phenomena by specifying relations among variables”</em>. Definisi ini menegaskan bahwa teori menyediakan penjelasan sistematis mengenai hubungan antar variabel yang dapat digunakan untuk memahami dan memprediksi fenomena tertentu.</p>
+<p>Dalam ilmu pengetahuan, teori berperan penting dalam menjelaskan fenomena yang diamati. <span class="citation" data-cites="Kerlinger2000">Kerlinger &amp; Lee (<a href="#ref-Kerlinger2000" role="doc-biblioref">2000</a>)</span> mendefinisikan teori sebagai <em>“a set of interrelated constructs (concepts), definitions, and propositions that present a systematic view of phenomena by specifying relations among variables”</em>. Definisi ini menegaskan bahwa teori menyediakan penjelasan sistematis mengenai hubungan antar variabel yang dapat digunakan untuk memahami dan memprediksi fenomena tertentu.</p>
 <p>Kerangka teoretis dalam penelitian pada dasarnya merupakan penerapan teori tersebut untuk menjelaskan fenomena yang menjadi fokus penelitian. Menurut Creswell dan Creswell (2018), kerangka teoretis memberikan dasar konseptual yang membantu peneliti menjelaskan hubungan antar variabel, sekaligus menjadi pijakan dalam merumuskan hipotesis penelitian.</p>
 <p>Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi penting.</p>
 <ol type="1">
 <li><p>Menjelaskan fenomena penelitian secara konseptual</p>
 <p>Kerangka teoretis membantu peneliti memahami fenomena penelitian melalui perspektif teori tertentu. Melalui teori, peneliti dapat menjelaskan mekanisme psikologis yang mendasari suatu perilaku atau pengalaman manusia.</p>
-<p>Sebagai contoh, penelitian mengenai perilaku prososial sering dijelaskan melalui teori empati. Batson (2011) menyatakan bahwa empati terhadap penderitaan orang lain dapat memunculkan motivasi altruistik untuk membantu individu tersebut. Dengan menggunakan teori tersebut, peneliti dapat menjelaskan mengapa empati diperkirakan berhubungan dengan perilaku menolong.</p></li>
+<p>Sebagai contoh, penelitian mengenai perilaku prososial sering dijelaskan melalui teori empati. <span class="citation" data-cites="Batson2011">Batson (<a href="#ref-Batson2011" role="doc-biblioref">2011</a>)</span> menyatakan bahwa empati terhadap penderitaan orang lain dapat memunculkan motivasi altruistik untuk membantu individu tersebut. Dengan menggunakan teori tersebut, peneliti dapat menjelaskan mengapa empati diperkirakan berhubungan dengan perilaku menolong.</p></li>
 <li><p>Mengidentifikasi variabel penelitian yang relevan</p>
 <p>Teori juga membantu peneliti menentukan variabel-variabel yang penting dalam menjelaskan fenomena yang diteliti. Variabel penelitian biasanya berasal dari konsep-konsep yang terdapat dalam teori.</p>
-<p>Misalnya, dalam penelitian mengenai stres kerja, teori <em>Job Demand–Resources Model</em> menjelaskan bahwa kesejahteraan karyawan dipengaruhi oleh tuntutan pekerjaan (job demands) dan sumber daya pekerjaan (job resources). Tuntutan pekerjaan yang tinggi dapat meningkatkan stres, sementara sumber daya seperti dukungan sosial atau otonomi kerja dapat mengurangi dampak negatif tersebut (Bakker &amp; Demerouti, 2007).</p>
+<p>Misalnya, dalam penelitian mengenai stres kerja, teori <em>Job Demand–Resources Model</em> menjelaskan bahwa kesejahteraan karyawan dipengaruhi oleh tuntutan pekerjaan (<em>job demands</em>) dan sumber daya pekerjaan (<em>job resources</em>). Tuntutan pekerjaan yang tinggi dapat meningkatkan stres, sementara sumber daya seperti dukungan sosial atau otonomi kerja dapat mengurangi dampak negatif tersebut <span class="citation" data-cites="Bakker2007">(<a href="#ref-Bakker2007" role="doc-biblioref">Bakker &amp; Demerouti, 2007</a>)</span>.</p>
 <p>Dengan merujuk pada teori tersebut, peneliti dapat menentukan variabel-variabel penelitian seperti tuntutan kerja, dukungan sosial, dan kesejahteraan psikologis.</p></li>
 <li><p>Menjelaskan hubungan antar variabel</p>
 <p>Selain membantu menentukan variabel penelitian, teori juga memberikan penjelasan mengenai hubungan antar variabel tersebut. Hubungan ini tidak hanya didasarkan pada asumsi peneliti, tetapi pada argumentasi teoretis yang didukung oleh penelitian sebelumnya.</p>
-<p>Ridley (2012) menyatakan bahwa tinjauan literatur yang baik tidak hanya merangkum penelitian sebelumnya, tetapi juga mengintegrasikan berbagai temuan tersebut untuk membangun argumen yang logis mengenai hubungan antar variabel. Oleh karena itu, kerangka teoretis harus mampu menunjukkan bagaimana teori dan penelitian sebelumnya saling mendukung dalam menjelaskan fenomena yang diteliti.</p></li>
+<p><span class="citation" data-cites="Ridley2012">Ridley (<a href="#ref-Ridley2012" role="doc-biblioref">2012</a>)</span> menyatakan bahwa tinjauan literatur yang baik tidak hanya merangkum penelitian sebelumnya, tetapi juga mengintegrasikan berbagai temuan tersebut untuk membangun argumen yang logis mengenai hubungan antar variabel. Oleh karena itu, kerangka teoretis harus mampu menunjukkan bagaimana teori dan penelitian sebelumnya saling mendukung dalam menjelaskan fenomena yang diteliti.</p></li>
 <li><p>Menjadi dasar bagi pengembangan hipotesis penelitian</p>
 <p>Kerangka teoretis juga menjadi dasar bagi perumusan hipotesis penelitian. Hipotesis merupakan pernyataan mengenai hubungan yang diperkirakan terjadi antara dua atau lebih variabel yang dapat diuji secara empiris.</p>
-<p>Menurut Neuman (2014), hipotesis yang baik harus memiliki dasar teoritis yang jelas. Artinya, hubungan antar variabel yang diajukan dalam hipotesis harus dapat dijelaskan melalui teori atau temuan penelitian sebelumnya.</p></li>
+<p>Menurut <span class="citation" data-cites="Neuman2014">Neuman (<a href="#ref-Neuman2014" role="doc-biblioref">2014</a>)</span>, hipotesis yang baik harus memiliki dasar teoritis yang jelas. Artinya, hubungan antar variabel yang diajukan dalam hipotesis harus dapat dijelaskan melalui teori atau temuan penelitian sebelumnya.</p></li>
 </ol>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -371,248 +391,274 @@ Refleksi &amp; DIskusi
 </ul>
 </div>
 </div>
+<div class="sectionrefs">
+
+</div>
 
 
+</section>
+<section id="bibliography" class="level1 unnumbered">
+<h1 class="unnumbered">Daftar Pustaka</h1>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Bakker2007" class="csl-entry" role="listitem">
+Bakker, A. B., &amp; Demerouti, E. (2007). The Job Demands‐Resources model: state of the art. <em>Journal of Managerial Psychology</em>, <em>22</em>, 309–328. <a href="https://doi.org/10.1108/02683940710733115">https://doi.org/10.1108/02683940710733115</a>
+</div>
+<div id="ref-Batson2011" class="csl-entry" role="listitem">
+Batson, C. D. (2011). <em>Altruism in Humans</em>. Oxford University Press.
+</div>
+<div id="ref-Creswell2018" class="csl-entry" role="listitem">
+Creswell, J. W., &amp; Clark, V. L. (2018). <em>Designing and conducting mixed methods research</em> (3rd ed.). SAGE Publications.
+</div>
+<div id="ref-Hart2025" class="csl-entry" role="listitem">
+Hart, C. (2025). <em>Doing a Literature Review</em>. SAGE Publications Ltd. <a href="https://doi.org/10.4135/9781036235598">https://doi.org/10.4135/9781036235598</a>
+</div>
+<div id="ref-Kerlinger2000" class="csl-entry" role="listitem">
+Kerlinger, F. N., &amp; Lee, H. B. (2000). <em>Foundations of behavioral research</em> (4th ed.). Harcourt College Publishers.
+</div>
+<div id="ref-Neuman2014" class="csl-entry" role="listitem">
+Neuman, W. Lawrence. (2014). <em>Social research methods: Qualitative and quantitative approaches</em> (7th ed.). Pearson.
+</div>
+<div id="ref-Ridley2012" class="csl-entry" role="listitem">
+Ridley, D. (2012). <em>The Literature Review: A Step-By-Step Guide For Students</em> (2nd ed.). SAGE Publications Ltd.
+</div>
+<div id="ref-Ryan2000" class="csl-entry" role="listitem">
+Ryan, R. M., &amp; Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. <em>American Psychologist</em>, <em>55</em>, 68–78. <a href="https://doi.org/10.1037/0003-066X.55.1.68">https://doi.org/10.1037/0003-066X.55.1.68</a>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-  window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
-    const isCodeAnnotation = (el) => {
-      for (const clz of el.classList) {
-        if (clz.startsWith('code-annotation-')) {                     
-          return true;
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Disalin!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Disalin!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
       }
-      return false;
-    }
-    const onCopySuccess = function(e) {
-      // button target
-      const button = e.trigger;
-      // don't keep focus
-      button.blur();
-      // flash "checked"
-      button.classList.add('code-copy-button-checked');
-      var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Disalin!");
-      let tooltip;
-      if (window.bootstrap) {
-        button.setAttribute("data-bs-toggle", "tooltip");
-        button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Disalin!");
-        tooltip = new bootstrap.Tooltip(button, 
-          { trigger: "manual", 
-            customClass: "code-copy-button-tooltip",
-            offset: [0, -8]});
-        tooltip.show();    
-      }
-      setTimeout(function() {
-        if (tooltip) {
-          tooltip.hide();
-          button.removeAttribute("data-bs-title");
-          button.removeAttribute("data-bs-toggle");
-          button.removeAttribute("data-bs-placement");
-        }
-        button.setAttribute("title", currentTitle);
-        button.classList.remove('code-copy-button-checked');
-      }, 1000);
-      // clear code selection
-      e.clearSelection();
-    }
-    const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
-        }
-        return codeEl.innerText;
-    }
-    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-      text: getTextToCopy
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
     });
-    clipboard.on('success', onCopySuccess);
-    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-        text: getTextToCopy,
-        container: window.document.getElementById('quarto-embedded-source-code-modal')
-      });
-      clipboardModal.on('success', onCopySuccess);
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
-      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
-      var isInternal = (href) => {
-          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-      }
-      // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-      for (var i=0; i<links.length; i++) {
-        const link = links[i];
-        if (!isInternal(link.href)) {
-          // undo the damage that might have been done by quarto-nav.js in the case of
-          // links that we want to consider external
-          if (link.dataset.originalHref !== undefined) {
-            link.href = link.dataset.originalHref;
-          }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
         }
       }
-    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-      const config = {
-        allowHTML: true,
-        maxWidth: 500,
-        delay: 100,
-        arrow: false,
-        appendTo: function(el) {
-            return el.parentElement;
-        },
-        interactive: true,
-        interactiveBorder: 10,
-        theme: 'quarto',
-        placement: 'bottom-start',
-      };
-      if (contentFn) {
-        config.content = contentFn;
-      }
-      if (onTriggerFn) {
-        config.onTrigger = onTriggerFn;
-      }
-      if (onUntriggerFn) {
-        config.onUntrigger = onUntriggerFn;
-      }
-      window.tippy(el, config); 
     }
-    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-    for (var i=0; i<noterefs.length; i++) {
-      const ref = noterefs[i];
-      tippyHover(ref, function() {
-        // use id or data attribute instead here
-        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-        try { href = new URL(href).hash; } catch {}
-        const id = href.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note) {
-          return note.innerHTML;
-        } else {
-          return "";
-        }
-      });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
     }
-    const xrefs = window.document.querySelectorAll('a.quarto-xref');
-    const processXRef = (id, note) => {
-      // Strip column container classes
-      const stripColumnClz = (el) => {
-        el.classList.remove("page-full", "page-columns");
-        if (el.children) {
-          for (const child of el.children) {
-            stripColumnClz(child);
-          }
-        }
-      }
-      stripColumnClz(note)
-      if (id === null || id.startsWith('sec-')) {
-        // Special case sections, only their first couple elements
-        const container = document.createElement("div");
-        if (note.children && note.children.length > 2) {
-          container.appendChild(note.children[0].cloneNode(true));
-          for (let i = 1; i < note.children.length; i++) {
-            const child = note.children[i];
-            if (child.tagName === "P" && child.innerText === "") {
-              continue;
-            } else {
-              container.appendChild(child.cloneNode(true));
-              break;
-            }
-          }
-          if (window.Quarto?.typesetMath) {
-            window.Quarto.typesetMath(container);
-          }
-          return container.innerHTML
-        } else {
-          if (window.Quarto?.typesetMath) {
-            window.Quarto.typesetMath(note);
-          }
-          return note.innerHTML;
-        }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
       } else {
-        // Remove any anchor links if they are present
-        const anchorLink = note.querySelector('a.anchorjs-link');
-        if (anchorLink) {
-          anchorLink.remove();
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
         }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        if (note.classList.contains("callout")) {
-          return note.outerHTML;
-        } else {
-          return note.innerHTML;
-        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
       }
     }
-    for (var i=0; i<xrefs.length; i++) {
-      const xref = xrefs[i];
-      tippyHover(xref, undefined, function(instance) {
-        instance.disable();
-        let url = xref.getAttribute('href');
-        let hash = undefined; 
-        if (url.startsWith('#')) {
-          hash = url;
-        } else {
-          try { hash = new URL(url).hash; } catch {}
-        }
-        if (hash) {
-          const id = hash.replace(/^#\/?/, "");
-          const note = window.document.getElementById(id);
-          if (note !== null) {
-            try {
-              const html = processXRef(id, note.cloneNode(true));
-              instance.setContent(html);
-            } finally {
-              instance.enable();
-              instance.show();
-            }
-          } else {
-            // See if we can fetch this
-            fetch(url.split('#')[0])
-            .then(res => res.text())
-            .then(html => {
-              const parser = new DOMParser();
-              const htmlDoc = parser.parseFromString(html, "text/html");
-              const note = htmlDoc.getElementById(id);
-              if (note !== null) {
-                const html = processXRef(id, note);
-                instance.setContent(html);
-              } 
-            }).finally(() => {
-              instance.enable();
-              instance.show();
-            });
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
           }
         } else {
-          // See if we can fetch a full url (with no hash to target)
-          // This is a special case and we should probably do some content thinning / targeting
-          fetch(url)
+          // See if we can fetch this
+          fetch(url.split('#')[0])
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.querySelector('main.content');
+            const note = htmlDoc.getElementById(id);
             if (note !== null) {
-              // This should only happen for chapter cross references
-              // (since there is no id in the URL)
-              // remove the first header
-              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-                note.children[0].remove();
-              }
-              const html = processXRef(null, note);
+              const html = processXRef(id, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -620,161 +666,185 @@ Refleksi &amp; DIskusi
             instance.show();
           });
         }
-      }, function(instance) {
-      });
-    }
-        let selectedAnnoteEl;
-        const selectorForAnnotation = ( cell, annotation) => {
-          let cellAttr = 'data-code-cell="' + cell + '"';
-          let lineAttr = 'data-code-annotation="' +  annotation + '"';
-          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-          return selector;
-        }
-        const selectCodeLines = (annoteEl) => {
-          const doc = window.document;
-          const targetCell = annoteEl.getAttribute("data-target-cell");
-          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-          const lineIds = lines.map((line) => {
-            return targetCell + "-" + line;
-          })
-          let top = null;
-          let height = null;
-          let parent = null;
-          if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
-            }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
-            }
-            selectedAnnoteEl = annoteEl;
-          }
-        };
-        const unselectCodeLines = () => {
-          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-          elementsIds.forEach((elId) => {
-            const div = window.document.getElementById(elId);
-            if (div) {
-              div.remove();
-            }
-          });
-          selectedAnnoteEl = undefined;
-        };
-          // Handle positioning of the toggle
-      window.addEventListener(
-        "resize",
-        throttle(() => {
-          elRect = undefined;
-          if (selectedAnnoteEl) {
-            selectCodeLines(selectedAnnoteEl);
-          }
-        }, 10)
-      );
-      function throttle(fn, ms) {
-      let throttle = false;
-      let timer;
-        return (...args) => {
-          if(!throttle) { // first call gets through
-              fn.apply(this, args);
-              throttle = true;
-          } else { // all the others get throttled
-              if(timer) clearTimeout(timer); // cancel #2
-              timer = setTimeout(() => {
-                fn.apply(this, args);
-                timer = throttle = false;
-              }, ms);
-          }
-        };
-      }
-        // Attach click handler to the DT
-        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-        for (const annoteDlNode of annoteDls) {
-          annoteDlNode.addEventListener('click', (event) => {
-            const clickedEl = event.target;
-            if (clickedEl !== selectedAnnoteEl) {
-              unselectCodeLines();
-              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-              if (activeEl) {
-                activeEl.classList.remove('code-annotation-active');
-              }
-              selectCodeLines(clickedEl);
-              clickedEl.classList.add('code-annotation-active');
-            } else {
-              // Unselect the line
-              unselectCodeLines();
-              clickedEl.classList.remove('code-annotation-active');
-            }
-          });
-        }
-    const findCites = (el) => {
-      const parentEl = el.parentElement;
-      if (parentEl) {
-        const cites = parentEl.dataset.cites;
-        if (cites) {
-          return {
-            el,
-            cites: cites.split(' ')
-          };
-        } else {
-          return findCites(el.parentElement)
-        }
       } else {
-        return undefined;
-      }
-    };
-    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-    for (var i=0; i<bibliorefs.length; i++) {
-      const ref = bibliorefs[i];
-      const citeInfo = findCites(ref);
-      if (citeInfo) {
-        tippyHover(citeInfo.el, function() {
-          var popup = window.document.createElement('div');
-          citeInfo.cites.forEach(function(cite) {
-            var citeDiv = window.document.createElement('div');
-            citeDiv.classList.add('hanging-indent');
-            citeDiv.classList.add('csl-entry');
-            var biblioDiv = window.document.getElementById('ref-' + cite);
-            if (biblioDiv) {
-              citeDiv.innerHTML = biblioDiv.innerHTML;
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
             }
-            popup.appendChild(citeDiv);
-          });
-          return popup.innerHTML;
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
         });
       }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
     }
-  });
-  </script>
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./1_2_hakikat.html" class="pagination-link" aria-label="Hakikat Penelitian Ilmiah dalam Psikologi">

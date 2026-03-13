@@ -1,3 +1,13 @@
+---
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
 # Desain Penelitian dan Strategi Pengumpulan Data
 
 ::: callout-note
@@ -15,16 +25,9 @@ Setelah mempelajari bab ini, mahasiswa mampu:
 
 ## Pengertian Desain Penelitian
 
-Desain penelitian merupakan rencana sistematis yang disusun peneliti untuk menjawab pertanyaan penelitian secara terarah dan dapat dipertanggungjawabkan secara ilmiah. Dalam metodologi penelitian, desain penelitian sering dipahami sebagai *framework* atau kerangka kerja yang menggambarkan bagaimana suatu penelitian akan dilaksanakan, mulai dari perumusan masalah hingga analisis data. Dengan adanya desain penelitian, peneliti dapat memastikan bahwa setiap langkah penelitian saling berkaitan dan mendukung tujuan penelitian yang ingin di
+Desain penelitian merupakan rencana sistematis yang disusun peneliti untuk menjawab pertanyaan penelitian secara terarah dan dapat dipertanggungjawabkan secara ilmiah. Dalam metodologi penelitian, desain penelitian sering dipahami sebagai *framework* atau kerangka kerja yang menggambarkan bagaimana suatu penelitian akan dilaksanakan, mulai dari perumusan masalah hingga analisis data. Dengan adanya desain penelitian, peneliti dapat memastikan bahwa setiap langkah penelitian saling berkaitan dan mendukung tujuan penelitian yang ingin dicapai [@Babbie2021].
 
--   Menjelaskan pengertian dan fungsi desain penelitian dalam proses penelitian ilmiah.
--   Mengidentifikasi berbagai klasifikasi desain penelitian berdasarkan jumlah kontak dengan partisipan, periode penelitian, sumber investigasi, dan metode penelitian.
--   Membedakan desain penelitian eksperimental, kuasi-eksperimental, dan non-eksperimental beserta karakteristik utamanya.
--   Menjelaskan berbagai metode pengumpulan data yang umum digunakan dalam penelitian psikologi.
--   Membedakan metode pengumpulan data berdasarkan sumber data, jenis data, dan interpretasi data.
--   Memahami hubungan antara desain penelitian dan strategi pengumpulan data dalam menjawab pertanyaan penelitian.
-
-Creswell dan Creswell (2018) menjelaskan bahwa desain penelitian merupakan rencana yang menghubungkan pertanyaan penelitian dengan prosedur pengumpulan data, teknik analisis data, dan interpretasi hasil penelitian. Desain penelitian tidak hanya menentukan metode apa yang digunakan, tetapi juga bagaimana metode tersebut diterapkan secara sistematis. Oleh karena itu, penyusunan desain penelitian merupakan tahap penting yang menentukan kualitas suatu penelitian.
+@Creswell2018a menjelaskan bahwa desain penelitian merupakan rencana yang menghubungkan pertanyaan penelitian dengan prosedur pengumpulan data, teknik analisis data, dan interpretasi hasil penelitian. Desain penelitian tidak hanya menentukan metode apa yang digunakan, tetapi juga bagaimana metode tersebut diterapkan secara sistematis. Oleh karena itu, penyusunan desain penelitian merupakan tahap penting yang menentukan kualitas suatu penelitian.
 
 Dalam konteks penelitian psikologi, desain penelitian menjadi sangat penting karena fenomena psikologis sering kali kompleks dan melibatkan berbagai faktor yang saling berinteraksi. Desain penelitian yang baik membantu peneliti memilih pendekatan metodologis yang tepat serta menghindari kesalahan prosedural yang dapat memengaruhi validitas penelitian.
 
@@ -86,11 +89,11 @@ Pada bagian ini, desain penelitian dijelaskan berdasarkan lima dimensi utama, ya
 
     a.  **Desain retrospektif**
 
-        Desain retrospektif mempelajari fenomena yang telah terjadi di masa lalu. Peneliti menelusuri kembali pengalaman atau kondisi sebelumnya untuk memahami faktor-faktor yang berkaitan dengan fenomena yang sedang diteliti. Data biasanya diperoleh melalui wawancara, kuesioner, arsip, atau dokumen yang tersedia. Meskipun relatif efisien, pendekatan ini sangat bergantung pada keakuratan ingatan partisipan atau kelengkapan data yang tersedia (Hulley et al., 2013).
+        Desain retrospektif mempelajari fenomena yang telah terjadi di masa lalu. Peneliti menelusuri kembali pengalaman atau kondisi sebelumnya untuk memahami faktor-faktor yang berkaitan dengan fenomena yang sedang diteliti. Data biasanya diperoleh melalui wawancara, kuesioner, arsip, atau dokumen yang tersedia. Meskipun relatif efisien, pendekatan ini sangat bergantung pada keakuratan ingatan partisipan atau kelengkapan data yang tersedia [@Hulley2013].
 
     b.  **Desain prospektif**
 
-        Desain prospektif mempelajari fenomena yang akan terjadi di masa depan. Dalam desain ini, peneliti terlebih dahulu mengidentifikasi partisipan atau kondisi tertentu, kemudian mengikuti perkembangan mereka dalam periode waktu tertentu untuk mengamati perubahan atau munculnya fenomena yang diteliti. Pendekatan ini memungkinkan peneliti memperoleh data yang lebih sistematis mengenai proses terjadinya suatu peristiwa. Namun, penelitian prospektif biasanya membutuhkan waktu dan sumber daya yang lebih besar dibandingkan penelitian retrospektif (Rothman et al., 2008).
+        Desain prospektif mempelajari fenomena yang akan terjadi di masa depan. Dalam desain ini, peneliti terlebih dahulu mengidentifikasi partisipan atau kondisi tertentu, kemudian mengikuti perkembangan mereka dalam periode waktu tertentu untuk mengamati perubahan atau munculnya fenomena yang diteliti. Pendekatan ini memungkinkan peneliti memperoleh data yang lebih sistematis mengenai proses terjadinya suatu peristiwa. Namun, penelitian prospektif biasanya membutuhkan waktu dan sumber daya yang lebih besar dibandingkan penelitian retrospektif [@Rothman2008].
 
     c.  **Desain retrospektif–prospektif**
 
@@ -100,7 +103,7 @@ Pada bagian ini, desain penelitian dijelaskan berdasarkan lima dimensi utama, ya
 
     Desain penelitian juga dapat dibedakan berdasarkan bagaimana peneliti mengendalikan variabel dalam penelitian. Dalam beberapa penelitian, peneliti secara aktif memanipulasi variabel tertentu untuk melihat pengaruhnya terhadap variabel lain. Dalam penelitian lain, peneliti hanya mengamati fenomena yang terjadi secara alami tanpa melakukan manipulasi terhadap variabel penelitian.
 
-    Berdasarkan tingkat kontrol terhadap variabel tersebut, desain penelitian dapat dibedakan menjadi tiga jenis utama (Creswell & Creswell, 2018; Shadish, Cook, & Campbell, 2002).
+    Berdasarkan tingkat kontrol terhadap variabel tersebut, desain penelitian dapat dibedakan menjadi tiga jenis utama [@Creswell2018; @Shadish2002].
 
     1.  **Desain eksperimental**
 
@@ -118,7 +121,7 @@ Pada bagian ini, desain penelitian dijelaskan berdasarkan lima dimensi utama, ya
 
 Metode pengumpulan data merujuk pada cara atau prosedur yang digunakan peneliti untuk memperoleh informasi yang diperlukan dalam penelitian. Pemilihan metode pengumpulan data harus disesuaikan dengan tujuan penelitian, jenis pertanyaan penelitian, serta pendekatan metodologis yang digunakan. Dalam penelitian psikologi, metode pengumpulan data tidak hanya berbeda dalam teknik yang digunakan, tetapi juga dapat dibedakan berdasarkan sumber data, jenis data yang dihasilkan, serta cara data tersebut diinterpretasikan.
 
-Secara umum, metode pengumpulan data dapat diklasifikasikan ke dalam beberapa kategori berikut.
+Secara umum, metode pengumpulan data dapat diklasifikasikan ke dalam beberapa kategori berikut [@Breakwell2012].
 
 1.  **Berdasarkan sumber data**
 
@@ -177,7 +180,92 @@ Dalam penelitian psikologi, data dapat diperoleh melalui berbagai teknik pengump
 -   **Tes dan skala psikologis**, yaitu instrumen yang digunakan untuk mengukur karakteristik psikologis seperti kecerdasan, sikap, atau kepribadian;
 -   **Kuesioner atau survei**, yaitu instrumen tertulis yang berisi serangkaian pertanyaan yang harus dijawab oleh responden.
 
-Pemilihan metode pengumpulan data harus mempertimbangkan kesesuaian dengan tujuan penelitian, karakteristik fenomena yang diteliti, serta pendekatan metodologis yang digunakan. Pembahasan yang lebih mendalam mengenai teknik pengumpulan data akan dijelaskan pada bab-bab selanjutnya dalam buku ini.
+### Wawancara sebagai Metode Pengumpulan Data
+
+Wawancara merupakan situasi interaksi interpersonal antara peneliti (*interviewer*) dan partisipan (*interviewee*) yang bertujuan memperoleh informasi yang relevan dengan penelitian. Metode ini banyak digunakan dalam penelitian sosial dan psikologi karena memungkinkan peneliti memperoleh informasi yang tidak dapat diamati secara langsung. Menurut @Kvale2015, wawancara penelitian bertujuan untuk menggali pengalaman, persepsi, dan interpretasi partisipan terhadap suatu fenomena.
+
+**Jenis-jenis wawancara**
+
+a.  Wawancara terstruktur
+
+    Wawancara terstruktur menggunakan daftar pertanyaan yang telah disusun sebelumnya dengan urutan yang tetap. Pewawancara harus mengikuti panduan tersebut secara konsisten.
+
+    Kelebihan wawancara terstruktur:
+
+    -   meningkatkan konsistensi pengukuran
+    -   memudahkan proses analisis data
+    -   meningkatkan reliabilitas
+
+    Namun, metode ini memiliki keterbatasan karena kurang memberikan ruang untuk eksplorasi yang mendalam.
+
+b.  Wawancara tidak terstruktur
+
+    Wawancara tidak terstruktur bersifat lebih fleksibel. Peneliti dapat menyesuaikan pertanyaan sesuai dengan alur percakapan. Metode ini sering digunakan dalam penelitian kualitatif, terutama untuk menggali pengalaman subjektif partisipan secara lebih mendalam. Dalam praktik penelitian, peneliti sering menggunakan wawancara semi-terstruktur, yaitu kombinasi antara struktur pertanyaan yang jelas dan fleksibilitas eksplorasi.
+
+**Penyusunan pertanyaan dalam wawancara**
+
+Dalam menyusun panduan wawancara, peneliti perlu mempertimbangkan beberapa tipe pertanyaan.
+
+a.  Pertanyaan pilihan tetap (*fixed-alternative items)*
+
+    Pertanyaan telah disertai dengan pilihan jawaban tertentu, misalnya:
+
+    -   ya / tidak
+    -   setuju / tidak setuju
+
+    Jenis pertanyaan ini menghasilkan data yang lebih mudah dianalisis tetapi kurang mendalam.
+
+b.  Pertanyaan terbuka (*open-ended items*)
+
+    Pertanyaan terbuka memberikan kebebasan kepada partisipan untuk menjelaskan jawabannya secara lebih luas. Pertanyaan ini sering digunakan dalam penelitian kualitatif.
+
+c.  Item skala
+
+    Item skala menyediakan rentang respons tertentu, misalnya dari sangat tidak setuju hingga sangat setuju.
+
+### Observasi sebagai Metode Pengumpulan Data
+
+Observasi adalah metode pengumpulan data yang dilakukan dengan cara mengamati secara sistematis perilaku atau fenomena yang sedang terjadi. Dalam penelitian psikologi, observasi sering digunakan untuk memahami perilaku individu dalam konteks alami.
+
+**Jenis-jenis observasi**
+
+a.  Observasi partisipatif: Peneliti terlibat langsung dalam aktivitas kelompok yang diamati.
+b.  Observasi non-partisipatif: Peneliti tidak terlibat dalam aktivitas yang diamati dan hanya berperan sebagai pengamat.
+
+**Tantangan dalam observasi**
+
+Beberapa masalah yang dapat muncul dalam observasi antara lain:
+
+-   *Hawthorne effect*, yaitu perubahan perilaku karena individu mengetahui dirinya sedang diamati
+-   bias pengamat
+-   keterbatasan pencatatan data
+-   kemungkinan informasi yang tidak lengkap
+
+Karena itu, observasi biasanya dilengkapi dengan teknik pencatatan yang sistematis seperti f*ield notes*, rekaman video, atau lembar observasi terstruktur [@Angrosino2008].
+
+### Tes dan Skala Psikologis
+
+Dalam penelitian psikologi, pengumpulan data sering menggunakan tes dan skala psikologis. Tes merupakan prosedur sistematis yang memberikan stimulus tertentu kepada individu untuk memperoleh respons yang dapat diukur. Sementara itu, skala psikologis merupakan serangkaian item yang digunakan untuk mengukur sikap, nilai, atau karakteristik psikologis tertentu.
+
+Beberapa jenis tes dan skala yang umum digunakan antara lain:
+
+a.  **Tes kecerdasan dan bakat**: Digunakan untuk mengukur potensi intelektual dan kemampuan individu dalam bidang tertentu.
+b.  **Tes prestasi**: Digunakan untuk mengukur tingkat penguasaan individu terhadap pengetahuan atau keterampilan tertentu.
+c.  **Skala kepribadian**: Digunakan untuk mengukur karakteristik atau trait kepribadian.
+d.  **Skala sikap**: Digunakan untuk mengukur kecenderungan individu dalam menilai suatu objek atau fenomena.
+e.  **Skala nilai**: Digunakan untuk memahami sistem nilai yang dimiliki individu.
+
+### Pertimbangan dalam Memilih Metode Pengumpulan Data
+
+Pemilihan metode pengumpulan data harus mempertimbangkan beberapa aspek penting, yaitu:
+
+a.  Kesesuaian dengan tujuan penelitian
+b.  Jenis data yang dibutuhkan
+c.  Karakteristik partisipan penelitian
+d.  Ketersediaan sumber daya penelitian
+e.  pertimbangan etika penelitian
+
+Dalam banyak penelitian psikologi modern, peneliti sering mengombinasikan beberapa metode pengumpulan data untuk memperoleh pemahaman yang lebih komprehensif mengenai fenomena yang diteliti. Pembahasan yang lebih mendalam mengenai teknik pengumpulan data akan dijelaskan pada bab-bab selanjutnya dalam buku ini.
 
 ::: callout-tip
 ## Rangkuman
@@ -197,4 +285,7 @@ Pemilihan metode pengumpulan data harus mempertimbangkan kesesuaian dengan tujua
 -   Apa perbedaan utama antara data primer dan data sekunder, serta apa kelebihan dan keterbatasan masing-masing?
 -   Mengapa pemilihan teknik pengumpulan data harus disesuaikan dengan tujuan penelitian?
 -   Menurut Anda, dalam penelitian psikologi kapan wawancara lebih tepat digunakan dibandingkan kuesioner?
+:::
+
+::: sectionrefs
 :::

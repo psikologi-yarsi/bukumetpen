@@ -1,3 +1,13 @@
+---
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
 # Tinjauan Literatur dan Pengembangan Kerangka Teoretis
 
 ::: callout-note
@@ -23,10 +33,10 @@ Tinjauan literatur merupakan proses sistematis untuk mengidentifikasi, mengevalu
 
 Secara umum, tujuan utama tinjauan literatur adalah untuk menemukan konsep, teori, atau generalisasi yang dapat dijadikan landasan teoretis bagi penelitian yang akan dilakukan. Selain itu, tinjauan literatur juga membantu peneliti menemukan metode penelitian yang tepat serta memperluas pemahaman mengenai fenomena yang diteliti.
 
-Menurut Creswell dan Creswell (2018), tinjauan literatur memiliki beberapa fungsi penting dalam penelitian, antara lain:
+Menurut @Creswell2018, tinjauan literatur memiliki beberapa fungsi penting dalam penelitian, antara lain:
 
 1.  Menunjukkan bahwa peneliti memahami perkembangan pengetahuan pada bidang yang diteliti.
-2.  Mengidentifikasi kesenjangan penelitian (research gap).
+2.  Mengidentifikasi kesenjangan penelitian (*research gap*).
 3.  Memberikan dasar konseptual bagi pengembangan hipotesis atau pertanyaan penelitian.
 4.  Menjelaskan bagaimana penelitian yang dilakukan berkontribusi pada pengembangan ilmu pengetahuan.
 
@@ -40,11 +50,11 @@ Dalam penelitian ilmiah, tinjauan literatur memiliki beberapa tujuan utama, yait
 
     Penelitian membutuhkan kerangka konseptual yang jelas untuk menjelaskan hubungan antar variabel yang diteliti. Melalui tinjauan literatur, peneliti dapat menemukan teori-teori yang relevan untuk menjelaskan fenomena yang sedang diteliti.
 
-    Sebagai contoh, penelitian mengenai motivasi belajar dapat menggunakan teori self-determination dari Deci dan Ryan (2000) sebagai landasan untuk memahami bagaimana kebutuhan psikologis memengaruhi motivasi individu.
+    Sebagai contoh, penelitian mengenai motivasi belajar dapat menggunakan teori *self-determination* dari @Ryan2000 sebagai landasan untuk memahami bagaimana kebutuhan psikologis memengaruhi motivasi individu.
 
 2.  Mengidentifikasi temuan penelitian sebelumnya
 
-    Tinjauan literatur membantu peneliti mengetahui apa saja yang telah ditemukan oleh penelitian sebelumnya. Hal ini penting untuk menghindari duplikasi penelitian serta membantu peneliti memahami pola temuan yang telah ada. Menurut Hart (2018), tinjauan literatur yang baik mampu menunjukkan konsistensi maupun perbedaan temuan antar penelitian.
+    Tinjauan literatur membantu peneliti mengetahui apa saja yang telah ditemukan oleh penelitian sebelumnya. Hal ini penting untuk menghindari duplikasi penelitian serta membantu peneliti memahami pola temuan yang telah ada. Menurut @Hart2025, tinjauan literatur yang baik mampu menunjukkan konsistensi maupun perbedaan temuan antar penelitian.
 
 3.  Menentukan pendekatan metodologis yang sesuai
 
@@ -137,7 +147,7 @@ Peneliti harus memastikan bahwa setiap sumber yang dikutip dalam teks tercantum 
 
 Kerangka teoretis merupakan struktur konseptual yang menjelaskan hubungan antara konsep atau variabel utama dalam suatu penelitian. Kerangka ini dibangun berdasarkan teori-teori yang relevan serta temuan empiris dari penelitian sebelumnya. Dengan demikian, kerangka teoretis berfungsi sebagai landasan logis yang menjelaskan mengapa suatu variabel diperkirakan berhubungan dengan variabel lainnya.
 
-Dalam ilmu pengetahuan, teori berperan penting dalam menjelaskan fenomena yang diamati. Kerlinger dan Lee (2000) mendefinisikan teori sebagai *“a set of interrelated constructs (concepts), definitions, and propositions that present a systematic view of phenomena by specifying relations among variables”*. Definisi ini menegaskan bahwa teori menyediakan penjelasan sistematis mengenai hubungan antar variabel yang dapat digunakan untuk memahami dan memprediksi fenomena tertentu.
+Dalam ilmu pengetahuan, teori berperan penting dalam menjelaskan fenomena yang diamati. @Kerlinger2000 mendefinisikan teori sebagai *“a set of interrelated constructs (concepts), definitions, and propositions that present a systematic view of phenomena by specifying relations among variables”*. Definisi ini menegaskan bahwa teori menyediakan penjelasan sistematis mengenai hubungan antar variabel yang dapat digunakan untuk memahami dan memprediksi fenomena tertentu.
 
 Kerangka teoretis dalam penelitian pada dasarnya merupakan penerapan teori tersebut untuk menjelaskan fenomena yang menjadi fokus penelitian. Menurut Creswell dan Creswell (2018), kerangka teoretis memberikan dasar konseptual yang membantu peneliti menjelaskan hubungan antar variabel, sekaligus menjadi pijakan dalam merumuskan hipotesis penelitian.
 
@@ -147,13 +157,13 @@ Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi penting.
 
     Kerangka teoretis membantu peneliti memahami fenomena penelitian melalui perspektif teori tertentu. Melalui teori, peneliti dapat menjelaskan mekanisme psikologis yang mendasari suatu perilaku atau pengalaman manusia.
 
-    Sebagai contoh, penelitian mengenai perilaku prososial sering dijelaskan melalui teori empati. Batson (2011) menyatakan bahwa empati terhadap penderitaan orang lain dapat memunculkan motivasi altruistik untuk membantu individu tersebut. Dengan menggunakan teori tersebut, peneliti dapat menjelaskan mengapa empati diperkirakan berhubungan dengan perilaku menolong.
+    Sebagai contoh, penelitian mengenai perilaku prososial sering dijelaskan melalui teori empati. @Batson2011 menyatakan bahwa empati terhadap penderitaan orang lain dapat memunculkan motivasi altruistik untuk membantu individu tersebut. Dengan menggunakan teori tersebut, peneliti dapat menjelaskan mengapa empati diperkirakan berhubungan dengan perilaku menolong.
 
 2.  Mengidentifikasi variabel penelitian yang relevan
 
     Teori juga membantu peneliti menentukan variabel-variabel yang penting dalam menjelaskan fenomena yang diteliti. Variabel penelitian biasanya berasal dari konsep-konsep yang terdapat dalam teori.
 
-    Misalnya, dalam penelitian mengenai stres kerja, teori *Job Demand–Resources Model* menjelaskan bahwa kesejahteraan karyawan dipengaruhi oleh tuntutan pekerjaan (job demands) dan sumber daya pekerjaan (job resources). Tuntutan pekerjaan yang tinggi dapat meningkatkan stres, sementara sumber daya seperti dukungan sosial atau otonomi kerja dapat mengurangi dampak negatif tersebut (Bakker & Demerouti, 2007).
+    Misalnya, dalam penelitian mengenai stres kerja, teori *Job Demand–Resources Model* menjelaskan bahwa kesejahteraan karyawan dipengaruhi oleh tuntutan pekerjaan (*job demands*) dan sumber daya pekerjaan (*job resources*). Tuntutan pekerjaan yang tinggi dapat meningkatkan stres, sementara sumber daya seperti dukungan sosial atau otonomi kerja dapat mengurangi dampak negatif tersebut [@Bakker2007].
 
     Dengan merujuk pada teori tersebut, peneliti dapat menentukan variabel-variabel penelitian seperti tuntutan kerja, dukungan sosial, dan kesejahteraan psikologis.
 
@@ -161,13 +171,13 @@ Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi penting.
 
     Selain membantu menentukan variabel penelitian, teori juga memberikan penjelasan mengenai hubungan antar variabel tersebut. Hubungan ini tidak hanya didasarkan pada asumsi peneliti, tetapi pada argumentasi teoretis yang didukung oleh penelitian sebelumnya.
 
-    Ridley (2012) menyatakan bahwa tinjauan literatur yang baik tidak hanya merangkum penelitian sebelumnya, tetapi juga mengintegrasikan berbagai temuan tersebut untuk membangun argumen yang logis mengenai hubungan antar variabel. Oleh karena itu, kerangka teoretis harus mampu menunjukkan bagaimana teori dan penelitian sebelumnya saling mendukung dalam menjelaskan fenomena yang diteliti.
+    @Ridley2012 menyatakan bahwa tinjauan literatur yang baik tidak hanya merangkum penelitian sebelumnya, tetapi juga mengintegrasikan berbagai temuan tersebut untuk membangun argumen yang logis mengenai hubungan antar variabel. Oleh karena itu, kerangka teoretis harus mampu menunjukkan bagaimana teori dan penelitian sebelumnya saling mendukung dalam menjelaskan fenomena yang diteliti.
 
 4.  Menjadi dasar bagi pengembangan hipotesis penelitian
 
     Kerangka teoretis juga menjadi dasar bagi perumusan hipotesis penelitian. Hipotesis merupakan pernyataan mengenai hubungan yang diperkirakan terjadi antara dua atau lebih variabel yang dapat diuji secara empiris.
 
-    Menurut Neuman (2014), hipotesis yang baik harus memiliki dasar teoritis yang jelas. Artinya, hubungan antar variabel yang diajukan dalam hipotesis harus dapat dijelaskan melalui teori atau temuan penelitian sebelumnya.
+    Menurut @Neuman2014, hipotesis yang baik harus memiliki dasar teoritis yang jelas. Artinya, hubungan antar variabel yang diajukan dalam hipotesis harus dapat dijelaskan melalui teori atau temuan penelitian sebelumnya.
 
 ::: callout-tip
 ## Rangkuman
@@ -194,4 +204,7 @@ Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi penting.
 -   Mengapa pengutipan yang tepat penting dalam menjaga integritas akademik dalam penelitian?
 -   Bagaimana teori membantu peneliti menjelaskan hubungan antar variabel dalam suatu penelitian?
 -   Pilih satu topik penelitian psikologi, lalu diskusikan teori apa saja yang dapat digunakan sebagai dasar penyusunan kerangka teoretis penelitian tersebut.
+:::
+
+::: sectionrefs
 :::
