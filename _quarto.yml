@@ -54,5 +54,13 @@ format:
     nocite: false
   pdf:
     documentclass: scrreprt
+    
+  docx: 
+    toc: false
+    toc-depth: 3
+    number-sections: true
+    reference-doc: custom-reference.docx
+    fontsize: 12pt
+    linestretch: 1.5
   
 editor: visual

@@ -1,0 +1,57 @@
+\babel@toc {indonesian}{}\relax 
+\contentsline {chapter}{Prakata}{3}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Ilmu Pengetahuan dan Penelitian dalam Psikologi}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Pendahuluan}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Pengetahuan dan Ilmu Pengetahuan}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Pengertian Pengetahuan}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Pengertian Ilmu Pengetahuan}{5}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Cara-cara Memperoleh Pengetahuan}{6}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Kekukuhan Pendapat (\emph {Tenacity})}{6}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Otoritas (\emph {Authority})}{6}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Intuisi (\emph {Intuition})}{7}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Rasionalisme (\emph {Rationalism})}{7}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Empirisme (\emph {Empiricism})}{8}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}Metode Ilmiah dan Penelitian Psikologi}{8}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Mengapa Metode Ilmiah Penting bagi Mahasiswa Psikologi?}{8}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Hakikat Penelitian Ilmiah dalam Psikologi}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Hakikat Penelitian Ilmiah}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Tujuan Penelitian Ilmiah}{11}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Eksplorasi}{11}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Deskripsi}{11}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Prediksi}{11}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Eksplanasi}{12}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Intervensi}{12}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Jenis-Jenis Penelitian}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Deskriptif vs.~Analitis}{13}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Terapan vs.~Fundamental}{13}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Kuantitatif vs.~Kualitatif}{13}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Eksperimental vs.~Noneksperimental}{13}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Siklus Proses Penelitian}{13}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Elemen Penelitian Ilmiah}{14}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Pendahuluan}{14}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Tinjauan Literatur}{14}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Rumusan Masalah dan Hipotesis}{15}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Metode Penelitian}{15}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}Hasil}{15}{subsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.5.6}Diskusi}{15}{subsection.2.5.6}%
+\contentsline {chapter}{\numberline {3}Tinjauan Literatur dan Pengembangan Kerangka Teoretis}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Pengertian Tinjauan Literatur}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Tujuan Tinjauan Literatur dalam Penelitian}{18}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Sumber-sumber Literatur Ilmiah}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Kriteria Sumber Literatur yang Baik}{20}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Strategi Menelusuri Literatur}{20}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Etika Penggunaan Literatur dan Pengutipan}{21}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Pengembangan Kerangka Teoretis}{21}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Desain Penelitian dan Strategi Pengumpulan Data}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Pengertian Desain Penelitian}{25}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Fungsi Desain Penelitian}{26}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Komponen Utama Desain Penelitian}{26}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Klasifikasi Desain Penelitian}{27}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Metode Pengumpulan Data}{30}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Teknik Pengumpulan Data}{32}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Wawancara sebagai Metode Pengumpulan Data}{33}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Observasi sebagai Metode Pengumpulan Data}{34}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Tes dan Skala Psikologis}{35}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4.6.4}Pertimbangan dalam Memilih Metode Pengumpulan Data}{35}{subsection.4.6.4}%
+\contentsline {chapter}{References}{37}{chapter*.3}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

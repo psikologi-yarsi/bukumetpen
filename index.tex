@@ -1,0 +1,2228 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrreprt}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\definecolor{quarto-callout-color}{HTML}{909090}
+\definecolor{quarto-callout-note-color}{HTML}{0758E5}
+\definecolor{quarto-callout-important-color}{HTML}{CC1914}
+\definecolor{quarto-callout-warning-color}{HTML}{EB9113}
+\definecolor{quarto-callout-tip-color}{HTML}{00A047}
+\definecolor{quarto-callout-caution-color}{HTML}{FC5300}
+\definecolor{quarto-callout-color-frame}{HTML}{acacac}
+\definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+\definecolor{quarto-callout-important-color-frame}{HTML}{d9534f}
+\definecolor{quarto-callout-warning-color-frame}{HTML}{f0ad4e}
+\definecolor{quarto-callout-tip-color-frame}{HTML}{02b875}
+\definecolor{quarto-callout-caution-color-frame}{HTML}{fd7e14}
+\makeatother
+\makeatletter
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Daftar Isi}
+\else
+  \newcommand\contentsname{Daftar Isi}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Daftar Gambar}
+\else
+  \newcommand\listfigurename{Daftar Gambar}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Daftar Tabel}
+\else
+  \newcommand\listtablename{Daftar Tabel}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Gambar}
+\else
+  \newcommand\figurename{Gambar}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabel}
+\else
+  \newcommand\tablename{Tabel}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Daftar}
+\newcommand*\listoflistings{\listof{codelisting}{Daftar Daftar}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{indonesian}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Metodologi Penelitian},
+  pdfauthor={Sunu Bagaskara},
+  pdflang={id},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Metodologi Penelitian}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Buku Panduan Praktis untuk Mahasiswa dan Peneliti Muda}
+\author{Sunu Bagaskara}
+\date{8 September 2025}
+
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Daftar Isi}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+
+\bookmarksetup{startatroot}
+
+\chapter*{Prakata}\label{prakata}
+\addcontentsline{toc}{chapter}{Prakata}
+
+\markboth{Prakata}{Prakata}
+
+Buku panduan ini disusun sebagai sumber belajar praktis bagi mahasiswa
+Psikologi dan ilmu sosial, serta para peneliti pemula yang sedang
+mempelajari statistik. Tujuannya adalah membantu mereka memahami
+prinsip-prinsip dasar analisis statistik dengan cara yang sederhana,
+mudah dipahami, dan relevan dengan kebutuhan akademik mereka.
+
+Buku ini lahir dari pengalaman sehari-hari di kelas, saat mendampingi
+mahasiswa yang sering kali merasa ``alergi'' begitu mendengar kata
+\emph{statistik}. Padahal, kalau dipahami dengan cara yang tepat,
+statistik bukan sesuatu yang menakutkan. Justru ia adalah alat yang
+sangat membantu kita untuk membaca, memahami, dan menjelaskan fenomena
+psikologi secara lebih objektif.
+
+Berbeda dengan banyak buku statistik yang sarat dengan rumus-rumus
+matematika yang sering kali terasa mengintimidasi, buku ini disajikan
+dengan pendekatan yang lebih ramah bagi mahasiswa tahun-tahun awal.
+Penjelasan konsep lebih ditekankan pada pemahaman makna dan
+penerapannya, bukan sekadar pada perhitungan matematis.
+
+Untuk memperkaya proses belajar, materi dilengkapi dengan soal-soal
+latihan serta simulasi interaktif yang memungkinkan mahasiswa berlatih
+secara mandiri dan lebih aktif terlibat dalam pembelajaran. Dengan
+demikian, buku ini tidak hanya berfungsi sebagai referensi teoretis,
+tetapi juga sebagai panduan praktis yang membantu mahasiswa membangun
+keterampilan analisis statistik yang aplikatif.
+
+Harapannya, buku ini dapat menjadi bekal awal yang menyenangkan dan
+bermanfaat bagi mahasiswa dalam memahami statistik, sekaligus
+menumbuhkan kepercayaan diri mereka untuk menggunakannya sebagai alat
+penting dalam riset psikologi dan ilmu sosial.
+
+Kami menyadari buku ini masih jauh dari sempurna. Kritik dan saran dari
+para pembaca tentu sangat kami nantikan, agar pada edisi-edisi
+berikutnya buku ini bisa semakin baik.
+
+Akhir kata, semoga buku ini tidak hanya menjadi pegangan dalam belajar,
+tetapi juga menjadi sahabat yang menemani perjalanan Anda meneliti,
+menulis, dan memahami psikologi dengan lebih ilmiah.
+
+Jakarta, Agustus 2025
+
+\textbf{Tim Penulis}
+
+\bookmarksetup{startatroot}
+
+\chapter{Ilmu Pengetahuan dan Penelitian dalam
+Psikologi}\label{ilmu-pengetahuan-dan-penelitian-dalam-psikologi}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Capaian Pembelajaran}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-note-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+Setelah mempelajari bab ini, mahasiswa mampu:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Menjelaskan perbedaan antara pengetahuan dan ilmu pengetahuan.
+\item
+  Mengidentifikasi berbagai cara manusia memperoleh pengetahuan.
+\item
+  Menjelaskan keterbatasan pengetahuan non-ilmiah dalam memahami
+  fenomena psikologis.
+\item
+  Memahami posisi penelitian ilmiah sebagai dasar perkembangan ilmu
+  psikologi.
+\end{enumerate}
+
+\end{tcolorbox}
+
+\section{Pendahuluan}\label{pendahuluan}
+
+Psikologi sebagai disiplin ilmu mempelajari perilaku dan proses mental
+manusia secara sistematis. Namun, sebelum memahami bagaimana penelitian
+psikologi dilakukan, mahasiswa perlu memahami terlebih dahulu
+\textbf{apa yang dimaksud dengan ilmu pengetahuan}, bagaimana ilmu
+pengetahuan berbeda dari pengetahuan sehari-hari, serta mengapa
+penelitian ilmiah menjadi fondasi utama dalam pengembangan psikologi
+modern.
+
+Dalam kehidupan sehari-hari, manusia secara alami membentuk pengetahuan
+melalui pengalaman, kebiasaan, nasihat orang lain, maupun intuisi.
+Pengetahuan semacam ini sering kali membantu individu dalam mengambil
+keputusan praktis. Akan tetapi, tidak semua pengetahuan memiliki tingkat
+keandalan yang sama. Dalam konteks psikologi, penggunaan pengetahuan
+yang tidak didasarkan pada metode ilmiah dapat menyebabkan kesimpulan
+yang keliru, bias, atau bahkan merugikan individu dan masyarakat.
+
+Bab ini membahas dasar-dasar epistemologis penelitian psikologi, yaitu
+hubungan antara pengetahuan, ilmu pengetahuan, dan penelitian ilmiah.
+Pemahaman ini menjadi fondasi penting sebelum mahasiswa mempelajari
+logika penelitian, metodologi kuantitatif, maupun metodologi kualitatif
+pada bab-bab selanjutnya.
+
+\section{Pengetahuan dan Ilmu
+Pengetahuan}\label{pengetahuan-dan-ilmu-pengetahuan}
+
+\subsection{Pengertian Pengetahuan}\label{pengertian-pengetahuan}
+
+Pengetahuan (\emph{knowledge}) merujuk pada segala bentuk informasi,
+pemahaman, atau keyakinan yang dimiliki manusia mengenai realitas, baik
+tentang diri sendiri maupun lingkungan sekitarnya (Babbie, 2021;
+Kerlinger \& Lee, 2000). Pengetahuan dapat diperoleh melalui berbagai
+cara, seperti pengalaman pribadi, tradisi, pendidikan formal, maupun
+interaksi sosial.
+
+Dalam konteks kehidupan sehari-hari, pengetahuan sering kali dianggap
+benar selama pengetahuan tersebut dirasakan masuk akal, bermanfaat, atau
+sesuai dengan pengalaman subjektif individu. Namun, kriteria kebenaran
+semacam ini tidak selalu memadai untuk menjelaskan fenomena psikologis
+yang kompleks dan beragam.
+
+Dalam kehidupan sehari-hari, pengetahuan sering dinilai benar apabila:
+
+\begin{itemize}
+\tightlist
+\item
+  terasa masuk akal,
+\item
+  sesuai dengan pengalaman pribadi,
+\item
+  atau diyakini oleh banyak orang.
+\end{itemize}
+
+Namun, kriteria tersebut tidak selalu menjamin akurasi. Dalam psikologi,
+misalnya, pengalaman subjektif seseorang belum tentu merepresentasikan
+pola umum populasi. Pengetahuan sehari-hari sering kali bersifat
+parsial, kontekstual, dan rentan terhadap bias kognitif.
+
+\subsection{Pengertian Ilmu
+Pengetahuan}\label{pengertian-ilmu-pengetahuan}
+
+Ilmu pengetahuan (\emph{science}) merupakan bentuk pengetahuan yang
+diperoleh melalui proses ilmiah yang sistematis, objektif, dan dapat
+diuji (Creswell \& Clark, 2018; Kerlinger \& Lee, 2000). Ilmu
+pengetahuan tidak hanya bertujuan untuk memahami fenomena, tetapi juga
+untuk menjelaskan, memprediksi, dan menguji kembali penjelasan tersebut
+secara empiris.
+
+Suatu pengetahuan dapat disebut sebagai ilmu pengetahuan apabila
+memenuhi beberapa kriteria utama, antara lain:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Diperoleh melalui metode ilmiah
+\item
+  Berbasis pada data empiris
+\item
+  Dapat diuji dan direplikasi
+\item
+  Terbuka terhadap koreksi dan pengembangan
+\end{enumerate}
+
+Dengan demikian, ilmu pengetahuan merupakan bagian dari pengetahuan,
+tetapi memiliki standar epistemologis yang lebih ketat dibandingkan
+pengetahuan sehari-hari.
+
+\section{Cara-cara Memperoleh
+Pengetahuan}\label{cara-cara-memperoleh-pengetahuan}
+
+Manusia memperoleh pengetahuan melalui berbagai cara. Setiap cara
+memiliki kekuatan dan keterbatasan masing-masing dalam menghasilkan
+pemahaman yang akurat mengenai realitas (Babbie, 2021). Dalam konteks
+penelitian psikologi, pemahaman terhadap cara-cara ini penting agar
+mahasiswa mampu membedakan pengetahuan ilmiah dari pengetahuan
+non-ilmiah.
+
+\subsection{\texorpdfstring{Kekukuhan Pendapat
+(\emph{Tenacity})}{Kekukuhan Pendapat (Tenacity)}}\label{kekukuhan-pendapat-tenacity}
+
+Kekukuhan pendapat merujuk pada keyakinan yang dipertahankan karena
+telah lama dipercaya atau menjadi bagian dari tradisi sosial (Kerlinger
+\& Lee, 2000). Seseorang menerima suatu pernyataan sebagai benar bukan
+karena telah diuji, melainkan karena keyakinan tersebut diwariskan dari
+generasi ke generasi atau dianggap sebagai ``kebenaran umum''.
+Pendekatan ini sering memberikan rasa stabilitas psikologis karena
+individu tidak perlu terus-menerus mempertanyakan keyakinannya.
+
+Sebagai contoh, sebagian masyarakat percaya bahwa anak yang sering
+bermain di luar rumah akan menjadi ``nakal'' atau bahwa hukuman fisik
+efektif membentuk disiplin. Keyakinan tersebut mungkin bertahan lama
+tanpa pernah diuji melalui penelitian yang sistematis. Dalam konteks
+ilmiah, pendekatan ini menjadi bermasalah karena tidak memiliki
+mekanisme untuk mengoreksi kesalahan ketika bukti empiris menunjukkan
+hasil yang berbeda.
+
+Kelemahan utama kekukuhan pendapat adalah resistensinya terhadap
+perubahan. Ketika suatu keyakinan telah tertanam kuat, individu
+cenderung mengabaikan atau menolak bukti yang bertentangan. Akibatnya,
+pendekatan ini dapat mempertahankan kesalahan secara terus-menerus dan
+menghambat perkembangan pengetahuan ilmiah.
+
+\subsection{\texorpdfstring{Otoritas
+(\emph{Authority})}{Otoritas (Authority)}}\label{otoritas-authority}
+
+Pengetahuan melalui otoritas diperoleh dengan menerima informasi dari
+individu atau lembaga yang dianggap memiliki keahlian atau kekuasaan
+tertentu (Babbie, 2021). Dalam kehidupan akademik, mahasiswa menerima
+banyak informasi dari dosen, buku teks, atau tokoh ilmiah sebagai sumber
+yang dapat dipercaya. Pendekatan ini efisien karena memungkinkan
+transfer pengetahuan secara cepat tanpa harus melakukan verifikasi
+pribadi terhadap setiap klaim.
+
+Sebagai contoh, seseorang mungkin percaya bahwa metode terapi tertentu
+paling efektif karena direkomendasikan oleh figur publik atau pakar
+terkenal. Dalam praktik profesional, otoritas memang memiliki peran
+penting sebagai rujukan awal. Namun, dalam ilmu pengetahuan, pernyataan
+otoritatif tetap harus didukung oleh bukti empiris yang dapat diuji dan
+direplikasi.
+
+Kelemahan utama pendekatan otoritas adalah potensi penerimaan informasi
+secara tidak kritis. Ketergantungan berlebihan pada otoritas dapat
+menghambat pemikiran kritis dan membuat individu menerima klaim tanpa
+mempertanyakan dasar evidensinya. Dalam psikologi, sikap semacam ini
+dapat mempertahankan praktik yang sebenarnya tidak didukung oleh
+penelitian.
+
+\subsection{\texorpdfstring{Intuisi
+(\emph{Intuition})}{Intuisi (Intuition)}}\label{intuisi-intuition}
+
+Intuisi adalah pengetahuan yang muncul secara spontan tanpa melalui
+proses penalaran yang eksplisit (Kerlinger \& Lee, 2000). Individu
+sering kali merasa ``yakin'' terhadap suatu kesimpulan tanpa mampu
+menjelaskan proses logis yang mendasarinya. Intuisi dapat terbentuk dari
+pengalaman masa lalu, pola yang tersimpan dalam memori, atau respons
+emosional yang cepat.
+
+Sebagai contoh, seorang konselor mungkin merasa bahwa klien tertentu
+``tidak jujur'' hanya berdasarkan kesan awal selama sesi pertama.
+Meskipun intuisi dapat menjadi sinyal awal untuk melakukan eksplorasi
+lebih lanjut, intuisi tidak dapat dijadikan dasar kesimpulan profesional
+tanpa dukungan data yang sistematis. Dalam penelitian, kesan awal harus
+diuji melalui prosedur pengukuran yang terstandar agar tidak dipengaruhi
+oleh bias pribadi.
+
+Kelemahan utama intuisi adalah sifatnya yang subyektif dan sulit
+diverifikasi. Intuisi tidak menyediakan prosedur sistematis untuk
+menguji kebenarannya dan sangat rentan terhadap bias kognitif,
+stereotip, serta pengaruh emosi. Oleh karena itu, intuisi tidak dapat
+dijadikan landasan utama dalam pengambilan keputusan ilmiah.
+
+\subsection{\texorpdfstring{Rasionalisme
+(\emph{Rationalism})}{Rasionalisme (Rationalism)}}\label{rasionalisme-rationalism}
+
+Rasionalisme menekankan penggunaan penalaran logis sebagai sumber utama
+pengetahuan (Creswell \& Clark, 2018). Dalam pendekatan ini, individu
+menarik kesimpulan melalui proses deduksi berdasarkan prinsip umum yang
+dianggap benar. Konsistensi logis menjadi ukuran utama dalam menentukan
+kebenaran suatu pernyataan.
+
+Sebagai ilustrasi, seseorang dapat berargumen bahwa ``semua individu
+yang mengalami stres berat akan mengalami penurunan konsentrasi;
+mahasiswa A mengalami stres berat; maka mahasiswa A akan mengalami
+penurunan konsentrasi.'' Secara logis, argumen tersebut tampak valid.
+Namun, dalam kenyataannya, respons individu terhadap stres sangat
+bervariasi dan dipengaruhi oleh banyak faktor lain.
+
+Kelemahan utama rasionalisme adalah kemungkinan menghasilkan kesimpulan
+yang logis tetapi tidak sesuai dengan realitas empiris. Penalaran yang
+konsisten secara logika belum tentu benar secara faktual. Tanpa
+pengujian empiris, rasionalisme berisiko menghasilkan teori yang elegan
+secara konseptual tetapi tidak akurat dalam menjelaskan fenomena nyata.
+
+\subsection{\texorpdfstring{Empirisme
+(\emph{Empiricism})}{Empirisme (Empiricism)}}\label{empirisme-empiricism}
+
+Empirisme menekankan observasi dan pengalaman indrawi sebagai sumber
+utama pengetahuan (Babbie, 2021; Kerlinger \& Lee, 2000). Pengetahuan
+diperoleh melalui pengamatan langsung terhadap fenomena, kemudian
+disusun menjadi kesimpulan berdasarkan pola yang ditemukan. Pendekatan
+ini menjadi fondasi penting dalam penelitian psikologi karena menekankan
+pentingnya data yang dapat diamati.
+
+Sebagai contoh, seorang peneliti mungkin mengamati bahwa siswa yang
+mengikuti program bimbingan belajar menunjukkan peningkatan nilai.
+Berdasarkan pengamatan tersebut, peneliti dapat menyimpulkan bahwa
+program tersebut efektif. Namun, tanpa kontrol terhadap variabel lain,
+kesimpulan tersebut mungkin prematur karena peningkatan nilai dapat
+dipengaruhi oleh faktor tambahan seperti motivasi atau dukungan
+keluarga.
+
+Kelemahan utama empirisme adalah ketergantungannya pada persepsi dan
+interpretasi manusia yang tidak selalu obyektif. Observasi dapat
+dipengaruhi oleh bias peneliti, kesalahan pengukuran, atau kondisi
+situasional tertentu. Tanpa prosedur sistematis dan kontrol yang
+memadai, empirisme dapat menghasilkan generalisasi yang keliru.
+
+\section{Metode Ilmiah dan Penelitian
+Psikologi}\label{metode-ilmiah-dan-penelitian-psikologi}
+
+Metode ilmiah merupakan pendekatan sistematis dalam memperoleh
+pengetahuan dengan mengintegrasikan rasionalisme dan empirisme dalam
+satu kerangka penyelidikan ilmiah (Creswell \& Clark, 2018; Kerlinger \&
+Lee, 2000). Metode ini memungkinkan pengetahuan diperoleh secara
+objektif, terkontrol, dan dapat diuji.
+
+Secara umum, metode ilmiah melibatkan tahapan:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Observasi terhadap fenomena psikologis
+\item
+  Perumusan masalah dan dugaan sementara
+\item
+  Pengujian dugaan melalui pengumpulan data
+\item
+  Evaluasi dan penarikan kesimpulan
+\end{enumerate}
+
+Dalam psikologi, metode ilmiah digunakan untuk memastikan bahwa
+penjelasan mengenai perilaku dan proses mental manusia didasarkan pada
+bukti, bukan pada asumsi atau kepercayaan semata.
+
+\section{Mengapa Metode Ilmiah Penting bagi Mahasiswa
+Psikologi?}\label{mengapa-metode-ilmiah-penting-bagi-mahasiswa-psikologi}
+
+Sebagai mahasiswa psikologi, memahami metode ilmiah bukan sekadar
+kewajiban akademik, melainkan kebutuhan profesional. Keputusan yang
+berkaitan dengan asesmen, intervensi, maupun kebijakan psikologis harus
+didasarkan pada bukti, bukan pada opini.
+
+Metode ilmiah membantu mahasiswa:
+
+\begin{itemize}
+\tightlist
+\item
+  Menghindari kesalahan berpikir
+\item
+  Menguji klaim psikologis secara kritis
+\item
+  Membedakan fakta dari mitos
+\item
+  Mengambil keputusan berbasis bukti (\emph{evidence-based practice})
+\end{itemize}
+
+Dengan fondasi ini, mahasiswa akan lebih siap mempelajari logika
+penelitian, desain kuantitatif, maupun pendekatan kualitatif pada
+bab-bab selanjutnya.
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-tip-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-tip-color}{\faLightbulb}\hspace{0.5em}{Rangkuman}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-tip-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Pengetahuan dan ilmu pengetahuan adalah dua konsep yang berbeda.
+\item
+  Manusia memperoleh pengetahuan melalui berbagai cara, tetapi tidak
+  semuanya menghasilkan kebenaran ilmiah.
+\item
+  Metode ilmiah mengintegrasikan rasionalisme dan empirisme dalam proses
+  yang sistematis dan dapat diuji.
+\item
+  Psikologi sebagai disiplin ilmu berkembang melalui penelitian ilmiah
+  yang terbuka terhadap koreksi.
+\end{enumerate}
+
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-important-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-important-color}{\faExclamation}\hspace{0.5em}{Refleksi \& Diskusi}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-important-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Mengapa keyakinan yang telah lama dipercaya belum tentu benar secara
+  ilmiah?
+\item
+  Dalam situasi apa intuisi dapat membantu, dan kapan intuisi berpotensi
+  menyesatkan?
+\item
+  Berikan contoh fenomena psikologis yang memerlukan pembuktian ilmiah
+  untuk menghindari kesimpulan keliru.
+\end{itemize}
+
+\end{tcolorbox}
+
+\bookmarksetup{startatroot}
+
+\chapter{Hakikat Penelitian Ilmiah dalam
+Psikologi}\label{hakikat-penelitian-ilmiah-dalam-psikologi}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Capaian Pembelajaran}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-note-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+Setelah mempelajari bab ini, mahasiswa mampu:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Menjelaskan hakikat penelitian ilmiah dalam psikologi secara
+  konseptual.
+\item
+  Menguraikan tujuan penelitian ilmiah dan perbedaannya.
+\item
+  Mengklasifikasikan jenis penelitian berdasarkan karakteristik
+  metodologisnya.
+\item
+  Memahami siklus proses penelitian sebagai sistem yang dinamis.
+\item
+  Menjelaskan struktur dan elemen utama laporan penelitian ilmiah.
+\end{enumerate}
+
+\end{tcolorbox}
+
+\section{Hakikat Penelitian Ilmiah}\label{hakikat-penelitian-ilmiah}
+
+Penelitian ilmiah merupakan proses sistematis yang bertujuan untuk
+memperoleh pengetahuan baru melalui penerapan metode ilmiah. Proses ini
+melibatkan identifikasi masalah, perumusan pertanyaan, pengumpulan data,
+serta interpretasi hasil berdasarkan prosedur yang dapat diuji dan
+direplikasi (Babbie, 2021; Creswell \& Clark, 2018). Dalam psikologi,
+penelitian menjadi sarana utama untuk membedakan klaim berbasis bukti
+dari sekadar opini atau intuisi.
+
+Kerlinger \& Lee (2000) menekankan bahwa penelitian ilmiah adalah
+penyelidikan terkontrol, empiris, dan kritis terhadap proposisi
+hipotetis mengenai hubungan antarvariabel. Artinya, penelitian tidak
+hanya bertanya ``apa yang terjadi'', tetapi juga ``mengapa hal tersebut
+terjadi'' dan ``bagaimana hubungan antarvariabel dapat dijelaskan secara
+sistematis''. Dalam konteks psikologi, penelitian membantu menjelaskan
+dinamika perilaku, emosi, dan kognisi secara lebih terstruktur.
+
+Selain itu, penelitian ilmiah bersifat kumulatif dan terbuka terhadap
+koreksi. Setiap temuan baru dapat memperkuat, memodifikasi, atau bahkan
+membantah teori yang telah ada sebelumnya (Popper, 2005). Dengan
+demikian, penelitian bukanlah upaya mencari kebenaran absolut, melainkan
+proses berkelanjutan dalam mendekati pemahaman yang lebih akurat
+mengenai fenomena psikologis.
+
+\section{Tujuan Penelitian Ilmiah}\label{tujuan-penelitian-ilmiah}
+
+Penelitian ilmiah dalam psikologi memiliki beberapa tujuan yang berbeda
+tetapi saling berkaitan. Tujuan-tujuan ini mencerminkan tahapan
+perkembangan pengetahuan ilmiah dari pemahaman awal hingga aplikasi
+praktis (Bordens \& Abbott, 2018; Gravetter \& Forzano, 2018).
+
+\subsection{Eksplorasi}\label{eksplorasi}
+
+Penelitian eksploratif bertujuan untuk menjajaki fenomena yang masih
+belum dipahami secara mendalam. Pada tahap ini, peneliti berusaha
+mengidentifikasi pola awal, konsep dasar, atau isu penting yang layak
+diteliti lebih lanjut. Eksplorasi sering digunakan ketika literatur yang
+tersedia masih terbatas atau ketika fenomena baru muncul dalam
+masyarakat.
+
+Sebagai contoh, ketika media sosial mulai berkembang pesat, banyak
+penelitian awal dilakukan untuk mengeksplorasi dampaknya terhadap
+kesejahteraan psikologis remaja. Penelitian semacam ini tidak langsung
+menguji hubungan sebab-akibat, tetapi bertujuan memahami pengalaman dan
+pola perilaku secara umum. Tahap eksplorasi menjadi landasan penting
+bagi penelitian deskriptif maupun eksplanatori selanjutnya.
+
+\subsection{Deskripsi}\label{deskripsi}
+
+Penelitian deskriptif bertujuan menggambarkan karakteristik suatu
+fenomena secara sistematis dan akurat. Fokusnya adalah menjawab
+pertanyaan ``bagaimana kondisi yang ada saat ini'' tanpa menguji
+hubungan sebab-akibat (Neuman, 2014). Penelitian deskriptif sering
+digunakan untuk memetakan prevalensi, distribusi, atau pola perilaku
+dalam populasi tertentu.
+
+Misalnya, penelitian yang menggambarkan tingkat kecemasan mahasiswa
+selama pandemi memberikan gambaran umum kondisi psikologis kelompok
+tersebut. Meskipun tidak menjelaskan penyebab kecemasan, penelitian
+deskriptif memberikan data dasar yang sangat penting untuk perumusan
+kebijakan atau penelitian lanjutan. Dengan demikian, deskripsi merupakan
+tahap penting dalam membangun pemahaman empiris.
+
+\subsection{Prediksi}\label{prediksi}
+
+Tujuan prediktif dalam penelitian berkaitan dengan kemampuan untuk
+memperkirakan suatu variabel berdasarkan variabel lain. Penelitian jenis
+ini biasanya menggunakan pendekatan korelasional untuk mengidentifikasi
+kekuatan hubungan antarvariabel (Gravetter \& Forzano, 2018). Prediksi
+memiliki nilai praktis yang tinggi, terutama dalam konteks asesmen dan
+intervensi psikologis.
+
+Sebagai contoh, skor motivasi belajar dapat digunakan untuk memprediksi
+prestasi akademik mahasiswa. Meskipun prediksi tidak selalu menunjukkan
+hubungan sebab-akibat, informasi tersebut tetap bermanfaat dalam praktik
+pendidikan. Penelitian prediktif membantu pengambilan keputusan berbasis
+data yang lebih rasional.
+
+\subsection{Eksplanasi}\label{eksplanasi}
+
+Penelitian eksplanatori bertujuan menjelaskan hubungan sebab-akibat
+antarvariabel. Untuk mencapai tujuan ini, peneliti harus mengontrol
+variabel luar dan memanipulasi variabel independen secara sistematis
+(Shadish dkk., 2002). Penelitian eksperimen merupakan pendekatan yang
+paling umum digunakan untuk tujuan eksplanasi.
+
+Sebagai contoh, untuk mengetahui apakah metode pembelajaran tertentu
+meningkatkan motivasi belajar, peneliti perlu membandingkan kelompok
+yang menerima perlakuan dengan kelompok kontrol. Dengan kontrol yang
+memadai, peneliti dapat menarik kesimpulan mengenai hubungan kausal.
+Eksplanasi memberikan kontribusi penting terhadap pengembangan teori
+psikologi.
+
+\subsection{Intervensi}\label{intervensi}
+
+Tujuan intervensi berkaitan dengan upaya menciptakan perubahan yang
+terencana melalui penerapan strategi tertentu. Penelitian intervensi
+sering dilakukan dalam konteks klinis, pendidikan, maupun organisasi
+untuk menguji efektivitas program tertentu (Kazdin, 2024). Tujuan ini
+menunjukkan bahwa penelitian psikologi tidak hanya bersifat deskriptif,
+tetapi juga transformatif.
+
+Sebagai contoh, penelitian mengenai efektivitas terapi kognitif-perilaku
+dalam mengurangi gejala depresi bertujuan memastikan bahwa intervensi
+tersebut benar-benar memberikan manfaat. Hasil penelitian semacam ini
+menjadi dasar praktik berbasis bukti (\emph{evidence-based practice}).
+Dengan demikian, penelitian intervensi menghubungkan teori dengan
+praktik nyata.
+
+\section{Jenis-Jenis Penelitian}\label{jenis-jenis-penelitian}
+
+Penelitian dapat diklasifikasikan berdasarkan berbagai kriteria,
+termasuk tujuan, pendekatan, waktu pengumpulan data, dan desain
+metodologis. Klasifikasi ini membantu peneliti memilih strategi yang
+sesuai dengan pertanyaan penelitian (Creswell \& Clark, 2018; Neuman,
+2014).
+
+\subsection{Deskriptif vs.~Analitis}\label{deskriptif-vs.-analitis}
+
+Penelitian deskriptif berfokus pada penggambaran fenomena, sedangkan
+penelitian analitis bertujuan menguji hubungan atau menjelaskan
+sebab-akibat. Penelitian analitis memerlukan kerangka teori yang lebih
+kuat serta desain yang memungkinkan pengujian hipotesis. Perbedaan ini
+penting karena menentukan tingkat kompleksitas metodologi yang
+digunakan.
+
+\subsection{Terapan vs.~Fundamental}\label{terapan-vs.-fundamental}
+
+Penelitian fundamental bertujuan memperluas pemahaman teoretis tanpa
+mempertimbangkan aplikasi langsung. Sebaliknya, penelitian terapan
+berfokus pada penyelesaian masalah praktis yang dihadapi masyarakat
+(Bordens \& Abbott, 2018). Kedua jenis penelitian ini saling melengkapi
+dalam perkembangan ilmu psikologi.
+
+\subsection{Kuantitatif
+vs.~Kualitatif}\label{kuantitatif-vs.-kualitatif}
+
+Penelitian kuantitatif berakar pada paradigma positivisme yang
+menekankan objektivitas, pengukuran numerik, dan pengujian hipotesis
+(Creswell \& Clark, 2018). Pendekatan ini biasanya menggunakan desain
+terstruktur, instrumen terstandar, dan sampel besar untuk memungkinkan
+generalisasi.
+
+Sebaliknya, penelitian kualitatif berakar pada paradigma konstruktivisme
+yang menekankan pemahaman makna subjektif dan konteks sosial (Denzin \&
+Lincoln, 2018). Pendekatan ini menggunakan data berupa teks, wawancara,
+atau observasi mendalam untuk memahami pengalaman partisipan secara
+holistik.
+
+\subsection{Eksperimental
+vs.~Noneksperimental}\label{eksperimental-vs.-noneksperimental}
+
+Penelitian eksperimental melibatkan manipulasi variabel independen dan
+kontrol terhadap variabel luar untuk menguji hubungan sebab-akibat
+(Shadish dkk., 2002). Penelitian noneksperimental, seperti survei atau
+studi korelasional, tidak melibatkan manipulasi variabel tetapi tetap
+memberikan informasi penting mengenai hubungan antarvariabel.
+
+\section{Siklus Proses Penelitian}\label{siklus-proses-penelitian}
+
+Penelitian ilmiah merupakan proses siklik yang melibatkan tahapan yang
+saling berkaitan. Proses ini dimulai dari identifikasi masalah dan
+berlanjut hingga interpretasi serta evaluasi hasil (Babbie, 2021).
+Setiap tahap memengaruhi tahap berikutnya, sehingga penelitian bukanlah
+prosedur linear yang kaku.
+
+Tinjauan literatur menjadi tahap penting dalam proses ini karena
+membantu peneliti memahami posisi penelitiannya dalam konteks ilmu yang
+lebih luas. Setelah itu, peneliti merancang desain penelitian,
+mengumpulkan data, dan melakukan analisis. Hasil penelitian kemudian
+diinterpretasikan dalam kaitannya dengan teori dan penelitian
+sebelumnya.
+
+Siklus penelitian tidak berhenti pada publikasi hasil. Temuan baru dapat
+memunculkan pertanyaan lanjutan yang memulai siklus berikutnya. Dengan
+demikian, penelitian merupakan proses dinamis yang terus berkembang.
+
+Tahapan umum dalam proses penelitian meliputi:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Identifikasi kebutuhan atau masalah penelitian
+\item
+  Definisi masalah secara jelas
+\item
+  Tinjauan literatur
+\item
+  Perumusan hipotesis atau pertanyaan penelitian
+\item
+  Perancangan desain penelitian
+\item
+  Pengumpulan dan analisis data
+\item
+  Interpretasi dan evaluasi hasil
+\end{enumerate}
+
+\section{Elemen Penelitian Ilmiah}\label{elemen-penelitian-ilmiah}
+
+Penelitian ilmiah memiliki struktur yang sistematis dan terstandar.
+Struktur ini tidak sekadar format penulisan, tetapi mencerminkan logika
+berpikir ilmiah yang transparan dan dapat diuji (American Psychological
+Association, 2020). Setiap elemen dalam laporan penelitian memiliki
+fungsi epistemologis tertentu dalam membangun pengetahuan yang dapat
+dipertanggungjawabkan.
+
+\subsection{Pendahuluan}\label{pendahuluan-1}
+
+Pendahuluan menjelaskan latar belakang masalah, konteks fenomena, serta
+alasan pentingnya penelitian dilakukan. Bagian ini membangun argumentasi
+ilmiah yang mengarah pada pertanyaan penelitian yang spesifik (Creswell
+\& Clark, 2018). Dalam psikologi, pendahuluan biasanya menunjukkan
+kesenjangan antara fenomena empiris dan penjelasan teoretis yang
+tersedia.
+
+\subsection{Tinjauan Literatur}\label{tinjauan-literatur}
+
+Tinjauan literatur menempatkan penelitian dalam tradisi ilmiah yang
+telah ada. Bagian ini menyajikan teori dan temuan terdahulu secara
+kritis untuk menunjukkan posisi penelitian yang sedang dilakukan
+(Neuman, 2014). Tujuannya adalah mengidentifikasi kesenjangan atau
+inkonsistensi yang menjadi dasar penelitian baru.
+
+\subsection{Rumusan Masalah dan
+Hipotesis}\label{rumusan-masalah-dan-hipotesis}
+
+Rumusan masalah mengarahkan fokus penelitian agar jelas dan terukur.
+Dalam penelitian kuantitatif, rumusan masalah biasanya diterjemahkan
+menjadi hipotesis yang dapat diuji secara empiris (Kerlinger \& Lee,
+2000). Pada penelitian kualitatif, rumusan masalah lebih berbentuk
+pertanyaan terbuka yang mengarahkan eksplorasi makna.
+
+\subsection{Metode Penelitian}\label{metode-penelitian}
+
+Bagian metode menjelaskan desain, partisipan, instrumen, prosedur, dan
+teknik analisis data. Transparansi dalam metode memungkinkan penelitian
+direplikasi oleh peneliti lain (Gravetter \& Forzano, 2018). Bagian ini
+menjawab pertanyaan bagaimana pengetahuan diperoleh secara sistematis.
+
+\subsection{Hasil}\label{hasil}
+
+Bagian hasil menyajikan temuan penelitian secara objektif tanpa
+interpretasi berlebihan. Dalam penelitian kuantitatif, hasil biasanya
+disajikan dalam bentuk statistik, sedangkan dalam penelitian kualitatif
+berupa tema atau kategori utama (Field, 2018). Fokusnya adalah pada apa
+yang ditemukan dari data.
+
+\subsection{Diskusi}\label{diskusi}
+
+Diskusi menginterpretasikan hasil penelitian dalam kaitannya dengan
+hipotesis dan teori yang digunakan. Bagian ini juga membahas implikasi
+serta keterbatasan penelitian (American Psychological Association,
+2020). Diskusi menunjukkan kontribusi penelitian terhadap pengembangan
+ilmu psikologi.
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-tip-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-tip-color}{\faLightbulb}\hspace{0.5em}{Rangkuman}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-tip-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Penelitian ilmiah adalah proses sistematis untuk memperoleh
+  pengetahuan baru melalui metode ilmiah.
+\item
+  Tujuan penelitian meliputi eksplorasi, deskripsi, prediksi,
+  eksplanasi, dan intervensi.
+\item
+  Penelitian dapat diklasifikasikan berdasarkan tujuan, pendekatan, dan
+  desain metodologis.
+\item
+  Proses penelitian bersifat siklik dan berkelanjutan.
+\item
+  Laporan penelitian memiliki struktur yang terstandar untuk menjaga
+  transparansi dan replikasi.
+\end{enumerate}
+
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-important-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-important-color}{\faExclamation}\hspace{0.5em}{Refleksi \& Diskusi}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-important-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Jelaskan dengan kata-kata Anda sendiri apa yang membedakan penelitian
+  ilmiah dari sekadar pengumpulan informasi.
+\item
+  Dari lima tujuan penelitian (eksplorasi, deskripsi, prediksi,
+  eksplanasi, dan intervensi), berikan masing-masing satu contoh dalam
+  konteks psikologi.
+\item
+  Mengapa penelitian ilmiah harus mengikuti struktur yang sistematis
+  (pendahuluan, tinjauan literatur, metode, hasil, dan diskusi)?
+\item
+  Apa perbedaan utama antara penelitian kuantitatif dan kualitatif dalam
+  hal tujuan dan pendekatan?
+\item
+  Jika Anda ingin meneliti fenomena ``kepercayaan diri mahasiswa saat
+  presentasi'', pendekatan apa yang akan Anda pilih? Jelaskan alasan
+  Anda secara singkat.
+\end{itemize}
+
+\end{tcolorbox}
+
+\bookmarksetup{startatroot}
+
+\chapter{Tinjauan Literatur dan Pengembangan Kerangka
+Teoretis}\label{tinjauan-literatur-dan-pengembangan-kerangka-teoretis}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Capaian Pembelajaran}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-note-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Menjelaskan pengertian tinjauan literatur serta perannya dalam proses
+  penelitian ilmiah.
+\item
+  Menjelaskan tujuan tinjauan literatur dalam membangun landasan
+  teoretis penelitian.
+\item
+  Mengidentifikasi berbagai jenis sumber literatur ilmiah yang relevan
+  dengan topik penelitian.
+\item
+  Menilai kualitas sumber pustaka berdasarkan relevansi, kemutakhiran,
+  dan kredibilitas ilmiahnya.
+\item
+  Menggunakan strategi penelusuran literatur secara sistematis, seperti
+  backward referencing dan forward referencing.
+\item
+  Memahami prinsip etika akademik dalam penggunaan sumber literatur dan
+  penulisan kutipan.
+\item
+  Mengintegrasikan teori dan temuan penelitian sebelumnya dalam suatu
+  kerangka teoretis.
+\item
+  Mengembangkan model konseptual penelitian yang menjelaskan hubungan
+  antar variabel.
+\end{enumerate}
+
+\end{tcolorbox}
+
+\section{Pengertian Tinjauan
+Literatur}\label{pengertian-tinjauan-literatur}
+
+Dalam penelitian ilmiah, peneliti tidak memulai penelitian dari ruang
+kosong. Sebaliknya, penelitian selalu dibangun di atas pengetahuan yang
+telah dikembangkan oleh para peneliti sebelumnya. Oleh karena itu, salah
+satu tahap penting dalam proses penelitian adalah melakukan tinjauan
+literatur atau tinjauan pustaka.
+
+Tinjauan literatur merupakan proses sistematis untuk mengidentifikasi,
+mengevaluasi, dan mensintesis berbagai sumber ilmiah yang relevan dengan
+topik penelitian. Melalui proses ini, peneliti dapat memahami
+perkembangan teori, temuan empiris, serta pendekatan metodologis yang
+telah digunakan dalam penelitian sebelumnya.
+
+Secara umum, tujuan utama tinjauan literatur adalah untuk menemukan
+konsep, teori, atau generalisasi yang dapat dijadikan landasan teoretis
+bagi penelitian yang akan dilakukan. Selain itu, tinjauan literatur juga
+membantu peneliti menemukan metode penelitian yang tepat serta
+memperluas pemahaman mengenai fenomena yang diteliti.
+
+Menurut Creswell \& Clark (2018), tinjauan literatur memiliki beberapa
+fungsi penting dalam penelitian, antara lain:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Menunjukkan bahwa peneliti memahami perkembangan pengetahuan pada
+  bidang yang diteliti.
+\item
+  Mengidentifikasi kesenjangan penelitian (\emph{research gap}).
+\item
+  Memberikan dasar konseptual bagi pengembangan hipotesis atau
+  pertanyaan penelitian.
+\item
+  Menjelaskan bagaimana penelitian yang dilakukan berkontribusi pada
+  pengembangan ilmu pengetahuan.
+\end{enumerate}
+
+Dengan demikian, tinjauan literatur tidak sekadar menjadi kumpulan
+ringkasan penelitian terdahulu, tetapi merupakan analisis kritis yang
+membantu membangun kerangka berpikir penelitian.
+
+\section{Tujuan Tinjauan Literatur dalam
+Penelitian}\label{tujuan-tinjauan-literatur-dalam-penelitian}
+
+Dalam penelitian ilmiah, tinjauan literatur memiliki beberapa tujuan
+utama, yaitu:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Menyusun landasan teori penelitian
+
+  Penelitian membutuhkan kerangka konseptual yang jelas untuk
+  menjelaskan hubungan antar variabel yang diteliti. Melalui tinjauan
+  literatur, peneliti dapat menemukan teori-teori yang relevan untuk
+  menjelaskan fenomena yang sedang diteliti.
+
+  Sebagai contoh, penelitian mengenai motivasi belajar dapat menggunakan
+  teori \emph{self-determination} dari Ryan \& Deci (2000) sebagai
+  landasan untuk memahami bagaimana kebutuhan psikologis memengaruhi
+  motivasi individu.
+\item
+  Mengidentifikasi temuan penelitian sebelumnya
+
+  Tinjauan literatur membantu peneliti mengetahui apa saja yang telah
+  ditemukan oleh penelitian sebelumnya. Hal ini penting untuk
+  menghindari duplikasi penelitian serta membantu peneliti memahami pola
+  temuan yang telah ada. Menurut Hart (2025), tinjauan literatur yang
+  baik mampu menunjukkan konsistensi maupun perbedaan temuan antar
+  penelitian.
+\item
+  Menentukan pendekatan metodologis yang sesuai
+
+  Selain teori, peneliti juga dapat mempelajari metode yang digunakan
+  dalam penelitian sebelumnya. Informasi ini membantu peneliti memilih
+  desain penelitian, instrumen pengukuran, dan teknik analisis data yang
+  paling tepat.
+\item
+  Memperluas pemahaman terhadap fenomena penelitian
+
+  Melalui berbagai sumber ilmiah, peneliti dapat memperoleh pemahaman
+  yang lebih luas tentang konteks sosial, budaya, maupun psikologis dari
+  fenomena yang diteliti.
+\end{enumerate}
+
+Dengan demikian, tinjauan literatur berfungsi sebagai fondasi ilmiah
+yang memperkuat argumen dan rasionalitas penelitian.
+
+\section{Sumber-sumber Literatur
+Ilmiah}\label{sumber-sumber-literatur-ilmiah}
+
+Sumber pustaka dalam penelitian dapat dibedakan menjadi dua kategori
+utama, yaitu sumber acuan umum dan sumber acuan khusus.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Sumber acuan umum
+
+  Sumber acuan umum biasanya digunakan untuk memahami konsep dasar atau
+  teori yang bersifat umum. Contoh sumber acuan umum antara lain:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Buku teks akademik
+  \item
+    Ensiklopedia ilmiah
+  \item
+    \emph{Handbook} dalam bidang ilmu tertentu
+  \end{itemize}
+
+  Sumber ini umumnya memberikan gambaran konseptual yang luas mengenai
+  suatu topik penelitian.
+\item
+  Sumber acuan khusus
+
+  Sumber acuan khusus biasanya berisi hasil penelitian yang lebih
+  spesifik dan mutakhir. Beberapa contoh sumber acuan khusus antara
+  lain:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Artikel jurnal ilmiah
+  \item
+    Disertasi atau tesis
+  \item
+    Laporan penelitian
+  \item
+    Prosiding konferensi ilmiah
+  \item
+    Makalah seminar
+  \item
+    Basis data ilmiah di internet
+  \end{itemize}
+\end{enumerate}
+
+Dalam penelitian ilmiah, artikel jurnal umumnya dianggap sebagai sumber
+referensi yang paling penting karena memuat temuan penelitian terbaru
+yang telah melalui proses peer review.
+
+\section{Kriteria Sumber Literatur yang
+Baik}\label{kriteria-sumber-literatur-yang-baik}
+
+Tidak semua sumber bacaan dapat dijadikan rujukan dalam penelitian
+ilmiah. Oleh karena itu, peneliti perlu mempertimbangkan beberapa
+kriteria ketika memilih sumber literatur.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Relevansi
+
+  Sumber literatur harus berkaitan langsung dengan topik penelitian yang
+  sedang dikaji. Literatur yang tidak relevan hanya akan memperluas
+  pembahasan tanpa memberikan kontribusi substantif.
+\item
+  Kemutakhiran
+
+  Dalam banyak bidang ilmu, terutama psikologi dan ilmu sosial,
+  pengetahuan terus berkembang. Oleh karena itu, peneliti dianjurkan
+  menggunakan sumber yang relatif mutakhir agar penelitian mencerminkan
+  perkembangan terbaru dalam bidang tersebut.
+\item
+  Kredibilitas ilmiah
+
+  Sumber literatur harus berasal dari publikasi ilmiah yang memiliki
+  reputasi baik, seperti jurnal akademik yang terindeks atau penerbit
+  akademik yang terpercaya.
+\end{enumerate}
+
+Perlu diingat bahwa kualitas penelitian tidak ditentukan oleh banyaknya
+jumlah referensi yang digunakan, melainkan oleh relevansi dan kualitas
+referensi tersebut.
+
+\section{Strategi Menelusuri
+Literatur}\label{strategi-menelusuri-literatur}
+
+Menemukan literatur yang relevan merupakan keterampilan penting bagi
+seorang peneliti. Terdapat beberapa strategi yang dapat digunakan untuk
+menelusuri literatur ilmiah.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \emph{Backward referencing}
+
+  \emph{Backward referencing} dilakukan dengan menelusuri daftar pustaka
+  dari artikel atau buku yang dianggap penting. Dengan cara ini,
+  peneliti dapat menemukan sumber-sumber yang menjadi dasar bagi
+  penelitian tersebut. Strategi ini membantu peneliti memahami
+  perkembangan awal suatu konsep atau teori.
+\item
+  \emph{Forward referencing}
+
+  \emph{Forward referencing} dilakukan dengan mencari artikel-artikel
+  yang mengutip suatu karya ilmiah tertentu. Cara ini membantu peneliti
+  mengetahui bagaimana suatu teori atau temuan penelitian berkembang
+  dari waktu ke waktu. Saat ini, proses \emph{forward referencing} dapat
+  dilakukan dengan mudah melalui berbagai basis data ilmiah seperti
+  Google Scholar atau Scopus.
+\end{enumerate}
+
+Kombinasi kedua strategi ini memungkinkan peneliti memperoleh gambaran
+yang lebih komprehensif mengenai perkembangan penelitian pada suatu
+topik.
+
+\section{Etika Penggunaan Literatur dan
+Pengutipan}\label{etika-penggunaan-literatur-dan-pengutipan}
+
+Dalam penulisan karya ilmiah, penggunaan sumber literatur harus
+mengikuti prinsip etika akademik. Setiap gagasan, teori, atau data yang
+berasal dari sumber lain harus disertai dengan kutipan yang jelas.
+
+Kutipan merupakan cara untuk memberi informasi kepada pembaca bahwa
+sebagian gagasan dalam tulisan berasal dari karya ilmiah sebelumnya.
+Selain itu, pengutipan juga berfungsi untuk:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Menghargai karya ilmiah peneliti lain
+\item
+  Menunjukkan dasar ilmiah dari argumentasi peneliti
+\item
+  Memberikan kesempatan kepada pembaca untuk menelusuri sumber asli
+\item
+  Menjaga integritas dan kejujuran akademik
+\end{enumerate}
+
+Dalam psikologi, gaya penulisan kutipan yang paling banyak digunakan
+adalah gaya American Psychological Association (APA). Format kutipan
+biasanya ditulis dalam bentuk:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Kutipan naratif}: penulis menjadi bagian dari kalimat. Contoh:
+  Bandura (1986) menyatakan bahwa pembelajaran sosial terjadi melalui
+  proses observasi.
+\item
+  \textbf{Kutipan dalam tanda kurung}: penulis ditulis dalam kurung.
+  Contoh: Pembelajaran sosial dapat terjadi melalui observasi terhadap
+  perilaku orang lain (Bandura, 1986).
+\end{itemize}
+
+Peneliti harus memastikan bahwa setiap sumber yang dikutip dalam teks
+tercantum dalam daftar pustaka.
+
+\section{Pengembangan Kerangka
+Teoretis}\label{pengembangan-kerangka-teoretis}
+
+Kerangka teoretis merupakan struktur konseptual yang menjelaskan
+hubungan antara konsep atau variabel utama dalam suatu penelitian.
+Kerangka ini dibangun berdasarkan teori-teori yang relevan serta temuan
+empiris dari penelitian sebelumnya. Dengan demikian, kerangka teoretis
+berfungsi sebagai landasan logis yang menjelaskan mengapa suatu variabel
+diperkirakan berhubungan dengan variabel lainnya.
+
+Dalam ilmu pengetahuan, teori berperan penting dalam menjelaskan
+fenomena yang diamati. Kerlinger \& Lee (2000) mendefinisikan teori
+sebagai \emph{``a set of interrelated constructs (concepts),
+definitions, and propositions that present a systematic view of
+phenomena by specifying relations among variables''}. Definisi ini
+menegaskan bahwa teori menyediakan penjelasan sistematis mengenai
+hubungan antar variabel yang dapat digunakan untuk memahami dan
+memprediksi fenomena tertentu.
+
+Kerangka teoretis dalam penelitian pada dasarnya merupakan penerapan
+teori tersebut untuk menjelaskan fenomena yang menjadi fokus penelitian.
+Menurut Creswell dan Creswell (2018), kerangka teoretis memberikan dasar
+konseptual yang membantu peneliti menjelaskan hubungan antar variabel,
+sekaligus menjadi pijakan dalam merumuskan hipotesis penelitian.
+
+Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi
+penting.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Menjelaskan fenomena penelitian secara konseptual
+
+  Kerangka teoretis membantu peneliti memahami fenomena penelitian
+  melalui perspektif teori tertentu. Melalui teori, peneliti dapat
+  menjelaskan mekanisme psikologis yang mendasari suatu perilaku atau
+  pengalaman manusia.
+
+  Sebagai contoh, penelitian mengenai perilaku prososial sering
+  dijelaskan melalui teori empati. Batson (2011) menyatakan bahwa empati
+  terhadap penderitaan orang lain dapat memunculkan motivasi altruistik
+  untuk membantu individu tersebut. Dengan menggunakan teori tersebut,
+  peneliti dapat menjelaskan mengapa empati diperkirakan berhubungan
+  dengan perilaku menolong.
+\item
+  Mengidentifikasi variabel penelitian yang relevan
+
+  Teori juga membantu peneliti menentukan variabel-variabel yang penting
+  dalam menjelaskan fenomena yang diteliti. Variabel penelitian biasanya
+  berasal dari konsep-konsep yang terdapat dalam teori.
+
+  Misalnya, dalam penelitian mengenai stres kerja, teori \emph{Job
+  Demand--Resources Model} menjelaskan bahwa kesejahteraan karyawan
+  dipengaruhi oleh tuntutan pekerjaan (\emph{job demands}) dan sumber
+  daya pekerjaan (\emph{job resources}). Tuntutan pekerjaan yang tinggi
+  dapat meningkatkan stres, sementara sumber daya seperti dukungan
+  sosial atau otonomi kerja dapat mengurangi dampak negatif tersebut
+  (Bakker \& Demerouti, 2007).
+
+  Dengan merujuk pada teori tersebut, peneliti dapat menentukan
+  variabel-variabel penelitian seperti tuntutan kerja, dukungan sosial,
+  dan kesejahteraan psikologis.
+\item
+  Menjelaskan hubungan antar variabel
+
+  Selain membantu menentukan variabel penelitian, teori juga memberikan
+  penjelasan mengenai hubungan antar variabel tersebut. Hubungan ini
+  tidak hanya didasarkan pada asumsi peneliti, tetapi pada argumentasi
+  teoretis yang didukung oleh penelitian sebelumnya.
+
+  Ridley (2012) menyatakan bahwa tinjauan literatur yang baik tidak
+  hanya merangkum penelitian sebelumnya, tetapi juga mengintegrasikan
+  berbagai temuan tersebut untuk membangun argumen yang logis mengenai
+  hubungan antar variabel. Oleh karena itu, kerangka teoretis harus
+  mampu menunjukkan bagaimana teori dan penelitian sebelumnya saling
+  mendukung dalam menjelaskan fenomena yang diteliti.
+\item
+  Menjadi dasar bagi pengembangan hipotesis penelitian
+
+  Kerangka teoretis juga menjadi dasar bagi perumusan hipotesis
+  penelitian. Hipotesis merupakan pernyataan mengenai hubungan yang
+  diperkirakan terjadi antara dua atau lebih variabel yang dapat diuji
+  secara empiris.
+
+  Menurut Neuman (2014), hipotesis yang baik harus memiliki dasar
+  teoritis yang jelas. Artinya, hubungan antar variabel yang diajukan
+  dalam hipotesis harus dapat dijelaskan melalui teori atau temuan
+  penelitian sebelumnya.
+\end{enumerate}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-tip-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-tip-color}{\faLightbulb}\hspace{0.5em}{Rangkuman}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-tip-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Tinjauan literatur merupakan proses sistematis untuk menelaah teori,
+  konsep, dan temuan penelitian sebelumnya yang relevan dengan topik
+  penelitian.
+\item
+  Tinjauan literatur membantu peneliti memahami perkembangan pengetahuan
+  dalam suatu bidang serta mengidentifikasi kesenjangan penelitian.
+\item
+  Sumber literatur dapat berasal dari berbagai publikasi ilmiah, seperti
+  buku teks, artikel jurnal, laporan penelitian, tesis, disertasi, dan
+  prosiding konferensi.
+\item
+  Pemilihan sumber pustaka perlu mempertimbangkan relevansi dengan topik
+  penelitian, kemutakhiran sumber, serta kualitas ilmiah publikasi.
+\item
+  Penelusuran literatur dapat dilakukan melalui berbagai strategi,
+  antara lain menelusuri daftar pustaka dari sumber penting
+  (\emph{backward referencing}) dan mencari penelitian yang mengutip
+  sumber tersebut (\emph{forward referencing}).
+\item
+  Penggunaan literatur dalam karya ilmiah harus mengikuti prinsip etika
+  akademik, termasuk mencantumkan sumber kutipan secara tepat untuk
+  menghindari plagiarisme.
+\item
+  Kerangka teoretis merupakan struktur konseptual yang menjelaskan
+  hubungan antar konsep atau variabel dalam penelitian.
+\item
+  Kerangka teoretis dibangun dengan mengintegrasikan teori dan temuan
+  penelitian sebelumnya untuk menjelaskan fenomena yang diteliti.
+\item
+  Kerangka teoretis menjadi dasar bagi pengembangan model konseptual
+  penelitian serta perumusan hipotesis.
+\end{enumerate}
+
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-important-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-important-color}{\faExclamation}\hspace{0.5em}{Refleksi \& DIskusi}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-important-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Mengapa tinjauan literatur menjadi bagian penting dalam penyusunan
+  proposal atau laporan penelitian?
+\item
+  Apa perbedaan fungsi buku teks dan artikel jurnal ilmiah dalam
+  penyusunan tinjauan literatur?
+\item
+  Bagaimana cara menentukan apakah suatu sumber literatur cukup kredibel
+  untuk dijadikan referensi penelitian?
+\item
+  Mengapa peneliti perlu menggunakan sumber pustaka yang relatif
+  mutakhir dalam penelitian ilmiah?
+\item
+  Bagaimana strategi yang dapat digunakan untuk menemukan literatur yang
+  relevan dengan topik penelitian?
+\item
+  Mengapa pengutipan yang tepat penting dalam menjaga integritas
+  akademik dalam penelitian?
+\item
+  Bagaimana teori membantu peneliti menjelaskan hubungan antar variabel
+  dalam suatu penelitian?
+\item
+  Pilih satu topik penelitian psikologi, lalu diskusikan teori apa saja
+  yang dapat digunakan sebagai dasar penyusunan kerangka teoretis
+  penelitian tersebut.
+\end{itemize}
+
+\end{tcolorbox}
+
+\bookmarksetup{startatroot}
+
+\chapter{Desain Penelitian dan Strategi Pengumpulan
+Data}\label{desain-penelitian-dan-strategi-pengumpulan-data}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-note-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Capaian Pembelajaran}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-note-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+Setelah mempelajari bab ini, mahasiswa mampu:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Menjelaskan pengertian dan fungsi desain penelitian dalam proses
+  penelitian ilmiah.
+\item
+  Mengidentifikasi berbagai klasifikasi desain penelitian berdasarkan
+  jumlah kontak dengan partisipan, periode penelitian, sumber
+  investigasi, dan metode penelitian.
+\item
+  Membedakan desain penelitian eksperimental, kuasi-eksperimental, dan
+  non-eksperimental beserta karakteristik utamanya.
+\item
+  Menjelaskan berbagai metode pengumpulan data yang umum digunakan dalam
+  penelitian psikologi.
+\item
+  Membedakan metode pengumpulan data berdasarkan sumber data, jenis
+  data, dan interpretasi data.
+\item
+  Memahami hubungan antara desain penelitian dan strategi pengumpulan
+  data dalam menjawab pertanyaan penelitian.
+\end{enumerate}
+
+\end{tcolorbox}
+
+\section{Pengertian Desain
+Penelitian}\label{pengertian-desain-penelitian}
+
+Desain penelitian merupakan rencana sistematis yang disusun peneliti
+untuk menjawab pertanyaan penelitian secara terarah dan dapat
+dipertanggungjawabkan secara ilmiah. Dalam metodologi penelitian, desain
+penelitian sering dipahami sebagai \emph{framework} atau kerangka kerja
+yang menggambarkan bagaimana suatu penelitian akan dilaksanakan, mulai
+dari perumusan masalah hingga analisis data. Dengan adanya desain
+penelitian, peneliti dapat memastikan bahwa setiap langkah penelitian
+saling berkaitan dan mendukung tujuan penelitian yang ingin dicapai
+(Babbie, 2021).
+
+Creswell \& Creswell (2018) menjelaskan bahwa desain penelitian
+merupakan rencana yang menghubungkan pertanyaan penelitian dengan
+prosedur pengumpulan data, teknik analisis data, dan interpretasi hasil
+penelitian. Desain penelitian tidak hanya menentukan metode apa yang
+digunakan, tetapi juga bagaimana metode tersebut diterapkan secara
+sistematis. Oleh karena itu, penyusunan desain penelitian merupakan
+tahap penting yang menentukan kualitas suatu penelitian.
+
+Dalam konteks penelitian psikologi, desain penelitian menjadi sangat
+penting karena fenomena psikologis sering kali kompleks dan melibatkan
+berbagai faktor yang saling berinteraksi. Desain penelitian yang baik
+membantu peneliti memilih pendekatan metodologis yang tepat serta
+menghindari kesalahan prosedural yang dapat memengaruhi validitas
+penelitian.
+
+\section{Fungsi Desain Penelitian}\label{fungsi-desain-penelitian}
+
+Desain penelitian memiliki beberapa fungsi penting dalam proses
+penelitian ilmiah. Secara umum, desain penelitian membantu peneliti
+merencanakan dan mengorganisasi seluruh tahapan penelitian agar berjalan
+secara sistematis.
+
+Beberapa fungsi utama desain penelitian antara lain:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Memberikan kerangka kerja penelitian\\
+  Desain penelitian menyediakan panduan yang jelas mengenai
+  langkah-langkah yang harus dilakukan selama penelitian. Kerangka ini
+  membantu peneliti menjaga konsistensi antara pertanyaan penelitian,
+  metode yang digunakan, serta jenis data yang dikumpulkan. Dengan
+  demikian, proses penelitian dapat berlangsung secara lebih terarah dan
+  sistematis.
+\item
+  Menjamin kualitas penelitian\\
+  Desain penelitian yang baik membantu memastikan bahwa prosedur
+  penelitian mampu menghasilkan data yang valid dan reliabel. Melalui
+  perencanaan yang matang, peneliti dapat mengurangi potensi bias serta
+  meningkatkan akurasi hasil penelitian. Hal ini sangat penting terutama
+  dalam penelitian psikologi yang sering melibatkan pengukuran konstruk
+  yang kompleks.
+\item
+  Mengoptimalkan penggunaan sumber daya penelitian\\
+  Penelitian sering kali dibatasi oleh waktu, biaya, dan sumber daya
+  manusia. Desain penelitian membantu peneliti merencanakan penggunaan
+  sumber daya secara efisien sehingga penelitian dapat dilaksanakan
+  secara realistis. Dengan perencanaan yang baik, peneliti dapat
+  menghindari prosedur yang tidak perlu atau tidak relevan dengan tujuan
+  penelitian.
+\end{enumerate}
+
+\section{Komponen Utama Desain
+Penelitian}\label{komponen-utama-desain-penelitian}
+
+Secara umum, desain penelitian mencakup beberapa komponen utama yang
+saling berkaitan. Komponen-komponen ini membentuk suatu sistem yang
+memastikan bahwa penelitian dilakukan secara logis dan sistematis.
+
+Komponen utama desain penelitian meliputi:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Rumusan masalah atau pertanyaan penelitian}\\
+  Rumusan masalah merupakan titik awal dari seluruh proses penelitian.
+  Pertanyaan penelitian menentukan fokus penelitian serta jenis
+  informasi yang perlu dikumpulkan. Oleh karena itu, desain penelitian
+  harus selalu disusun dengan mempertimbangkan bagaimana pertanyaan
+  penelitian tersebut akan dijawab.
+\item
+  \textbf{Unit analisis dan partisipan penelitian}\\
+  Peneliti perlu menentukan siapa atau apa yang menjadi fokus
+  penelitian, misalnya individu, kelompok, organisasi, atau interaksi
+  sosial tertentu. Penentuan unit analisis akan memengaruhi metode
+  pengumpulan data yang digunakan. Misalnya, penelitian yang berfokus
+  pada interaksi kelompok mungkin lebih cocok menggunakan observasi
+  dibandingkan survei individu.
+\item
+  \textbf{Strategi pengumpulan data}\\
+  Desain penelitian juga harus menjelaskan bagaimana data akan
+  diperoleh. Peneliti perlu memilih metode pengumpulan data yang sesuai
+  dengan tujuan penelitian dan karakteristik fenomena yang diteliti.
+  Strategi ini dapat melibatkan satu metode saja atau kombinasi beberapa
+  metode.
+\item
+  \textbf{Strategi analisis data}\\
+  Selain pengumpulan data, desain penelitian juga mencakup rencana
+  mengenai bagaimana data tersebut akan dianalisis. Dalam penelitian
+  kuantitatif, analisis biasanya menggunakan teknik statistik.
+  Sebaliknya, dalam penelitian kualitatif analisis sering melibatkan
+  proses interpretasi makna melalui \emph{coding} dan kategorisasi data.
+\item
+  \textbf{Pertimbangan validitas dan kualitas penelitian}\\
+  Desain penelitian juga harus mempertimbangkan bagaimana menjaga
+  kualitas data dan hasil penelitian. Hal ini mencakup strategi untuk
+  meningkatkan validitas, reliabilitas, serta kredibilitas penelitian.
+  Pembahasan lebih mendalam mengenai isu ini akan dijelaskan pada bab
+  tersendiri mengenai validitas dan kualitas penelitian.
+\end{enumerate}
+
+\section{Klasifikasi Desain
+Penelitian}\label{klasifikasi-desain-penelitian}
+
+Desain penelitian dapat diklasifikasikan berdasarkan beberapa aspek yang
+berkaitan dengan bagaimana penelitian dirancang dan dilaksanakan.
+Klasifikasi ini membantu peneliti memahami berbagai alternatif strategi
+penelitian yang dapat digunakan untuk menjawab pertanyaan penelitian
+secara tepat. Dalam praktiknya, satu penelitian sering kali memiliki
+karakteristik dari lebih dari satu tipe desain sekaligus.
+
+Pada bagian ini, desain penelitian dijelaskan berdasarkan lima dimensi
+utama, yaitu \textbf{jumlah kontak dengan partisipan, periode
+penelitian, dan sumber investigasi}. Masing-masing dimensi memberikan
+gambaran mengenai bagaimana penelitian dilakukan serta jenis informasi
+yang dihasilkan.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Berdasarkan jumlah kontak dengan partisipan}
+
+  Klasifikasi ini merujuk pada seberapa sering peneliti berinteraksi
+  dengan partisipan selama proses pengumpulan data.
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \item
+    \textbf{\emph{Single-contact design}}
+
+    Dalam desain ini, peneliti hanya melakukan satu kali kontak dengan
+    partisipan untuk mengumpulkan data penelitian. Pendekatan ini sering
+    digunakan dalam penelitian survei atau studi deskriptif yang
+    bertujuan menggambarkan kondisi tertentu pada satu waktu. Kelebihan
+    desain ini adalah efisiensi dalam hal waktu dan biaya, karena
+    pengumpulan data dapat dilakukan secara relatif cepat. Namun,
+    keterbatasannya adalah peneliti tidak dapat mengamati perubahan
+    kondisi partisipan dari waktu ke waktu.
+  \item
+    \textbf{\emph{Multiple-contact design}}
+
+    Pada desain ini, peneliti melakukan lebih dari satu kali kontak
+    dengan partisipan selama penelitian berlangsung. Interaksi yang
+    berulang memungkinkan peneliti mengamati perubahan perilaku, sikap,
+    atau kondisi tertentu dalam periode waktu tertentu. Desain ini
+    sering digunakan dalam penelitian longitudinal, eksperimen, atau
+    studi perkembangan. Meskipun memberikan informasi yang lebih
+    mendalam, desain ini biasanya memerlukan waktu dan sumber daya
+    penelitian yang lebih besar.
+  \end{enumerate}
+\item
+  \textbf{Berdasarkan periode penelitian}
+
+  Desain penelitian juga dapat dibedakan berdasarkan hubungan antara
+  waktu penelitian dengan peristiwa yang diteliti. Perspektif waktu ini
+  memengaruhi cara peneliti mengumpulkan data serta bagaimana hubungan
+  antara berbagai faktor dalam penelitian dipahami.
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \item
+    \textbf{Desain retrospektif}
+
+    Desain retrospektif mempelajari fenomena yang telah terjadi di masa
+    lalu. Peneliti menelusuri kembali pengalaman atau kondisi sebelumnya
+    untuk memahami faktor-faktor yang berkaitan dengan fenomena yang
+    sedang diteliti. Data biasanya diperoleh melalui wawancara,
+    kuesioner, arsip, atau dokumen yang tersedia. Meskipun relatif
+    efisien, pendekatan ini sangat bergantung pada keakuratan ingatan
+    partisipan atau kelengkapan data yang tersedia (Hulley dkk., 2013).
+  \item
+    \textbf{Desain prospektif}
+
+    Desain prospektif mempelajari fenomena yang akan terjadi di masa
+    depan. Dalam desain ini, peneliti terlebih dahulu mengidentifikasi
+    partisipan atau kondisi tertentu, kemudian mengikuti perkembangan
+    mereka dalam periode waktu tertentu untuk mengamati perubahan atau
+    munculnya fenomena yang diteliti. Pendekatan ini memungkinkan
+    peneliti memperoleh data yang lebih sistematis mengenai proses
+    terjadinya suatu peristiwa. Namun, penelitian prospektif biasanya
+    membutuhkan waktu dan sumber daya yang lebih besar dibandingkan
+    penelitian retrospektif (Rothman dkk., 2008).
+  \item
+    \textbf{Desain retrospektif--prospektif}
+
+    Desain retrospektif--prospektif merupakan kombinasi dari kedua
+    pendekatan sebelumnya. Penelitian dimulai dengan menelusuri
+    informasi mengenai peristiwa di masa lalu, kemudian dilanjutkan
+    dengan pengamatan terhadap perkembangan fenomena tersebut di masa
+    depan. Dengan menggabungkan kedua perspektif waktu tersebut,
+    peneliti dapat memperoleh gambaran yang lebih lengkap mengenai
+    dinamika suatu fenomena.
+  \end{enumerate}
+\item
+  \textbf{Berdasarkan perlakuan terhadap variabel penelitian}
+
+  Desain penelitian juga dapat dibedakan berdasarkan bagaimana peneliti
+  mengendalikan variabel dalam penelitian. Dalam beberapa penelitian,
+  peneliti secara aktif memanipulasi variabel tertentu untuk melihat
+  pengaruhnya terhadap variabel lain. Dalam penelitian lain, peneliti
+  hanya mengamati fenomena yang terjadi secara alami tanpa melakukan
+  manipulasi terhadap variabel penelitian.
+
+  Berdasarkan tingkat kontrol terhadap variabel tersebut, desain
+  penelitian dapat dibedakan menjadi tiga jenis utama (Creswell \&
+  Clark, 2018; Shadish dkk., 2002).
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \item
+    \textbf{Desain eksperimental}
+
+    Desain eksperimental melibatkan manipulasi variabel independen oleh
+    peneliti untuk melihat pengaruhnya terhadap variabel dependen. Dalam
+    desain ini, peneliti biasanya juga menggunakan kelompok kontrol
+    serta proses randomisasi untuk mengurangi pengaruh variabel luar.
+    Dengan kontrol yang relatif ketat terhadap kondisi penelitian,
+    desain eksperimen memungkinkan peneliti membuat kesimpulan yang
+    lebih kuat mengenai hubungan sebab--akibat antarvariabel. Oleh
+    karena itu, desain ini sering digunakan untuk menguji efektivitas
+    suatu perlakuan atau intervensi.
+  \item
+    \textbf{Desain kuasi-eksperimental}
+
+    Desain kuasi-eksperimental memiliki karakteristik yang mirip dengan
+    desain eksperimen karena sama-sama melibatkan pemberian perlakuan
+    terhadap partisipan penelitian. Namun, dalam desain ini peneliti
+    tidak memiliki kendali penuh terhadap proses penentuan kelompok
+    partisipan, misalnya karena tidak memungkinkan melakukan
+    randomisasi. Akibatnya, tingkat kontrol terhadap variabel luar tidak
+    sekuat pada desain eksperimen murni. Meskipun demikian, desain ini
+    tetap banyak digunakan dalam penelitian sosial dan pendidikan karena
+    dapat diterapkan dalam situasi penelitian yang lebih realistis.
+  \item
+    \textbf{Desain non-eksperimental}
+
+    Desain non-eksperimental merupakan desain penelitian yang tidak
+    melibatkan manipulasi variabel oleh peneliti. Peneliti hanya
+    mengamati atau mengukur fenomena yang terjadi secara alami tanpa
+    memberikan perlakuan tertentu kepada partisipan penelitian. Desain
+    ini sering digunakan dalam penelitian deskriptif, korelasional,
+    maupun survei. Meskipun tidak memungkinkan peneliti menyimpulkan
+    hubungan sebab--akibat secara langsung, desain ini tetap penting
+    untuk memahami pola hubungan antarvariabel dalam kehidupan nyata.
+  \end{enumerate}
+\end{enumerate}
+
+\section{Metode Pengumpulan Data}\label{metode-pengumpulan-data}
+
+Metode pengumpulan data merujuk pada cara atau prosedur yang digunakan
+peneliti untuk memperoleh informasi yang diperlukan dalam penelitian.
+Pemilihan metode pengumpulan data harus disesuaikan dengan tujuan
+penelitian, jenis pertanyaan penelitian, serta pendekatan metodologis
+yang digunakan. Dalam penelitian psikologi, metode pengumpulan data
+tidak hanya berbeda dalam teknik yang digunakan, tetapi juga dapat
+dibedakan berdasarkan sumber data, jenis data yang dihasilkan, serta
+cara data tersebut diinterpretasikan.
+
+Secara umum, metode pengumpulan data dapat diklasifikasikan ke dalam
+beberapa kategori berikut (Breakwell dkk., 2012).
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Berdasarkan sumber data}
+
+  Klasifikasi ini merujuk pada dari mana data penelitian diperoleh.
+  Sumber data akan memengaruhi tingkat kedekatan peneliti dengan
+  fenomena yang diteliti serta cara data tersebut dikumpulkan.
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \item
+    \textbf{Data primer}
+
+    Data primer adalah data yang diperoleh secara langsung oleh peneliti
+    dari sumber pertama melalui proses pengumpulan data yang dilakukan
+    dalam penelitian tersebut. Data ini biasanya diperoleh melalui
+    wawancara, observasi, eksperimen, atau penggunaan kuesioner dan tes
+    psikologis. Karena dikumpulkan secara langsung oleh peneliti, data
+    primer biasanya lebih spesifik dan relevan dengan tujuan penelitian
+    yang sedang dilakukan.
+
+    Namun, pengumpulan data primer biasanya memerlukan waktu, tenaga,
+    dan biaya yang lebih besar. Peneliti juga harus memastikan bahwa
+    prosedur pengumpulan data dilakukan secara sistematis agar data yang
+    diperoleh memiliki kualitas yang baik.
+  \item
+    \textbf{Data sekunder}
+
+    Data sekunder adalah data yang diperoleh dari sumber yang telah
+    tersedia sebelumnya, seperti laporan penelitian, arsip, dokumen
+    resmi, database, atau publikasi ilmiah. Dalam penelitian sosial dan
+    psikologi, data sekunder sering digunakan untuk melengkapi atau
+    mendukung analisis penelitian. Penggunaan data sekunder dapat
+    membantu peneliti memperoleh informasi dalam waktu yang lebih
+    singkat dibandingkan dengan pengumpulan data primer.
+
+    Meskipun demikian, penggunaan data sekunder memiliki keterbatasan
+    karena peneliti tidak memiliki kendali penuh terhadap proses
+    pengumpulan data tersebut. Oleh karena itu, peneliti perlu
+    memastikan bahwa sumber data yang digunakan memiliki kredibilitas
+    dan relevansi dengan tujuan penelitian.
+  \end{enumerate}
+\item
+  \textbf{Berdasarkan jenis data}
+
+  Metode pengumpulan data juga dapat dibedakan berdasarkan jenis data
+  yang dihasilkan dalam penelitian. Dalam penelitian psikologi dan ilmu
+  sosial, data penelitian umumnya diklasifikasikan menjadi data
+  kuantitatif dan data kualitatif.
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \item
+    \textbf{Data kuantitatif}
+
+    Data kuantitatif merupakan data yang dinyatakan dalam bentuk angka
+    atau dapat diukur secara numerik. Data jenis ini biasanya diperoleh
+    melalui instrumen yang terstruktur seperti kuesioner, tes
+    psikologis, atau pengukuran perilaku tertentu. Analisis data
+    kuantitatif umumnya menggunakan teknik statistik untuk menguji
+    hipotesis atau melihat hubungan antarvariabel.
+
+    Keunggulan data kuantitatif adalah kemampuannya memberikan gambaran
+    yang lebih objektif serta memungkinkan generalisasi hasil penelitian
+    pada populasi yang lebih luas. Namun, pendekatan ini terkadang
+    kurang mampu menangkap makna subjektif dari pengalaman individu.
+  \item
+    \textbf{Data kualitatif}
+
+    Data kualitatif merupakan data yang berbentuk deskripsi atau narasi
+    yang menggambarkan pengalaman, persepsi, atau makna yang diberikan
+    individu terhadap suatu fenomena. Data ini biasanya diperoleh
+    melalui wawancara mendalam, observasi, atau analisis dokumen.
+    Pendekatan kualitatif memungkinkan peneliti memahami fenomena secara
+    lebih mendalam dalam konteks sosial dan budaya tertentu.
+
+    Meskipun tidak selalu dapat digeneralisasi secara luas, data
+    kualitatif memberikan pemahaman yang kaya mengenai dinamika
+    pengalaman manusia. Oleh karena itu, pendekatan ini sering digunakan
+    ketika tujuan penelitian adalah memahami proses, makna, atau
+    pengalaman subjektif individu.
+  \end{enumerate}
+\item
+  \textbf{Berdasarkan interpretasi data}
+
+  Selain berdasarkan sumber dan jenis data, metode pengumpulan data juga
+  dapat dibedakan berdasarkan cara data tersebut diinterpretasikan.
+  Dalam konteks ini, data dapat diklasifikasikan sebagai data faktual
+  atau non-faktual.
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \item
+    \textbf{Data faktual}
+
+    Data faktual merujuk pada informasi yang menggambarkan kondisi atau
+    peristiwa yang dapat diverifikasi secara langsung. Data ini biasanya
+    berkaitan dengan fakta objektif, seperti usia, tingkat pendidikan,
+    frekuensi perilaku tertentu, atau kejadian yang dapat diamati. Data
+    faktual sering digunakan dalam penelitian yang bertujuan
+    menggambarkan kondisi nyata atau mengukur variabel secara objektif.
+
+    Karena sifatnya yang relatif objektif, data faktual biasanya lebih
+    mudah dianalisis dan dibandingkan antarpartisipan. Namun, data ini
+    tidak selalu mampu menggambarkan makna subjektif yang dimiliki
+    individu terhadap suatu pengalaman.
+  \item
+    \textbf{Data non-faktual}
+
+    Data non-faktual merujuk pada informasi yang berkaitan dengan
+    persepsi, sikap, keyakinan, atau interpretasi individu terhadap
+    suatu fenomena. Data jenis ini tidak selalu dapat diverifikasi
+    secara langsung karena berkaitan dengan pengalaman subjektif
+    individu. Dalam penelitian psikologi, data non-faktual sering
+    digunakan untuk memahami sikap, motivasi, atau pandangan individu
+    terhadap suatu objek atau peristiwa.
+
+    Meskipun bersifat subjektif, data non-faktual tetap memiliki nilai
+    penting dalam penelitian psikologi karena membantu peneliti memahami
+    bagaimana individu memaknai pengalaman mereka. Oleh karena itu,
+    pengumpulan data non-faktual biasanya memerlukan metode yang
+    memungkinkan partisipan mengekspresikan pandangan mereka secara
+    lebih bebas, seperti wawancara atau pertanyaan terbuka.
+  \end{enumerate}
+\end{enumerate}
+
+\section{Teknik Pengumpulan Data}\label{teknik-pengumpulan-data}
+
+Dalam penelitian psikologi, data dapat diperoleh melalui berbagai teknik
+pengumpulan data yang disesuaikan dengan tujuan penelitian, desain
+penelitian, serta karakteristik fenomena yang diteliti. Setiap teknik
+memiliki cara pelaksanaan, kelebihan, dan keterbatasan yang berbeda
+dalam menghasilkan informasi mengenai perilaku, pengalaman, atau
+karakteristik psikologis individu. Oleh karena itu, peneliti perlu
+memahami berbagai teknik pengumpulan data agar dapat memilih teknik yang
+paling tepat untuk menjawab pertanyaan penelitian. Beberapa metode
+pengumpulan data yang umum digunakan antara lain:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Wawancara}, yaitu interaksi antara peneliti dan partisipan
+  untuk memperoleh informasi mengenai pengalaman, persepsi, atau
+  pandangan mereka;
+\item
+  \textbf{Observasi}, yaitu pengamatan sistematis terhadap perilaku atau
+  interaksi sosial dalam konteks tertentu;
+\item
+  \textbf{Tes dan skala psikologis}, yaitu instrumen yang digunakan
+  untuk mengukur karakteristik psikologis seperti kecerdasan, sikap,
+  atau kepribadian;
+\item
+  \textbf{Kuesioner atau survei}, yaitu instrumen tertulis yang berisi
+  serangkaian pertanyaan yang harus dijawab oleh responden.
+\end{itemize}
+
+\subsection{Wawancara sebagai Metode Pengumpulan
+Data}\label{wawancara-sebagai-metode-pengumpulan-data}
+
+Wawancara merupakan situasi interaksi interpersonal antara peneliti
+(\emph{interviewer}) dan partisipan (\emph{interviewee}) yang bertujuan
+memperoleh informasi yang relevan dengan penelitian. Metode ini banyak
+digunakan dalam penelitian sosial dan psikologi karena memungkinkan
+peneliti memperoleh informasi yang tidak dapat diamati secara langsung.
+Menurut Kvale \& Brinkmann (2015), wawancara penelitian bertujuan untuk
+menggali pengalaman, persepsi, dan interpretasi partisipan terhadap
+suatu fenomena.
+
+\textbf{Jenis-jenis wawancara}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi}.}
+\item
+  Wawancara terstruktur
+
+  Wawancara terstruktur menggunakan daftar pertanyaan yang telah disusun
+  sebelumnya dengan urutan yang tetap. Pewawancara harus mengikuti
+  panduan tersebut secara konsisten.
+
+  Kelebihan wawancara terstruktur:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    meningkatkan konsistensi pengukuran
+  \item
+    memudahkan proses analisis data
+  \item
+    meningkatkan reliabilitas
+  \end{itemize}
+
+  Namun, metode ini memiliki keterbatasan karena kurang memberikan ruang
+  untuk eksplorasi yang mendalam.
+\item
+  Wawancara tidak terstruktur
+
+  Wawancara tidak terstruktur bersifat lebih fleksibel. Peneliti dapat
+  menyesuaikan pertanyaan sesuai dengan alur percakapan. Metode ini
+  sering digunakan dalam penelitian kualitatif, terutama untuk menggali
+  pengalaman subjektif partisipan secara lebih mendalam. Dalam praktik
+  penelitian, peneliti sering menggunakan wawancara semi-terstruktur,
+  yaitu kombinasi antara struktur pertanyaan yang jelas dan
+  fleksibilitas eksplorasi.
+\end{enumerate}
+
+\textbf{Penyusunan pertanyaan dalam wawancara}
+
+Dalam menyusun panduan wawancara, peneliti perlu mempertimbangkan
+beberapa tipe pertanyaan.
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi}.}
+\item
+  Pertanyaan pilihan tetap (\emph{fixed-alternative items)}
+
+  Pertanyaan telah disertai dengan pilihan jawaban tertentu, misalnya:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ya / tidak
+  \item
+    setuju / tidak setuju
+  \end{itemize}
+
+  Jenis pertanyaan ini menghasilkan data yang lebih mudah dianalisis
+  tetapi kurang mendalam.
+\item
+  Pertanyaan terbuka (\emph{open-ended items})
+
+  Pertanyaan terbuka memberikan kebebasan kepada partisipan untuk
+  menjelaskan jawabannya secara lebih luas. Pertanyaan ini sering
+  digunakan dalam penelitian kualitatif.
+\item
+  Item skala
+
+  Item skala menyediakan rentang respons tertentu, misalnya dari sangat
+  tidak setuju hingga sangat setuju.
+\end{enumerate}
+
+\subsection{Observasi sebagai Metode Pengumpulan
+Data}\label{observasi-sebagai-metode-pengumpulan-data}
+
+Observasi adalah metode pengumpulan data yang dilakukan dengan cara
+mengamati secara sistematis perilaku atau fenomena yang sedang terjadi.
+Dalam penelitian psikologi, observasi sering digunakan untuk memahami
+perilaku individu dalam konteks alami.
+
+\textbf{Jenis-jenis observasi}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi}.}
+\tightlist
+\item
+  Observasi partisipatif: Peneliti terlibat langsung dalam aktivitas
+  kelompok yang diamati.
+\item
+  Observasi non-partisipatif: Peneliti tidak terlibat dalam aktivitas
+  yang diamati dan hanya berperan sebagai pengamat.
+\end{enumerate}
+
+\textbf{Tantangan dalam observasi}
+
+Beberapa masalah yang dapat muncul dalam observasi antara lain:
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Hawthorne effect}, yaitu perubahan perilaku karena individu
+  mengetahui dirinya sedang diamati
+\item
+  bias pengamat
+\item
+  keterbatasan pencatatan data
+\item
+  kemungkinan informasi yang tidak lengkap
+\end{itemize}
+
+Karena itu, observasi biasanya dilengkapi dengan teknik pencatatan yang
+sistematis seperti f\emph{ield notes}, rekaman video, atau lembar
+observasi terstruktur (Angrosino, 2008).
+
+\subsection{Tes dan Skala Psikologis}\label{tes-dan-skala-psikologis}
+
+Dalam penelitian psikologi, pengumpulan data sering menggunakan tes dan
+skala psikologis. Tes merupakan prosedur sistematis yang memberikan
+stimulus tertentu kepada individu untuk memperoleh respons yang dapat
+diukur. Sementara itu, skala psikologis merupakan serangkaian item yang
+digunakan untuk mengukur sikap, nilai, atau karakteristik psikologis
+tertentu.
+
+Beberapa jenis tes dan skala yang umum digunakan antara lain:
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi}.}
+\tightlist
+\item
+  \textbf{Tes kecerdasan dan bakat}: Digunakan untuk mengukur potensi
+  intelektual dan kemampuan individu dalam bidang tertentu.
+\item
+  \textbf{Tes prestasi}: Digunakan untuk mengukur tingkat penguasaan
+  individu terhadap pengetahuan atau keterampilan tertentu.
+\item
+  \textbf{Skala kepribadian}: Digunakan untuk mengukur karakteristik
+  atau trait kepribadian.
+\item
+  \textbf{Skala sikap}: Digunakan untuk mengukur kecenderungan individu
+  dalam menilai suatu objek atau fenomena.
+\item
+  \textbf{Skala nilai}: Digunakan untuk memahami sistem nilai yang
+  dimiliki individu.
+\end{enumerate}
+
+\subsection{Pertimbangan dalam Memilih Metode Pengumpulan
+Data}\label{pertimbangan-dalam-memilih-metode-pengumpulan-data}
+
+Pemilihan metode pengumpulan data harus mempertimbangkan beberapa aspek
+penting, yaitu:
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi}.}
+\tightlist
+\item
+  Kesesuaian dengan tujuan penelitian
+\item
+  Jenis data yang dibutuhkan
+\item
+  Karakteristik partisipan penelitian
+\item
+  Ketersediaan sumber daya penelitian
+\item
+  pertimbangan etika penelitian
+\end{enumerate}
+
+Dalam banyak penelitian psikologi modern, peneliti sering
+mengombinasikan beberapa metode pengumpulan data untuk memperoleh
+pemahaman yang lebih komprehensif mengenai fenomena yang diteliti.
+Pembahasan yang lebih mendalam mengenai teknik pengumpulan data akan
+dijelaskan pada bab-bab selanjutnya dalam buku ini.
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-tip-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-tip-color}{\faLightbulb}\hspace{0.5em}{Rangkuman}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-tip-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Desain penelitian merupakan rencana sistematis yang mengarahkan proses
+  penelitian untuk menjawab pertanyaan penelitian secara valid dan
+  terstruktur.
+\item
+  Desain penelitian dapat diklasifikasikan berdasarkan jumlah kontak
+  dengan partisipan, periode penelitian, dan perlakuan terhadap variabel
+  penelitian.
+\item
+  Metode pengumpulan data merujuk pada cara yang digunakan peneliti
+  untuk memperoleh data yang diperlukan dalam penelitian.
+\item
+  Data penelitian dapat diklasifikasikan berdasarkan sumber data (primer
+  dan sekunder), jenis data (kuantitatif dan kualitatif), serta
+  interpretasi data (faktual dan non-faktual).
+\item
+  Dalam penelitian psikologi, beberapa teknik pengumpulan data yang
+  sering digunakan antara lain wawancara, observasi, tes atau skala
+  psikologis, serta kuesioner atau survei.
+\end{itemize}
+
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced jigsaw, breakable, bottomrule=.15mm, colbacktitle=quarto-callout-important-color!10!white, bottomtitle=1mm, coltitle=black, toptitle=1mm, titlerule=0mm, title=\textcolor{quarto-callout-important-color}{\faExclamation}\hspace{0.5em}{Refleksi \& Diskusi}, toprule=.15mm, colback=white, opacitybacktitle=0.6, arc=.35mm, rightrule=.15mm, colframe=quarto-callout-important-color-frame, opacityback=0, left=2mm, leftrule=.75mm]
+
+\begin{itemize}
+\tightlist
+\item
+  Mengapa desain penelitian perlu dirancang sebelum proses pengumpulan
+  data dilakukan?
+\item
+  Dalam situasi apa peneliti lebih tepat menggunakan desain
+  eksperimental dibandingkan desain non-eksperimental?
+\item
+  Apa perbedaan utama antara data primer dan data sekunder, serta apa
+  kelebihan dan keterbatasan masing-masing?
+\item
+  Mengapa pemilihan teknik pengumpulan data harus disesuaikan dengan
+  tujuan penelitian?
+\item
+  Menurut Anda, dalam penelitian psikologi kapan wawancara lebih tepat
+  digunakan dibandingkan kuesioner?
+\end{itemize}
+
+\end{tcolorbox}
+
+\chapter*{References}\label{bibliography}
+\addcontentsline{toc}{chapter}{References}
+
+\phantomsection\label{refs}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-AmericanPsychologicalAssociation2020}
+American Psychological Association. (2020). \emph{Publication manual of
+the American Psychological Association} (7th ed.). American
+Psychological Association.
+
+\bibitem[\citeproctext]{ref-Angrosino2008}
+Angrosino, M. V. (2008). \emph{Doing Ethnographic and Observational
+Research} (hlm. 129). Sage Publications.
+
+\bibitem[\citeproctext]{ref-Babbie2021}
+Babbie, E. (2021). \emph{The practice of social research} (15th ed.).
+Cengage Learning.
+
+\bibitem[\citeproctext]{ref-Bakker2007}
+Bakker, A. B., \& Demerouti, E. (2007). The Job Demands‐Resources model:
+state of the art. \emph{Journal of Managerial Psychology}, \emph{22},
+309--328. \url{https://doi.org/10.1108/02683940710733115}
+
+\bibitem[\citeproctext]{ref-Batson2011}
+Batson, C. D. (2011). \emph{Altruism in Humans}. Oxford University
+Press.
+
+\bibitem[\citeproctext]{ref-Bordens2018}
+Bordens, K. S., \& Abbott, B. B. (2018). \emph{Research design and
+methods: A process approach} (10th ed.). McGraw-Hill Education.
+
+\bibitem[\citeproctext]{ref-Breakwell2012}
+Breakwell, G. M., Smith, J. A., \& Wright, D. B. (2012). \emph{Research
+methods in psychology} (hlm. 602). SAGE.
+
+\bibitem[\citeproctext]{ref-Creswell2018}
+Creswell, J. W., \& Clark, V. L. (2018). \emph{Designing and conducting
+mixed methods research} (3rd ed.). SAGE Publications.
+
+\bibitem[\citeproctext]{ref-Creswell2018a}
+Creswell, J. W., \& Creswell, J. D. (2018). \emph{Research design:
+Qualitative, quantitative, and mixed methods approaches} (5th ed.). SAGE
+Publications.
+
+\bibitem[\citeproctext]{ref-Denzin2018}
+Denzin, N. K., \& Lincoln, Y. S. (2018). \emph{The Sage handbook of
+qualitative research} (hlm. 968). Sage.
+
+\bibitem[\citeproctext]{ref-Field2018}
+Field, A. (2018). \emph{Discovering statistics using IBM SPSS
+statistics} (5th ed., hlm. 775). Sage Publications Inc.
+
+\bibitem[\citeproctext]{ref-Gravetter2018}
+Gravetter, F. J., \& Forzano, L.-A. B. (2018). \emph{Research Methods
+for the Behavioral Sciences} (6th ed.). Cengage Learning EMEA (UK;
+Europe).
+
+\bibitem[\citeproctext]{ref-Hart2025}
+Hart, C. (2025). \emph{Doing a Literature Review}. SAGE Publications
+Ltd. \url{https://doi.org/10.4135/9781036235598}
+
+\bibitem[\citeproctext]{ref-Hulley2013}
+Hulley, S. B., Cummings, S. R., Browner, W. S., Grady, D., \& Newman, T.
+B. (2013). \emph{Designing clinical research} (4th ed., hlm. 367).
+Wolters Kluwer Health/Lippincott Williams \& Wilkins.
+
+\bibitem[\citeproctext]{ref-Kazdin2024}
+Kazdin, A. E. (2024). \emph{Research design in clinical psychology} (6th
+ed., hlm. 799). Cambridge University Press.
+
+\bibitem[\citeproctext]{ref-Kerlinger2000}
+Kerlinger, F. N., \& Lee, H. B. (2000). \emph{Foundations of behavioral
+research} (4th ed.). Harcourt College Publishers.
+
+\bibitem[\citeproctext]{ref-Kvale2015}
+Kvale, S., \& Brinkmann, S. (2015). \emph{InterViews : learning the
+craft of qualitative research interviewing} (3rd ed., hlm. 405). Sage
+Publications.
+
+\bibitem[\citeproctext]{ref-Neuman2014}
+Neuman, W. Lawrence. (2014). \emph{Social research methods: Qualitative
+and quantitative approaches} (7th ed.). Pearson.
+
+\bibitem[\citeproctext]{ref-Popper2005}
+Popper, K. (2005). \emph{The Logic of Scientific Discovery} (hlm. 545).
+Taylor; Francis.
+
+\bibitem[\citeproctext]{ref-Ridley2012}
+Ridley, D. (2012). \emph{The Literature Review: A Step-By-Step Guide For
+Students} (2nd ed.). SAGE Publications Ltd.
+
+\bibitem[\citeproctext]{ref-Rothman2008}
+Rothman, K. J., Greenland, S., \& Lash, T. L. (2008). \emph{Modern
+epidemiology} (hlm. 758). Wolters Kluwer Health/Lippincott Williams \&
+Wilkins.
+
+\bibitem[\citeproctext]{ref-Ryan2000}
+Ryan, R. M., \& Deci, E. L. (2000). Self-determination theory and the
+facilitation of intrinsic motivation, social development, and
+well-being. \emph{American Psychologist}, \emph{55}, 68--78.
+\url{https://doi.org/10.1037/0003-066X.55.1.68}
+
+\bibitem[\citeproctext]{ref-Shadish2002}
+Shadish, W. R., Cook, T. D., \& Campbell, D. T. (2002).
+\emph{Experimental and quasi-experimental designs for generalized causal
+inference} (2nd ed., hlm. 623). Wadsworth/Cengage Learning.
+
+\end{CSLReferences}
+
+
+
+
+\end{document}
