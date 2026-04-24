@@ -27,7 +27,7 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 
 ## Pengertian Tinjauan Literatur
 
-Dalam penelitian ilmiah, peneliti tidak memulai penelitian dari ruang kosong. Sebaliknya, penelitian selalu dibangun di atas pengetahuan yang telah dikembangkan oleh para peneliti sebelumnya. Oleh karena itu, salah satu tahap penting dalam proses penelitian adalah melakukan tinjauan literatur atau tinjauan pustaka.
+Setiap penelitian ilmiah tidak pernah dimulai dari ruang kosong. Sebaliknya, penelitian selalu dibangun di atas pengetahuan, gagasa, dan temuan yang telah dikembangkan oleh para peneliti sebelumnya. Oleh karena itu, salah satu tahap penting dalam proses penelitian adalah melakukan tinjauan literatur atau tinjauan pustaka.
 
 Tinjauan literatur merupakan proses sistematis untuk mengidentifikasi, mengevaluasi, dan mensintesis berbagai sumber ilmiah yang relevan dengan topik penelitian. Melalui proses ini, peneliti dapat memahami perkembangan teori, temuan empiris, serta pendekatan metodologis yang telah digunakan dalam penelitian sebelumnya.
 
@@ -121,7 +121,7 @@ Menemukan literatur yang relevan merupakan keterampilan penting bagi seorang pen
 
 2.  *Forward referencing*
 
-    *Forward referencing* dilakukan dengan mencari artikel-artikel yang mengutip suatu karya ilmiah tertentu. Cara ini membantu peneliti mengetahui bagaimana suatu teori atau temuan penelitian berkembang dari waktu ke waktu. Saat ini, proses *forward referencing* dapat dilakukan dengan mudah melalui berbagai basis data ilmiah seperti Google Scholar atau Scopus.
+    *Forward referencing* dilakukan dengan mencari artikel-artikel yang mengutip suatu karya ilmiah tertentu. Cara ini membantu peneliti mengetahui bagaimana suatu teori atau temuan penelitian berkembang dari waktu ke waktu. Proses *forward referencing* dapat dilakukan melalui berbagai basis data ilmiah seperti Google Scholar atau Scopus.
 
 Kombinasi kedua strategi ini memungkinkan peneliti memperoleh gambaran yang lebih komprehensif mengenai perkembangan penelitian pada suatu topik.
 
