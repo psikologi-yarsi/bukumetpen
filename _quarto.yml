@@ -22,11 +22,13 @@ book:
       Buku ini dicetak menggunakan <a href="https://quarto.org/">Quarto</a>.
   chapters:
     - index.qmd
-    - 1_1_ilmu.qmd
-    - 1_2_hakikat.qmd
-    - 1_4_literatur.qmd
-    - 1_5_desain.qmd
-    - 1_6_sampling.qmd
+    - part: 1_pengantar.qmd
+      chapters: 
+        - 1_1_ilmu.qmd
+        - 1_2_hakikat.qmd
+        - 1_4_literatur.qmd
+        - 1_5_desain.qmd
+        - 1_6_sampling.qmd
 
 filters:
   # Run Quarto's default filters first

@@ -69,7 +69,7 @@ Agar tidak menimbulkan bias, populasi harus didefinisikan secara jelas, misalnya
 
 Semakin spesifik definisi populasi, semakin mudah proses pengambilan sampel dilakukan secara tepat.
 
-## **Sampel dan Teknik *Sampling***
+## Sampel dan Teknik *Sampling*
 
 Penggunaan sampel dalam penelitian bukan sekadar solusi praktis untuk mengatasi keterbatasan sumber daya, tetapi merupakan bagian penting dari strategi metodologis yang menentukan kualitas hasil penelitian. Sampel didefinisikan sebagai sebagian dari populasi yang dipilih untuk mewakili keseluruhan populasi [@Gravetter2018]. Oleh karena itu, proses pemilihan sampel harus dilakukan secara cermat agar hasil penelitian tetap memiliki kekuatan generalisasi.
 
@@ -81,7 +81,7 @@ Karakteristik yang membedakan suatu populasi harus tetap terwakili dalam sampel.
 
 Dalam perspektif metodologi, *representativeness* berkaitan erat dengan validitas eksternal. Menurut @Creswell2018a, kemampuan penelitian untuk digeneralisasikan sangat bergantung pada sejauh mana sampel mencerminkan populasi target. Oleh karena itu, *representativeness* bukan hanya isu teknis, tetapi juga menentukan nilai ilmiah suatu penelitian.
 
-### Sumber Kesalahan dalam Sampling
+### Sumber Kesalahan dalam *Sampling*
 
 Meskipun *sampling* memberikan efisiensi, proses ini tidak lepas dari potensi kesalahan atau eror. Secara umum, terdapat dua jenis kesalahan utama dalam *sampling* [@Neuman2014]:
 
@@ -94,7 +94,7 @@ Meskipun *sampling* memberikan efisiensi, proses ini tidak lepas dari potensi ke
 
 Sebagai contoh, penggunaan *convenience sampling* tanpa pertimbangan representativitas dapat menyebabkan hasil penelitian hanya mencerminkan kelompok tertentu saja. Dalam penelitian psikologi, hal ini sering terjadi ketika sampel hanya berasal dari mahasiswa di satu kelas atau satu universitas.
 
-### Teknik Sampling
+### Teknik *Sampling*
 
 Teknik *sampling* merupakan prosedur yang digunakan untuk memilih sebagian anggota populasi agar dapat mewakili keseluruhan populasi. Pemilihan teknik ini sangat menentukan kualitas data yang diperoleh, tingkat bias yang mungkin muncul, serta sejauh mana hasil penelitian dapat digeneralisasikan. Secara umum, teknik *sampling* dibedakan menjadi dua kelompok utama, yaitu *probability sampling* dan *non-probability sampling*.
 
