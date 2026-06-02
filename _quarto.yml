@@ -29,6 +29,9 @@ book:
         - 1_4_literatur.qmd
         - 1_5_desain.qmd
         - 1_6_sampling.qmd
+    - part: 2_pengantar.qmd
+      chapters:
+        - 2_10_pendekatan.qmd
 
 filters:
   # Run Quarto's default filters first

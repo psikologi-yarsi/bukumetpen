@@ -1,0 +1,212 @@
+---
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
+# Pendekatan Kuantitatif dan Kualitatif: Perbandingan & Integrasi
+
+::: callout-note
+## Tujuan Pembelajaran
+
+Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
+
+1.  Menjelaskan perbedaan karakteristik utama dari pendekatan kuantitatif dan kualitatif dalam penelitian psikologi.
+2.  Menjelaskan dan menguraikan sejauh mana penelitian mixed methods yang mengintegrasikan pendekatan kuantitatif dan kualitatif dapat digunakan sesuai dengan tujuan dari penelitian.
+:::
+
+Saat ini, konsensus di kalangan metodolog psikologi adalah bahwa pendekatan kuantitatif dan kualitatif adalah komplementer, bukan kompetitif. Pilihan pendekatan harus didasarkan pada pertanyaan penelitian, bukan loyalitas paradigmatik buta [@Creswell2018a]. Setiap pendekatan memiliki tujuan, kekuatan, dan keterbatasannya masing-masing dalam membantu peneliti memahami fenomena psikologis. Oleh karena itu, pemahaman mengenai karakteristik berbagai pendekatan penelitian menjadi bekal penting bagi setiap peneliti dalam merancang studi yang sesuai dengan tujuan penelitiannya.
+
+Bab ini membahas karakteristik utama pendekatan kuantitatif dan kualitatif, perbedaan mendasar di antara keduanya, serta perkembangan pendekatan *mixed methods* yang mengintegrasikan kedua tradisi tersebut. Pada bagian akhir, disajikan panduan praktis untuk membantu peneliti memilih pendekatan yang paling sesuai berdasarkan pertanyaan penelitian yang ingin dijawab.
+
+## Karakteristik Pendekatan Kuantitatif
+
+Penelitian kuantitatif adalah proses pengumpulan dan analisis data numerik untuk menjelaskan fenomena, menguji hipotesis, dan menjawab pertanyaan tentang hubungan antar variabel. Karakteristik dari penelitian kuantitatif adalah sebagai berikut:
+
+1.  **Pengukuran obyektif**
+
+    Pengukuran obyektif merupakan salah satu karakteristik utama penelitian kuantitatif, di mana variabel penelitian dioperasionalkan menjadi indikator yang dapat diukur secara numerik dan dianalisis menggunakan teknik statistik [@Appelbaum2018]. Dengan demikian, hasil penelitian menjadi lebih terstandar dan memungkinkan interpretasi yang lebih konsisten. Sebagai contoh, pengukuran obyektif tampak pada penggunaan instrumen psikologis terstandar seperti Depression, Anxiety, and Stress Scale-21 (DASS-21) untuk mengukur tingkat distres psikologis berdasarkan skor keparahan gejala yang dilaporkan. 
+
+2.  **Generalisasi**
+
+    Generalisasi mengacu pada kemampuan hasil penelitian untuk diterapkan atau diberlakukan pada populasi yang lebih luas berdasarkan data yang diperoleh dari sampel penelitian Misalnya, generalisasi terlihat pada penelitian Survei Kesehatan Indonesia (SKI) yang menggunakan *probability sampling* untuk menggambarkan kondisi kesehatan mental masyarakat, tingkat stres mahasiswa, atau kesejahteraan psikologis pekerja. Selain itu, pada penelitian eksperimental, hasil efektivitas suatu intervensi psikologis, misalnya program intervensi *mindfulness* berbasis internet, diharapkan dapat diterapkan pada populasi target dengan karakteristik serupa, selama desain penelitian dan representasi sampel mendukung validitas eksternal penelitian.
+
+3.  **Pengujian hipotesis**
+
+    Penelitian kuantitatif umumnya dimulai dengan perumusan hipotesis sebelum proses pengumpulan data dilakukan. Hipotesis dirancang agar dapat diuji secara obyektif dan dianalisis melalui prosedur statistik tertentu untuk menentukan apakah dugaan tersebut didukung atau ditolak. Misalnya, @Listiyandini2025 merumuskan hipotesis bahwa mahasiswa yang mengikuti program *mindfulness* berbasis internet akan memiliki tingkat distres psikologis yang lebih rendah dibandingkan kelompok daftar tunggu.
+
+4.  **Kontrol variabel**
+
+    Kontrol variabel merupakan karakteristik penting penelitian kuantitatif yang bertujuan meminimalkan atau mengeliminasi pengaruh variabel pengganggu (*confounding variables*) agar hasil penelitian memiliki validitas yang lebih baik. Dalam penelitian psikologi, kontrol variabel dapat dilakukan melalui berbagai strategi, seperti randomisasi peserta untuk mengurangi bias, penggunaan kelompok kontrol sebagai pembanding, prosedur *blinding* agar partisipan atau peneliti tidak mengetahui perlakuan tertentu, serta standardisasi instruksi dan prosedur eksperimen. Sebagai contoh, dalam penelitian efektivitas program terapi *mindfulness* berbasis web untuk mahasiswa, @Listiyandini2025 menyamakan durasi intervensi, lingkungan pelaksanaan, serta karakteristik dasar partisipan agar hasil penelitian lebih dapat dipercaya
+
+5.  **Replikabilitas**
+
+    Replikabilitas merujuk pada kemampuan suatu penelitian untuk diulang oleh peneliti lain menggunakan prosedur yang sama dan menghasilkan temuan yang serupa atau dapat dibandingkan. Oleh sebab itu, prosedur penelitian harus ditulis secara rinci, sistematis, dan transparan agar dapat diikuti oleh peneliti lain. Dalam riset psikologi, replikabilitas diwujudkan melalui publikasi protokol penelitian secara jelas, penggunaan instrumen yang telah terstandarisasi, penjelasan rinci mengenai prosedur eksperimen, hingga praktik *pre-registration* yang menjelaskan hipotesis, metode, dan rencana analisis sebelum penelitian dilaksanakan [@Bosnjak2022].
+
+## Karakteristik Pendekatan Kualitatif
+
+Pendekatan kualitatif adalah cara penelitian yang bertujuan memahami pengalaman manusia secara mendalam. Dalam psikologi, pendekatan ini digunakan ketika peneliti ingin mengetahui bagaimana seseorang memahami, merasakan, atau memaknai suatu pengalaman hidup. Alih-alih berfokus pada angka atau hubungan statistik, penelitian kualitatif lebih menekankan cerita, pengalaman, makna, dan konteks kehidupan individu [@Creswell2018a].
+
+1.  **Berfokus pada pemahaman makna subyektif**
+
+    Salah satu ciri utama penelitian kualitatif adalah fokusnya pada makna subyektif, yaitu bagaimana seseorang menginterpretasikan pengalaman yang dialaminya. Peneliti tidak hanya ingin mengetahui apa yang terjadi, tetapi juga bagaimana dan mengapa pengalaman tersebut dimaknai oleh individu secara mendalam. Sebagai contoh, seorang peneliti mungkin tertarik meneliti pengalaman seseorang yang merawat anggota keluarga dengan demensia. Pertanyaan penelitian tidak hanya berbunyi “berapa tingkat stres *caregiver*?”, tetapi lebih pada: “Bagaimana pengalaman menjadi *caregiver* bagi anggota keluarga dengan demensia?” 
+
+2.  **Dilakukan dalam konteks alamiah**
+
+    Penelitian kualitatif umumnya dilakukan dalam situasi atau lingkungan alami partisipan. Artinya, peneliti berusaha memahami perilaku atau pengalaman seseorang dalam kehidupan sehari-hari, bukan dalam situasi yang dibuat secara khusus seperti laboratorium. Sebagai contoh, peneliti dapat melakukan wawancara di rumah partisipan untuk memahami dinamika keluarga, atau melakukan observasi langsung di ruang kelas untuk melihat interaksi guru dan siswa sebagaimana terjadi secara alami.
+
+3.  **Memiliki desain yang fleksibel dan berkembang (*emergent*)**
+
+    Berbeda dengan penelitian kuantitatif yang biasanya memiliki prosedur tetap sejak awal, penelitian kualitatif cenderung fleksibel. Fleksibilitas ini membantu peneliti menangkap fenomena secara lebih mendalam. Misalnya, saat melakukan wawancara pertama tentang pengalaman *burnout* pada mahasiswa, peneliti menemukan bahwa tekanan keluarga muncul sebagai tema penting yang sebelumnya tidak diperkirakan. Berdasarkan temuan awal tersebut, peneliti kemudian menambahkan pertanyaan tentang ekspektasi keluarga pada wawancara berikutnya.
+
+4.  **Peneliti sebagai instrumen utama**
+
+    Dalam penelitian kualitatif, peneliti sendiri merupakan instrumen utama penelitian. Artinya, kualitas data sangat dipengaruhi oleh kemampuan peneliti dalam mengajukan pertanyaan, mendengarkan, mengamati, serta menafsirkan pengalaman partisipan. Oleh karena itu, peneliti perlu melakukan refleksivitas, yaitu menyadari dan menjelaskan bagaimana pengalaman pribadi, nilai, atau asumsi tertentu dapat memengaruhi proses penelitian. Misalnya, peneliti yang pernah mengalami *burnout* perlu menyadari kemungkinan bias ketika mewawancarai partisipan mengenai topik serupa.
+
+5.  **Menghasilkan data yang kaya dan mendalam**
+
+    Penelitian kualitatif menghasilkan data yang kaya (*rich data*) dan mendalam karena data yang dikumpulkan umumnya berupa teks, narasi, percakapan, catatan lapangan, atau dokumen. Sebagai contoh, satu wawancara mendalam dapat menghasilkan transkrip puluhan halaman yang kemudian dianalisis untuk menemukan tema-tema seperti stres, dukungan sosial, identitas diri, atau strategi *coping*.
+
+Secara garis besar, perbedaan karakteristik antara pendekatan kuantitatif dan kualitatif terangkum dalam @tbl-kuanvskual.
+
+::: {#tbl-kuanvskual}
+|  |  |  |
+|------------------------|------------------------|------------------------|
+| **Dimensi** | **Kuantitatif** | **Kualitatif** |
+| **Tujuan utama** | Menguji hipotesis, mengukur hubungan, men-generalisasi | Memahami makna, mengeksplorasi proses, mengembangkan teori |
+| **Contoh Jenis pertanyaan** | “Apakah?”, “Seberapa besar?”, “Apakah X menyebabkan Y?” | “Bagaimana?”, “Mengapa?” (dalam pengalaman subjektif), “Apa maknanya?” |
+| **Ukuran Sampel** | Besar (n sering \>100), *probability sampling* (untuk generalisasi) | Lebih kecil, *purposive sampling* (untuk kedalaman) |
+| **Sumber Data** | Angka, skala, frekuensi, durasi | Teks, ucapan partisipan, observasi, dokumen, foto, video |
+| **Hubungan peneliti-partisipan** | Jarak dijaga (obyektivitas) | Kolaboratif, *engaged*, refleksif |
+
+: Perbandingan Sistematis Pendekatan Kuantitatif *vs* Kualitatif
+:::
+
+## Kriteria Kualitas dalam Penelitian Kuantitatif dan Kualitatif
+
+Setiap penelitian harus memenuhi standar kualitas tertentu agar hasilnya dapat dipercaya. Namun, karena penelitian kuantitatif dan kualitatif berangkat dari asumsi dan tujuan yang berbeda, kriteria yang digunakan untuk menilai kualitasnya juga tidak sepenuhnya sama [@Creswell2018a].
+
+Dalam penelitian kuantitatif, kualitas penelitian umumnya dinilai berdasarkan **validitas** dan **reliabilitas**. Validitas menunjukkan sejauh mana instrumen atau prosedur penelitian benar-benar mengukur apa yang seharusnya diukur. Reliabilitas menunjukkan konsistensi hasil pengukuran apabila instrumen digunakan berulang kali dalam kondisi yang serupa. Selain itu, peneliti kuantitatif juga memperhatikan **obyektivitas** dan kemampuan hasil penelitian untuk **digeneralisasikan** ke populasi yang lebih luas.
+
+Sementara itu, penelitian kualitatif tidak berfokus pada validitas dan reliabilitas dalam pengertian statistik. Sebagai gantinya, kualitas penelitian dinilai melalui konsep *trustworthiness* atau keterpercayaan penelitian [@Lincoln1990]. Konsep ini mencerminkan sejauh mana temuan penelitian dapat dipercaya dan didukung oleh data yang diperoleh dari partisipan.
+
+Beberapa kriteria kualitas yang umum digunakan dalam penelitian kualitatif meliputi:
+
+-   ***Credibility*** **(kredibilitas)**, yaitu sejauh mana temuan penelitian mencerminkan pengalaman dan perspektif partisipan secara akurat.
+-   ***Transferability*** **(transferabilitas)**, yaitu sejauh mana temuan dapat diterapkan atau dipertimbangkan relevan pada konteks lain yang memiliki karakteristik serupa.
+-   ***Dependability*** **(dependabilitas)**, yaitu konsistensi proses penelitian sehingga langkah-langkah penelitian dapat ditelusuri dan dievaluasi oleh peneliti lain.
+-   ***Confirmability*** **(konfirmabilitas)**, yaitu sejauh mana temuan didasarkan pada data dan bukan semata-mata pada asumsi atau bias peneliti [@Lincoln1990].
+
+Perbedaan kriteria ini tidak menunjukkan bahwa salah satu pendekatan lebih ilmiah daripada yang lain. Sebaliknya, masing-masing pendekatan memiliki standar kualitas yang disesuaikan dengan tujuan dan karakteristik metode yang digunakan. Oleh karena itu, penilaian kualitas penelitian harus dilakukan berdasarkan kriteria yang relevan dengan pendekatan penelitian yang dipilih.
+
+## Mengenal Pendekatan Gabungan (*Mixed Methods*): Integrasi Kuantitatif dan Kualitatif
+
+Dalam penelitian psikologi, terkadang satu pendekatan saja belum cukup untuk memahami suatu fenomena secara utuh. Penelitian kuantitatif dapat menunjukkan pola umum, hubungan antarvariabel, atau efektivitas intervensi melalui angka dan analisis statistik. Namun, pendekatan ini sering kali belum mampu menjelaskan pengalaman subyektif, proses psikologis, atau alasan di balik suatu temuan.
+
+Sebaliknya, penelitian kualitatif dapat memberikan pemahaman yang mendalam mengenai pengalaman individu, tetapi biasanya melibatkan jumlah partisipan yang lebih kecil sehingga sulit digeneralisasi. Oleh karena itu, peneliti dapat menggabungkan kedua pendekatan tersebut melalui *mixed methods research*. Pendekatan ini mengintegrasikan metode kuantitatif dan kualitatif dalam satu penelitian untuk memperoleh pemahaman yang lebih lengkap mengenai fenomena psikologis. 
+
+### Kapan Pendekatan *Mixed Methods* Diperlukan?
+
+*Mixed methods research* (MMR) secara umum didefinisikan sebagai:
+
+> “An approach to research that combines or integrates quantitative and qualitative data, methods, and procedures within a single study or a program of inquiry.” [@Creswell2018a]
+
+MMR bukan sekadar “menggunakan kuesioner plus wawancara” secara terpisah dan melaporkannya dalam dua bab terpisah. Integrasi sejati terjadi ketika data kuantitatif dan kualitatif saling menginformasikan pada setidaknya satu fase penelitian (pertanyaan, desain, pengumpulan data, analisis, atau interpretasi). Menurut @Creswell2018a, MMR umumnya digunakan dalam beberapa situasi berikut:
+
+1.  **Triangulasi: Membandingkan temuan**
+
+    *Mixed methods* digunakan untuk membandingkan hasil kuantitatif dan kualitatif guna melihat apakah temuan saling mendukung, berbeda, atau bertentangan sehingga meningkatkan kredibilitas penelitian. Misalnya, survei menunjukkan intervensi menurunkan depresi, tetapi wawancara mengungkap sebagian peserta masih merasa tidak berdaya. Perbedaan ini menunjukkan adanya aspek pengalaman yang belum tertangkap oleh kuesioner.
+
+2.  **Komplementaritas: Saling melengkapi metode**
+
+    Pendekatan *mixed methods* membantu menggabungkan kelebihan masing-masing metode. Penelitian kuantitatif menjawab “apakah” suatu efek terjadi, sedangkan penelitian kualitatif menjelaskan “mengapa” dan “bagaimana” efek tersebut muncul. Contohnya, statistik menunjukkan pelatihan *mindfulness* menurunkan *burnout*, sementara wawancara menjelaskan bagaimana peserta belajar mengelola emosi.
+
+3.  **Pengembangan (*Development*): Mengembangkan instrumen atau intervensi**
+
+    Hasil dari satu metode dapat digunakan untuk mengembangkan metode lain. Misalnya, wawancara tentang *burnout* akademik digunakan untuk menyusun item kuesioner yang lebih sesuai konteks budaya, lalu diuji secara kuantitatif pada sampel yang lebih besar.
+
+4.  **Inisiasi (*Initiation*): Menjelaskan kontradiksi**
+
+    Perbedaan antara temuan kuantitatif dan kualitatif dapat memunculkan pertanyaan baru. Misalnya, data statistik menunjukkan intervensi tidak efektif, tetapi wawancara menunjukkan perubahan subyektif yang bermakna. Kondisi ini mendorong peneliti mengeksplorasi kemungkinan keterbatasan alat ukur atau mekanisme yang belum teridentifikasi.
+
+5.  **Ekspansi (*Expansion*): Memperluas pemahaman**
+
+    MMR digunakan untuk memahami fenomena secara lebih luas dan mendalam. Penelitian kuantitatif menjelaskan apa yang terjadi, sedangkan penelitian kualitatif membantu memahami bagaimana dan dalam kondisi apa fenomena tersebut muncul. Misalnya, survei menunjukkan dukungan sosial berkaitan dengan stres akademik yang lebih rendah, sementara wawancara menjelaskan bentuk dan sumber dukungan yang paling bermakna.
+
+### Jenis-jenis Desain *Mixed Methods*
+
+Terdapat berbagai variasi desain *mixed methods*, tetapi tiga desain paling umum dijelaskan oleh @Creswell2018a, yaitu *Convergent Parallel Design*, *Explanatory Sequential Design*, dan *Exploratory Sequential Design*. Ketiga desain ini berbeda terutama pada urutan pengumpulan data dan tujuan integrasinya.
+
+1.  ***Convergent Parallel Design*** **(Desain Triangulasi Konvergen)**
+
+    Pada desain ini, data kuantitatif dan kualitatif dikumpulkan pada waktu yang relatif sama, dianalisis terpisah, lalu dibandingkan untuk melihat apakah hasilnya saling mendukung (*convergence*) atau berbeda (*divergence*). Misalnya, penelitian *mindfulness* pada guru menunjukkan penurunan *burnout* secara statistik, sementara wawancara mengungkap guru merasa lebih mampu mengelola emosi. Jika kedua hasil sejalan terjadi *convergence*; jika berbeda, diperlukan eksplorasi lebih lanjut.
+
+2.  ***Explanatory Sequential Design*** **(Desain Eksplanatoris Sekuensial)**
+
+    Desain ini dimulai dengan penelitian kuantitatif, kemudian dilanjutkan penelitian kualitatif untuk menjelaskan hasil statistik. Misalnya, survei menunjukkan mahasiswa dari keluarga berpendapatan rendah memiliki resiliensi lebih rendah. Wawancara lanjutan menemukan bahwa keberadaan figur mentor membedakan mahasiswa dengan resiliensi tinggi dan rendah, sehingga membantu menjelaskan mekanisme di balik temuan kuantitatif.
+
+3.  ***Exploratory Sequential Design*** **(Desain Eksploratoris Sekuensial)**
+
+    Kebalikan dari desain sebelumnya, penelitian dimulai dengan eksplorasi kualitatif untuk memahami fenomena atau mengembangkan instrumen, lalu dilanjutkan pengujian kuantitatif. Misalnya, wawancara tentang *burnout* akademik mahasiswa digunakan untuk mengidentifikasi tema-tema penting dan menyusun alat ukur yang kemudian diuji pada sampel lebih besar untuk menilai kesesuaiannya secara statistik.
+
+## Memilih Pendekatan: Panduan untuk Peneliti Pemula
+
+Pemilihan pendekatan penelitian harus didasarkan pada pertanyaan penelitian, bukan preferensi metode. Dengan kata lain, jenis pertanyaan menentukan apakah pendekatan kuantitatif, kualitatif, atau *mixed methods* paling sesuai digunakan. Jika pertanyaannya adalah “Apakah X menyebabkan perubahan pada Y?”, pendekatan yang tepat adalah penelitian kuantitatif, terutama eksperimen, karena memungkinkan manipulasi variabel dan kontrol kondisi untuk menguji hubungan sebab-akibat. Sebaliknya, jika pertanyaannya “Seberapa besar hubungan antara X dan Y?”, pendekatan kuantitatif korelasional atau survei lebih sesuai karena bertujuan mengukur hubungan antarvariabel menggunakan data numerik dari sampel yang lebih besar.
+
+Ketika penelitian bertujuan memahami makna pengalaman individu, misalnya bagaimana seseorang mengalami *burnout* atau kehilangan, pendekatan kualitatif—khususnya fenomenologi—lebih tepat karena berfokus pada *lived experience* dari sudut pandang partisipan. Sementara itu, ketika peneliti perlu menjelaskan mengapa hasil statistik tidak sepenuhnya sesuai dengan pengalaman partisipan, *mixed methods explanatory sequential* dapat digunakan: data kuantitatif mengidentifikasi pola umum, sedangkan data kualitatif menjelaskan variasinya
+
+Terakhir, jika penelitian bertujuan mengembangkan instrumen atau intervensi baru, *mixed methods exploratory sequential* lebih sesuai. Peneliti memulai dengan eksplorasi kualitatif untuk menemukan tema-tema penting, lalu melanjutkannya dengan pengujian kuantitatif terhadap instrumen atau model yang dikembangkan.
+
+## Kesalahan Umum dalam Memilih Pendekatan Penelitian
+
+Kesalahan pertama adalah menganggap penelitian kuantitatif lebih ilmiah daripada kualitatif. Padahal, keduanya sama-sama ilmiah tetapi memiliki tujuan, asumsi, dan standar kualitas yang berbeda. Pemilihan metode seharusnya didasarkan pada kesesuaian dengan pertanyaan penelitian, bukan pada anggapan bahwa penggunaan angka selalu lebih obyektif.
+
+Kesalahan kedua adalah menggunakan sampel terlalu kecil dalam penelitian kuantitatif sehingga analisis menjadi kurang kuat secara statistik (*underpowered*). Sebaliknya, penelitian kualitatif sering kali justru terlalu besar sehingga mengurangi kedalaman analisis. Dalam penelitian kualitatif, partisipan dipilih secara purposif dengan jumlah yang cukup untuk mencapai kedalaman dan kecukupan data.
+
+Kesalahan berikutnya adalah mengklaim menggunakan *mixed methods* tanpa mengintegrasikan temuan kuantitatif dan kualitatif. Inti *mixed methods* bukan sekadar memakai dua jenis data, tetapi menghubungkan keduanya dalam interpretasi. Selain itu, peneliti juga perlu berhati-hati menggeneralisasikan hasil dari *convenience sample*, misalnya mahasiswa dari satu program studi, karena temuan tersebut belum tentu mewakili populasi yang lebih luas.
+
+## Tidak Ada Pendekatan yang Paling Unggul
+
+Penelitian kuantitatif, kualitatif, dan *mixed methods* dikembangkan untuk menjawab jenis pertanyaan penelitian yang berbeda. Oleh karena itu, tidak ada satu pendekatan yang dapat dianggap selalu lebih baik atau lebih ilmiah daripada pendekatan lainnya. Kualitas suatu penelitian lebih ditentukan oleh kesesuaian antara pertanyaan penelitian, pendekatan yang dipilih, dan kualitas pelaksanaan penelitian. Dengan demikian, pertanyaan yang perlu diajukan peneliti bukanlah “Pendekatan mana yang terbaik?”, melainkan “Pendekatan mana yang paling sesuai untuk menjawab pertanyaan penelitian saya?”.
+
+::: callout-tip
+## Rangkuman
+
+1.  Pendekatan kuantitatif menggunakan data numerik, pengujian hipotesis, dan analisis statistik untuk menjelaskan hubungan antarvariabel atau menguji efek suatu intervensi. Keunggulannya terletak pada kemampuan melakukan pengukuran yang objektif, menghasilkan temuan yang dapat digeneralisasi, serta mendukung replikasi penelitian.
+2.  Pendekatan kualitatif menggunakan data naratif untuk memahami pengalaman, makna, dan proses psikologis dalam konteks alami. Keunggulannya terletak pada kedalaman pemahaman dan kemampuannya menangkap kompleksitas pengalaman manusia.
+3.  Penelitian kuantitatif dan kualitatif memiliki asumsi, tujuan, serta kriteria kualitas yang berbeda, tetapi keduanya sama-sama menggunakan prosedur ilmiah yang sistematis dan saling melengkapi dalam memahami fenomena psikologis.
+4.  Pendekatan *mixed methods* mengintegrasikan metode kuantitatif dan kualitatif dalam satu penelitian untuk memperoleh pemahaman yang lebih komprehensif. Tiga desain yang umum digunakan adalah *convergent*, *explanatory sequential*, dan *exploratory sequential*.
+5.  Tidak ada pendekatan penelitian yang secara universal lebih unggul daripada pendekatan lainnya. Pemilihan pendekatan harus didasarkan pada pertanyaan penelitian dan tujuan penelitian yang ingin dicapai.
+:::
+
+::: callout-important
+## Refleksi & Diskusi
+
+Bacalah artikel berikut:
+
+Listiyandini, R. A., Andriani, A., Kusristanti, C., Moulds, M., Mahoney, A., & Newby, J. M. (2023). Culturally adapting an internet-delivered mindfulness intervention for Indonesian university students experiencing psychological distress: mixed methods study. JMIR Formative Research, 7(1), e47126. DOI: <https://doi.org/10.2196/47126>
+
+Jawablah pertanyaan refleksi berikut secara singkat dan argumentatif:
+
+1.  Berdasarkan metode yang digunakan, apakah penelitian ini lebih tepat disebut kuantitatif, kualitatif, atau *mixed methods*? Jelaskan alasan Anda dengan merujuk pada jenis data yang dikumpulkan peneliti.
+2.  Identifikasikan bagian penelitian yang menggunakan pendekatan kuantitatif. Apa tujuan data kuantitatif tersebut, dan informasi seperti apa yang berhasil diperoleh peneliti?
+3.  Identifikasikan bagian penelitian yang menggunakan pendekatan kualitatif. Mengapa wawancara dan *focus group discussion* diperlukan dalam studi ini? Informasi apa yang tidak dapat diperoleh hanya melalui survei?
+4.  Menurut Anda, mengapa survei saja tidak cukup untuk mengembangkan program *mindfulness* yang sesuai dengan konteks budaya Indonesia? Berikan minimal dua alasan berdasarkan artikel.
+5.  Artikel menunjukkan bahwa mahasiswa Indonesia terbuka terhadap program *mindfulness* daring, tetapi peserta juga mengusulkan berbagai penyesuaian budaya, bahasa, ilustrasi, dan cara penyampaian program. Apa pelajaran metodologis yang dapat dipetik dari situasi ini mengenai perbedaan kontribusi data kuantitatif dan kualitatif?
+6.  Jika penelitian ini hanya menggunakan pendekatan kuantitatif (survei preferensi mahasiswa), informasi penting apa yang kemungkinan besar akan hilang? Sebaliknya, jika penelitian ini hanya menggunakan pendekatan kualitatif, apa keterbatasannya? Jelaskan.
+7.  Menurut Anda, desain *mixed methods* apa yang paling sesuai untuk menggambarkan penelitian ini: *convergent*, *explanatory sequential*, atau *exploratory sequential?* Jelaskan alasan Anda berdasarkan urutan penelitian dalam artikel.
+8.  Bayangkan Anda menjadi peneliti lanjutan dari studi ini. Tuliskan:
+    -   satu pertanyaan penelitian kuantitatif untuk menguji efektivitas program mindfulness yang telah dikembangkan; dan
+
+    -   satu pertanyaan penelitian kualitatif untuk memahami pengalaman mahasiswa menggunakan program tersebut.
+
+Setelah membaca artikel tersebut, refleksikan dalam satu paragraf: \
+Kapan pendekatan kuantitatif lebih tepat digunakan, kapan pendekatan kualitatif lebih tepat digunakan, dan kapan keduanya perlu digabungkan dalam penelitian psikologi?
+:::
+
+::: sectionrefs
+:::
