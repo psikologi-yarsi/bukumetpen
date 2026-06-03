@@ -36,7 +36,7 @@ Bagian Pendahuluan dapat ditulis secara kurang lebih sama seperti dalam proposal
 
 ::: {#tbl-propvlap}
 | Proposal Penelitian                 | Laporan Penelitian                   |
-|:----------------------------------|:-----------------------------------|
+|:------------------------------------|:-------------------------------------|
 | Menjelaskan apa yang akan dilakukan | Menjelaskan apa yang telah dilakukan |
 | Menggunakan bentuk perencanaan      | Menggunakan bentuk pelaporan         |
 | Berisi rencana analisis             | Berisi analisis yang dilakukan       |
