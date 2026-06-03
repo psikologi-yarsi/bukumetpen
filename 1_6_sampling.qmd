@@ -56,7 +56,7 @@ Populasi adalah keseluruhan elemen yang memiliki karakteristik tertentu yang rel
 Dalam praktiknya, penting untuk membedakan dua jenis populasi:
 
 -   **Populasi target:** Kelompok ideal yang ingin dijadikan dasar generalisasi hasil penelitian
--   **Populasi terjangkau:** Bagian dari populasi yang реально dapat diakses oleh peneliti
+-   **Populasi terjangkau:** Bagian dari populasi yang dapat diakses oleh peneliti
 
 Sebagai contoh, jika penelitian membahas stres pada mahasiswa di Indonesia, maka:
 
@@ -115,24 +115,51 @@ a.  ***Probability Sampling***
     -   ***Cluster Sampling***\
         Digunakan ketika populasi besar dan tersebar luas. Peneliti memilih kelompok (*cluster*), seperti sekolah atau wilayah, kemudian seluruh anggota dalam kelompok tersebut dijadikan sampel. Teknik ini efisien dari segi biaya dan waktu, tetapi memiliki risiko rendahnya variasi dalam cluster yang dapat memengaruhi representativitas.
 
-b.  ***Non-Probability Sampling***
+    @tbl-probsampling menampilkan rangkuman mengenai perbandingan tiap teknik *probability sampling.*
+
+::: {#tbl-probsampling}
+|  |  |  |  |  |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| **Teknik** | **Prosedur** | **Kekuatan** | **Kelemahan** | **Contoh** |
+| ***Simple random sampling*** | Setiap unit diberi nomor; dipilih secara acak (*random number generator*) | Tidak bias; generalisasi terbaik | Membutuhkan daftar populasi lengkap (*sampling frame*); mahal | *Random digit dialing* untuk survei telepon |
+| ***Stratified random sampling*** | Populasi dibagi strata (misal, jenis kelamin, usia); acak dari setiap stratum | Memastikan representasi *subgroup* minoritas | Membutuhkan informasi strata sebelum sampling | Survei nasional: strata provinsi, urban/rural |
+| ***Cluster sampling*** | Populasi dibagi klaster (misal, sekolah); acak klaster; ukur semua unit dalam klaster terpilih | Efisien untuk populasi tersebar geografis | *Standard error* lebih besar (efek desain) | Studi prestasi akademik: acak 10 sekolah dari 100, lalu semua siswa di 10 sekolah itu |
+| ***Systematic sampling*** | Pilih setiap *k-th* unit dari daftar (misal, setiap 10 orang) | Lebih sederhana dari *random* murni | Berisiko periodisitas tersembunyi | Survei pelanggan: setiap pengunjung ke-5 |
+
+: Perbandingan Metode *Probability Sampling*
+:::
+
+a.  ***Non-Probability Sampling***
 
     *Non-probability sampling* adalah teknik pengambilan sampel di mana tidak semua anggota populasi memiliki peluang yang sama untuk terpilih. Teknik ini lebih fleksibel dan sering digunakan ketika peneliti menghadapi keterbatasan akses atau ketika populasi sulit dijangkau [@Neuman2014]. Namun, teknik ini memiliki keterbatasan dalam hal generalisasi.
 
     Jenis-jenis *non-probability sampling* meliputi:
 
-    -   ***Convenience Sampling***\
+    1.  ***Convenience Sampling***\
         Sampel dipilih berdasarkan kemudahan akses, misalnya individu yang mudah ditemui oleh peneliti. Teknik ini sangat praktis dan efisien, tetapi memiliki tingkat bias yang tinggi karena tidak mempertimbangkan *representativeness* populasi.
 
-    -   ***Purposive Sampling***\
+    2.  ***Purposive Sampling***\
         Sampel dipilih berdasarkan kriteria tertentu yang sesuai dengan tujuan penelitian. Teknik ini memungkinkan peneliti mendapatkan partisipan yang benar-benar relevan dengan topik penelitian. Namun, karena bergantung pada pertimbangan peneliti, teknik ini berpotensi mengandung subyektivitas.
 
-    -   ***Snowball Sampling***\
+    3.  ***Snowball Sampling***\
         Digunakan untuk populasi yang sulit diakses. Peneliti memulai dengan beberapa partisipan awal, kemudian meminta mereka merekomendasikan partisipan lain. Teknik ini efektif untuk menjangkau kelompok tersembunyi, tetapi cenderung menghasilkan sampel yang homogen karena berasal dari jaringan sosial yang sama.
+
+    Lihat @tbl-nonprob untuk membandingkan tiap teknik non-probability sampling.
+
+::: {#tbl-nonprob}
+|  |  |  |  |  |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| **Teknik** | **Prosedur** | **Kekuatan** | **Kelemahan** | **Contoh** |
+| ***Convenience sampling*** | Memilih unit yang paling mudah dijangkau | Praktis, murah, cepat | Bias seleksi sangat tinggi | Mahasiswa psikologi untuk studi laboratorium |
+| ***Purposive sampling*** | Memilih unit berdasarkan kriteria spesifik (pengetahuan peneliti) | Dapat menargetkan informan kunci | Subyektif; tidak representatif | Wawancara dengan penyintas trauma yang memiliki resiliensi tinggi |
+| ***Snowball sampling*** | Partisipan awal merekrut partisipan berikutnya | Mengakses populasi tersembunyi (*hidden population*) | Bias jaringan; over-representasi orang dengan banyak koneksi | Penelitian pada pengguna narkoba ilegal, LGBT+ di daerah konservatif |
+
+: Perbandingan Metode *Non-Probability Sampling*
+:::
 
 Secara umum, *probability sampling* lebih dianjurkan jika penelitian bertujuan untuk generalisasi, sedangkan *non-probability sampling* lebih sesuai untuk penelitian eksploratif atau kondisi lapangan yang terbatas. Oleh karena itu, pemilihan teknik *sampling* harus selalu disesuaikan dengan tujuan penelitian, karakteristik populasi, serta sumber daya yang tersedia.
 
-### **Memilih Teknik *Sampling* yang Tepat**
+### Memilih Teknik *Sampling* yang Tepat
 
 Tidak ada teknik *sampling* yang dapat dianggap paling unggul dalam semua situasi. Pemilihan teknik *sampling* harus disesuaikan dengan konteks penelitian. Beberapa pertimbangan penting dalam memilih teknik *sampling* meliputi:
 
@@ -145,39 +172,24 @@ Dalam penelitian yang bertujuan untuk generalisasi, probability *sampling* lebih
 
 ## Menentukan Jumlah Sampel yang Mencukupi
 
-Menentukan jumlah sampel yang memadai merupakan salah satu aspek penting dalam desain penelitian. Pertanyaan “berapa jumlah sampel yang cukup?” tidak memiliki jawaban tunggal, karena bergantung pada berbagai faktor .
+Menentukan jumlah sampel yang memadai merupakan salah satu aspek penting dalam desain penelitian. Pertanyaan “berapa jumlah sampel yang cukup?” tidak memiliki jawaban tunggal, karena bergantung pada berbagai faktor.
 
-Beberapa pendekatan yang umum digunakan antara lain:
+Secara umum, setidaknya terdapat 3 pendekatan dalam menentukan jumlah sampel, yaitu *a priori power analysis*, *rule of thumb*, dan *resource-based* (lihat @tbl-samplesize). Dari ketiga pendekatan tersebut, *a priori power analysis* sering dianggap sebagai *golden standard*. Namun demikian, setiap pendekatan dapat digunakan dalam penelitian dengan mempertimbangkan *cost & benefit* yang mungkin muncul serta konsekuensinya.
 
--   **Analisis kekuatan statistik (*power analysis*)**\
-    Digunakan untuk menentukan jumlah sampel minimum agar efek yang diteliti dapat terdeteksi secara signifikan
--   **Aturan praktis (*rule of thumb*)**\
-    Misalnya jumlah minimum tertentu untuk analisis statistik tertentu
--   **Mengacu pada penelitian sebelumnya**\
-    Menggunakan ukuran sampel yang serupa dengan studi terdahulu
--   **Pertimbangan praktis**\
-    Ketersediaan waktu, biaya, dan akses terhadap partisipan
+::: {#tbl-samplesize}
+|  |  |  |
+|:-----------------------|:-----------------------|:-----------------------|
+| **Pendekatan** | **Metode** | **Kapan Digunakan** |
+| ***A priori power analysis*** | Menggunakan *software* (G\*Power, R, SPSS) dengan *input*: *α* (biasanya .05), *power* (biasanya .80), *effect size* (estimasi dari meta-analisis atau studi sebelumnya) | Direkomendasikan oleh APA dan berbagai komite etik |
+| ***Rule of thumb*** | Aturan praktis berdasarkan desain (misal, n\>30 untuk *t-test,* n\>100 untuk regresi dengan 5 prediktor) | Hanya untuk proposal awal ketika tidak ada estimasi *effect size* |
+| ***Resource-based*** | Sebanyak yang bisa dijangkau dengan waktu dan biaya | Tidak direkomendasikan untuk penelitian formal; meningkatkan risiko *underpowered* |
+
+: Pendekatan Menentukan Ukuran Sampel
+:::
 
 Menurut @Cohen1992, ukuran sampel yang terlalu kecil berisiko menghasilkan *low statistical power*, sedangkan ukuran yang terlalu besar dapat menjadi tidak efisien. Oleh karena itu, peneliti perlu menyeimbangkan pertimbangan statistik dan praktis.
 
 Penting untuk dipahami bahwa jumlah sampel tidak secara langsung menentukan kualitas penelitian. Desain penelitian yang baik, instrumen yang valid, dan analisis yang tepat tetap menjadi faktor utama dalam menentukan kualitas hasil penelitian.
-
-## Isu Etis dalam Penelitian
-
-Penelitian yang melibatkan manusia harus memperhatikan prinsip-prinsip etika secara serius. Berdasarkan materi kuliah, beberapa aspek penting yang perlu diperhatikan meliputi :
-
--   memperoleh persetujuan partisipan (*informed consent*)
--   menjaga kerahasiaan data
--   menghindari potensi bahaya fisik maupun psikologis
--   memperlakukan partisipan secara adil
-
-Selain itu, peneliti juga memiliki tanggung jawab profesional untuk:
-
--   menghindari manipulasi atau penyembunyian data
--   menggunakan metode yang tepat
--   melaporkan hasil secara jujur dan transparan
-
-Etika bukan sekadar formalitas administratif, tetapi merupakan bagian integral dari integritas ilmiah.
 
 ::: callout-tip
 ## Rangkuman
