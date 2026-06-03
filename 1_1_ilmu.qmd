@@ -1,4 +1,6 @@
 ---
+author:
+  - name: Sunu Bagaskara
 filters:
   # Run Quarto's default filters first
   - quarto

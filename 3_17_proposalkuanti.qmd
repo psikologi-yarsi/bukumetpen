@@ -1,0 +1,236 @@
+---
+author:
+  - name: Sari Zakiah Akmal
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
+# Perancangan Penelitian Kuantitatif
+
+::: callout-note
+## Tujuan Pembelajaran
+
+Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
+
+1.  Menjelaskan perbedaan karakteristik utama dari pendekatan kuantitatif dan kualitatif dalam penelitian psikologi.
+2.  Menjelaskan dan menguraikan sejauh mana penelitian mixed methods yang mengintegrasikan pendekatan kuantitatif dan kualitatif dapat digunakan sesuai dengan tujuan dari penelitian.
+:::
+
+Pada bab-bab sebelumnya telah dibahas berbagai komponen utama penelitian kuantitatif, mulai dari perumusan masalah penelitian, penyusunan hipotesis, identifikasi variabel, pemilihan instrumen, hingga teknik pengambilan sampel. Namun, dalam praktik penelitian, komponen-komponen tersebut tidak berdiri sendiri. Seorang peneliti perlu mengintegrasikannya ke dalam sebuah rancangan penelitian yang sistematis dan realistis untuk dilaksanakan. Rancangan tersebut biasanya dituangkan dalam bentuk proposal penelitian yang menjadi pedoman selama proses penelitian berlangsung.
+
+Proposal penelitian tidak hanya menjelaskan apa yang akan diteliti, tetapi juga bagaimana penelitian akan dilakukan dan mengapa pendekatan tertentu dipilih. Oleh karena itu, kemampuan menyusun proposal penelitian merupakan salah satu kompetensi penting yang harus dikuasai oleh mahasiswa dan peneliti. Bab ini membahas struktur proposal penelitian kuantitatif, fungsi setiap komponennya, serta cara menyusun proposal yang sistematis, logis, dan sesuai dengan kaidah ilmiah.
+
+## Tujuan Proposal Penelitian
+
+Proposal penelitian merupakan dokumen penting dalam setiap penelitian, baik kualitatif maupun kuantitatif. Proposal ini berfungsi sebagai rancangan yang menjelaskan tujuan, strategi, dan langkah operasional untuk menjawab pertanyaan atau masalah penelitian [@Kumar2018]. Di dalamnya, peneliti perlu menguraikan aktivitas yang akan dilakukan, seperti menguji hipotesis dalam penelitian kuantitatif atau mencari jawaban atas pertanyaan penelitian kualitatif, serta menyampaikan alasan dilakukannya penelitian.
+
+Fungsi utama proposal adalah memastikan metodologi yang digunakan valid dan objektif, sekaligus meyakinkan pembaca mengenai kelayakan penelitian [@Creswell2018a]. Dengan demikian, proposal penelitian menjadi dasar evaluasi dan penentu keberlanjutan suatu penelitian. Secara garis besar, sebuah proposal perlu memiliki:
+
+-   Tujuan penelitian yang jelas.
+-   Rencana operasional dan detail untuk memperoleh jawaban atas pertanyaan penelitian.
+-   Alasan atau rasionalisasi dari setiap rencana dan strategi yang dipilih.
+
+Proposal penelitian yang dibuat seharusnya dapat menjadi panduan dalam melakukan penelitian, meyakinkan pembimbing dan penguji proposal penelitian, atau pemberi hibah penelitian.
+
+## Struktur Proposal Penelitian
+
+Format proposal penelitian bisa berbeda dalam hal tata cara atau konten penulisan, sesuai dengan institusi, disiplin ilmu atau tujuan pembuatan proposal. Secara garis besar, sebuah proposal penelitian memuat sejumlah informasi berikut:
+
+1.  **Pendahuluan**, termasuk tinjauan pustaka singkat;
+2.  **Kerangka teoritis** dan konseptual yang mendasari studi;
+3.  **Tujuan** atau **pertanyaan penelitian** studi;
+4.  **Hipotesis** yang akan diuji;
+5.  **Desain penelitian** yang diusulkan untuk menjawab pertanyaan penelitian;
+6.  **Instrumen** penelitian yang akan digunakan;
+7.  **Teknik sampling** dan ukuran/jumlah sampel;
+8.  **Prosedur** perolehan dan pengolahan data;
+9.  **Kerangka waktu** yang diusulkan untuk menyelesaikan penelitian tersebut.
+
+### Pendahuluan
+
+Pendahuluan proposal penelitian disusun berdasarkan tinjauan literatur yang relevan dengan masalah penelitian. Bagian ini dimulai dengan penjelasan umum mengenai topik, lalu secara bertahap mengerucut pada fokus atau isu utama yang diteliti. Pendahuluan yang baik biasanya memuat:
+
+-   Gambaran umum topik penelitian;
+-   Perspektif historis yang relevan dengan bidang studi;
+-   Isu filosofis atau ideologis terkait topik;
+-   Tren prevalensi (jika sesuai);
+-   Teori-teori utama yang mendukung;
+-   Isu, masalah, dan perkembangan dalam bidang penelitian;
+-   Aspek teoritis maupun praktis yang penting; dan
+-   Temuan utama yang berkaitan dengan isu inti.
+
+Jika format penulisan proposal memiliki sub-bahasan landasan atau tinjauan teoretis yang dituliskan terpisah, teori utama dan pendukung di bagian pendahuluan hanya dibahas sekilas. Pembahasan lebih mendalam mengenai kerangka teoretis dan konseptual variabel penelitian dituliskan dalam sub-bahasan tinjauan teoretis. 
+
+#### Permasalahan Penelitian
+
+Setelah pengantar umum mengenai penelitian yang akan dilakukan, pendahuluan perlu berfokus pada isu utama penelitian dengan menyoroti celah (*gap*) pengetahuan yang ada [@Creswell2018a; @Findlay2019]. Bagian ini harus mengidentifikasi pertanyaan penelitian yang belum terjawab, sekaligus menjelaskan alasan dan relevansi setiap pertanyaan. Tinjauan literatur menjadi dasar penting untuk menunjukkan posisi penelitian, perbedaan pendapat yang ada, serta pengetahuan yang sudah tersedia. Secara khusus, pada bagian pendahuluan peneliti perlu:
+
+-   Menentukan isu-isu utama yang mendasari studi;
+-   Menguraikan perspektif atau aspek terkait isu tersebut;
+-   Menunjukkan celah pengetahuan yang signifikan;
+-   Merumuskan pertanyaan penelitian utama;
+-   Menyajikan pengetahuan yang relevan, termasuk perbedaan pandangan dalam literatur;
+-   Menjelaskan alasan penelitian dengan menekankan bagaimana studi akan mengisi celah tersebut.
+
+#### Tujuan Penelitian
+
+Tujuan penelitian harus dituliskan dengan jelas dan spesifik agar dapat menjawab permasalahan penelitian [@Kumar2018]. Jika masalah yang diteliti cukup kompleks, tujuan dapat dibagi menjadi tujuan utama dan sub‑tujuan. Sub‑tujuan disusun secara runtut sehingga mendukung pencapaian tujuan utama.
+
+Dalam merumuskan tujuan penelitian, gunakan kata kerja yang berorientasi pada tindakan, seperti “untuk menentukan”, “untuk mencari tahu”, atau “untuk memastikan”. Sub‑tujuan sebaiknya dituliskan secara numerik agar runtut dan jelas. Jika tujuan penelitian adalah menguji hipotesis, maka rumusannya harus mengikuti konvensi perumusan hipotesis yang berlaku sehingga tetap konsisten dengan standar akademik.
+
+Contoh penulisan permasalahan penelitian*:*
+
+> “Apakah terdapat hubungan antara prestasi akademik dan lingkungan sosial?”
+
+Dari permasalahan penelitian tersebut, tujuan penelitian dapat dituliskan:
+
+> Tujuan utama:
+>
+> Penelitian ini bertujuan menguji hubungan antara prestasi akademik dan lingkungan sosial pada mahasiswa tingkat pertama di Indonesia.
+>
+> Tujuan sekunder (sub-tujuan):
+>
+> 1.  Untuk mengetahui hubungan antara harga diri dan prestasi akademik siswa di sekolah.
+> 2.  Untuk memastikan hubungan antara keterlibatan orang tua dalam studi siswa dan prestasi akademiknya di sekolah.
+> 3.  Untuk meneliti hubungan antara kelompok teman sebaya siswa dan prestasi akademik.
+> 4.  Untuk mengeksplorasi hubungan antara prestasi akademik dan sikap siswa terhadap guru.
+
+#### Hipotesis Penelitian
+
+Seperti telah dijelaskan pada Bab 12, hipotesis adalah asumsi mengenai prevalensi suatu fenomena atau hubungan antarvariabel yang akan diuji dalam penelitian. Jika penelitian melibatkan pengujian hipotesis, rumusan tersebut harus dicantumkan secara jelas di bagian ini. Hipotesis memiliki gaya perumusan tertentu yang perlu dipahami agar sesuai dengan standar akademik, dan hasil pengujiannya wajib dibahas dalam laporan penelitian. Jumlah hipotesis dapat disesuaikan dengan kebutuhan studi, namun penelitian tetap dapat dilakukan secara memadai meskipun tanpa merumuskan hipotesis.
+
+Misalnya:
+
+-   H1 = Harga diri siswa dan prestasi akademik di sekolah berkorelasi positif.
+-   H2 = Semakin besar keterlibatan orang tua dalam studi siswa, semakin tinggi prestasi akademiknya.
+-   H3 = Kehadiran teman sebaya meningkatkan prestasi akademik siswa.
+-   H4 = Sikap siswa terhadap guru berkorelasi positif dengan prestasi akademiknya dalam mata pelajaran tersebut.
+
+### Desain Penelitian
+
+Desain penelitian harus dijelaskan secara jelas agar dapat menjawab pertanyaan penelitian [@Shadish2002]. Dalam rancangan atau proposal penelitian, peneliti perlu menyebutkan secara eksplisit dan spesifik jenis desain yang digunakan (misalnya studi kasus, deskriptif, *cross‑sectional*, eksperimen, atau non‑eksperimen), serta menguraikan kekuatan dan kelemahannya. Selain itu, penting juga untuk menguraikan prosedur logistik yang akan dilakukan sehingga penelitian dapat direplikasi oleh orang lain. Desain penelitian juga perlu memuat:
+
+-   Populasi penelitian dan cara mengidentifikasinya;
+-   Apakah menggunakan sampel atau seluruh populasi;
+-   Cara menghubungi dan memperoleh persetujuan partisipan;
+-   Metode pengumpulan data (wawancara, kuesioner, observasi);
+-   Prosedur pengembalian kuesioner dan pengingat jika diperlukan;
+-   Upaya menjaga kerahasiaan data; dan
+-   Mekanisme komunikasi bagi responden yang memiliki pertanyaan.
+
+#### *Setting* Penelitian
+
+Setelah menguraikan desain penelitian yang digunakan, peneliti mendeskripsikan secara ringkas organisasi, lembaga, atau komunitas tempat penelitian dilakukan. Jika fokusnya pada kelompok orang, jelaskan karakteristik penting seperti sejarah, jumlah/ukuran, komposisi, dan struktur kelompok. Jika penelitian terkait lembaga atau organisasi, jelaskan layanan utama, struktur administrasi, jenis klien yang dilayani, serta isu relevan dengan penelitian. Untuk komunitas, uraikan ukuran, profil sosial singkat, dan isu utama yang berkaitan dengan tema penelitian.
+
+#### Teknik Sampling
+
+Bagian ini menjelaskan rencana pengambilan sampel. Pada bagian ini, peneliti menguraikan informasi tentang ukuran populasi (jika diketahui) serta sumber data yang digunakan. Setelah itu, jelaskan ukuran sampel yang akan dipilih beserta alasan pemilihannya. Kemudian, uraikan desain pengambilan sampel yang digunakan, seperti acak sederhana, *stratified random sampling*, atau *quota sampling*. Penjelasan mengenai metode dan teknik sampling yang bisa digunakan secara detil telah dibahas di Bab 16.
+
+#### Instrumen Penelitian
+
+Bagian ini menjelaskan instrumen yang akan digunakan untuk mengumpulkan data penelitian. Kualitas instrumen penelitian ditentukan oleh sejauh mana instrumen tersebut mampu menghasilkan pengukuran yang reliabel dan valid [@Anastasi1997]. Pada bagian ini, peneliti perlu menguraikan alasan pemilihan instrumen serta menjelaskan relevansinya dengan tujuan dan variabel penelitian. Jika instrumen terdiri atas beberapa dimensi atau subskala, jelaskan komponen-komponen utama yang diukur beserta keterkaitannya dengan konstruk penelitian.
+
+Selain itu, peneliti perlu menjelaskan kualitas instrumen yang digunakan. Jika menggunakan instrumen standar, sertakan informasi mengenai reliabilitas dan validitas yang telah dilaporkan dalam penelitian sebelumnya. Jika menggunakan instrumen yang telah diadaptasi atau dimodifikasi, jelaskan bentuk perubahan yang dilakukan serta alasan dilakukannya modifikasi tersebut. Untuk penelitian kuantitatif, disarankan agar salinan instrumen penelitian dilampirkan pada bagian akhir proposal.
+
+Selanjutnya, peneliti perlu menguraikan bagaimana konsep utama akan dioperasionalkan. Misalnya, jika mengukur efektivitas, tentukan indikator dan metode pengukurannya; jika menilai harga diri, sebutkan indikator serta prosedur pengukurannya (misalnya, skala Likert dengan lima alternatif pilihan dari "sangat tidak setuju" hingga "sangat setuju"). Untuk studi kuantitatif, idealnya peneliti melampirkan salinan instrumen penelitian dalam proposal.
+
+#### Rencana Analisis Data
+
+Strategi analisis data harus dijelaskan secara jelas. Peneliti perlu menentukan apakah analisis dilakukan secara manual atau menggunakan bantuan *software* statistik. Jika menggunakan *software*, sebutkan program dan prosedur statistik yang akan digunakan. Untuk studi kuantitatif, peneliti perlu melakukan identifikasi variabel utama yang akan dianalisis dan menentukan teknik statistik yang akan digunakan untuk menjawab pertanyaan penelitian atau menguji hipotesis.
+
+## Konsistensi dan Keterkaitan Antar-Komponen Proposal Penelitian
+
+Proposal penelitian yang baik tidak hanya memuat komponen-komponen penelitian secara lengkap, tetapi juga menunjukkan keterkaitan yang logis antar-komponen tersebut [@Findlay2019]. Rumusan masalah, tujuan penelitian, hipotesis, instrumen penelitian, dan teknik analisis data harus disusun secara konsisten sehingga penelitian mampu menjawab pertanyaan yang diajukan.
+
+Dalam penelitian kuantitatif, setiap komponen proposal diturunkan dari komponen sebelumnya. Permasalahan penelitian menjadi dasar dalam merumuskan tujuan penelitian. Tujuan penelitian kemudian menentukan hipotesis yang akan diuji. Selanjutnya, hipotesis menjadi dasar dalam menentukan variabel yang diukur, instrumen yang digunakan, serta teknik analisis statistik yang dipilih.
+
+Sebagai ilustrasi, keterkaitan antar-komponen proposal dapat dilihat pada @tbl-komponen.
+
+::: {#tbl-komponen}
+| **Komponen** | **Contoh** |
+|:----------------------|:-----------------------------------------------|
+| Permasalahan penelitian | Apakah terdapat hubungan antara harga diri dan prestasi akademik mahasiswa? |
+| Tujuan penelitian | Mengetahui hubungan antara harga diri dan prestasi akademik mahasiswa |
+| Hipotesis | Terdapat hubungan positif antara harga diri dan prestasi akademik mahasiswa |
+| Instrumen | *Rosenberg Self-Esteem Scale* (RSES) dan IPK |
+| Analisis data | Korelasi *Pearson* |
+
+: Contoh keterkaitan antar-komponen proposal
+:::
+
+## Prinsip-prinsip Penyusunan Proposal Penelitian
+
+Menulis proposal penelitian tidak sekadar menyusun komponen-komponen penelitian ke dalam format tertentu. Proposal yang baik harus mampu menunjukkan bahwa penelitian yang direncanakan memiliki dasar ilmiah yang kuat, tujuan yang jelas, serta metode yang sesuai untuk menjawab permasalahan penelitian. Oleh karena itu, selain memperhatikan format penulisan yang ditetapkan oleh institusi, peneliti juga perlu memastikan bahwa setiap bagian proposal tersusun secara logis dan saling mendukung.
+
+Dalam menyusun proposal penelitian, terdapat beberapa prinsip yang perlu diperhatikan.
+
+1.  **Mulailah dari permasalahan penelitian yang jelas**
+
+    Permasalahan penelitian merupakan inti dari proposal penelitian. Seluruh komponen penelitian diturunkan dari permasalahan yang ingin dijawab. Oleh karena itu, rumusan masalah harus spesifik, relevan, dan didukung oleh kajian literatur yang memadai. Hindari memilih topik penelitian hanya karena menarik atau populer tanpa memiliki dasar teoritis dan empiris yang jelas.
+
+2.  **Tunjukkan alasan mengapa penelitian perlu dilakukan**
+
+    Proposal penelitian harus mampu meyakinkan pembaca bahwa penelitian yang diusulkan layak untuk dilakukan. Oleh karena itu, bagian pendahuluan perlu menjelaskan pentingnya masalah penelitian, kesenjangan pengetahuan (*research gap*) yang masih ada, serta kontribusi yang diharapkan dari penelitian tersebut. Peneliti perlu menjawab pertanyaan: "Mengapa penelitian ini penting untuk dilakukan?"
+
+3.  **Jaga konsistensi antar-komponen penelitian**
+
+    Rumusan masalah, tujuan penelitian, hipotesis, instrumen penelitian, dan teknik analisis data harus saling berkaitan. Ketidaksesuaian antar-komponen merupakan salah satu penyebab utama proposal penelitian ditolak atau memerlukan revisi. Sebelum proposal diserahkan, lakukan pemeriksaan ulang untuk memastikan bahwa seluruh komponen penelitian telah tersusun secara konsisten.
+
+4.  **Jelaskan metode penelitian secara rinci dan realistis**
+
+    Metode penelitian harus dijelaskan secara cukup rinci sehingga pembaca dapat memahami bagaimana penelitian akan dilaksanakan. Namun demikian, metode yang dipilih juga harus realistis dan sesuai dengan sumber daya yang tersedia. Hindari merancang penelitian yang terlalu kompleks apabila waktu, biaya, atau akses terhadap partisipan terbatas.
+
+5.  **Gunakan bahasa ilmiah yang jelas dan lugas**
+
+    Proposal penelitian bertujuan menyampaikan rencana penelitian secara efektif. Oleh karena itu, gunakan bahasa yang formal, jelas, dan mudah dipahami. Hindari penggunaan kalimat yang terlalu panjang, istilah yang tidak perlu, atau uraian yang berulang-ulang. Setiap paragraf sebaiknya memiliki satu gagasan utama yang disampaikan secara runtut.
+
+6.  **Gunakan gaya bahasa perencanaan**
+
+    Karena proposal menjelaskan penelitian yang belum dilaksanakan, penulisannya menggunakan bentuk perencanaan. Oleh karena itu, peneliti menggunakan kata-kata seperti "akan dilakukan", "akan diukur", "akan dianalisis", atau "akan diuji". Setelah penelitian selesai dan ditulis dalam bentuk laporan penelitian, kalimat tersebut diubah menjadi bentuk lampau atau bentuk yang menunjukkan kegiatan telah dilaksanakan.
+
+::: callout-important
+#### Kesalahan yang Sering Ditemukan dalam Proposal Penelitian
+
+Beberapa kesalahan yang sering ditemukan dalam proposal penelitian antara lain:
+
+-   Latar belakang terlalu panjang tetapi tidak mengarah pada permasalahan penelitian.
+-   Permasalahan penelitian tidak dirumuskan secara jelas.
+-   Tujuan penelitian tidak sesuai dengan rumusan masalah.
+-   Hipotesis tidak diturunkan dari teori atau hasil penelitian sebelumnya.
+-   Instrumen yang digunakan tidak sesuai dengan variabel yang diteliti.
+-   Teknik analisis data tidak sesuai dengan tujuan penelitian.
+-   Metode penelitian yang direncanakan sulit atau tidak realistis untuk dilaksanakan.
+-   Referensi yang digunakan sudah terlalu lama atau tidak relevan dengan topik penelitian.
+:::
+
+Dengan memperhatikan prinsip-prinsip tersebut, peneliti dapat menyusun proposal penelitian yang lebih sistematis, logis, dan meyakinkan. Proposal yang baik tidak hanya membantu memperoleh persetujuan dari pembimbing, penguji, atau pemberi hibah, tetapi juga menjadi pedoman yang memudahkan pelaksanaan penelitian pada tahap-tahap berikutnya.
+
+::: callout-tip
+## Rangkuman
+
+1.  Proposal penelitian merupakan dokumen yang menjelaskan tujuan, rasionalisasi, dan rencana pelaksanaan penelitian secara sistematis.
+2.  Proposal penelitian berfungsi sebagai pedoman pelaksanaan penelitian sekaligus dasar untuk menilai kelayakan suatu penelitian.
+3.  Secara umum, proposal penelitian memuat pendahuluan, tujuan penelitian, hipotesis, desain penelitian, teknik sampling, instrumen penelitian, dan rencana analisis data.
+4.  Pendahuluan yang baik mampu menunjukkan permasalahan penelitian, kesenjangan pengetahuan, serta alasan pentingnya penelitian dilakukan.
+5.  Desain penelitian, teknik sampling, instrumen penelitian, dan analisis data harus dipilih sesuai dengan tujuan penelitian yang telah ditetapkan.
+6.  Seluruh komponen proposal penelitian harus tersusun secara logis dan saling berkaitan agar mampu menjawab permasalahan penelitian secara tepat.
+7.  Proposal penelitian yang baik disusun berdasarkan permasalahan yang jelas, metode yang realistis, dan penggunaan bahasa ilmiah yang sistematis.
+:::
+
+::: callout-important
+## Refleksi & Diskusi
+
+-   Mengapa proposal penelitian perlu disusun sebelum penelitian dilaksanakan? Jelaskan fungsi proposal penelitian menurut pendapat Anda.
+-   Pilih satu topik penelitian psikologi yang menarik bagi Anda. Rumuskan satu permasalahan penelitian dan satu tujuan penelitian yang sesuai.
+-   Menurut Anda, apa yang dapat terjadi jika tujuan penelitian, instrumen penelitian, dan teknik analisis data tidak saling konsisten? Berikan contoh sederhana.
+-   Tinjau sebuah proposal penelitian atau skripsi yang pernah Anda baca. Apakah seluruh komponennya telah tersusun secara logis dan saling berkaitan? Jelaskan alasan Anda.
+-   Buatlah matriks sederhana yang menunjukkan keterkaitan antara permasalahan penelitian, tujuan penelitian, hipotesis, instrumen penelitian, dan rencana analisis data untuk topik penelitian yang Anda minati.
+:::
+
+::: sectionrefs
+:::

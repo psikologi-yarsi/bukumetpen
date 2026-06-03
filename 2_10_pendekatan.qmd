@@ -1,4 +1,6 @@
 ---
+author:
+  - name: Ratih Arruum Listiyandini
 filters:
   # Run Quarto's default filters first
   - quarto
@@ -75,7 +77,7 @@ Secara garis besar, perbedaan karakteristik antara pendekatan kuantitatif dan ku
 
 ::: {#tbl-kuanvskual}
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Dimensi** | **Kuantitatif** | **Kualitatif** |
 | **Tujuan utama** | Menguji hipotesis, mengukur hubungan, men-generalisasi | Memahami makna, mengeksplorasi proses, mengembangkan teori |
 | **Contoh Jenis pertanyaan** | “Apakah?”, “Seberapa besar?”, “Apakah X menyebabkan Y?” | “Bagaimana?”, “Mengapa?” (dalam pengalaman subjektif), “Apa maknanya?” |
@@ -204,7 +206,7 @@ Jawablah pertanyaan refleksi berikut secara singkat dan argumentatif:
 
     -   satu pertanyaan penelitian kualitatif untuk memahami pengalaman mahasiswa menggunakan program tersebut.
 
-Setelah membaca artikel tersebut, refleksikan dalam satu paragraf: \
+Setelah membaca artikel tersebut, refleksikan dalam satu paragraf:\
 Kapan pendekatan kuantitatif lebih tepat digunakan, kapan pendekatan kualitatif lebih tepat digunakan, dan kapan keduanya perlu digabungkan dalam penelitian psikologi?
 :::
 

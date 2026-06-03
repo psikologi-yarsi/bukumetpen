@@ -10,9 +10,9 @@ book:
   date: "9/8/2025"
   date-format: "D MMMM YYYY"
   sidebar:
-    style: docked
+    style: floating
     search: true
-    collapse-level: 1
+    collapse-level: 2
   language: id
           
   page-footer:
@@ -32,6 +32,9 @@ book:
     - part: 2_pengantar.qmd
       chapters:
         - 2_10_pendekatan.qmd
+    - part: 3_pengantar.qmd
+      chapters: 
+        - 3_17_proposalkuanti.qmd
 
 filters:
   # Run Quarto's default filters first
