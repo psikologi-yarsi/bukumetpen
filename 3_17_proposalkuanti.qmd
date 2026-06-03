@@ -110,14 +110,17 @@ Seperti telah dijelaskan pada Bab 12, hipotesis adalah asumsi mengenai prevalens
 
 Misalnya:
 
--   H1 = Harga diri siswa dan prestasi akademik di sekolah berkorelasi positif.
--   H2 = Semakin besar keterlibatan orang tua dalam studi siswa, semakin tinggi prestasi akademiknya.
--   H3 = Kehadiran teman sebaya meningkatkan prestasi akademik siswa.
--   H4 = Sikap siswa terhadap guru berkorelasi positif dengan prestasi akademiknya dalam mata pelajaran tersebut.
+> H1 = Harga diri siswa dan prestasi akademik di sekolah berkorelasi positif.
+>
+> H2 = Semakin besar keterlibatan orang tua dalam studi siswa, semakin tinggi prestasi akademiknya.
+>
+> H3 = Kehadiran teman sebaya meningkatkan prestasi akademik siswa.
+>
+> H4 = Sikap siswa terhadap guru berkorelasi positif dengan prestasi akademiknya dalam mata pelajaran tersebut.
 
-### Desain Penelitian
+### Metode Penelitian
 
-Desain penelitian harus dijelaskan secara jelas agar dapat menjawab pertanyaan penelitian [@Shadish2002]. Dalam rancangan atau proposal penelitian, peneliti perlu menyebutkan secara eksplisit dan spesifik jenis desain yang digunakan (misalnya studi kasus, deskriptif, *cross‑sectional*, eksperimen, atau non‑eksperimen), serta menguraikan kekuatan dan kelemahannya. Selain itu, penting juga untuk menguraikan prosedur logistik yang akan dilakukan sehingga penelitian dapat direplikasi oleh orang lain. Desain penelitian juga perlu memuat:
+Dalam uraian mengenai metode penelitian, desain penelitian harus disampaikan secara jelas dan rinci agar dapat menjawab pertanyaan penelitian [@Shadish2002]. Dalam rancangan atau proposal penelitian, peneliti perlu menyebutkan secara eksplisit dan spesifik jenis desain yang digunakan (misalnya studi kasus, deskriptif, *cross‑sectional*, eksperimen, atau non‑eksperimen), serta menguraikan kekuatan dan kelemahannya. Selain itu, penting juga untuk menguraikan prosedur logistik yang akan dilakukan sehingga penelitian dapat direplikasi oleh orang lain. Desain penelitian juga perlu memuat:
 
 -   Populasi penelitian dan cara mengidentifikasinya;
 -   Apakah menggunakan sampel atau seluruh populasi;

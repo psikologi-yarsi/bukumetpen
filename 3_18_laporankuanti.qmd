@@ -1,0 +1,189 @@
+---
+author:
+  - name: Sari Zakiah Akmal
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
+# Pelaporan Penelitian Kuantitatif
+
+Pada bab sebelumnya telah dibahas bagaimana merancang penelitian kuantitatif dan menyusunnya dalam bentuk proposal penelitian. Setelah penelitian dilaksanakan dan data dianalisis, langkah berikutnya adalah menyusun laporan penelitian. Laporan penelitian berfungsi untuk mengomunikasikan proses, hasil, dan makna penelitian secara sistematis sehingga dapat dipahami dan dievaluasi oleh pembaca. Dalam penelitian kuantitatif, laporan penelitian umumnya mengikuti struktur IMRaD (*Introduction, Methods, Results, and Discussion* atau Pendahuluan, Metode, Hasil, dan Diskusi). Bab ini membahas struktur laporan penelitian kuantitatif, fungsi setiap bagiannya, serta prinsip-prinsip yang perlu diperhatikan dalam penulisannya.
+
+## Struktur Laporan Penelitian Kuantitatif
+
+Penulisan laporan hasil penelitian merupakan tahap akhir dari rangkaian penelitian. Untuk penelitian kuantitatif, laporan biasanya mengikuti struktur proposal, dilengkapi dengan bagian awal (Judul, Abstrak, Kata kunci) dan bagian inti dengan format IMRaD. Laporan penelitian juga dilengkapi dengan Daftar Pustaka, serta Lampiran yang digunakan dalam penelitian.
+
+Bagian Pendahuluan dapat ditulis secara kurang lebih sama seperti dalam proposal, sedangkan bagian Metode perlu beberapa penyesuaian. Dalam proposal, bagian Metode berisi rencana dan rasionalisasi, sedangkan dalam laporan berisi prosedur yang benar-benar dilakukan untuk menguji hipotesis. Jika diperlukan, tinjauan literatur dapat ditulis sebagai sub-bab tersendiri.
+
+Dengan demikian, laporan hasil penelitian kuantitatif menyajikan informasi secara sistematis, mulai dari pengantar hingga hasil dan pembahasan. Melalui sistematika ini, diharapkan pembaca dapat menilai validitas serta kontribusi penelitian. Berikut adalah penjelasan dari masing-masing bagian dari laporan penelitian kuantitatif.
+
+### Abstrak
+
+Abstrak adalah ringkasan singkat dari karya ilmiah, seperti tesis, disertasi, atau artikel penelitian. Abstrak harus menjelaskan tujuan, metode, hasil, dan kesimpulan penelitian secara ringkas agar pembaca memahami inti dari penelitian yang dilakukan. Struktur abstrak dapat bervariasi menurut disiplin ilmu, namun salah satu format umum adalah IMRaD (*Introduction, Methods, Results, Discussion)*. Abstrak harus memuat elemen utama penelitian, yaitu:
+
+●        Masalah penelitian yang diselidiki, termasuk hipotesis, pertanyaan, atau teori utama.
+
+●        Sampel atau sumber data yang digunakan.
+
+●        Metode penelitian, meliputi desain, strategi analisis, prosedur pengumpulan data, ukuran sampel, serta instrumen atau variabel utama.
+
+●        Temuan dasar, baik kuantitatif (misalnya signifikansi statistik) maupun kualitatif (temuan utama).
+
+●        Kesimpulan dan implikasi, termasuk aplikasi hasil penelitian.
+
+Panjang abstrak biasanya 100–300 kata, dengan batasan jumlah kata yang ditentukan oleh ketentuan masing‑masing jurnal atau institusi. Abstrak biasanya disajikan dalam versi Bahasa Indonesia dan Bahasa Inggris. Pada bagian akhir abstrak dilengkapi dengan 3 – 5 kata kunci yang memudahkan pembaca untuk melakukan pencarian (online).
+
+Menulis abstrak memiliki tantangan tersendiri karena harus merangkum seluruh karya penelitian dalam beberapa ratus kata. Abstrak penting untuk ditulis dengan baik dan tepat karena abstrak sering menjadi bagian pertama (atau satu‑satunya) yang dibaca. Pembaca akan melanjutkan proses membaca secara lebih detail jika merasa abstrak yang dibaca menarik atau relevan dengan penelitiannya. Beberapa strategi yang dapat membantu proses penulisan abstrak, antara lain:
+
+●        Membaca abstrak lain – pelajari pola penulisan dengan meninjau abstrak artikel jurnal atau skripsi sebagai kerangka struktur dan gaya penulisan.
+
+●        Buat outline – buat daftar kata kunci dari tiap bab atau bagian, lalu rangkum poin utama dalam satu‑dua kalimat. Revisi agar kalimat saling terhubung dan menunjukkan alur argumen.
+
+●        Tulis jelas dan ringkas – setiap kalimat harus menyampaikan satu ide utama. Hindari kalimat pasif, kalimat panjang, jargon, pengulangan, kata pengisi, serta detail berlebihan. Informasi latar belakang atau diskusi mendalam sebaiknya dimasukkan ke dalam isi karya, bukan abstrak.
+
+## **Pendahuluan (*Introduction*)**
+
+                Sama halnya dengan proposal penelitian, bagian pendahuluan dari laporan hasil penelitian perlu memuat:
+
+●        Masalah penelitian – jelaskan apa yang menjadi masalah penelitian, pentingnya masalah tersebut untuk diteliti baik secara teoritis maupun praktis.
+
+●        Tinjauan literatur yang relevan - Berikan tinjauan literatur yang memadai, termasuk: hubungan dengan karya sebelumnya, perbedaan antara penelitian yang dilakukan saat ini dan penelitian sebelumnya (jika beberapa hal dari penelitian ini telah diteliti sebelumnya).
+
+●        Tujuan dan hipotesis penelitian.
+
+Sebuah pendahuluan laporan hasil penelitian yang baik, memuat jawaban dari pertanyaan berikut ini:
+
+o   Apa yang Anda teliti?
+
+o   Mengapa Anda melakukan penelitian ini?
+
+o   Apa kerangka konseptualnya?
+
+o   Apa pertanyaan yang ingin Anda jawab?
+
+o   Apa tujuan penelitian ini?
+
+o   Apa hipotesis yang ingin Anda buktikan?
+
+## **Metode (*Methodology*)**
+
+Bagian metode memiliki tiga tujuan utama. Pertama, memberikan informasi yang cukup agar pembaca dapat menilai apakah penelitian benar‑benar menguji hipotesis yang diajukan. Kedua, memungkinkan orang lain mengulangi penelitian dengan prosedur yang sama, sehingga hasil dapat diuji pada sampel berbeda. Karena itu, detail metode harus cukup jelas agar eksperimen dapat direplikasi secara identik. Ketiga, membantu pembaca menilai sejauh mana hasil penelitian dapat diterapkan pada kelompok lain yang relevan. Dengan membaca bab metodologi penelitian, pembaca dapat memahami mengenai:
+
+o   Metode apa yang Anda gunakan dan mengapa?
+
+o   Sampel apa yang Anda teliti? Bagaimana Anda memilih sampel, dll.?
+
+o   Apa yang Anda lakukan untuk mengumpulkan data? Apa teknik yang Anda gunakan?
+
+o   Apakah Anda telah memperoleh persetujuan etik dan persetujuan informed consent untuk penelitian Anda?
+
+### *Partisipan Penelitian*
+
+Dalam subbagian ini, jelaskan secara rinci partisipan penelitian. Cantumkan jumlah partisipan yang diuji, cara pemilihan sampel, serta berapa banyak partisipan yang tidak dilibatkan dalam analisis data (proses pembersihan data, tidak sesuai dengan kriteria, dsb.). Peneliti juga perlu menjelaskan ketercapaian target sampel yang sudah ditetapkan pada proposal penelitian. Tampilkan variabel demografis penting seperti usia, jenis kelamin, pendidikan, status perkawinan, pekerjaan, atau karakteristik lain yang relevan. Variabel demografis menjadi penting bila digunakan sebagai variabel independen (misalnya membandingkan kelompok berdasarkan usia) atau untuk mendefinisikan populasi tempat sampel diambil. Penyajian detail ini membantu pembaca menilai sejauh mana variabel dikendalikan dan seberapa luas temuan dapat digeneralisasikan ke kelompok lain.
+
+### *Instrumen Penelitian*
+
+Bagian instrumen penelitian merujuk pada peralatan atau alat ukur yang digunakan dalam penelitian. Semua peralatan harus dijelaskan secara rinci agar penelitian dapat direplikasi dengan mudah. Jika menggunakan perangkat lunak, sebutkan nama program, nomor versi, dan sumbernya. Pada penelitian psikologi, instrumen penelitian umumnya menjelaskan mengenai skala atau alat ukur yang digunakan dalam pengambilan data.
+
+Kuesioner dan Skala merupakan bahan utama dalam banyak penelitian, khususnya untuk mendapatkan gelar sarjana psikologi. Jika kuesioner menjadi satu‑satunya instrumen, subbagian ini dapat diberi judul Pengukuran. Dalam menjelaskan pengukuran, sertakan seluruh informasi yang dikumpulkan dari peserta, termasuk data demografis (usia, jenis kelamin, pendidikan, dan lain‑lain). Jika menggunakan tes psikologis yang sudah dikenal, tuliskan nama tes, kutipan (penulis dan tahun publikasi), konstruk yang diukur, jumlah item per subskala, serta format respons. Sertakan contoh item untuk tiap konstruk atau subskala. Jelaskan pula sifat psikometrik instrumen, seperti bukti reliabilitas dan validitas dari penelitian sebelumnya. Tambahkan informasi tentang cara penilaian, termasuk pembalikan skor bila ada, rentang skor penuh, serta interpretasi skor tinggi dan rendah. Jika kuesioner dikembangkan atau diadaptasi khusus untuk penelitian, berikan detail yang sama seperti instrumen standar, ditambah penjelasan tujuan atau alasan adaptasi. Skala yang digunakan sebaiknya dilampirkan dalam Lampiran dan dirujuk di bagian ini (misalnya, “lihat Lampiran X”).
+
+### *Prosedur Penelitian*
+
+Bagian Prosedur harus menjelaskan secara rinci bagaimana penelitian dilakukan agar dapat direplikasi oleh peneliti lain. Prosedur menjelaskan langkah demi langkah yang dilakukan terkait: izin etik yang dilakukan, proses pengumpulan data/rekrutmen partisipan, pengambilan data daring atau luring, dsb. Umumnya, deskripsi dimulai dengan penjelasan tentang pemberian informed consent serta lokasi atau cara partisipasi (misalnya di kelas laboratorium atau melalui tautan daring). Instruksi kepada peserta perlu dicantumkan secara lengkap jika singkat, atau diringkas dan dirujuk ke Lampiran jika panjang. Hindari penggunaan singkatan; jika diperlukan, gunakan singkatan yang jelas dan definisikan saat pertama kali muncul. Informasi lain yang perlu disertakan meliputi urutan pengukuran (jika belum dijelaskan di bagian desain), durasi partisipasi, serta penjelasan tambahan yang relevan. Sertakan juga bagaimana faktor pengganggu eksternal, seperti waktu dan tempat, dikendalikan. Prosedur sebaiknya ditulis sesuai urutan pengalaman peserta. Jika terdapat unsur manipulasi (pada penelitian eksperimental), sertakan *debriefing* atau “cerita penutup” yang diberikan kepada peserta. Penting pula mencatat apakah prosedur dapat menimbulkan rasa tidak nyaman, serta langkah yang diambil untuk menjaga anonimitas dan kerahasiaan partisipan.
+
+### *Analisis Data Penelitian*
+
+                Bagian ini menjelaskan secara rinci mengenai cara analisis data penelitian, meliputi: software dan versi yang digunakan (misalnya: SPSS versi 31), uji asumsi sebelum analisis inferensial, analisis statistik deskriptif yang dilakukan, level signifikansi yang digunakan, dan sebagainya.
+
+## **Hasil (*Research Results*)**
+
+Bagian Hasil bertujuan menyajikan bukti yang relevan dengan hipotesis penelitian. Pertanyaan yang harus terjawab saat menuliskan hasil, adalah:
+
+o   Jawaban apa yang Anda dapatkan dari hasil penghitungan?
+
+o   Apakah hasil yang disajikan sudah cukup menekankan temuan-temuan tersebut?
+
+Bagian hasil harus diawali dengan pengingat kepada pembaca mengenai jenis analisis yang digunakan, misalnya uji t, korelasi Spearman, atau regresi linier sederhana. Selanjutnya, sajikan ringkasan singkat dari setiap temuan yang relevan, mencakup statistik deskriptif (seperti rata‑rata dan deviasi standar) serta statistik inferensial (misalnya skor t, derajat kebebasan, dan nilai p). Penting juga untuk menunjukkan apakah hipotesis didukung atau tidak. Hasil negatif tetap perlu dilaporkan, dengan penjelasan lebih lanjut disajikan pada bagian diskusi.
+
+Hasil sebaiknya dilaporkan mengikuti urutan yang telah dipaparkan dalam pendahuluan. Hindari penggunaan grafik atau tabel hanya untuk satu atau dua statistik, kecuali sesuai arahan dosen atau tutor. Penting untuk menuliskan hasil dalam kalimat yang benar secara tata bahasa, dengan memasukkan hasil statistik langsung ke dalam teks. Jika menggunakan tabel atau gambar, rujuklah di akhir deskripsi tanpa mengulang informasi hasil penghitungan statistik dalam teks (misalnya: Lihat Tabel 1). Apabila angka dan hasil analisis statistik cukup banyak dan sulit dibaca dalam bentuk kalimat, tabel atau grafik dapat digunakan. Namun, setiap tabel atau gambar harus diperkenalkan terlebih dahulu dengan uraian singkat yang menjelaskan isi dan membantu pembaca memahami konteks. Bidang ilmu psikologi memiliki format pelaporan hasil penelitian kuantitatif, baik ketika melaporkan angka hasil statistik maupun format tampilan tabel dan gambar yang sudah diatur dalam panduan penulisan publikasi menurut APA Edisi 7 (Lihat https://apastyle.apa.org/style-grammar-guidelines/tables-figures ).
+
+## **Diskusi (*Discussion*)**
+
+Bagian Diskusi berfungsi untuk meninjau kembali hipotesis penelitian dan memperluas pembahasan ke implikasi yang lebih umum. Diskusi sebaiknya dimulai dengan pernyataan spesifik mengenai apakah hipotesis didukung atau tidak. Setelah itu, hasil penelitian diinterpretasikan dan dibandingkan dengan temuan sebelumnya yang telah dibahas dalam pendahuluan. Pada bagian akhir, pembahasan diperluas untuk menyoroti implikasi hasil penelitian bagi konteks praktis atau “dunia nyata”. Namun, hindari penggunaan ungkapan yang berlebihan atau tidak tepat agar tetap menjaga kredibilitas akademik. Secara sistematis, diskusi hasil penelitian dapat dituliskan dengan cara menjelaskan:
+
+1.  
+
+2.  **Simpulkan hasil utama penelitian,** nyatakan dengan jelas apakah hipotesis didukung atau tidak. Jangan mengasumsikan pembaca mengingat hipotesis yang sudah dituliskan pada bagian pendahuluan, sehingga sebaiknya disebutkan kembali secara ringkas tanpa mengulang kata demi kata dari pendahuluan atau mengulang data statistik dari hasil. Gunakan pernyataan seperti: “Hasil penelitian ini mendukung hipotesis bahwa…” atau “Hasil tidak mendukung hipotesis bahwa…”. Hindari kata‑kata seperti “membuktikan” atau “menyangkal”, karena satu eksperimen tidak dapat sepenuhnya membuktikan atau menolak hipotesis; hasil hanya dapat mendukung atau gagal mendukung.
+
+3.  
+
+Jika terdapat beberapa hipotesis, mulailah dengan paragraf yang merangkum dukungan terhadap masing‑masing hipotesis, kemudian bahas setiap hipotesis secara berurutan untuk menjaga koherensi. Hindari pengulangan berlebihan yang membuat diskusi membosankan. Anda dapat menggunakan kalimat pengantar seperti: “Hasil menunjukkan bahwa sebagian besar hipotesis didukung” atau “Meskipun hipotesis A didukung, hasil penelitian ini tidak berhasil membuktikan hipotesis B”. Paragraf berikutnya kemudian menguraikan detail dukungan tersebut serta hubungannya dengan temuan penelitian sebelumnya.
+
+2.  
+
+3.  **Jelaskan interpretasi hasil penelitian,** makna hasil penelitian mungkin tampak jelas bagi peneliti, tetapi tetap penting untuk menjelaskan signifikansinya kepada pembaca, terutama bagaimana hasil tersebut menjawab pertanyaan penelitian. Bentuk interpretasi bergantung pada jenis penelitian, namun beberapa pendekatan umum meliputi:
+
+4.  
+
+o   Mengidentifikasi korelasi, pola, dan hubungan dalam data.
+
+o   Menilai kesesuaian hasil dengan hipotesis atau harapan penelitian.
+
+o   Mengaitkan temuan penelitian saat ini dengan penelitian dan teori sebelumnya.
+
+o   Menjelaskan hasil yang tidak terduga serta mengevaluasi signifikansinya.
+
+o   Mempertimbangkan penjelasan alternatif dan menyusun argumen yang mendukung posisi penelitian.
+
+Diskusi dapat diatur berdasarkan tema utama, hipotesis, atau pertanyaan penelitian, mengikuti struktur hasil. Alternatif lainnya, pembahasan dapat dimulai dengan menyoroti temuan yang paling signifikan atau paling tidak terduga.
+
+3.  
+
+4.  **Jelaskan implikasi dari penelitian yang dilakukan.** Selain memberikan interpretasi pribadi, penting untuk menghubungkan hasil penelitian dengan karya ilmiah yang telah dibahas dalam tinjauan pustaka. Diskusi harus menunjukkan bagaimana temuan Anda sesuai dengan pengetahuan yang ada, wawasan baru yang ditawarkan, serta konsekuensi bagi teori maupun praktik. Untuk memperjelas, ajukan pertanyaan reflektif seperti:
+
+5.  
+
+o   Apakah hasil mendukung atau menantang teori yang ada? Jika mendukung, informasi baru apa yang diberikan? Jika menantang, apa alasan yang mungkin menjelaskan hal tersebut?
+
+o   Apakah terdapat implikasi praktis dari temuan penelitian?
+
+Tujuan utama bagian ini adalah menegaskan kontribusi penelitian yang telah dilakukan, menunjukkan nilai tambahnya terhadap literatur yang ada, dan menjelaskan mengapa pembaca perlu peduli terhadap hasil tersebut.
+
+4.  
+
+5.  **Akui keterbatasan penelitian yang dilakukan.** Setiap penelitian, bahkan yang terbaik sekalipun, memiliki keterbatasan. Mengakui keterbatasan bukan berarti menyoroti kesalahan, melainkan memberikan gambaran yang jujur tentang apa yang dapat dan tidak dapat disimpulkan dari penelitian. Keterbatasan dapat muncul dari desain penelitian, pilihan metodologis tertentu, atau hambatan tak terduga selama proses penelitian. Sebutkan hanya keterbatasan yang relevan dengan tujuan penelitian, lalu jelaskan sejauh mana keterbatasan tersebut memengaruhi pencapaian tujuan. Beberapa contoh umum meliputi:
+
+6.  
+
+o   Ukuran sampel kecil atau terbatas pada kelompok tertentu, sehingga generalisasi hasil menjadi terbatas.
+
+o   Masalah dalam pengumpulan atau analisis data yang dapat memengaruhi akurasi temuan.
+
+o   Variabel pengganggu yang tidak terkendali yang mungkin memengaruhi hasil penelitian.
+
+Setelah menuliskan keterbatasan penelitian, tegaskan kembali bahwa hasil penelitian tetap valid dalam menjawab pertanyaan penelitian utama, meskipun terdapat batasan tertentu.
+
+5.  
+
+6.  **Tuliskan rekomendasi baik untuk pengembangan penelitian maupun hal praktis yang dapat dipelajari dari penelitian yang dilakukan.** Berdasarkan hasil dan diskusi penelitian, peneliti dapat memberikan rekomendasi untuk implementasi praktis maupun arah penelitian selanjutnya. Terkadang, rekomendasi ini ditempatkan di bagian kesimpulan. Saran untuk penelitian lebih lanjut biasanya berangkat dari keterbatasan penelitian. Jangan hanya menuliskan bahwa penelitian tambahan diperlukan, tetapi berikan ide konkret tentang bagaimana penelitian mendatang dapat mengembangkan aspek yang belum terjawab.
+
+7.  
+
+Penjelasan yang diberikan sering kali berlaku lebih luas daripada kasus spesifik yang diuji, sehingga penting untuk menunjukkan bagaimana hasil dapat memperkuat atau memperluas teori yang ada. Dalam konteks penelitian sarjana yang biasanya bersifat terapan, implikasi hasil sebaiknya dijelaskan bagi masyarakat atau praktik nyata. Namun, tetap berhati-hati agar tidak membuat pernyataan berlebihan.
+
+Contoh kalimat pembuka rekomendasi:
+
+o   *“Penelitian lebih lanjut diperlukan untuk menetapkan…”*
+
+o   *“Studi di masa mendatang harus mempertimbangkan…”*
+
+o   *“Jalan untuk penelitian di masa mendatang meliputi…”*
+
+Dengan cara ini, rekomendasi hasil penelitian akan lebih jelas, relevan, dan menunjukkan kontribusi nyata penelitian terhadap pengembangan ilmu maupun praktik.
+
+**Simpulkan hasil penelitian.** Bagian penutup atau simpulan laporan penelitian berfungsi untuk merangkum temuan utama secara singkat tanpa mengulang pernyataan dari bagian sebelumnya. Kesimpulan harus berupa ringkasan umum yang menekankan hasil dan kontribusi penelitian. Rekomendasi untuk penelitian masa yang akan datang dapat ditambahkan, misalnya untuk mengembangkan temuan lebih lanjut atau mengatasi keterbatasan desain. Akan tetapi, hindari pernyataan klise seperti “penelitian lebih lanjut diperlukan” tanpa penjelasan; sebaiknya nyatakan secara spesifik variabel atau faktor yang perlu diperhitungkan atau dikendalikan.
