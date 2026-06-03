@@ -150,6 +150,22 @@ Selanjutnya, peneliti perlu menguraikan bagaimana konsep utama akan dioperasiona
 
 Strategi analisis data harus dijelaskan secara jelas. Peneliti perlu menentukan apakah analisis dilakukan secara manual atau menggunakan bantuan *software* statistik. Jika menggunakan *software*, sebutkan program dan prosedur statistik yang akan digunakan. Untuk studi kuantitatif, peneliti perlu melakukan identifikasi variabel utama yang akan dianalisis dan menentukan teknik statistik yang akan digunakan untuk menjawab pertanyaan penelitian atau menguji hipotesis.
 
+#### Etika Penelitian
+
+Penelitian yang melibatkan manusia harus dilaksanakan dengan memperhatikan prinsip-prinsip etika penelitian [@Kumar2018; @AmericanPsychologicalAssociation2017]. Oleh karena itu, proposal penelitian perlu menjelaskan bagaimana peneliti akan melindungi hak, kesejahteraan, dan kerahasiaan partisipan selama proses penelitian berlangsung. Pertimbangan etis penting untuk memastikan bahwa penelitian tidak menimbulkan kerugian fisik, psikologis, sosial, maupun hukum bagi partisipan.
+
+Terdapat sejumlah aspek utama dalam etika penelitian, yaitu:
+
+1.  ***Informed consent***. Sebelum berpartisipasi, calon partisipan harus memperoleh informasi yang memadai mengenai tujuan penelitian, prosedur yang akan dijalani, potensi manfaat dan risiko, serta hak mereka untuk menolak atau menghentikan partisipasi kapan saja tanpa konsekuensi negatif. Persetujuan partisipan harus diberikan secara sukarela tanpa adanya paksaan [@AmericanPsychologicalAssociation2017].
+
+2.  **Kerahasiaan dan privasi partisipan**. Data yang dikumpulkan sebaiknya disimpan secara aman dan hanya digunakan untuk tujuan penelitian. Jika memungkinkan, identitas partisipan perlu dianonimkan sehingga tidak dapat dikenali oleh pihak lain.
+
+3.  **Potensi risiko**. Apabila penelitian berpotensi menimbulkan ketidaknyamanan, stres, atau dampak psikologis tertentu, peneliti harus menjelaskan langkah-langkah yang akan dilakukan untuk meminimalkan risiko tersebut [@Oates2021].
+
+4.  **Persetujuan komite etik penelitian**. Pada beberapa institusi, penelitian yang melibatkan manusia memerlukan persetujuan dari komite etik penelitian sebelum pelaksanaan pengambilan data. Oleh karena itu, proposal penelitian perlu mencantumkan rencana pemenuhan persyaratan etik yang berlaku sesuai dengan kebijakan institusi masing-masing.
+
+Dengan memperhatikan aspek-aspek tersebut, peneliti dapat memastikan bahwa penelitian dilaksanakan secara bertanggung jawab serta menghormati hak dan martabat setiap partisipan yang terlibat.
+
 ## Konsistensi dan Keterkaitan Antar-Komponen Proposal Penelitian
 
 Proposal penelitian yang baik tidak hanya memuat komponen-komponen penelitian secara lengkap, tetapi juga menunjukkan keterkaitan yang logis antar-komponen tersebut [@Findlay2019]. Rumusan masalah, tujuan penelitian, hipotesis, instrumen penelitian, dan teknik analisis data harus disusun secara konsisten sehingga penelitian mampu menjawab pertanyaan yang diajukan.
@@ -160,7 +176,7 @@ Sebagai ilustrasi, keterkaitan antar-komponen proposal dapat dilihat pada @tbl-k
 
 ::: {#tbl-komponen}
 | **Komponen** | **Contoh** |
-|:----------------------|:-----------------------------------------------|
+|:-----------------------|:----------------------------------------------|
 | Permasalahan penelitian | Apakah terdapat hubungan antara harga diri dan prestasi akademik mahasiswa? |
 | Tujuan penelitian | Mengetahui hubungan antara harga diri dan prestasi akademik mahasiswa |
 | Hipotesis | Terdapat hubungan positif antara harga diri dan prestasi akademik mahasiswa |
@@ -168,6 +184,22 @@ Sebagai ilustrasi, keterkaitan antar-komponen proposal dapat dilihat pada @tbl-k
 | Analisis data | Korelasi *Pearson* |
 
 : Contoh keterkaitan antar-komponen proposal
+:::
+
+::: callout-caution
+## Kesalahan yang Sering Ditemukan dalam Proposal Penelitian
+
+Beberapa kesalahan yang sering ditemukan dalam proposal penelitian antara lain:
+
+-   Latar belakang terlalu panjang tetapi tidak mengarah pada permasalahan penelitian.
+-   Tidak ada *research gap* yang jelas.
+-   Permasalahan penelitian tidak dirumuskan secara jelas.
+-   Tujuan penelitian tidak sesuai dengan rumusan masalah.
+-   Hipotesis tidak diturunkan dari teori atau hasil penelitian sebelumnya.
+-   Instrumen yang digunakan tidak sesuai dengan variabel yang diteliti.
+-   Teknik analisis data tidak sesuai dengan tujuan penelitian.
+-   Metode penelitian yang direncanakan sulit atau tidak realistis untuk dilaksanakan.
+-   Referensi yang digunakan sudah terlalu lama atau tidak relevan dengan topik penelitian.
 :::
 
 ## Prinsip-prinsip Penyusunan Proposal Penelitian
@@ -199,21 +231,6 @@ Dalam menyusun proposal penelitian, terdapat beberapa prinsip yang perlu diperha
 6.  **Gunakan gaya bahasa perencanaan**
 
     Karena proposal menjelaskan penelitian yang belum dilaksanakan, penulisannya menggunakan bentuk perencanaan. Oleh karena itu, peneliti menggunakan kata-kata seperti "akan dilakukan", "akan diukur", "akan dianalisis", atau "akan diuji". Setelah penelitian selesai dan ditulis dalam bentuk laporan penelitian, kalimat tersebut diubah menjadi bentuk lampau atau bentuk yang menunjukkan kegiatan telah dilaksanakan.
-
-::: callout-important
-#### Kesalahan yang Sering Ditemukan dalam Proposal Penelitian
-
-Beberapa kesalahan yang sering ditemukan dalam proposal penelitian antara lain:
-
--   Latar belakang terlalu panjang tetapi tidak mengarah pada permasalahan penelitian.
--   Permasalahan penelitian tidak dirumuskan secara jelas.
--   Tujuan penelitian tidak sesuai dengan rumusan masalah.
--   Hipotesis tidak diturunkan dari teori atau hasil penelitian sebelumnya.
--   Instrumen yang digunakan tidak sesuai dengan variabel yang diteliti.
--   Teknik analisis data tidak sesuai dengan tujuan penelitian.
--   Metode penelitian yang direncanakan sulit atau tidak realistis untuk dilaksanakan.
--   Referensi yang digunakan sudah terlalu lama atau tidak relevan dengan topik penelitian.
-:::
 
 Dengan memperhatikan prinsip-prinsip tersebut, peneliti dapat menyusun proposal penelitian yang lebih sistematis, logis, dan meyakinkan. Proposal yang baik tidak hanya membantu memperoleh persetujuan dari pembimbing, penguji, atau pemberi hibah, tetapi juga menjadi pedoman yang memudahkan pelaksanaan penelitian pada tahap-tahap berikutnya.
 
