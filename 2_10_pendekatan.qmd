@@ -141,7 +141,7 @@ MMR bukan sekadar “menggunakan kuesioner plus wawancara” secara terpisah dan
 
 ### Jenis-jenis Desain *Mixed Methods*
 
-Terdapat berbagai variasi desain *mixed methods*, tetapi tiga desain paling umum dijelaskan oleh @Creswell2018a, yaitu *Convergent Parallel Design*, *Explanatory Sequential Design*, dan *Exploratory Sequential Design*. Ketiga desain ini berbeda terutama pada urutan pengumpulan data dan tujuan integrasinya.
+Terdapat berbagai variasi desain *mixed methods*, tetapi tiga desain paling umum dijelaskan oleh @Creswell2018, yaitu *Convergent Parallel Design*, *Explanatory Sequential Design*, dan *Exploratory Sequential Design*. Ketiga desain ini berbeda terutama pada urutan pengumpulan data dan tujuan integrasinya.
 
 1.  ***Convergent Parallel Design*** **(Desain Triangulasi Konvergen)**
 
@@ -161,7 +161,7 @@ Pemilihan pendekatan penelitian harus didasarkan pada pertanyaan penelitian, buk
 
 Ketika penelitian bertujuan memahami makna pengalaman individu, misalnya bagaimana seseorang mengalami *burnout* atau kehilangan, pendekatan kualitatif—khususnya fenomenologi—lebih tepat karena berfokus pada *lived experience* dari sudut pandang partisipan. Sementara itu, ketika peneliti perlu menjelaskan mengapa hasil statistik tidak sepenuhnya sesuai dengan pengalaman partisipan, *mixed methods explanatory sequential* dapat digunakan: data kuantitatif mengidentifikasi pola umum, sedangkan data kualitatif menjelaskan variasinya
 
-Terakhir, jika penelitian bertujuan mengembangkan instrumen atau intervensi baru, *mixed methods exploratory sequential* lebih sesuai. Peneliti memulai dengan eksplorasi kualitatif untuk menemukan tema-tema penting, lalu melanjutkannya dengan pengujian kuantitatif terhadap instrumen atau model yang dikembangkan.
+Terakhir, jika penelitian bertujuan mengembangkan instrumen atau intervensi baru, *mixed methods exploratory sequential* lebih sesuai. Peneliti memulai dengan eksplorasi kualitatif untuk menemukan tema-tema penting, lalu melanjutkannya dengan pengujian kuantitatif terhadap instrumen atau model yang dikembangkan [@Creswell2018].
 
 ## Kesalahan Umum dalam Memilih Pendekatan Penelitian
 

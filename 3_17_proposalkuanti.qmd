@@ -13,12 +13,16 @@ citeproc: true
 # Perancangan Penelitian Kuantitatif
 
 ::: callout-note
-## Tujuan Pembelajaran
+## Capaian Pembelajaran
 
 Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 
-1.  Menjelaskan perbedaan karakteristik utama dari pendekatan kuantitatif dan kualitatif dalam penelitian psikologi.
-2.  Menjelaskan dan menguraikan sejauh mana penelitian mixed methods yang mengintegrasikan pendekatan kuantitatif dan kualitatif dapat digunakan sesuai dengan tujuan dari penelitian.
+1.  Menjelaskan tujuan dan fungsi proposal penelitian dalam proses penelitian kuantitatif.
+2.  Mengidentifikasi dan menjelaskan komponen-komponen utama yang terdapat dalam proposal penelitian kuantitatif.
+3.  Menyusun bagian-bagian proposal penelitian kuantitatif sesuai dengan kaidah penulisan ilmiah.
+4.  Menjelaskan keterkaitan antara permasalahan penelitian, tujuan penelitian, hipotesis, instrumen penelitian, dan rencana analisis data.
+5.  Mengevaluasi konsistensi dan kelayakan suatu proposal penelitian kuantitatif.
+6.  Menerapkan prinsip-prinsip penyusunan proposal penelitian untuk merancang penelitian kuantitatif yang sistematis dan realistis.
 :::
 
 Pada bab-bab sebelumnya telah dibahas berbagai komponen utama penelitian kuantitatif, mulai dari perumusan masalah penelitian, penyusunan hipotesis, identifikasi variabel, pemilihan instrumen, hingga teknik pengambilan sampel. Namun, dalam praktik penelitian, komponen-komponen tersebut tidak berdiri sendiri. Seorang peneliti perlu mengintegrasikannya ke dalam sebuah rancangan penelitian yang sistematis dan realistis untuk dilaksanakan. Rancangan tersebut biasanya dituangkan dalam bentuk proposal penelitian yang menjadi pedoman selama proses penelitian berlangsung.
