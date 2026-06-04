@@ -36,7 +36,9 @@ book:
       chapters: 
         - 3_17_proposalkuanti.qmd
         - 3_18_laporankuanti.qmd
-
+    - part: 4_pengantar.qmd
+      chapters: 
+        - 4_24_laporankuali.qmd
 filters:
   # Run Quarto's default filters first
   - quarto
