@@ -77,7 +77,7 @@ Secara garis besar, perbedaan karakteristik antara pendekatan kuantitatif dan ku
 
 ::: {#tbl-kuanvskual}
 |  |  |  |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **Dimensi** | **Kuantitatif** | **Kualitatif** |
 | **Tujuan utama** | Menguji hipotesis, mengukur hubungan, men-generalisasi | Memahami makna, mengeksplorasi proses, mengembangkan teori |
 | **Contoh Jenis pertanyaan** | “Apakah?”, “Seberapa besar?”, “Apakah X menyebabkan Y?” | “Bagaimana?”, “Mengapa?” (dalam pengalaman subjektif), “Apa maknanya?” |

@@ -1,0 +1,112 @@
+---
+author:
+  - name: Melok Roro Kinanthi
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
+# Pelaporan Penelitian Kualitatif: Metode COREQ
+
+::: callout-note
+## Capaian Pembelajaran
+
+Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
+
+1.  Memahami definisi, urgensi, dan batasan ruang lingkup penggunaan panduan COREQ sebagai instrumen transparansi dalam pelaporan riset kualitatif berbasis wawancara dan FGD.
+2.  Mengimplementasikan panduan COREQ dalam pelaporan riset kualitatif.
+3.  Mengevaluasi kelengkapan laporan penelitian kualitatif berdasarkan butir-butir dalam panduan COREQ
+:::
+
+Penelitian kualitatif tidak hanya menuntut penyajian temuan penelitian, tetapi juga pelaporan yang transparan mengenai bagaimana data dikumpulkan, dianalisis, dan diinterpretasikan. Transparansi ini penting agar pembaca dapat menilai kredibilitas serta keterpercayaan temuan yang dihasilkan. Oleh karena itu, berbagai panduan pelaporan (*reporting guidelines*) dikembangkan untuk membantu peneliti melaporkan penelitian kualitatif secara lebih sistematis, lengkap, dan transparan. Salah satu panduan yang paling banyak digunakan adalah *Consolidated Criteria for Reporting Qualitative Research* (COREQ).
+
+## Latar Belakang Pengembangan Panduan COREQ
+
+COREQ merupakan sebuah panduan pelaporan penelitian kualitatif yang dikembangkan oleh @Tong2007. Panduan ini memuat daftar periksa yang terdiri atas 32 butir penilaian dengan tujuan untuk memastikan peneliti melaporkan penelitian kualitatif secara lengkap dan transparan. Melalui transparansi tersebut, COREQ diharapkan dapat meningkatkan rigoritas, komprehensifitas, dan kredibilitas dari studi yang bersangkutan [@Barbieri2025; @Walsh2020].
+
+Ruang lingkup penggunaan COREQ terbatas pada penelitian kualitatif yang menggunakan metode pengumpulan data wawancara dan diskusi kelompok terfokus saja [@Tong2007; @Barbieri2025]. Saat ini, COREQ telah didukung secara luas oleh berbagai lembaga pelaporan ilmiah, seperti EQUATOR Network, serta menjadi prasyarat atau rekomendasi di banyak jurnal ilmiah bereputasi.
+
+## Tujuan Penggunaan Panduan COREQ
+
+Penggunaan panduan COREQ dalam pelaporan penelitian kualitatif memiliki tujuan sebagai berikut:
+
+a.  Meningkatkan transparansi dan kelengkapan laporan penelitian. COREQ mengidentifikasi poin-poin penting yang wajib dilaporkan—seperti siapa yang melakukan penelitian, bagaimana penentuan sampel partisipan dilakukan, serta bagaimana data dikumpulkan dan dianalisis—agar pembaca dapat melakukan penilaian kritis terhadap metode dan temuan penelitian [@Walsh2020; @Fehring2025].
+b.  Mendukung rigoritas, kredibilitas, dan interpretabilitas penelitian kualitatif. Dengan mewajibkan rincian mengenai pemilihan partisipan, latar penelitian, pengumpulan data, dan proses analisis, COREQ membantu penelaah (*reviewer*) dalam menilai ketepatan metodologi dan keabsahan temuan [@Harley2022; @Buus2020].
+c.  Menyelaraskan laporan dengan standar jurnal dan komunitas ilmiah. Sebagai salah satu alat pelaporan kualitatif yang paling banyak digunakan dan disitasi, COREQ telah diterima oleh jaringan akademik dan jurnal utama sebagai standar baku [@Dossett2021].
+
+## Hubungan COREQ dengan *Trustworthiness* Penelitian Kualitatif
+
+Dalam penelitian kualitatif, kualitas penelitian umumnya dinilai melalui konsep *trustworthiness*, yang mencakup kredibilitas (*credibility*), keteralihan (*transferability*), keandalan (*dependability*), dan kepastian (*confirmability*). Keempat aspek tersebut membantu pembaca menilai sejauh mana temuan penelitian dapat dipercaya dan didukung oleh data yang memadai [@Harley2022].
+
+Penting untuk dipahami bahwa COREQ bukanlah instrumen untuk mengukur *trustworthiness* secara langsung. COREQ merupakan panduan pelaporan yang membantu peneliti menyajikan informasi penting secara lengkap dan transparan, sehingga pembaca dapat menilai sendiri kualitas penelitian yang dilakukan.
+
+Dengan kata lain, COREQ tidak menjamin bahwa suatu penelitian berkualitas tinggi, tetapi membantu memastikan bahwa informasi yang diperlukan untuk menilai kualitas tersebut tersedia secara memadai. Oleh karena itu, COREQ sebaiknya dipandang sebagai alat untuk meningkatkan transparansi pelaporan penelitian kualitatif, bukan sebagai satu-satunya tolok ukur kualitas penelitian [@Fehring2025].
+
+## Ranah (Domain) dalam COREQ
+
+Terdapat tiga ranah dalam COREQ yakni ranah tim peneliti dan refleksivitas, ranah desain dan metode penelitian, serta ranah analisis dan penyajian hasil penelitian. Untuk memudahkan pemahaman, @tbl-domaincoreq menyajikan ringkasan struktur 32 butir pelaporan dalam panduan COREQ. Ketiga ranah tersebut mencakup aspek peneliti, desain penelitian, serta analisis dan pelaporan temuan yang secara keseluruhan bertujuan meningkatkan transparansi penelitian kualitatif.
+
+::: {#tbl-domaincoreq}
+| Ranah | Subranah | Nomor Item COREQ | Jumlah Item |
+|------------------|------------------|------------------|------------------|
+| Tim Peneliti dan Refleksivitas | Karakteristik personal; hubungan dengan partisipan | 1–8 | 8 |
+| Desain Penelitian | Kerangka teoretis; pemilihan partisipan; setting; pengumpulan data | 9–23 | 15 |
+| Analisis dan Temuan | Analisis data; pelaporan hasil | 24–32 | 9 |
+| **Total** |  |  | **32** |
+
+: Struktur COREQ
+:::
+
+### Ranah Tim Peneliti dan Refleksivitas
+
+Ranah ini menyoroti siapa yang melakukan penelitian tersebut serta bagaimana posisi atau latar belakang peneliti dapat memengaruhi jalannya penelitian. Butir pelaporan dalam ranah ini mencakup karakteristik pribadi dari pewawancara atau fasilitator, seperti identitas, kredibilitas, pekerjaan, jenis kelamin, serta pengalaman dan pelatihan yang telah diikuti. Selain itu, hubungan dengan partisipan juga menjadi aspek krusial yang perlu dilaporkan peneliti, misalnya, apakah sudah ada hubungan yang terjalin antara peneliti dan partisipan sebelum penelitian dimulai, apa saja yang diketahui partisipan mengenai peneliti, serta bagaimana karakteristik peneliti tersebut berpotensi memengaruhi data yang dikumpulkan.
+
+Asumsi yang mendasari pentingnya ranah ini dilaporkan dalam penelitian kualitatif adalah karena identitas para peneliti serta cara peneliti merefleksikan diri akan membentuk apa yang ditanyakan, apa yang didengar, dan bagaimana informasi tersebut diinterpretasikan. Oleh karena itu, keterbukaan mengenai karakteristik tim peneliti dan praktik refleksivitas sangat penting agar proses tersebut menjadi transparan dan dapat dinilai secara terbuka [@Harley2022].
+
+Melaporkan karakteristik tim dan praktik refleksivitas ini memungkinkan pembaca untuk memahami bagaimana pengaruh-pengaruh dari dua hal tersebut “berjalan”, alih-alih berpura-pura bahwa pengaruh tersebut tidak ada. Sebagai contoh, identitas, riwayat hidup, dan asumsi yang dimiliki oleh peneliti terbukti memengaruhi pemilihan topik, penyusunan pertanyaan, penentuan metode, hingga analisis dan interpretasi data [@Braun2025; @Rinchen2025].
+
+Selain itu, status peneliti sebagai orang dalam atau orang luar (*insider/outsider*), identitas sosial, dan relasi kuasa turut memengaruhi akses di lapangan, kedekatan yang terjalin (*rapport*), keterbukaan partisipan, serta bentuk konstruksi bersama yang terbangun selama proses wawancara [@Bukamal2022; @Mason-Bish2019]. Pengaruh ini juga merambah ke tahap interpretasi dan analisis, di mana latar belakang pribadi dan profesional memengaruhi proses pengodean (*coding*) dan pemaknaan, sementara keragaman perspektif di dalam tim dapat memperdalam sekaligus menguji interpretasi individu [@Rinchen2025]. Tanpa adanya pelaporan yang transparan, pembaca terpaksa menebak-nebak potensi bias, dinamika kuasa, dan sudut pandang peneliti, yang pada akhirnya dapat merusak evaluasi terhadap kualitas dan aspek keadilan dalam karya ilmiah tersebut.
+
+### Ranah Desain dan Metode Penelitian
+
+Ranah ini berfokus pada bagaimana penelitian tersebut direncanakan dan dilaksanakan. Butir-butir pelaporan dalam ranah ini mencakup kerangka teoretis atau orientasi metodologis yang digunakan (seperti *grounded theory* atau fenomenologi), strategi penentuan atau pemilihan partisipan (*sampling*), proses rekrutmen partisipan, kriteria inklusi dan eksklusi partisipan, jumlah partisipan, serta bagaimana pendekatan awal dilakukan oleh peneliti terhadap partisipan.
+
+Selain itu, hal lain yang penting untuk dilaporkan dalam ranah ini adalah latar penelitian, seperti tempat pelaksanaan wawancara atau diskusi kelompok terfokus beserta konteks lingkungannya dan prosedur pengumpulan data yang meliputi jenis instrumen yang digunakan (seperti panduan wawancara), ada tidaknya uji coba instrumen (*pilot testing*), durasi wawancara atau diskusi kelompok terfokus, proses perekaman data selama wawancara atau diskusi kelompok terfokus berlangsung, catatan lapangan (*field notes*), ada atau tidaknya wawancara ulang, saturasi data, hingga konfirmasi transkrip kembali kepada partisipan.
+
+Pelaporan yang transparan mengenai bagaimana sebuah penelitian kualitatif direncanakan dan dilaksanakan merupakan hal yang sangat krusial untuk mengevaluasi ketepatan (*rigor*), keterpercayaan, serta kemanfaatan dari temuan penelitian. Komponen-komponen seperti kerangka teoretis, pengambilan sampel, latar penelitian, dan prosedur pengumpulan data merupakan elemen-elemen esensial yang memungkinkan pembaca menilai apakah metode yang digunakan logis, tepat, dan dilaksanakan dengan baik [@Harley2022].
+
+Terkait dengan pemilihan partisipan yang mencakup strategi pengambilan sampel, kriteria, ukuran sampel, dan rekrutmen, keterbukaan mengenai bagaimana dan mengapa partisipan dipilih memungkinkan pihak lain untuk menilai apakah sampel tersebut memadai untuk menjawab pertanyaan penelitian serta apakah klaim yang dihasilkan dapat dipertanggungjawabkan. Adapun penetapan kriteria inklusi atau eksklusi secara eksplisit, strategi yang digunakan, serta sumber penentuan sampel memiliki implikasi langsung terhadap koherensi, transparansi, dampak, dan keterpercayaan sebuah studi [@Robinson2014].
+
+Sementara itu, melaporkan latar penelitian akan menunjukkan di mana dan dalam kondisi apa data dihasilkan, yang sangat esensial untuk menilai relevansi studi dan membantu pembaca menilai sejauh mana temuan tersebut dapat atau tidak dapat diterapkan pada konteks lain. Dengan melaporkan bagaimana data dikumpulkan—seperti alat yang digunakan, uji coba awal, keputusan saturasi, wawancara ulang, hingga pengecekan anggota (*member checking*)—pembaca dapat menilai kecukupan data, keselarasan dengan pertanyaan penelitian, serta potensi bias atau keterbatasan yang ada.
+
+**1.3.3 Ranah Analisis dan Penyajian Temuan Penelitian**
+
+Pelaporan yang transparan mengenai bagaimana data dianalisis dan bagaimana temuan disajikan dapat meningkatkan keterpercayaan dan kemanfaatan penelitian kualitatif. Keterpercayaan dalam penelitian kualitatif itu sendiri bertumpu pada empat pilar utama, yaitu kredibilitas (*credibility*), keteralihan (*transferability*), keandalan (*dependability*), dan kepastian (*confirmability*) (Ahmed, 2024; Kakar et al., 2023; Shenton, 2004). Pelaporan analisis yang terperinci secara langsung mendukung pemenuhan pilar-pilar tersebut; kredibilitas dapat dicapai dengan menunjukkan secara gamblang bagaimana tema atau interpretasi dihasilkan dari data (Ahmed, 2024; Shenton, 2004; Elo et al., 2014; Özden, 2022), aspek keandalan terpenuhi dengan menyediakan dokumentasi langkah-langkah analisis data yang dapat diikuti oleh peneliti lain (Elo et al., 2014; Shenton, 2004; Harley & Cornelissen, 2020), sedangkan aspek kepastian membuktikan bahwa temuan benar-benar muncul dari data lapangan dan bukan dari disposisi atau kecenderungan pribadi peneliti (Shenton, 2004; Kakar et al., 2023; Elo et al., 2014).
+
+Ranah ini berfokus pada bagaimana data dianalisis secara sistematis dan bagaimana hasil akhirnya dipaparkan kepada publik (Booth et al., 2014; Buus et al., 2025; Özden et al., 2022; Barbieri et al., 2025; Walsh et al., 2020).  Pada aspek analisis data, butir - butir pelaporan dalam ranah ini mencakup jumlah kodifikator (*coder*), deskripsi terperinci mengenai proses pengodean, cara penemuan tema baik secara induktif maupun deduktif, penggunaan perangkat lunak analisis data kualitatif, serta bagaimana peneliti menjaga konsistensi data, misalnya melalui pencocokan kembali antara transkrip dengan rekaman audio (Booth et al., 2014; Özden et al., 2022; Walsh et al., 2020).
+
+Pada aspek pelaporan temuan penelitian, butir-butir yang perlu dipenuhi dalam ranah ini adalah penyajian tema-tema utama maupun tema minor, penggunaan kutipan langsung (*quotations*) dari partisipan untuk mengilustrasikan tema tersebut, serta kejelasan mengenai hubungan antara data mentah dengan interpretasi yang dibuat oleh peneliti (Booth et al., 2014; Buus et al., 2025; Özden et al., 2022; Barbieri et al., 2025; Walsh et al., 2020). Pemaparan secara detail pada ranah ini membantu pembaca untuk  menilai sendiri ketatnya analisis data dan tingkat kredibilitas dari interpretasi yang disimpulkan oleh peneliti (Booth et al., 2014; Buus et al., 2025; Barbieri et al., 2025; Walsh et al., 2020).
+
+**1.4. Keterbatasan Panduan COREQ**
+
+Beberapa keterbatasan panduan COREQ adalah sebagai berikut:
+
+a.  
+
+b.  Panduan COREQ tidak dapat diaplikasikan ke semua metode pengumpulan data kualitatif, namun hanya sesuai ini untuk metode pengumpulan data wawancara atau  diskusi kelompok terfokus berskala kecil (Braun & Clarke, 2024; Barbieri et al., 2025).
+
+c.  
+
+<!-- -->
+
+b.  
+
+c.  Penggunaan panduan COREQ yang kaku dapat memicu fenomena "kepatuhan buta" (overobedience), di mana penulis hanya fokus mengisi daftar periksa alih-alih mendalami esensi kualitas kualitatif, sehingga terkadang menghasilkan informasi yang menyesatkan atau tidak relevan (Buus et al., 2025).
+
+d.  
+
+Para ahli sangat menyarankan agar dalam penggunaannya, panduan COREQ ini diselaraskan dengan kriteria metodologis yang sesuai, alih-alih menjadikannya sebagai satu-satunya ukuran universal untuk menentukan kualitas suatu penelitian kualitatif (Braun & Clarke, 2024; Buus & Perron, 2019; Du et al., 2022; Barbieri et al., 2025).
