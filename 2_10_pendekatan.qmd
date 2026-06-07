@@ -10,7 +10,7 @@ reference-section-title: Daftar Pustaka
 citeproc: true
 ---
 
-# Pendekatan Kuantitatif dan Kualitatif: Perbandingan & Integrasi
+# Pendekatan Kuantitatif dan Kualitatif: Perbandingan & Integrasi {#chap-pendekatan}
 
 ::: callout-note
 ## Tujuan Pembelajaran
@@ -49,7 +49,7 @@ Penelitian kuantitatif adalah proses pengumpulan dan analisis data numerik untuk
 
     Replikabilitas merujuk pada kemampuan suatu penelitian untuk diulang oleh peneliti lain menggunakan prosedur yang sama dan menghasilkan temuan yang serupa atau dapat dibandingkan. Oleh sebab itu, prosedur penelitian harus ditulis secara rinci, sistematis, dan transparan agar dapat diikuti oleh peneliti lain. Dalam riset psikologi, replikabilitas diwujudkan melalui publikasi protokol penelitian secara jelas, penggunaan instrumen yang telah terstandarisasi, penjelasan rinci mengenai prosedur eksperimen, hingga praktik *pre-registration* yang menjelaskan hipotesis, metode, dan rencana analisis sebelum penelitian dilaksanakan [@Bosnjak2022].
 
-## Karakteristik Pendekatan Kualitatif
+## Karakteristik Pendekatan Kualitatif {#sec-karakterkuali}
 
 Pendekatan kualitatif adalah cara penelitian yang bertujuan memahami pengalaman manusia secara mendalam. Dalam psikologi, pendekatan ini digunakan ketika peneliti ingin mengetahui bagaimana seseorang memahami, merasakan, atau memaknai suatu pengalaman hidup. Alih-alih berfokus pada angka atau hubungan statistik, penelitian kualitatif lebih menekankan cerita, pengalaman, makna, dan konteks kehidupan individu [@Creswell2018a].
 
@@ -61,29 +61,46 @@ Pendekatan kualitatif adalah cara penelitian yang bertujuan memahami pengalaman 
 
     Penelitian kualitatif umumnya dilakukan dalam situasi atau lingkungan alami partisipan. Artinya, peneliti berusaha memahami perilaku atau pengalaman seseorang dalam kehidupan sehari-hari, bukan dalam situasi yang dibuat secara khusus seperti laboratorium. Sebagai contoh, peneliti dapat melakukan wawancara di rumah partisipan untuk memahami dinamika keluarga, atau melakukan observasi langsung di ruang kelas untuk melihat interaksi guru dan siswa sebagaimana terjadi secara alami.
 
-3.  **Memiliki desain yang fleksibel dan berkembang (*emergent*)**
-
-    Berbeda dengan penelitian kuantitatif yang biasanya memiliki prosedur tetap sejak awal, penelitian kualitatif cenderung fleksibel. Fleksibilitas ini membantu peneliti menangkap fenomena secara lebih mendalam. Misalnya, saat melakukan wawancara pertama tentang pengalaman *burnout* pada mahasiswa, peneliti menemukan bahwa tekanan keluarga muncul sebagai tema penting yang sebelumnya tidak diperkirakan. Berdasarkan temuan awal tersebut, peneliti kemudian menambahkan pertanyaan tentang ekspektasi keluarga pada wawancara berikutnya.
-
-4.  **Peneliti sebagai instrumen utama**
+3.  **Peneliti sebagai instrumen utama**
 
     Dalam penelitian kualitatif, peneliti sendiri merupakan instrumen utama penelitian. Artinya, kualitas data sangat dipengaruhi oleh kemampuan peneliti dalam mengajukan pertanyaan, mendengarkan, mengamati, serta menafsirkan pengalaman partisipan. Oleh karena itu, peneliti perlu melakukan refleksivitas, yaitu menyadari dan menjelaskan bagaimana pengalaman pribadi, nilai, atau asumsi tertentu dapat memengaruhi proses penelitian. Misalnya, peneliti yang pernah mengalami *burnout* perlu menyadari kemungkinan bias ketika mewawancarai partisipan mengenai topik serupa.
 
-5.  **Menghasilkan data yang kaya dan mendalam**
+4.  **Menggunakan berbagai sumber data**
+
+    Penelitian kualitatif umumnya memanfaatkan berbagai sumber data, seperti wawancara, observasi, dokumen, foto, maupun catatan lapangan. Penggunaan berbagai sumber data membantu peneliti memperoleh pemahaman yang lebih kaya dan mendalam mengenai fenomena yang diteliti.
+
+5.  **Menggunakan analisis data induktif dan deduktif**
+
+    Penelitian kualitatif umumnya menggunakan penalaran induktif, yaitu membangun tema, kategori, dan pola berdasarkan data lapangan. Peneliti menafsirkan data secara bertahap hingga memperoleh pemahaman yang lebih utuh tentang fenomena yang diteliti. Meskipun demikian, peneliti juga menggunakan penalaran deduktif untuk meninjau kembali data dan memastikan bahwa tema yang ditemukan didukung oleh bukti yang memadai. Karena itu, analisis kualitatif memadukan penalaran induktif dan deduktif secara berkelanjutan.
+
+6.  **Memiliki desain yang fleksibel dan berkembang (*emergent*)**
+
+    Berbeda dengan penelitian kuantitatif yang biasanya memiliki prosedur tetap sejak awal, penelitian kualitatif cenderung fleksibel. Fleksibilitas ini membantu peneliti menangkap fenomena secara lebih mendalam. Misalnya, saat melakukan wawancara pertama tentang pengalaman *burnout* pada mahasiswa, peneliti menemukan bahwa tekanan keluarga muncul sebagai tema penting yang sebelumnya tidak diperkirakan. Berdasarkan temuan awal tersebut, peneliti kemudian menambahkan pertanyaan tentang ekspektasi keluarga pada wawancara berikutnya.
+
+7.  **Menghasilkan data yang kaya dan mendalam**
 
     Penelitian kualitatif menghasilkan data yang kaya (*rich data*) dan mendalam karena data yang dikumpulkan umumnya berupa teks, narasi, percakapan, catatan lapangan, atau dokumen. Sebagai contoh, satu wawancara mendalam dapat menghasilkan transkrip puluhan halaman yang kemudian dianalisis untuk menemukan tema-tema seperti stres, dukungan sosial, identitas diri, atau strategi *coping*.
+
+8.  **Memahami fenomena dalam konteksnya**
+
+    Penelitian kualitatif memandang bahwa pengalaman dan perilaku manusia tidak dapat dipisahkan dari konteks tempat fenomena tersebut terjadi. Oleh karena itu, peneliti berupaya memahami fenomena dalam lingkungan alaminya dengan mempertimbangkan faktor sosial, budaya, maupun situasional yang memengaruhi pengalaman partisipan.
+
+9.  **Mengutamakan refleksivitas peneliti**
+
+    Dalam penelitian kualitatif, peneliti menyadari bahwa nilai, pengalaman, dan asumsi pribadi dapat memengaruhi proses penelitian. Oleh karena itu, peneliti perlu melakukan refleksivitas, yaitu secara kritis merefleksikan posisi dan potensi pengaruh dirinya terhadap pengumpulan maupun interpretasi data.
 
 Secara garis besar, perbedaan karakteristik antara pendekatan kuantitatif dan kualitatif terangkum dalam @tbl-kuanvskual.
 
 ::: {#tbl-kuanvskual}
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Dimensi** | **Kuantitatif** | **Kualitatif** |
 | **Tujuan utama** | Menguji hipotesis, mengukur hubungan, men-generalisasi | Memahami makna, mengeksplorasi proses, mengembangkan teori |
 | **Contoh Jenis pertanyaan** | “Apakah?”, “Seberapa besar?”, “Apakah X menyebabkan Y?” | “Bagaimana?”, “Mengapa?” (dalam pengalaman subjektif), “Apa maknanya?” |
 | **Ukuran Sampel** | Besar (n sering \>100), *probability sampling* (untuk generalisasi) | Lebih kecil, *purposive sampling* (untuk kedalaman) |
 | **Sumber Data** | Angka, skala, frekuensi, durasi | Teks, ucapan partisipan, observasi, dokumen, foto, video |
 | **Hubungan peneliti-partisipan** | Jarak dijaga (obyektivitas) | Kolaboratif, *engaged*, refleksif |
+| **Analisis data** | Dilakukan di akhir tahap setelah seluruh data terkumpul secara lengkap | Dilakukan secara terus-menerus sejak awal pengumpulan data hingga akhir |
 
 : Perbandingan Sistematis Pendekatan Kuantitatif *vs* Kualitatif
 :::

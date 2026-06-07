@@ -1,0 +1,143 @@
+---
+author:
+  - name: Miwa Patnani
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
+# Hakikat dan Paradigma Penelitian Kualitatif
+
+::: callout-note
+## Capaian Pembelajaran
+
+Setelah membaca bab ini, mahasiswa diharapkan mampu:
+
+1.  Menjelaskan hakikat penelitian kualitatif dan asumsi-asumsi yang mendasarinya.
+2.  Mengidentifikasi karakteristik utama berbagai paradigma dalam penelitian kualitatif.
+3.  Menjelaskan implikasi paradigma terhadap cara pandang dan praktik penelitian kualitatif.
+:::
+
+## Pengantar
+
+Penelitian dengan menggunakan pendekatan kualitatif sering kali dianggap memiliki kekuatan yang lebih rendah dibandingkan penelitian kuantitatif karena tidak menghasilkan data yang dapat dikuantifikasi. Selain itu, penelitian kualitatif juga sering dianggap memiliki jangkauan yang lebih terbatas karena hasil penelitian tidak dapat digeneralisasikan secara luas. Pandangan tersebut muncul karena penelitian kualitatif dan kuantitatif memang memiliki tujuan dan cara pandang yang berbeda dalam memahami fenomena.
+
+Dalam penelitian kualitatif, tujuan utamanya bukan menghasilkan angka, melainkan memahami dan menjelaskan makna suatu pengalaman atau fenomena. Sebagai contoh, ketika peneliti ingin mengetahui kebahagiaan seseorang, penelitian kuantitatif mungkin berfokus pada seberapa tinggi tingkat kebahagiaan yang dimiliki individu tersebut. Sebaliknya, penelitian kualitatif berupaya memahami bagaimana kebahagiaan itu dirasakan, dimaknai, dan dialami oleh individu. Oleh karena itu, data yang dihasilkan umumnya berupa uraian kata-kata, narasi, maupun gambar yang menggambarkan pengalaman partisipan secara mendalam.
+
+Tidak adanya kuantifikasi data bukan berarti penelitian kualitatif kurang ilmiah dibandingkan penelitian kuantitatif. Perbedaan tersebut muncul karena kedua pendekatan berangkat dari asumsi filosofis yang berbeda dalam memandang realitas dan cara memperoleh pengetahuan. Penelitian kuantitatif berakar pada tradisi positivisme yang menekankan pengukuran, pengujian hipotesis, dan pencarian hukum-hukum umum yang berlaku secara luas. Sementara itu, penelitian kualitatif lebih menekankan pemahaman terhadap makna, pengalaman, dan konteks kehidupan manusia.
+
+Oleh karena itu, untuk memahami penelitian kualitatif secara utuh, kita tidak cukup hanya mempelajari prosedur dan teknik penelitiannya. Kita juga perlu memahami hakikat serta paradigma yang melandasi penelitian kualitatif. Pemahaman terhadap landasan filosofis ini akan membantu peneliti memahami mengapa penelitian kualitatif memiliki karakteristik yang berbeda dengan penelitian kuantitatif serta bagaimana pengetahuan dibangun melalui pendekatan kualitatif.
+
+## Hakikat penelitian kualitatif
+
+Penelitian kualitatif merupakan pendekatan penelitian yang bertujuan memahami dan menafsirkan makna yang diberikan individu atau kelompok terhadap pengalaman hidup, peristiwa, maupun fenomena sosial yang mereka alami. Menurut @Creswell2018a Creswell dan Creswell (2018), penelitian kualitatif digunakan untuk mengeksplorasi dan memahami makna yang dianggap berasal dari suatu masalah sosial atau kemanusiaan. Sementara itu, @Moleong2014 menjelaskan bahwa penelitian kualitatif bertujuan memahami fenomena yang dialami subyek penelitian secara holistik melalui deskripsi dalam bentuk kata-kata dan bahasa pada konteks yang alamiah. @Poerwandari2007 menjelaskan bahwa penelitian kualtitatif menghasilkan dan mengolah data yang sifatnya deskriptif, seperti transkripsi wawancara, catatan lapangan, gambar, foto, rekaman video, dan lain-lain.
+
+Berbeda dengan penelitian kuantitatif yang berupaya mengukur dan menjelaskan hubungan antarvariabel, penelitian kualitatif berusaha memahami bagaimana individu mengalami, memaknai, dan menginterpretasikan realitas yang mereka hadapi. Oleh karena itu, fokus utama penelitian kualitatif bukanlah menemukan hukum umum yang berlaku untuk semua orang, melainkan memperoleh pemahaman yang mendalam terhadap suatu fenomena dalam konteks tertentu.
+
+Hakikat penelitian kualitatif dapat dipahami melalui beberapa asumsi dasar berikut [@Maxwell2013; @Creswell2018a; @Neuman2014]:
+
+-   **Realitas bersifat majemuk dan subyektif**
+
+    Penelitian kualitatif berangkat dari asumsi bahwa realitas sosial tidak selalu dipahami secara sama oleh setiap individu. Seseorang membangun pemahamannya terhadap dunia berdasarkan pengalaman, interaksi sosial, nilai, budaya, dan konteks kehidupannya. Akibatnya, suatu fenomena dapat dimaknai secara berbeda oleh orang yang berbeda meskipun mereka mengalami peristiwa yang serupa.
+
+    Sebagai contoh, dua mahasiswa yang sama-sama mengalami kegagalan akademik dapat memberikan makna yang berbeda terhadap pengalaman tersebut. Seorang mahasiswa mungkin memandangnya sebagai pengalaman yang memotivasi untuk berkembang, sedangkan mahasiswa lain dapat memaknainya sebagai sumber kekecewaan dan penurunan kepercayaan diri. Penelitian kualitatif berupaya memahami keragaman makna tersebut.
+
+-   **Makna menjadi fokus utama penelitian**
+
+    Dalam penelitian kualitatif, pertanyaan yang diajukan tidak hanya berkaitan dengan apa yang terjadi, tetapi juga bagaimana dan mengapa pengalaman tersebut dimaknai oleh individu. Peneliti berusaha memahami dunia sebagaimana dipersepsikan oleh partisipan penelitian.
+
+    Oleh karena itu, penelitian kualitatif sangat sesuai digunakan ketika tujuan penelitian adalah memahami pengalaman hidup, persepsi, keyakinan, nilai, identitas, maupun proses psikologis yang sulit direduksi menjadi angka atau skor pengukuran.
+
+-   **Konteks tidak dapat dipisahkan dari fenomena**
+
+    Penelitian kualitatif memandang bahwa perilaku dan pengalaman manusia selalu terjadi dalam konteks tertentu. Makna yang diberikan individu terhadap suatu pengalaman sering kali dipengaruhi oleh lingkungan sosial, budaya, historis, maupun situasional tempat pengalaman tersebut terjadi.
+
+    Sebagai contoh, pengalaman menjadi *caregiver* bagi anggota keluarga yang mengalami demensia mungkin berbeda antara individu yang hidup dalam budaya kolektivistik dan individu yang hidup dalam budaya yang lebih individualistik. Oleh karena itu, penelitian kualitatif berusaha memahami fenomena beserta konteks yang melingkupinya.
+
+-   **Pengetahuan dibangun melalui interaksi**
+
+    Penelitian kualitatif juga mengasumsikan bahwa pengetahuan tidak diperoleh secara terpisah dari individu yang diteliti, melainkan dibangun melalui interaksi antara peneliti dan partisipan. Dalam proses wawancara, observasi, maupun diskusi, peneliti dan partisipan bersama-sama membangun pemahaman mengenai fenomena yang sedang diteliti.
+
+    Karena itu, peneliti bukan sekadar pengumpul data, melainkan juga berperan dalam proses interpretasi dan pemberian makna terhadap data yang diperoleh.
+
+Asumsi-asumsi tersebut melahirkan berbagai karakteristik penelitian kualitatif, seperti penggunaan setting alamiah, peneliti sebagai instrumen utama, desain penelitian yang fleksibel, penggunaan data naratif, serta analisis yang berorientasi pada tema dan makna. Karakteristik operasional tersebut telah dibahas pada @sec-karakterkuali ketika membahas perbandingan antara pendekatan kuantitatif dan kualitatif. Pada bab ini, pembahasan difokuskan pada landasan filosofis yang menjelaskan mengapa penelitian kualitatif memiliki karakteristik tersebut.
+
+## Paradigma Penelitian Kualitatif
+
+Menurut @Creswell2018a, paradigma atau *worldview* penelitian adalah seperangkat keyakinan dasar yang memengaruhi cara peneliti memahami realitas, memperoleh pengetahuan, dan melakukan penelitian. Paradigma menjadi landasan dalam menentukan masalah penelitian, memilih metode, mengumpulkan data, hingga menafsirkan hasil penelitian.
+
+Meskipun konstruktivisme sering dianggap sebagai paradigma yang paling erat kaitannya dengan penelitian kualitatif, berbagai penelitian kualitatif juga dapat berlandaskan paradigma lain. @Creswell2018a mengidentifikasi empat paradigma utama yang banyak digunakan dalam penelitian, yaitu postpositivisme, konstruktivisme, transformatif, dan pragmatisme. Elemen-elemen utama dari keempat paradigma tersebut dipaparkan pada @tbl-paradigma.
+
+a.  **Postpositivisme (*The Postpositivist Worldview*)**
+
+    Postpositivisme merupakan perkembangan dari positivisme yang mengakui bahwa realitas memang ada, tetapi tidak dapat diketahui secara sempurna karena keterbatasan manusia dalam mengamati dan memahami dunia. Oleh karena itu, setiap pengetahuan yang dihasilkan selalu bersifat sementara dan terbuka untuk direvisi berdasarkan bukti baru.
+
+    Paradigma ini umumnya menjadi landasan penelitian kuantitatif, tetapi juga memberikan pengaruh terhadap sebagian penelitian kualitatif. Dalam perspektif postpositivisme, peneliti berupaya mendekati realitas secara seobyektif mungkin dengan menggunakan prosedur yang sistematis serta berbagai strategi untuk meningkatkan keakuratan temuan, seperti triangulasi dan verifikasi data. Dengan demikian, penelitian kualitatif yang berlandaskan postpositivisme tetap mengakui adanya subyektivitas, tetapi berupaya meminimalkan pengaruhnya melalui prosedur penelitian yang ketat.
+
+b.  **Konstruktivisme (*The Constructivist Worldview)***
+
+    Konstruktivisme atau konstruktivisme sosial merupakan paradigma yang paling sering dikaitkan dengan penelitian kualitatif. Paradigma ini beranggapan bahwa realitas bersifat majemuk dan dibangun melalui pengalaman serta interaksi sosial individu dengan lingkungannya. Oleh karena itu, tidak selalu terdapat satu kebenaran tunggal yang dapat menjelaskan suatu fenomena.
+
+    Menurut paradigma konstruktivisme, setiap individu membentuk makna yang berbeda terhadap pengalaman hidupnya. Tugas peneliti adalah memahami berbagai makna tersebut dari sudut pandang partisipan dan menggambarkannya secara mendalam sesuai konteksnya. Karena itu, penelitian kualitatif yang berlandaskan konstruktivisme lebih berfokus pada pemahaman makna daripada pencarian generalisasi yang berlaku luas.
+
+c.  **Transformatif (*The Transformative Worldview*)**
+
+    Paradigma transformatif memandang bahwa penelitian tidak hanya bertujuan menghasilkan pengetahuan, tetapi juga berkontribusi terhadap perubahan sosial. Paradigma ini berkembang dari perhatian terhadap kelompok-kelompok yang kurang mendapatkan ruang dalam masyarakat, seperti kelompok marginal, minoritas, atau kelompok yang mengalami ketidakadilan sosial.
+
+    Penelitian yang menggunakan paradigma transformatif berupaya memahami pengalaman kelompok tersebut sekaligus mendorong perubahan yang dapat meningkatkan kesejahteraan atau keadilan sosial. Oleh karena itu, paradigma ini tidak sepenuhnya bersifat netral terhadap isu-isu sosial, melainkan secara eksplisit mengakui adanya komitmen terhadap perubahan sosial. Salah satu pendekatan penelitian yang sering dikaitkan dengan paradigma ini adalah *photovoice*, yang memberi kesempatan kepada partisipan untuk menyampaikan pengalaman dan perspektif mereka melalui foto.
+
+d.  **Pragmatisme (*The Pragmatic Worldview*)**
+
+    Pragmatisme berfokus pada upaya memahami dan menyelesaikan masalah secara praktis. Paradigma ini tidak terlalu menekankan perdebatan mengenai hakikat realitas atau sumber pengetahuan, tetapi lebih menekankan pada penggunaan pendekatan yang paling efektif untuk menjawab pertanyaan penelitian.
+
+    Dalam paradigma pragmatis, pemilihan metode didasarkan pada kesesuaiannya dengan tujuan penelitian, bukan pada kesetiaan terhadap satu paradigma tertentu. Oleh karena itu, peneliti dapat menggunakan berbagai metode yang dianggap mampu memberikan jawaban terbaik terhadap permasalahan yang dihadapi. Paradigma ini banyak digunakan dalam penelitian terapan dan *action research*, yang berorientasi pada pemecahan masalah serta perbaikan praktik di lapangan.
+
+Keempat paradigma tersebut menunjukkan bahwa penelitian kualitatif tidak berlandaskan pada satu cara pandang saja. Meskipun konstruktivisme merupakan paradigma yang paling umum digunakan dalam penelitian kualitatif, peneliti dapat memilih paradigma lain sesuai dengan tujuan, pertanyaan penelitian, dan jenis pengetahuan yang ingin dihasilkan.
+
+::: {#tbl-paradigma}
+| Paradigma | Realitas | Tujuan Penelitian | Peran Peneliti |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| Postpositivisme | Ada tetapi tidak dapat diketahui secara sempurna | Mendekati kebenaran obyektif | Meminimalkan bias |
+| Konstruktivisme | Majemuk dan subyektif | Memahami makna | Berinteraksi dengan partisipan |
+| Transformatif | Dipengaruhi relasi kuasa | Mendorong perubahan sosial | Advokat perubahan |
+| Pragmatisme | Tidak menjadi fokus utama | Menyelesaikan masalah praktis | Memilih metode yang paling efektif |
+
+: Empat Paradigma Penelitian Kualitatif
+:::
+
+## Implikasi Paradigma terhadap Praktik Penelitian Kualitatif
+
+Paradigma yang dipilih peneliti tidak hanya memengaruhi cara memandang realitas, tetapi juga memengaruhi seluruh proses penelitian. Cara merumuskan pertanyaan penelitian, memilih partisipan, mengumpulkan data, hingga menafsirkan hasil penelitian akan dipengaruhi oleh paradigma yang digunakan.
+
+Sebagai contoh, peneliti yang menggunakan paradigma konstruktivisme akan berupaya memahami makna pengalaman dari sudut pandang partisipan. Sebaliknya, peneliti yang menggunakan paradigma transformatif tidak hanya berusaha memahami pengalaman partisipan, tetapi juga mendorong perubahan sosial bagi kelompok yang diteliti. Sementara itu, peneliti pragmatis akan lebih berfokus pada penggunaan metode yang paling efektif untuk menjawab permasalahan yang dihadapi.
+
+Oleh karena itu, pemahaman terhadap paradigma penelitian penting agar peneliti dapat memilih pendekatan dan prosedur penelitian yang konsisten dengan tujuan penelitian yang ingin dicapai.
+
+::: callout-tip
+## Rangkuman
+
+1.  Penelitian kualitatif bertujuan memahami makna, pengalaman, dan perspektif individu atau kelompok terhadap suatu fenomena.
+2.  Penelitian kualitatif berangkat dari asumsi bahwa realitas sosial bersifat majemuk dan dapat dimaknai secara berbeda oleh setiap individu.
+3.  Fokus utama penelitian kualitatif adalah memahami makna yang dibentuk individu terhadap pengalaman yang mereka alami.
+4.  Penelitian kualitatif memandang bahwa fenomena harus dipahami dalam konteks tempat fenomena tersebut terjadi.
+5.  Pengetahuan dalam penelitian kualitatif dibangun melalui interaksi antara peneliti dan partisipan.
+6.  Paradigma penelitian merupakan seperangkat keyakinan yang memengaruhi cara peneliti memandang realitas, memperoleh pengetahuan, dan melakukan penelitian.
+7.  Empat paradigma yang banyak digunakan dalam penelitian adalah postpositivisme, konstruktivisme, transformatif, dan pragmatisme.
+8.  Paradigma yang dipilih peneliti memiliki implikasi terhadap seluruh proses penelitian kualitatif, termasuk perumusan masalah, pemilihan metode, hubungan dengan partisipan, pengumpulan dan analisis data, serta interpretasi hasil penelitian.
+:::
+
+::: callout-important
+## Refleksi & Diskusi
+
+-   Mengapa penelitian kualitatif memandang bahwa suatu fenomena dapat dimaknai secara berbeda oleh setiap individu? Berikan contoh untuk mendukung jawaban Anda.
+-   Menurut Anda, apa pentingnya memahami hakikat dan paradigma penelitian sebelum melakukan penelitian kualitatif?
+-   Seorang peneliti ingin memahami pengalaman mahasiswa yang mengalami burnout selama menyelesaikan skripsi. Paradigma manakah yang paling sesuai digunakan? Jelaskan alasan Anda.
+-   Pilih satu fenomena psikologis yang menarik bagi Anda. Diskusikan bagaimana cara memahami fenomena tersebut jika ditinjau dari paradigma konstruktivisme dan paradigma transformatif.
+:::
+
+::: sectionrefs
+:::
