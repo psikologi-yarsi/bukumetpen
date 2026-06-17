@@ -176,7 +176,7 @@ Sebagai ilustrasi, keterkaitan antar-komponen proposal dapat dilihat pada @tbl-k
 
 ::: {#tbl-komponen}
 | **Komponen** | **Contoh** |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | Permasalahan penelitian | Apakah terdapat hubungan antara harga diri dan prestasi akademik mahasiswa? |
 | Tujuan penelitian | Mengetahui hubungan antara harga diri dan prestasi akademik mahasiswa |
 | Hipotesis | Terdapat hubungan positif antara harga diri dan prestasi akademik mahasiswa |

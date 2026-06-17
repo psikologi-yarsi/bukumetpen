@@ -31,6 +31,7 @@ book:
         - 1_6_sampling.qmd
     - part: 2_pengantar.qmd
       chapters:
+        - 2_9_paradigma.qmd
         - 2_10_pendekatan.qmd
     - part: 3_pengantar.qmd
       chapters: 

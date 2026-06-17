@@ -100,7 +100,7 @@ Keempat paradigma tersebut menunjukkan bahwa penelitian kualitatif tidak berland
 
 ::: {#tbl-paradigma}
 | Paradigma | Realitas | Tujuan Penelitian | Peran Peneliti |
-|:-----------------|:-----------------|:-----------------|:-----------------|
+|:---|:---|:---|:---|
 | Postpositivisme | Ada tetapi tidak dapat diketahui secara sempurna | Mendekati kebenaran obyektif | Meminimalkan bias |
 | Konstruktivisme | Majemuk dan subyektif | Memahami makna | Berinteraksi dengan partisipan |
 | Transformatif | Dipengaruhi relasi kuasa | Mendorong perubahan sosial | Advokat perubahan |

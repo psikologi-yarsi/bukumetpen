@@ -119,7 +119,7 @@ a.  ***Probability Sampling***
 
 ::: {#tbl-probsampling}
 |  |  |  |  |  |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
+|:---|:---|:---|:---|:---|
 | **Teknik** | **Prosedur** | **Kekuatan** | **Kelemahan** | **Contoh** |
 | ***Simple random sampling*** | Setiap unit diberi nomor; dipilih secara acak (*random number generator*) | Tidak bias; generalisasi terbaik | Membutuhkan daftar populasi lengkap (*sampling frame*); mahal | *Random digit dialing* untuk survei telepon |
 | ***Stratified random sampling*** | Populasi dibagi strata (misal, jenis kelamin, usia); acak dari setiap stratum | Memastikan representasi *subgroup* minoritas | Membutuhkan informasi strata sebelum sampling | Survei nasional: strata provinsi, urban/rural |
@@ -148,7 +148,7 @@ a.  ***Non-Probability Sampling***
 
 ::: {#tbl-nonprob}
 |  |  |  |  |  |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
+|:---|:---|:---|:---|:---|
 | **Teknik** | **Prosedur** | **Kekuatan** | **Kelemahan** | **Contoh** |
 | ***Convenience sampling*** | Memilih unit yang paling mudah dijangkau | Praktis, murah, cepat | Bias seleksi sangat tinggi | Mahasiswa psikologi untuk studi laboratorium |
 | ***Purposive sampling*** | Memilih unit berdasarkan kriteria spesifik (pengetahuan peneliti) | Dapat menargetkan informan kunci | Subyektif; tidak representatif | Wawancara dengan penyintas trauma yang memiliki resiliensi tinggi |
@@ -178,7 +178,7 @@ Secara umum, setidaknya terdapat 3 pendekatan dalam menentukan jumlah sampel, ya
 
 ::: {#tbl-samplesize}
 |  |  |  |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **Pendekatan** | **Metode** | **Kapan Digunakan** |
 | ***A priori power analysis*** | Menggunakan *software* (G\*Power, R, SPSS) dengan *input*: *α* (biasanya .05), *power* (biasanya .80), *effect size* (estimasi dari meta-analisis atau studi sebelumnya) | Direkomendasikan oleh APA dan berbagai komite etik |
 | ***Rule of thumb*** | Aturan praktis berdasarkan desain (misal, n\>30 untuk *t-test,* n\>100 untuk regresi dengan 5 prediktor) | Hanya untuk proposal awal ketika tidak ada estimasi *effect size* |

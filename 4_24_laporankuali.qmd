@@ -52,7 +52,7 @@ Terdapat tiga ranah dalam COREQ yakni ranah tim peneliti dan refleksivitas, rana
 
 ::: {#tbl-domaincoreq}
 | Ranah | Subranah | Nomor Item COREQ | Jumlah Item |
-|:-----------------|:-----------------|:-----------------|:-----------------|
+|:---|:---|:---|:---|
 | Tim Peneliti dan Refleksivitas | Karakteristik personal; hubungan dengan partisipan | 1–8 | 8 |
 | Desain Penelitian | Kerangka teoretis; pemilihan partisipan; setting; pengumpulan data | 9–23 | 15 |
 | Analisis dan Temuan | Analisis data; pelaporan hasil | 24–32 | 9 |
@@ -152,7 +152,7 @@ Oleh karena itu, COREQ sebaiknya digunakan sebagai panduan untuk meningkatkan tr
 a\) Karakteristik Peneliti
 
 | Topik | No. Item | Pertanyaan/Deskripsi Panduan | Dilaporkan di Halaman |
-|------------------|------------------|-------------------|------------------|
+|----|----|----|----|
 | Pewawancara/ fasilitator | 1 | Siapa saja yang melakukan wawancara, FGD, atau observasi dalam penelitian ini? |  |
 | Kredensial | 2 | Apa kredensial peneliti? |  |
 | Pekerjaan | 3 | Apa pekerjaan peneliti saat penelitian dilakukan? |  |
@@ -162,7 +162,7 @@ a\) Karakteristik Peneliti
 b\) Hubungan antara Peneliti dan Partisipan
 
 | Topik | No. Item | Pertanyaan/Deskripsi Panduan | Dilaporkan di Halaman |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Hubungan yang terjalin | 6 | Apakah ada hubungan yang terjalin antara peneliti dan partisipan sebelum dilakukannya penelitian? |  |
 | Pengetahuan partisipan tentang peneliti | 7 | Apa yang partisipan ketahui tentang peneliti? Misalnya tujuan pribadi atau alasan dilakukannya penelitian. |  |
 | Karakteristik pewawancara | 8 | Karakteristik apa yang dilaporkan partisipan tentang pewawancara? Misalnya bias, asumsi, alasan, dan minat terhadap topik penelitian. |  |
@@ -172,13 +172,13 @@ b\) Hubungan antara Peneliti dan Partisipan
 a\) Kerangka Teoretis
 
 | Topik | No. Item | Pertanyaan/Deskripsi Panduan | Dilaporkan di Halaman |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Orientasi metodologis dan teori | 9 | Apa kerangka teoritis atau desain yang memayungi penelitian? Misalnya *grounded theory*, fenomenologi, etnografi, dan sebagainya. |  |
 
 b\) Pemilihan Partisipan
 
 | Topik | No. Item | Pertanyaan/Deskripsi Panduan | Dilaporkan di Halaman |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Teknik sampling | 10 | Bagaimana teknik sampling yang digunakan untuk memilih partisipan penelitian? |  |
 | Metode pendekatan | 11 | Bagaimana peneliti melakukan pendekatan kepada partisipan? Misalnya tatap muka, telepon, atau email. |  |
 | Jumlah sampel | 12 | Berapa jumlah partisipan dalam penelitian? |  |
@@ -187,7 +187,7 @@ b\) Pemilihan Partisipan
 c\) *Setting*
 
 | Topik | No. Item | Pertanyaan/Deskripsi Panduan | Dilaporkan di Halaman |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Setting pengumpulan data | 14 | Di mana pengambilan data dilakukan? Misalnya rumah, kantor, atau kampus. |  |
 | Kehadiran non-partisipan | 15 | Apakah ada orang lain yang hadir selain partisipan dan peneliti? |  |
 | Gambaran partisipan | 16 | Apa karakteristik penting dari partisipan? Misalnya data demografis atau informasi relevan lainnya. |  |
@@ -195,7 +195,7 @@ c\) *Setting*
 d\) Pengumpulan Data
 
 | Topik | No. Item | Pertanyaan/Deskripsi Panduan | Dilaporkan di Halaman |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Panduan wawancara | 17 | Apakah pertanyaan, petunjuk, dan panduan disediakan oleh peneliti? Apakah sudah diujicobakan? |  |
 | Wawancara berulang | 18 | Apakah dilakukan wawancara berulang? Jika ya, berapa kali? |  |
 | Perekaman audio/video | 19 | Apakah peneliti menggunakan perekaman audio atau video dalam pengambilan data? |  |
@@ -209,7 +209,7 @@ d\) Pengumpulan Data
 a\) Analisis Data
 
 | Topik | No. Item | Pertanyaan/Deskripsi Panduan | Dilaporkan di Halaman |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Jumlah pengode data | 24 | Berapa orang yang terlibat dalam pemberian kode data? |  |
 | Deskripsi *coding tree* | 25 | Apakah peneliti memberikan deskripsi mengenai *coding tree*? |  |
 | Turunan tema | 26 | Apakah tema-tema telah diidentifikasi sejak awal atau diturunkan dari data? |  |
@@ -219,7 +219,7 @@ a\) Analisis Data
 b\) Pelaporan
 
 | Topik | No. Item | Pertanyaan/Deskripsi Panduan | Dilaporkan di Halaman |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Pemaparan kutipan | 29 | Apakah kutipan partisipan dipaparkan untuk mengilustrasikan tema atau temuan penelitian? Apakah setiap kutipan diidentifikasi (misalnya nomor partisipan)? |  |
 | Data dan temuan konsisten | 30 | Apakah terdapat konsistensi antara data yang dipaparkan dengan temuan penelitian? |  |
 | Kejelasan tema-tema mayor | 31 | Apakah tema-tema mayor secara jelas dipaparkan dalam temuan penelitian? |  |
