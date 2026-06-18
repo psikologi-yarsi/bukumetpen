@@ -122,7 +122,7 @@ Beberapa kriteria kualitas yang umum digunakan dalam penelitian kualitatif melip
 
 Perbedaan kriteria ini tidak menunjukkan bahwa salah satu pendekatan lebih ilmiah daripada yang lain. Sebaliknya, masing-masing pendekatan memiliki standar kualitas yang disesuaikan dengan tujuan dan karakteristik metode yang digunakan. Oleh karena itu, penilaian kualitas penelitian harus dilakukan berdasarkan kriteria yang relevan dengan pendekatan penelitian yang dipilih.
 
-## Mengenal Pendekatan Gabungan (*Mixed Methods*): Integrasi Kuantitatif dan Kualitatif
+## Mengenal Pendekatan Gabungan (*Mixed Methods*): Integrasi Kuantitatif dan Kualitatif {#sec-mixedmethod}
 
 Dalam penelitian psikologi, terkadang satu pendekatan saja belum cukup untuk memahami suatu fenomena secara utuh. Penelitian kuantitatif dapat menunjukkan pola umum, hubungan antarvariabel, atau efektivitas intervensi melalui angka dan analisis statistik. Namun, pendekatan ini sering kali belum mampu menjelaskan pengalaman subyektif, proses psikologis, atau alasan di balik suatu temuan.
 

@@ -41,7 +41,7 @@ Keempat pertanyaan tersebut sama-sama berkaitan dengan *burnout*, tetapi berangk
 
 ### Definisi Paradigma Penelitian
 
-Istilah paradigma (dari bahasa Yunani: *paradeigma*, berarti "pola" atau "contoh") dipopulerkan dalam filsafat ilmu oleh Thomas S. Kuhn melalui karyanya yang monumental, The Structure of Scientific Revolutions. Kuhn menggunakan istilah ini untuk menggambarkan kerangka konseptual bersama yang dianut komunitas ilmuwan dalam periode tertentu — sebuah "cara melihat dunia" yang diterima secara kolektif.
+Istilah paradigma (dari bahasa Yunani: *paradeigma*, berarti "pola" atau "contoh") dipopulerkan dalam filsafat ilmu oleh Thomas S. Kuhn melalui karyanya yang monumental, *The Structure of Scientific Revolutions*. Kuhn menggunakan istilah ini untuk menggambarkan kerangka konseptual bersama yang dianut komunitas ilmuwan dalam periode tertentu — sebuah "cara melihat dunia" yang diterima secara kolektif.
 
 Dalam konteks penelitian ilmu sosial dan psikologi, definisi yang paling operasional dikemukakan oleh @Guba1994:
 
@@ -58,7 +58,7 @@ Paradigma penelitian merupakan landasan filosofis yang mendasari seluruh proses 
 Hubungan antara paradigma dan keseluruhan proses penelitian ditunjukkan pada @fig-proses.
 
 ::: {#fig-proses}
-![Paradigma sebagai Landasan Proses Penelitian](images/paradigma%20-%20bab%209.png){fig-align="center"} 
+![Paradigma sebagai Landasan Proses Penelitian](images/paradigma%20-%20bab%209.png){fig-align="center"}
 :::
 
 Meskipun terdapat berbagai paradigma penelitian, semuanya berangkat dari asumsi filosofis yang berbeda mengenai hakikat realitas, cara memperoleh pengetahuan, dan cara melakukan penelitian. Perbedaan tersebut akan dibahas pada bagian-bagian berikutnya di bab ini.
@@ -67,27 +67,31 @@ Meskipun terdapat berbagai paradigma penelitian, semuanya berangkat dari asumsi 
 
 Paradigma penelitian sering kali disamakan dengan metode penelitian, padahal keduanya merupakan konsep yang berbeda. Paradigma merupakan landasan filosofis yang memengaruhi cara peneliti memandang realitas, memperoleh pengetahuan, dan merancang penelitian secara keseluruhan, sedangkan metode adalah teknik atau prosedur yang digunakan untuk mengumpulkan dan menganalisis data.
 
-Dengan demikian, paradigma menjadi dasar dalam pemilihan metode yang sesuai dengan tujuan dan asumsi penelitian. Perbedaan antara paradigma dan metode penelitian dirangkum pada Tabel 9.1.
+Dengan demikian, paradigma menjadi dasar dalam pemilihan metode yang sesuai dengan tujuan dan asumsi penelitian. Perbedaan antara paradigma dan metode penelitian dirangkum pada @tbl-paradigma.
 
+::: {#tbl-paradigma}
 |  |  |  |
-|------------------|-----------------------------|-------------------------|
+|------------------|------------------------------|-------------------------|
 | **Dimensi** | **Paradigma** | **Metode** |
 | Sifat | Filosofis/keyakinan mendasar | Teknis/prosedural |
 | Pertanyaan yang dijawab | "Apa hakikat realitas yang saya teliti dan bagaimana saya dapat mengetahuinya?" | "Bagaimana cara terbaik mengumpulkan dan menganalisis data?" |
 | Level abstraksi | Abstrak, tidak tampak langsung dalam laporan penelitian | Konkret, tampak dalam bagian metode laporan penelitian |
 | Dapat diganti sewaktu-waktu? | Tidak, perubahan paradigma bersifat mendasar dan memerlukan reorientasi intelektual | Ya, metode dapat disesuaikan dengan kebutuhan tanpa mengubah paradigma |
 
+: Perbedaan Paradigma dan Metode
+:::
+
 Setiap paradigma dibangun di atas asumsi filosofis tertentu. Untuk memahaminya, kita perlu mengenal tiga pilar filosofis paradigma penelitian.
 
 ## Tiga Pilar Filosofis Paradigma Penelitian
 
-Sebagaimana telah dijelaskan pada bagian sebelumnya, paradigma menjadi landasan bagi seluruh proses penelitian. Perbedaan antarparadigma pada dasarnya berasal dari perbedaan asumsi filosofis yang dianut peneliti. Asumsi tersebut umumnya dapat dipahami melalui tiga pilar utama, yaitu **ontologi**, **epistemologi**, dan **metodologi** (Creswell, 2023; Guba & Lincoln, 1994).
+Sebagaimana telah dijelaskan pada bagian sebelumnya, paradigma menjadi landasan bagi seluruh proses penelitian. Perbedaan antarparadigma pada dasarnya berasal dari perbedaan asumsi filosofis yang dianut peneliti. Asumsi tersebut umumnya dapat dipahami melalui tiga pilar utama, yaitu **ontologi**, **epistemologi**, dan **metodologi** [@Creswell2018a; @Guba1994].
 
 ### Ontologi
 
 Ontologi membahas hakikat realitas yang menjadi objek penelitian. Dengan kata lain, ontologi menjawab pertanyaan:
 
-> **"Apa hakikat realitas yang sedang saya teliti?"**
+> *"Apa hakikat realitas yang sedang saya teliti?"*
 
 Dalam penelitian psikologi, pertanyaan ontologis berkaitan dengan bagaimana peneliti memandang suatu fenomena psikologis, seperti kecerdasan, motivasi, atau kesehatan mental. Perbedaan pandangan mengenai hakikat realitas inilah yang menjadi salah satu pembeda utama antarparadigma penelitian.
 
@@ -95,7 +99,7 @@ Dalam penelitian psikologi, pertanyaan ontologis berkaitan dengan bagaimana pene
 
 Epistemologi membahas bagaimana pengetahuan mengenai suatu realitas dapat diperoleh. Pertanyaan utama yang dijawab adalah:
 
-> **"Bagaimana saya dapat mengetahui realitas yang sedang saya teliti?"**
+> *"Bagaimana saya dapat mengetahui realitas yang sedang saya teliti?"*
 
 Dalam penelitian, epistemologi berkaitan dengan hubungan antara peneliti dan objek penelitian, serta cara memperoleh data atau informasi yang dapat dipercaya. Perbedaan pandangan epistemologis akan memengaruhi bagaimana penelitian dilakukan dan bagaimana hasilnya diinterpretasikan.
 
@@ -103,7 +107,7 @@ Dalam penelitian, epistemologi berkaitan dengan hubungan antara peneliti dan obj
 
 Metodologi menjelaskan strategi atau pendekatan umum yang digunakan untuk memperoleh pengetahuan mengenai suatu fenomena. Dengan demikian, metodologi menjawab pertanyaan:
 
-> **"Bagaimana penelitian harus dilakukan agar pengetahuan tersebut dapat diperoleh?"**
+> *"Bagaimana penelitian harus dilakukan agar pengetahuan tersebut dapat diperoleh?"*
 
 Perlu dibedakan bahwa metodologi bukanlah metode penelitian. Metodologi merupakan kerangka atau logika penelitian yang didasarkan pada asumsi filosofis tertentu, sedangkan metode adalah teknik yang digunakan untuk mengumpulkan dan menganalisis data.
 
@@ -112,3 +116,168 @@ Perlu dibedakan bahwa metodologi bukanlah metode penelitian. Metodologi merupaka
 :::
 
 @fig-pilar menunjukkan bahwa ontologi, epistemologi, dan metodologi merupakan tiga pilar filosofis yang saling berkaitan. Perbedaan pandangan terhadap ketiga aspek inilah yang kemudian melahirkan berbagai paradigma penelitian. Pada bagian berikutnya akan dibahas empat paradigma utama yang banyak digunakan dalam penelitian psikologi.
+
+## Empat Paradigma Utama dalam Penelitian Psikologi
+
+Perbedaan pandangan mengenai ontologi, epistemologi, dan metodologi melahirkan berbagai paradigma penelitian. Setiap paradigma menawarkan cara pandang yang berbeda dalam memahami fenomena psikologis serta memiliki implikasi terhadap pemilihan pendekatan, desain, dan metode penelitian. Bagian ini membahas empat paradigma utama yang banyak digunakan dalam penelitian psikologi, yaitu **positivisme, post-positivisme, interpretivisme,** dan **transformatif**.
+
+### Paradigma Positivisme
+
+#### Akar Historis dan Tokoh Kunci
+
+Paradigma positivisme berkembang pada abad ke-19 seiring munculnya keyakinan bahwa fenomena alam maupun sosial dapat dipelajari melalui observasi empiris, pengukuran, dan penalaran logis. Tokoh yang paling sering dikaitkan dengan paradigma ini adalah Auguste Comte, yang berpendapat bahwa pengetahuan ilmiah harus didasarkan pada fakta-fakta yang dapat diamati, bukan pada spekulasi metafisis [@Crotty1998].
+
+Dalam psikologi, pengaruh positivisme tampak sejak berdirinya laboratorium psikologi eksperimental oleh Wilhelm Wundt di Leipzig pada tahun 1879, yang menandai berkembangnya psikologi sebagai disiplin ilmiah yang menggunakan metode eksperimental. Tradisi ini kemudian diperkuat oleh perkembangan psikometri dan behaviorisme yang menekankan pengukuran objektif, pengendalian variabel, dan pengujian hipotesis secara empiris [@Goodwin2022].
+
+#### Kekuatan dan Keterbatasan
+
+**Kekuatan:**
+
+-   Menghasilkan pengetahuan yang dapat direplikasi dan digeneralisasi.
+-   Memungkinkan komparasi lintas populasi dan waktu.
+-   Menjadi basis legitimasi ilmiah psikologi di antara ilmu-ilmu alam.
+-   Produktif untuk penelitian dasar (basic research) tentang proses kognitif, perseptual, dan neurologis.
+
+**Keterbatasan:**
+
+-   Menempatkan realitas manusia seolah setara dengan realitas fisik, padahal manusia adalah makhluk yang bermakna (*meaning*-*making*).
+-   Cenderung mereduksi kompleksitas pengalaman manusia menjadi angka-angka yang kehilangan konteks.
+-   Menafikan peran konteks budaya, sejarah, dan kuasa dalam membentuk fenomena psikologis.
+-   Rentan terhadap bias positivistik tersembunyi dalam alat ukur.
+
+### Paradigma Post-Positivisme
+
+#### Akar Historis dan Tokoh Kunci
+
+Post-positivisme berkembang pada pertengahan abad ke-20 sebagai penyempurnaan terhadap positivisme klasik. Paradigma ini tetap meyakini adanya realitas objektif, tetapi mengakui bahwa pengetahuan manusia mengenai realitas tersebut selalu bersifat sementara, tidak sempurna, dan terbuka untuk direvisi berdasarkan bukti baru [@Phillips2000].
+
+Perkembangan paradigma ini dipengaruhi oleh pemikiran Karl Popper mengenai falsifikasi, Thomas Kuhn mengenai perubahan paradigma ilmiah, serta berbagai perkembangan dalam filsafat ilmu modern yang menunjukkan bahwa observasi dan pengukuran tidak pernah sepenuhnya bebas dari keterbatasan [@Kuhn1996; @Popper2005]. Dalam penelitian psikologi kontemporer, post-positivisme menjadi paradigma yang paling dominan karena memungkinkan penggunaan metode ilmiah secara ketat sekaligus mengakui adanya ketidakpastian, kesalahan pengukuran, dan kemungkinan bias peneliti [@Guba1994]. Hingga saat ini, prinsip-prinsip post-positivisme masih menjadi landasan utama dalam sebagian besar penelitian kuantitatif di bidang psikologi [@Creswell2018a].
+
+#### Kekuatan dan Keterbatasan
+
+**Kekuatan:**
+
+-   Tetap mempertahankan ketelitian metode ilmiah sambil mengakui adanya keterbatasan pengukuran dan bias peneliti.
+-   Mendorong pengujian teori secara kritis melalui falsifikasi, replikasi, dan triangulasi.
+-   Menjadi landasan utama bagi sebagian besar penelitian kuantitatif modern dalam psikologi.
+
+**Keterbatasan:**
+
+-   Tetap berfokus pada pengujian teori sehingga kurang mampu menangkap makna subjektif dan konteks sosial secara mendalam.
+-   Objektivitas yang diupayakan tetap tidak dapat sepenuhnya menghilangkan pengaruh asumsi dan interpretasi peneliti.
+-   Kurang sesuai untuk penelitian yang bertujuan memahami pengalaman individual atau mendorong perubahan sosial.
+
+### Paradigma Interpretivisme/Konstruktivisme
+
+#### Akar Historis dan Tokoh Kunci
+
+Interpretivisme berkembang sebagai respons terhadap keterbatasan pendekatan positivistik dalam memahami pengalaman manusia. Paradigma ini berangkat dari pandangan bahwa manusia bukan sekadar obyek yang dapat diukur, tetapi individu yang secara aktif membangun dan memberi makna terhadap pengalaman hidupnya. Oleh karena itu, penelitian berupaya memahami perspektif partisipan dalam konteks kehidupannya [@Crotty1998; @Creswell2018].
+
+Akar filosofis paradigma ini berasal dari tradisi hermeneutika, fenomenologi, dan sosiologi interpretatif yang dikembangkan oleh tokoh-tokoh seperti Wilhelm Dilthey, Max Weber, Edmund Husserl, dan Martin Heidegger [@Laverty2003]. Dalam psikologi, paradigma ini menjadi landasan berkembangnya berbagai pendekatan penelitian kualitatif yang berfokus pada pengalaman subjektif, makna, dan konteks sosial [@Willig2017].
+
+Paradigma ini menjadi landasan berkembangnya berbagai pendekatan penelitian kualitatif, seperti fenomenologi, *grounded theory*, etnografi, studi naratif, dan analisis tematik, yang akan dibahas lebih mendalam pada @chap-pendekatan.
+
+#### Kekuatan dan Keterbatasan
+
+**Kekuatan:**
+
+-   Menangkap kedalaman, kompleksitas, dan kontekstualism pengalaman manusia yang tidak dapat diangkakan.
+-   Menghasilkan teori yang kaya dan "hidup" karena berakar pada realitas partisipan.
+-   Sangat berguna untuk memahami fenomena baru atau yang kurang dipahami.
+-   Memungkinkan suara kelompok yang terpinggirkan terdengar.
+
+**Keterbatasan:**
+
+-   Hasil sulit digeneralisasi secara statistis ke populasi yang lebih luas.
+-   Memerlukan waktu dan keahlian yang lebih intensif.
+-   Rentan terhadap bias peneliti jika refleksivitas tidak dijaga.
+-   Sering menghadapi pertanyaan legitimasi ilmiah dari komunitas positivis.
+
+### Paradigma Transformatif (Kritis)
+
+#### Akar Historis dan Tokoh Kunci
+
+Paradigma transformatif berkembang dari tradisi Teori Kritis (*Critical Theory*) yang muncul pada awal abad ke-20 melalui pemikiran para ilmuwan *Frankfurt School*, terutama Max Horkheimer, Theodor Adorno, dan kemudian Jürgen Habermas. Berbeda dengan positivisme yang berupaya menjelaskan dan memprediksi fenomena secara objektif, Teori Kritis memandang bahwa ilmu pengetahuan tidak pernah sepenuhnya bebas nilai. Pengetahuan selalu dipengaruhi oleh konteks sosial, politik, ekonomi, dan budaya, serta dapat digunakan baik untuk mempertahankan maupun menantang struktur kekuasaan yang ada [@Horkheimer1972; @Habermas1971].
+
+Paradigma ini kemudian berkembang melalui berbagai perspektif seperti pedagogi kritis, teori feminis, teori ras kritis, studi disabilitas, dan psikologi *indigenous*. Kesamaan dari berbagai pendekatan tersebut adalah keyakinan bahwa penelitian tidak cukup hanya menghasilkan pengetahuan, tetapi juga perlu berkontribusi pada pemberdayaan individu maupun komunitas serta mendorong perubahan sosial yang lebih adil [@Mertens2024].
+
+Dalam psikologi, paradigma transformatif menjadi landasan berkembangnya berbagai bidang seperti psikologi komunitas, psikologi feminis, psikologi *indigenous*, serta berbagai bentuk penelitian partisipatif, misalnya *Participatory Action Research* (PAR) dan *Community-Based Participatory Research* (CBPR). Dalam paradigma ini, partisipan dipandang sebagai mitra penelitian yang aktif, sehingga proses penelitian diharapkan tidak hanya menghasilkan pemahaman ilmiah, tetapi juga memberikan manfaat nyata bagi individu maupun masyarakat yang terlibat.
+
+#### Kekuatan dan Keterbatasan
+
+**Kekuatan:**
+
+-   Mengungkap pengaruh faktor sosial, budaya, dan relasi kekuasaan terhadap fenomena psikologis.
+-   Berorientasi pada pemberdayaan individu dan komunitas serta mendorong perubahan sosial yang lebih adil.
+-   Relevan untuk penelitian pada kelompok rentan atau komunitas yang kurang terwakili.
+
+**Keterbatasan:**
+
+-   Keterlibatan peneliti yang tinggi dapat meningkatkan potensi bias dan mengurangi objektivitas.
+-   Proses penelitian umumnya memerlukan waktu, kolaborasi, dan sumber daya yang lebih besar.
+-   Temuan sering kali bersifat kontekstual sehingga transferabilitasnya ke konteks lain perlu dipertimbangkan secara hati-hati.
+
+Keempat paradigma yang telah dipaparkan di atas memiliki karakteristik, asumsi filosofis, dan implikasi metodologis yang berbeda. Ringkasan perbandingan keempat paradigma disajikan pada @tbl-komparasiparadigma.
+
+::: {#tbl-komparasiparadigma}
+|  |  |  |  |  |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| **Dimensi** | **Positivisme** | **Post-Positivisme** | **Interpretivisme** | **Transformatif** |
+| Ontologi | Realisme naif | Realisme kritis | Relativisme | Realisme historis |
+| Epistemologi | Dualisme objektif | Obyektivitas dimodifikasi | Subyektivitas transaksional | Intersubyektivitas kritis |
+| Metodologi | Deduktif, eksperimental, pengujian hipotesis, pengukuran objektif. | Deduktif-falsifikatif, pengujian teori secara kritis, triangulasi, replikasi, dan pengendalian bias. | Induktif, eksploratif, interpretatif, berfokus pada pengalaman dan makna. | Partisipatif, kolaboratif, reflektif, berorientasi pada aksi dan perubahan sosial. |
+| Tujuan penelitian | Hukum universal, prediksi | Teori probabilistik, kontrol variabel | Pemahaman mendalam, teori lokal | Perubahan sosial, pemberdayaan |
+| Kekuatan | objektif, terukur, dan hasilnya mudah digeneralisasi. | Lebih realistis karena mengakui keterbatasan pengukuran dan potensi bias. | Memberikan pemahaman yang mendalam terhadap pengalaman dan makna. | Mendorong pemberdayaan serta perubahan sosial yang berkeadilan. |
+| Keterbatasan | Kurang mampu menangkap makna subjektif dan konteks sosial. | Objektivitas tetap tidak dapat dicapai secara sempurna. | Temuan sulit digeneralisasi dan sangat bergantung pada konteks. | Rentan terhadap bias nilai serta memerlukan kolaborasi dan sumber daya yang lebih besar. |
+
+: Perbandingan Empat Paradigma Penelitian
+:::
+
+::: callout-tip
+## Tips Memilih Paradigma
+
+Paradigma penelitian tidak dipilih berdasarkan mana yang paling baik, melainkan berdasarkan kesesuaiannya dengan tujuan penelitian, pertanyaan penelitian, dan karakteristik fenomena yang diteliti. Oleh karena itu, peneliti perlu memastikan bahwa paradigma, pendekatan, desain, dan metode penelitian yang dipilih membentuk suatu rangkaian yang konsisten.
+:::
+
+## Pragmatisme dan Perkembangan *Mixed methods*
+
+### Lahirnya Pendekatan *Mixed methods*
+
+Selama beberapa dekade, penelitian sosial diwarnai oleh perdebatan yang dikenal sebagai *paradigm wars*, yaitu perdebatan mengenai paradigma mana yang paling tepat digunakan dalam penelitian ilmiah. Pendukung pendekatan kuantitatif yang berakar pada positivisme atau post-positivisme berpendapat bahwa realitas dapat dipelajari secara objektif melalui pengukuran dan analisis statistik.
+
+Sebaliknya, pendukung pendekatan kualitatif yang berakar pada interpretivisme menekankan bahwa pemahaman terhadap pengalaman manusia memerlukan eksplorasi makna dan konteks sosial. Perdebatan tersebut berlangsung cukup lama hingga muncul pandangan bahwa kedua pendekatan sebenarnya tidak selalu harus dipertentangkan, melainkan dapat saling melengkapi untuk menjawab pertanyaan penelitian yang kompleks [@Creswell2018a].
+
+### Pragmatisme sebagai Fondasi Filosofis
+
+Salah satu landasan filosofis yang paling banyak digunakan dalam penelitian *mixed methods* adalah pragmatisme. Berbeda dengan paradigma lain yang berangkat dari asumsi filosofis mengenai hakikat realitas, pragmatisme lebih menekankan penyelesaian masalah penelitian secara praktis. Fokus utamanya bukan pada perdebatan apakah realitas bersifat objektif atau dikonstruksi secara sosial, melainkan pada penggunaan pendekatan yang paling tepat untuk menjawab pertanyaan penelitian [@Creswell2018a].
+
+### Hubungan Pragmatisme dengan *Mixed methods*
+
+Karena pragmatisme berorientasi pada pemecahan masalah, paradigma ini memberikan ruang bagi penggunaan berbagai metode penelitian secara terpadu. Dalam praktiknya, seorang peneliti dapat mengombinasikan pengumpulan data kuantitatif dan kualitatif apabila kombinasi tersebut memberikan pemahaman yang lebih utuh terhadap fenomena yang diteliti. Pendekatan inilah yang kemudian dikenal sebagai *mixed methods research* [@Creswell2018].
+
+Sebagai ilustrasi, seorang peneliti ingin memahami rendahnya kepatuhan pasien diabetes terhadap pengobatan. Survei dapat digunakan untuk mengidentifikasi tingkat kepatuhan dan faktor-faktor yang berhubungan dengannya. Selanjutnya, wawancara mendalam dapat dilakukan untuk memahami alasan di balik perilaku tersebut. Integrasi kedua jenis data tersebut memberikan gambaran yang lebih komprehensif dibandingkan apabila hanya menggunakan satu pendekatan saja.
+
+Meskipun *mixed methods* sering dikaitkan dengan paradigma pragmatis, penerapannya memerlukan perencanaan metodologis yang lebih kompleks dibandingkan penelitian yang hanya menggunakan satu pendekatan. Oleh karena itu, berbagai desain *mixed methods*, strategi integrasi data, serta prosedur pelaksanaannya akan dibahas secara lebih rinci pada @sec-mixedmethod.
+
+::: callout-tip
+## Rangkuman
+
+1.  Paradigma penelitian merupakan cara pandang atau landasan filosofis yang memengaruhi seluruh proses penelitian, mulai dari perumusan masalah hingga interpretasi hasil. Paradigma berbeda dengan metode penelitian.
+2.  Paradigma menjelaskan mengapa dan berdasarkan asumsi apa penelitian dilakukan, sedangkan metode menjelaskan bagaimana penelitian dilaksanakan.
+3.  Setiap paradigma dibangun atas tiga pilar filosofis, yaitu ontologi (hakikat realitas), epistemologi (cara memperoleh pengetahuan), dan metodologi (strategi memperoleh pengetahuan).
+4.  Penelitian psikologi menggunakan berbagai paradigma yang memiliki asumsi filosofis dan implikasi metodologis yang berbeda, yaitu positivisme, post-positivisme, interpretivisme, dan transformatif.
+5.  Tidak ada paradigma yang paling benar atau paling unggul. Pemilihan paradigma harus disesuaikan dengan tujuan penelitian, pertanyaan penelitian, dan karakteristik fenomena yang diteliti.
+6.  Perkembangan metodologi penelitian melahirkan pendekatan mixed methods yang banyak berlandaskan pada paradigma pragmatis untuk mengintegrasikan metode kuantitatif dan kualitatif dalam menjawab pertanyaan penelitian yang kompleks.
+:::
+
+::: callout-important
+## Refleksi & Diskusi
+
+-   Mengapa paradigma penelitian perlu dipahami sebelum menentukan pendekatan, desain, dan metode penelitian?
+-   Jelaskan hubungan antara ontologi, epistemologi, dan metodologi dalam membentuk suatu paradigma penelitian.
+-   Bandingkan karakteristik utama paradigma positivisme, post-positivisme, interpretivisme, dan transformatif. Dalam situasi penelitian seperti apa masing-masing paradigma lebih sesuai digunakan?
+-   Pilih satu topik penelitian psikologi yang Anda minati (misalnya kesehatan mental, kecanduan media sosial, *bullying*, atau kesejahteraan kerja). Jelaskan bagaimana rumusan masalah, tujuan penelitian, dan metode yang digunakan dapat berbeda apabila penelitian tersebut dilakukan dengan paradigma yang berbeda.
+:::
+
+::: sectionrefs
+:::
