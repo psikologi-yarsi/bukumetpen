@@ -62,9 +62,10 @@ format:
     theme:
       - pandoc
     toc: true
-    toc-depth: 4
+    toc-depth: 3
     ##css: style.css
     number-sections: true
+    number-depth: 3
     nocite: false
   pdf:
     documentclass: scrreprt
