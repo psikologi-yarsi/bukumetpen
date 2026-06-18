@@ -71,7 +71,7 @@ Dengan demikian, paradigma menjadi dasar dalam pemilihan metode yang sesuai deng
 
 ::: {#tbl-paradigma}
 |  |  |  |
-|------------------|------------------------------|-------------------------|
+|:-----------------|:-----------------------------|:------------------------|
 | **Dimensi** | **Paradigma** | **Metode** |
 | Sifat | Filosofis/keyakinan mendasar | Teknis/prosedural |
 | Pertanyaan yang dijawab | "Apa hakikat realitas yang saya teliti dan bagaimana saya dapat mengetahuinya?" | "Bagaimana cara terbaik mengumpulkan dan menganalisis data?" |
