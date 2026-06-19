@@ -122,7 +122,7 @@ Namun demikian, bukan berarti eksperimen murni selalu menjadi pilihan terbaik. P
 
 ::: {#tbl-desaineksp}
 |  |  |  |  |
-|----|:--:|:--:|:--:|
+|:-----------------|:----------------:|:----------------:|:----------------:|
 | **Karakteristik** | **Pra-eksperimen** | **Kuasi eksperimen** | **Eksperimen murni** |
 | Manipulasi variabel independen | ✓ | ✓ | ✓ |
 | Kelompok pembanding | Tidak selalu ada | Ada | Ada |
@@ -182,7 +182,7 @@ Tabel 13.2 merangkum perbedaan utama kedua struktur kondisi tersebut.
 
 ::: {#tbl-struktur}
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Aspek** | ***Between-subjects design*** | ***Within-subjects design*** |
 | Partisipan | Setiap peserta hanya mengikuti satu kondisi | Setiap peserta mengikuti seluruh kondisi |
 | Jumlah partisipan | Relatif lebih banyak | Relatif lebih sedikit |
@@ -270,7 +270,7 @@ Desain Solomon menggabungkan kelebihan desain *posttest-only* dan *pretest-postt
 
 ::: {#tbl-desainexp}
 |  |  |  |  |  |
-|----|:--:|:--:|:--:|:--:|
+|---------------|:-------------:|:-------------:|:-------------:|:-------------:|
 | **Desain** | **Kelompok Pembanding** | ***Pretest*** | ***Random Assignment*** | **Kegunaan** |
 | *One-shot case study* | ✗ | ✗ | ✗ | Studi awal |
 | *One-group pretest-posttest* | ✗ | ✓ | ✗ | Evaluasi awal |
