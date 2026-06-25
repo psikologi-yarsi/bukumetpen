@@ -1,0 +1,1152 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.33">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Sunu Bagaskara">
+
+<title>11&nbsp; Populasi dan Sampling dalam Penelitian Kualitatif – Metodologi Penelitian</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./4_pengantar.html" rel="next">
+<link href="./3_18_laporankuanti.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-ffd282cb318059e0bcb130885a47f5dc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Tidak ada hasil",
+    "search-matching-documents-text": "dokumen cocok",
+    "search-copy-link-title": "Salin tautan untuk mencari",
+    "search-hide-matches-text": "Sembunyikan kecocokan lainnya",
+    "search-more-match-text": "kecocokan lainnya di dokumen ini",
+    "search-more-matches-text": "kecocokan lainnya di dokumen ini",
+    "search-clear-button-title": "Hapus",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Batal",
+    "search-submit-button-title": "Kirim",
+    "search-label": "Mencari"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./3_pengantar.html">METODOLOGI PENELITIAN KUANTITATIF</a></li><li class="breadcrumb-item"><a href="./3_21_samplingkuali.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Populasi dan Sampling dalam Penelitian Kualitatif</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Mencari" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Metodologi Penelitian</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Alihkan mode pembaca">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Mencari"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Prakata</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./1_pengantar.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">PENGANTAR METODOLOGI PENELITIAN ILMIAH</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alihkan bagian">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./1_1_ilmu.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Ilmu Pengetahuan dan Penelitian dalam Psikologi</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./1_2_hakikat.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Hakikat Penelitian Ilmiah dalam Psikologi</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./1_4_literatur.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Tinjauan Literatur dan Pengembangan Kerangka Teoretis</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./1_5_desain.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Desain Penelitian dan Strategi Pengumpulan Data</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./1_6_sampling.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Unit Analisis, Populasi, dan Partisipan Penelitian</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./2_pengantar.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">PARADIGMA DALAM PENDEKATAN PENELITIAN</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Alihkan bagian">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./2_9_paradigma.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Paradigma Penelitian dalam Psikologi</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./2_10_pendekatan.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Pendekatan Kuantitatif dan Kualitatif: Perbandingan &amp; Integrasi</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./3_pengantar.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">METODOLOGI PENELITIAN KUANTITATIF</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Alihkan bagian">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./3_13_eksperimen.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Desain Eksperimen dan Kuasi Eksperimen</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./3_17_proposalkuanti.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Perancangan Penelitian Kuantitatif</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./3_18_laporankuanti.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Pelaporan Penelitian Kuantitatif: Struktur IMRaD</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./3_21_samplingkuali.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Populasi dan Sampling dalam Penelitian Kualitatif</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./4_pengantar.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">METODOLOGI PENELITIAN KUALITATIF</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Alihkan bagian">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./4_19_paradigmakuali.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Hakikat dan Paradigma Penelitian Kualitatif</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./4_24_laporankuali.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Pelaporan Penelitian Kualitatif: Metode COREQ</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Daftar Isi</h2>
+   
+  <ul>
+  <li><a href="#menentukan-populasi-penelitian" id="toc-menentukan-populasi-penelitian" class="nav-link active" data-scroll-target="#menentukan-populasi-penelitian"><span class="header-section-number">11.1</span> Menentukan Populasi Penelitian</a>
+  <ul class="collapse">
+  <li><a href="#konsep-populasi-dalam-penelitian-kualitatif" id="toc-konsep-populasi-dalam-penelitian-kualitatif" class="nav-link" data-scroll-target="#konsep-populasi-dalam-penelitian-kualitatif"><span class="header-section-number">11.1.1</span> Konsep Populasi dalam Penelitian Kualitatif</a></li>
+  <li><a href="#menentukan-populasi-berdasarkan-fokus-penelitian" id="toc-menentukan-populasi-berdasarkan-fokus-penelitian" class="nav-link" data-scroll-target="#menentukan-populasi-berdasarkan-fokus-penelitian"><span class="header-section-number">11.1.2</span> Menentukan Populasi Berdasarkan Fokus Penelitian</a></li>
+  <li><a href="#menentukan-kriteria-inklusi-dan-eksklusi" id="toc-menentukan-kriteria-inklusi-dan-eksklusi" class="nav-link" data-scroll-target="#menentukan-kriteria-inklusi-dan-eksklusi"><span class="header-section-number">11.1.3</span> Menentukan Kriteria Inklusi dan Eksklusi</a></li>
+  </ul></li>
+  <li><a href="#memilih-partisipan-penelitian" id="toc-memilih-partisipan-penelitian" class="nav-link" data-scroll-target="#memilih-partisipan-penelitian"><span class="header-section-number">11.2</span> Memilih Partisipan Penelitian</a>
+  <ul class="collapse">
+  <li><a href="#purposive-sampling-sebagai-strategi-utama" id="toc-purposive-sampling-sebagai-strategi-utama" class="nav-link" data-scroll-target="#purposive-sampling-sebagai-strategi-utama"><span class="header-section-number">11.2.1</span> <em>Purposive Sampling</em> sebagai Strategi Utama</a></li>
+  <li><a href="#snowball-sampling" id="toc-snowball-sampling" class="nav-link" data-scroll-target="#snowball-sampling"><span class="header-section-number">11.2.2</span> <em>Snowball Sampling</em></a></li>
+  </ul></li>
+  <li><a href="#menentukan-jumlah-partisipan" id="toc-menentukan-jumlah-partisipan" class="nav-link" data-scroll-target="#menentukan-jumlah-partisipan"><span class="header-section-number">11.3</span> Menentukan Jumlah Partisipan</a>
+  <ul class="collapse">
+  <li><a href="#faktor-yang-memengaruhi-jumlah-partisipan" id="toc-faktor-yang-memengaruhi-jumlah-partisipan" class="nav-link" data-scroll-target="#faktor-yang-memengaruhi-jumlah-partisipan"><span class="header-section-number">11.3.1</span> Faktor yang Memengaruhi Jumlah Partisipan</a></li>
+  <li><a href="#konsep-saturasi-data" id="toc-konsep-saturasi-data" class="nav-link" data-scroll-target="#konsep-saturasi-data"><span class="header-section-number">11.3.2</span> Konsep Saturasi Data</a></li>
+  <li><a href="#apakah-penelitian-kualitatif-dapat-menggunakan-satu-partisipan" id="toc-apakah-penelitian-kualitatif-dapat-menggunakan-satu-partisipan" class="nav-link" data-scroll-target="#apakah-penelitian-kualitatif-dapat-menggunakan-satu-partisipan"><span class="header-section-number">11.3.3</span> Apakah Penelitian Kualitatif Dapat Menggunakan Satu Partisipan?</a></li>
+  </ul></li>
+  <li><a href="#merekrut-partisipan-penelitian" id="toc-merekrut-partisipan-penelitian" class="nav-link" data-scroll-target="#merekrut-partisipan-penelitian"><span class="header-section-number">11.4</span> Merekrut Partisipan Penelitian</a>
+  <ul class="collapse">
+  <li><a href="#rekrutmen-secara-langsung" id="toc-rekrutmen-secara-langsung" class="nav-link" data-scroll-target="#rekrutmen-secara-langsung"><span class="header-section-number">11.4.1</span> Rekrutmen Secara Langsung</a></li>
+  <li><a href="#rekrutmen-melalui-gatekeeper" id="toc-rekrutmen-melalui-gatekeeper" class="nav-link" data-scroll-target="#rekrutmen-melalui-gatekeeper"><span class="header-section-number">11.4.2</span> Rekrutmen Melalui <em>Gatekeeper</em></a></li>
+  <li><a href="#sec-snowball" id="toc-sec-snowball" class="nav-link" data-scroll-target="#sec-snowball"><span class="header-section-number">11.4.3</span> <em>Snowball Sampling</em></a></li>
+  <li><a href="#tantangan-dalam-rekrutmen-partisipan" id="toc-tantangan-dalam-rekrutmen-partisipan" class="nav-link" data-scroll-target="#tantangan-dalam-rekrutmen-partisipan"><span class="header-section-number">11.4.4</span> Tantangan dalam Rekrutmen Partisipan</a></li>
+  </ul></li>
+  <li><a href="#menuliskan-prosedur-sampling-dalam-proposal-dan-laporan-penelitian" id="toc-menuliskan-prosedur-sampling-dalam-proposal-dan-laporan-penelitian" class="nav-link" data-scroll-target="#menuliskan-prosedur-sampling-dalam-proposal-dan-laporan-penelitian"><span class="header-section-number">11.5</span> Menuliskan Prosedur <em>Sampling</em> dalam Proposal dan Laporan Penelitian</a></li>
+  <li><a href="#bibliography" id="toc-bibliography" class="nav-link" data-scroll-target="#bibliography">Daftar Pustaka</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./3_pengantar.html">METODOLOGI PENELITIAN KUANTITATIF</a></li><li class="breadcrumb-item"><a href="./3_21_samplingkuali.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Populasi dan Sampling dalam Penelitian Kualitatif</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Populasi dan Sampling dalam Penelitian Kualitatif</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Penulis</div>
+    <div class="quarto-title-meta-contents">
+             <p>Sunu Bagaskara </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Capaian Pembelajaran
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Setelah mempelajari bab ini, mahasiswa diharapkan mampu:</p>
+<ol type="1">
+<li>Menjelaskan konsep populasi dan sampling dalam penelitian kualitatif.</li>
+<li>Menentukan populasi, kriteria partisipan, dan strategi sampling yang sesuai dengan tujuan penelitian.</li>
+<li>Menentukan jumlah partisipan berdasarkan kebutuhan penelitian dan prinsip saturasi data.</li>
+<li>Menjelaskan berbagai strategi rekrutmen partisipan dalam penelitian kualitatif.</li>
+<li>Menyusun prosedur sampling secara sistematis dalam proposal maupun laporan penelitian.</li>
+</ol>
+</div>
+</div>
+<p>Dalam setiap penelitian, peneliti perlu menentukan siapa yang akan menjadi sumber data penelitian. Keputusan tersebut mencakup penentuan populasi, pemilihan partisipan, penetapan jumlah partisipan, serta cara memperoleh partisipan yang sesuai dengan tujuan penelitian.</p>
+<p>Berbeda dengan penelitian kuantitatif yang menekankan keterwakilan sampel terhadap populasi, penelitian kualitatif lebih menekankan pemilihan partisipan yang mampu memberikan informasi secara mendalam mengenai fenomena yang diteliti. Oleh karena itu, proses <em>sampling</em> dalam penelitian kualitatif tidak hanya berkaitan dengan jumlah partisipan, tetapi juga dengan pertimbangan mengenai siapa yang paling tepat untuk diwawancarai atau diamati.</p>
+<p>Bab ini membahas konsep populasi dan <em>sampling</em> dalam penelitian kualitatif, mulai dari penentuan populasi penelitian, pemilihan partisipan, penentuan jumlah partisipan, strategi <em>sampling</em>, proses rekrutmen partisipan, hingga cara melaporkan prosedur <em>sampling</em> dalam proposal maupun laporan penelitian.</p>
+<section id="menentukan-populasi-penelitian" class="level2">
+<h2 class="anchored" data-anchor-id="menentukan-populasi-penelitian"><span class="header-section-number">11.1</span> Menentukan Populasi Penelitian</h2>
+<p>Penentuan populasi merupakan salah satu langkah awal yang penting dalam penelitian kualitatif. Meskipun penelitian kualitatif tidak bertujuan melakukan generalisasi statistik, peneliti tetap perlu menjelaskan secara jelas siapa atau apa yang menjadi sasaran penelitiannya. Kejelasan mengenai populasi akan membantu menentukan siapa yang layak menjadi partisipan, batasan temuan penelitian, serta konteks di mana hasil penelitian dapat dipahami.</p>
+<p>Dalam literatur penelitian kualitatif, istilah <em>population</em> atau <em>target population</em> masih digunakan. Namun, beberapa penulis, seperti <span class="citation" data-cites="Robinson2014">Robinson (<a href="#ref-Robinson2014" role="doc-biblioref">2014</a>)</span>, menggunakan istilah <em>sample universe</em> untuk menegaskan bahwa yang dimaksud bukan sekadar populasi dalam pengertian statistik, melainkan keseluruhan individu atau kasus yang secara logis dapat dipilih sebagai partisipan penelitian. Dengan kata lain, <em>sample universe</em> merupakan batas konseptual yang menunjukkan siapa saja yang memenuhi syarat untuk menjadi sumber data penelitian.</p>
+<section id="konsep-populasi-dalam-penelitian-kualitatif" class="level3">
+<h3 class="anchored" data-anchor-id="konsep-populasi-dalam-penelitian-kualitatif"><span class="header-section-number">11.1.1</span> Konsep Populasi dalam Penelitian Kualitatif</h3>
+<p>Dalam penelitian kualitatif, populasi merujuk pada keseluruhan individu, kelompok, organisasi, komunitas, atau kasus yang memiliki pengalaman atau karakteristik yang relevan dengan fenomena yang ingin dipahami. <span class="citation" data-cites="Patton2014">Patton (<a href="#ref-Patton2014" role="doc-biblioref">2014</a>)</span> menekankan bahwa penentuan populasi dalam penelitian kualitatif harus selalu didasarkan pada tujuan penelitian (<em>purpose of inquiry</em>). Artinya, populasi tidak ditentukan oleh jumlah individu yang tersedia, tetapi oleh siapa yang diperkirakan mampu memberikan informasi yang paling kaya (<em>information-rich cases</em>) mengenai fenomena yang sedang dipelajari.</p>
+<p><span class="citation" data-cites="Robinson2014">Robinson (<a href="#ref-Robinson2014" role="doc-biblioref">2014</a>)</span> menyebut populasi tersebut sebagai <em>sample universe</em>, yaitu keseluruhan individu yang secara konseptual memenuhi syarat untuk dijadikan partisipan penelitian. Penentuan <em>sample universe</em> dilakukan melalui penyusunan kriteria inklusi dan eksklusi sehingga batas populasi menjadi jelas sejak awal penelitian.</p>
+<p>Sebagai contoh, apabila penelitian bertujuan memahami pengalaman mahasiswa yang mengalami <em>academic burnout</em>, maka populasi penelitian bukan seluruh mahasiswa, melainkan mahasiswa yang pernah mengalami <em>academic burnout</em>. Demikian pula, apabila penelitian bertujuan mengeksplorasi pengalaman keluarga yang merawat anggota keluarga dengan demensia, maka populasi penelitian adalah keluarga yang memiliki pengalaman tersebut.</p>
+<p>Dengan demikian, populasi dalam penelitian kualitatif tidak selalu identik dengan kelompok yang besar. Yang lebih penting adalah kesesuaian antara karakteristik populasi dengan fokus penelitian.</p>
+</section>
+<section id="menentukan-populasi-berdasarkan-fokus-penelitian" class="level3">
+<h3 class="anchored" data-anchor-id="menentukan-populasi-berdasarkan-fokus-penelitian"><span class="header-section-number">11.1.2</span> Menentukan Populasi Berdasarkan Fokus Penelitian</h3>
+<p>Penentuan populasi dalam penelitian kualitatif selalu berangkat dari pertanyaan penelitian (<em>research question</em>). Oleh karena itu, peneliti perlu terlebih dahulu mengidentifikasi fenomena yang ingin dipahami sebelum menentukan siapa yang menjadi populasi penelitian.</p>
+<p>Secara umum, populasi dalam penelitian kualitatif dapat ditentukan melalui dua pendekatan:</p>
+<p><strong>Pertama, berdasarkan fenomena yang dialami individu.</strong> Dalam pendekatan ini, populasi terdiri atas orang-orang yang memiliki pengalaman tertentu sesuai dengan fokus penelitian. Contohnya, penelitian mengenai pengalaman penyintas bencana alam menggunakan populasi berupa individu yang pernah mengalami bencana tersebut. Demikian pula penelitian mengenai pengalaman menjadi korban <em>cyberbullying</em> akan melibatkan individu yang pernah mengalami perundungan di dunia maya.</p>
+<p><strong>Kedua, berdasarkan kelompok atau konteks sosial tertentu.</strong> Pada pendekatan ini, populasi ditentukan berdasarkan keanggotaan seseorang dalam suatu kelompok, organisasi, komunitas, atau lingkungan tertentu. Sebagai contoh, penelitian mengenai budaya kerja pengemudi ojek daring menjadikan seluruh pengemudi ojek daring sebagai populasi penelitian, sedangkan penelitian mengenai adaptasi mahasiswa tahun pertama menjadikan mahasiswa baru sebagai populasi penelitian.</p>
+<p>Dalam praktiknya, kedua pendekatan tersebut sering digunakan secara bersamaan. Misalnya, penelitian mengenai pengalaman <em>burnout</em> pada perawat ruang ICU memiliki populasi yang dibatasi oleh dua aspek sekaligus, yaitu kelompok profesi (perawat ruang ICU) dan fenomena yang dialami (<em>burnout</em>).</p>
+<p>Penentuan populasi yang spesifik akan membantu peneliti memperoleh data yang lebih relevan serta memperjelas ruang lingkup temuan penelitian.</p>
+</section>
+<section id="menentukan-kriteria-inklusi-dan-eksklusi" class="level3">
+<h3 class="anchored" data-anchor-id="menentukan-kriteria-inklusi-dan-eksklusi"><span class="header-section-number">11.1.3</span> Menentukan Kriteria Inklusi dan Eksklusi</h3>
+<p>Setelah populasi penelitian ditetapkan, langkah berikutnya adalah menentukan kriteria siapa saja yang dapat atau tidak dapat menjadi partisipan penelitian. <span class="citation" data-cites="Robinson2014">Robinson (<a href="#ref-Robinson2014" role="doc-biblioref">2014</a>)</span> menyatakan bahwa penyusunan kriteria inklusi (<em>inclusion criteria</em>) dan kriteria eksklusi (<em>exclusion criteria</em>) merupakan langkah penting dalam membangun <em>sample universe</em> yang jelas.</p>
+<p>Kriteria inklusi adalah karakteristik yang harus dimiliki seseorang agar dapat diikutsertakan sebagai partisipan penelitian. Sebaliknya, kriteria eksklusi adalah karakteristik yang menyebabkan seseorang tidak dapat menjadi partisipan meskipun termasuk dalam populasi penelitian.</p>
+<p>Sebagai contoh, penelitian mengenai pengalaman <em>burnout</em> pada dosen dapat menetapkan kriteria sebagai berikut.</p>
+<blockquote class="blockquote">
+<p><strong>Kriteria inklusi</strong></p>
+<ul>
+<li>berstatus sebagai dosen aktif;</li>
+<li>memiliki pengalaman <em>burnout</em> dalam dua tahun terakhir;</li>
+<li>bersedia mengikuti wawancara secara mendalam.</li>
+</ul>
+<p><strong>Kriteria eksklusi</strong></p>
+<ul>
+<li>sedang menjalani cuti panjang;</li>
+<li>memiliki gangguan kesehatan yang menghambat proses wawancara;</li>
+<li>tidak bersedia direkam selama proses wawancara.</li>
+</ul>
+</blockquote>
+<p>Penyusunan kriteria inklusi dan eksklusi memberikan beberapa manfaat. Pertama, membantu peneliti menjaga konsistensi dalam memilih partisipan. Kedua, memastikan bahwa seluruh partisipan benar-benar relevan dengan tujuan penelitian. Ketiga, meningkatkan transparansi penelitian karena pembaca dapat memahami alasan mengapa seseorang dipilih atau tidak dipilih sebagai partisipan.</p>
+<p>Meskipun demikian, peneliti perlu berhati-hati agar kriteria yang ditetapkan tidak terlalu sempit. Kriteria yang terlalu ketat dapat menyulitkan proses rekrutmen partisipan dan membatasi variasi pengalaman yang sebenarnya penting untuk dipahami. Sebaliknya, kriteria yang terlalu longgar dapat menyebabkan data yang diperoleh menjadi kurang terfokus. Oleh karena itu, penentuan kriteria inklusi dan eksklusi harus selalu mempertimbangkan tujuan penelitian, pertanyaan penelitian, serta pendekatan kualitatif yang digunakan.</p>
+</section>
+</section>
+<section id="memilih-partisipan-penelitian" class="level2">
+<h2 class="anchored" data-anchor-id="memilih-partisipan-penelitian"><span class="header-section-number">11.2</span> Memilih Partisipan Penelitian</h2>
+<p>Setelah populasi penelitian ditetapkan, langkah berikutnya adalah menentukan siapa yang akan dipilih sebagai partisipan penelitian. Pada tahap inilah peneliti mulai menerapkan strategi <em>sampling</em> yang sesuai dengan tujuan penelitian. Pemilihan partisipan diarahkan untuk memperoleh individu atau kelompok yang mampu memberikan informasi secara mendalam mengenai fenomena yang diteliti.</p>
+<p><span class="citation" data-cites="Patton2014">Patton (<a href="#ref-Patton2014" role="doc-biblioref">2014</a>)</span> menyebut individu-individu tersebut sebagai <em>information-rich cases</em>, yaitu partisipan yang memiliki pengalaman, pengetahuan, atau keterlibatan yang memadai sehingga mampu memberikan informasi yang kaya dan bermakna bagi penelitian. Oleh karena itu, pemilihan partisipan lebih berfokus pada individu atau kelompok yang diperkirakan mampu memberikan informasi yang kaya, mendalam, dan relevan dengan fenomena yang diteliti.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Partisipan atau Responden?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Dalam penelitian kualitatif, istilah <em>partisipan</em> lebih sering digunakan daripada <em>responden</em> karena individu yang terlibat tidak hanya memberikan jawaban atas pertanyaan penelitian, tetapi juga berbagi pengalaman, pandangan, dan makna mengenai fenomena yang diteliti.</p>
+</div>
+</div>
+<section id="purposive-sampling-sebagai-strategi-utama" class="level3">
+<h3 class="anchored" data-anchor-id="purposive-sampling-sebagai-strategi-utama"><span class="header-section-number">11.2.1</span> <em>Purposive Sampling</em> sebagai Strategi Utama</h3>
+<p>Sebagian besar penelitian kualitatif menggunakan <em>purposive sampling</em> (<em>purposeful sampling</em>), yaitu strategi memilih partisipan secara sengaja berdasarkan pertimbangan bahwa mereka memiliki pengalaman, pengetahuan, atau karakteristik yang relevan dengan tujuan penelitian. Dalam praktiknya, <em>purposive sampling</em> dapat diterapkan melalui berbagai strategi, bergantung pada tujuan penelitian, karakteristik fenomena yang dikaji, serta jenis informasi yang ingin diperoleh. Beberapa strategi yang paling umum digunakan dijelaskan pada bagian berikut <span class="citation" data-cites="Robinson2014 Patton2014 Creswell2018a">(<a href="#ref-Creswell2018a" role="doc-biblioref">Creswell &amp; Creswell, 2023</a>; <a href="#ref-Patton2014" role="doc-biblioref">Patton, 2014</a>; <a href="#ref-Robinson2014" role="doc-biblioref">Robinson, 2014</a>)</span>.</p>
+<ol type="1">
+<li><p><strong><em>Criterion Sampling</em></strong></p>
+<p><em>Criterion sampling</em> merupakan strategi memilih partisipan berdasarkan seperangkat kriteria yang telah ditentukan sebelumnya. Seluruh partisipan yang terlibat harus memenuhi kriteria tersebut sehingga benar-benar memiliki pengalaman yang relevan dengan fenomena yang sedang diteliti. Strategi ini banyak digunakan dalam penelitian fenomenologi karena seluruh partisipan diharapkan memiliki pengalaman yang sama terhadap fenomena yang dikaji.</p>
+<p>Sebagai contoh, penelitian mengenai pengalaman <em>academic burnout</em> dapat menetapkan bahwa partisipan harus merupakan mahasiswa aktif yang sedang menyusun skripsi dan pernah mengalami <em>burnout</em> dalam satu tahun terakhir. Dengan demikian, mahasiswa yang tidak memenuhi kriteria tersebut tidak diikutsertakan dalam penelitian.</p></li>
+<li><p><strong><em>Homogeneous Sampling</em></strong></p>
+<p><em>Homogeneous sampling</em> memilih partisipan yang memiliki karakteristik yang relatif seragam. Tujuan utamanya adalah memperoleh pemahaman yang mendalam mengenai pengalaman kelompok tertentu tanpa dipengaruhi oleh terlalu banyak variasi karakteristik. Strategi ini sering digunakan dalam penelitian fenomenologi, <em>interpretative phenomenological analysis</em> (IPA), maupun penelitian yang berfokus pada pengalaman kelompok tertentu.</p>
+<p>Sebagai contoh, penelitian mengenai pengalaman menjadi orang tua tunggal dapat melibatkan perempuan berusia 30–45 tahun yang membesarkan anak tanpa pasangan. Kesamaan karakteristik tersebut membantu peneliti mengidentifikasi pengalaman yang menjadi ciri khas kelompok tersebut.</p></li>
+<li><p><strong><em>Maximum Variation Sampling</em></strong></p>
+<p>Berbeda dengan <em>homogeneous sampling</em>, <em>maximum variation sampling</em> bertujuan memperoleh keragaman pengalaman yang seluas mungkin. Peneliti secara sengaja memilih partisipan yang memiliki karakteristik yang berbeda sehingga dapat mengeksplorasi bagaimana suatu fenomena dialami dalam berbagai konteks.</p>
+<p>Sebagai contoh, penelitian mengenai pengalaman menggunakan kecerdasan artifisial dalam pembelajaran dapat melibatkan mahasiswa dari berbagai program studi, semester, jenis perguruan tinggi, dan daerah asal. Melalui variasi tersebut, peneliti dapat mengidentifikasi tema-tema yang muncul secara konsisten meskipun partisipan berasal dari latar belakang yang berbeda.</p></li>
+<li><p><strong><em>Typical Case Sampling</em></strong></p>
+<p><em>Typical case sampling</em> digunakan apabila peneliti ingin memahami kondisi yang dianggap umum atau lazim terjadi pada suatu populasi. Oleh karena itu, partisipan dipilih karena dianggap mewakili karakteristik yang paling sering ditemukan, bukan karena memiliki pengalaman yang unik atau ekstrem.</p>
+<p>Sebagai contoh, penelitian mengenai pengalaman belajar mahasiswa tahun pertama dapat memilih mahasiswa dengan prestasi akademik, latar belakang sosial, dan aktivitas yang mencerminkan kondisi mayoritas mahasiswa pada program studi tersebut.</p></li>
+<li><p><strong><em>Extreme</em></strong> <strong>atau <em>Deviant Case Sampling</em></strong></p>
+<p>Pada strategi ini, peneliti secara sengaja memilih partisipan yang memiliki karakteristik atau pengalaman yang sangat berbeda dari kondisi umum. Kasus-kasus tersebut sering kali memberikan wawasan baru mengenai faktor-faktor yang memengaruhi suatu fenomena.</p>
+<p>Misalnya, penelitian mengenai resiliensi dapat memilih individu yang mampu bangkit kembali setelah mengalami berbagai peristiwa traumatis yang berat. Contoh lainnya adalah penelitian mengenai prestasi akademik yang melibatkan mahasiswa dengan capaian akademik yang sangat tinggi atau sangat rendah.</p></li>
+<li><p><strong><em>Intensity Sampling</em></strong></p>
+<p><em>Intensity sampling</em> memilih partisipan yang mengalami fenomena secara kuat, tetapi masih berada dalam rentang yang dianggap normal. Strategi ini berbeda dengan <em>extreme case sampling</em> karena partisipan tidak dipilih berdasarkan kondisi yang sangat menyimpang, melainkan karena memiliki pengalaman yang cukup intens sehingga mampu memberikan informasi yang kaya.</p>
+<p>Sebagai contoh, penelitian mengenai stres kerja dapat memilih tenaga kesehatan yang memiliki tingkat stres tinggi, tetapi belum mengalami gangguan psikologis yang berat.</p></li>
+<li><p><strong><em>Critical Case Sampling</em></strong></p>
+<p><em>Critical case sampling</em> digunakan apabila peneliti ingin mempelajari kasus yang dipandang sangat penting atau strategis. Kasus tersebut dipilih karena diyakini mampu memberikan informasi yang memiliki implikasi luas terhadap pemahaman suatu fenomena.</p>
+<p>Sebagai contoh, penelitian mengenai implementasi kurikulum baru dapat memilih sekolah yang menjadi proyek percontohan nasional. Pengalaman sekolah tersebut diperkirakan dapat memberikan pelajaran penting bagi penerapan kebijakan pada sekolah lain.</p></li>
+<li><p><strong><em>Theoretical Sampling</em></strong></p>
+<p>Berbeda dengan strategi sebelumnya, <em>theoretical sampling</em> merupakan strategi yang secara khusus digunakan dalam pendekatan <em>grounded theory</em>. Pada strategi ini, pemilihan partisipan tidak ditetapkan sepenuhnya sejak awal penelitian, tetapi berkembang mengikuti proses analisis data. Karena bertujuan membangun teori, <em>theoretical sampling</em> merupakan ciri khas penelitian <em>grounded theory</em> dan umumnya tidak digunakan pada pendekatan kualitatif lainnya.</p>
+<p>Peneliti menentukan siapa yang perlu diwawancarai berikutnya berdasarkan kategori atau konsep yang mulai muncul selama analisis berlangsung. Proses tersebut dilakukan secara berulang hingga kategori yang dikembangkan telah mencapai saturasi teoritis (<em>theoretical saturation</em>).</p></li>
+</ol>
+<p>Berbagai strategi <em>purposive sampling</em> memiliki tujuan dan konteks penggunaan yang berbeda. Pemilihan strategi yang tepat perlu disesuaikan dengan pertanyaan penelitian, karakteristik fenomena yang dikaji, serta jenis informasi yang ingin diperoleh. Ringkasan karakteristik masing-masing strategi disajikan pada <a href="#tbl-samplingkuali" class="quarto-xref">Tabel&nbsp;<span>11.1</span></a>.</p>
+<div id="tbl-samplingkuali" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-samplingkuali-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Tabel&nbsp;11.1: Perbandingan tujuan setiap metode sampling metode kualitatif
+</figcaption>
+<div aria-describedby="tbl-samplingkuali-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 29%">
+<col style="width: 44%">
+<col style="width: 26%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Strategi</strong></td>
+<td style="text-align: left;"><strong>Tujuan</strong></td>
+<td style="text-align: left;"><strong>Contoh Penelitian</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Criterion</em></td>
+<td style="text-align: left;">Memilih partisipan yang memenuhi kriteria tertentu</td>
+<td style="text-align: left;">Pengalaman penyintas stroke</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Homogeneous</em></td>
+<td style="text-align: left;">Mendalami pengalaman kelompok yang seragam</td>
+<td style="text-align: left;">Pengalaman mahasiswa tingkat akhir menyusun skripsi</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Maximum variation</em></td>
+<td style="text-align: left;">Mengeksplorasi keragaman pengalaman</td>
+<td style="text-align: left;">Penggunaan AI oleh mahasiswa dari berbagai program studi</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Typical case</em></td>
+<td style="text-align: left;">Menggambarkan kondisi umum</td>
+<td style="text-align: left;">Pengalaman belajar mahasiswa tahun pertama</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Extreme/deviant</em></td>
+<td style="text-align: left;">Mengkaji kasus tidak biasa</td>
+<td style="text-align: left;">Resiliensi pada penyintas bencana dengan pemulihan luar biasa</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Intensity</em></td>
+<td style="text-align: left;">Mengkaji fenomena yang kuat tetapi tidak ekstrem</td>
+<td style="text-align: left;">Stres kerja pada tenaga kesehatan</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Critical case</em></td>
+<td style="text-align: left;">Mempelajari kasus yang strategis</td>
+<td style="text-align: left;">Implementasi kurikulum di sekolah percontohan</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Theoretical</em></td>
+<td style="text-align: left;">Mengembangkan teori</td>
+<td style="text-align: left;">Penelitian <em>grounded theory</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+</section>
+<section id="snowball-sampling" class="level3">
+<h3 class="anchored" data-anchor-id="snowball-sampling"><span class="header-section-number">11.2.2</span> <em>Snowball Sampling</em></h3>
+<p>Selain <em>purposive sampling</em>, strategi lain yang cukup sering digunakan dalam penelitian kualitatif adalah <em>snowball sampling</em>. Pada strategi ini, peneliti memperoleh partisipan baru melalui rekomendasi dari partisipan yang telah diwawancarai sebelumnya. Dengan kata lain, setiap partisipan membantu peneliti menemukan partisipan lain yang memenuhi kriteria penelitian sehingga jumlah partisipan bertambah secara bertahap seperti bola salju yang menggelinding.</p>
+<p><em>Snowball sampling</em> umumnya digunakan ketika populasi penelitian sulit diidentifikasi atau tidak memiliki daftar anggota yang jelas. Kondisi ini banyak dijumpai pada penelitian yang melibatkan kelompok tersembunyi (<em>hidden populations</em>), seperti penyintas kekerasan seksual, pengguna narkotika, individu yang hidup dengan HIV/AIDS, atau kelompok minoritas tertentu. Dalam situasi tersebut, rekomendasi dari partisipan sebelumnya sering menjadi cara yang paling efektif untuk memperoleh akses kepada calon partisipan berikutnya <span class="citation" data-cites="Creswell2018a Patton2014">(<a href="#ref-Creswell2018a" role="doc-biblioref">Creswell &amp; Creswell, 2023</a>; <a href="#ref-Patton2014" role="doc-biblioref">Patton, 2014</a>)</span>.</p>
+<p>Meskipun demikian, <em>snowball sampling</em> memiliki beberapa keterbatasan. Karena partisipan direkrut melalui jaringan sosial yang saling berkaitan, terdapat kemungkinan bahwa karakteristik partisipan menjadi kurang beragam sehingga data yang diperoleh cenderung berasal dari kelompok yang memiliki pengalaman atau pandangan yang serupa. Oleh karena itu, peneliti perlu mempertimbangkan potensi bias tersebut ketika menafsirkan hasil penelitian.</p>
+<p>Dalam banyak buku metodologi penelitian, <em>snowball sampling</em> diklasifikasikan sebagai salah satu teknik <em>non-probability sampling</em> <span class="citation" data-cites="Morling2024 Neuman2014 Bordens2018">(<a href="#ref-Bordens2018" role="doc-biblioref">Bordens &amp; Abbott, 2018</a>; <a href="#ref-Morling2024" role="doc-biblioref">Morling, 2024</a>; <a href="#ref-Neuman2014" role="doc-biblioref">Neuman, 2014</a>)</span>. Namun, beberapa penulis memandang bahwa <em>snowball sampling</em> tidak hanya merupakan strategi pemilihan partisipan, tetapi juga merupakan cara untuk memperoleh akses kepada partisipan yang memenuhi kriteria penelitian. Oleh karena itu, pembahasan mengenai penerapan <em>snowball sampling</em> dalam proses rekrutmen partisipan akan dijelaskan lebih lanjut pada <a href="#sec-snowball" class="quarto-xref"><span>Bagian 11.4.3</span></a>.</p>
+</section>
+</section>
+<section id="menentukan-jumlah-partisipan" class="level2">
+<h2 class="anchored" data-anchor-id="menentukan-jumlah-partisipan"><span class="header-section-number">11.3</span> Menentukan Jumlah Partisipan</h2>
+<p>Salah satu pertanyaan yang paling sering diajukan oleh mahasiswa ketika merancang penelitian kualitatif adalah, <em>“Berapa jumlah partisipan yang harus saya libatkan?”</em> Berbeda dengan penelitian kuantitatif yang sering menggunakan rumus atau perhitungan statistik untuk menentukan ukuran sampel, penelitian kualitatif tidak memiliki aturan baku mengenai jumlah partisipan yang harus dilibatkan.</p>
+<p>Dalam penelitian kualitatif, jumlah partisipan ditentukan berdasarkan kemampuan data yang diperoleh untuk menjawab pertanyaan penelitian secara mendalam. Oleh karena itu, keputusan mengenai jumlah partisipan tidak hanya mempertimbangkan banyaknya individu yang diwawancarai, tetapi juga kualitas informasi yang diperoleh, kompleksitas fenomena yang diteliti, serta tujuan penelitian <span class="citation" data-cites="Patton2014 Creswell2018a">(<a href="#ref-Creswell2018a" role="doc-biblioref">Creswell &amp; Creswell, 2023</a>; <a href="#ref-Patton2014" role="doc-biblioref">Patton, 2014</a>)</span>.</p>
+<section id="faktor-yang-memengaruhi-jumlah-partisipan" class="level3">
+<h3 class="anchored" data-anchor-id="faktor-yang-memengaruhi-jumlah-partisipan"><span class="header-section-number">11.3.1</span> Faktor yang Memengaruhi Jumlah Partisipan</h3>
+<p>Tidak ada jumlah partisipan yang dapat diterapkan pada semua penelitian kualitatif. Penentuan jumlah partisipan dipengaruhi oleh berbagai faktor, antara lain sebagai berikut <span class="citation" data-cites="Robinson2014 Strauss1998">(<a href="#ref-Robinson2014" role="doc-biblioref">Robinson, 2014</a>; <a href="#ref-Strauss1998" role="doc-biblioref">Strauss &amp; Corbin, 1998</a>)</span>:</p>
+<ul>
+<li><strong>Tujuan penelitian.</strong> Penelitian yang bertujuan mengeksplorasi pengalaman secara mendalam umumnya membutuhkan jumlah partisipan yang lebih sedikit dibandingkan penelitian yang ingin memperoleh variasi pengalaman dari berbagai kelompok.</li>
+<li><strong>Pendekatan penelitian.</strong> Setiap pendekatan kualitatif memiliki karakteristik yang berbeda. Misalnya, penelitian biografi umumnya hanya berfokus pada satu individu, sedangkan etnografi dapat melibatkan banyak informan dari suatu komunitas. Pada <em>grounded theory</em>, jumlah partisipan berkembang mengikuti proses pengembangan teori.</li>
+<li><strong>Keragaman partisipan.</strong> Penelitian yang melibatkan partisipan dengan latar belakang yang sangat beragam biasanya memerlukan lebih banyak partisipan dibandingkan penelitian yang menggunakan kelompok yang relatif homogen.</li>
+<li><strong>Kompleksitas fenomena.</strong> Fenomena yang sederhana mungkin dapat dipahami melalui sedikit partisipan, sedangkan fenomena yang kompleks sering kali memerlukan eksplorasi dari berbagai perspektif.</li>
+<li><strong>Kualitas data.</strong> Partisipan yang memiliki pengalaman yang kaya dan mampu menjelaskan fenomena secara rinci sering kali menghasilkan data yang lebih bermakna daripada jumlah partisipan yang banyak tetapi memberikan informasi yang terbatas.</li>
+</ul>
+<p>Dengan demikian, penentuan jumlah partisipan tidak dapat dilepaskan dari konteks penelitian yang dilakukan.</p>
+</section>
+<section id="konsep-saturasi-data" class="level3">
+<h3 class="anchored" data-anchor-id="konsep-saturasi-data"><span class="header-section-number">11.3.2</span> Konsep Saturasi Data</h3>
+<p>Dalam penelitian kualitatif, proses pengambilan partisipan umumnya dihentikan ketika peneliti mencapai <strong>saturasi data</strong> (<em>data saturation</em>). Saturasi data adalah kondisi ketika proses pengumpulan data tidak lagi menghasilkan informasi, tema, atau kategori baru yang relevan dengan tujuan penelitian <span class="citation" data-cites="Guest2006">(<a href="#ref-Guest2006" role="doc-biblioref">Guest dkk., 2006</a>)</span>.</p>
+<p>Sebagai ilustrasi, seorang peneliti melakukan wawancara mengenai pengalaman mahasiswa yang mengalami <em>academic burnout</em>. Pada beberapa wawancara pertama, peneliti menemukan berbagai tema baru, seperti tekanan akademik, tuntutan keluarga, kesulitan mengatur waktu, dan kelelahan emosional. Namun, setelah melakukan sejumlah wawancara berikutnya, tema-tema yang muncul mulai berulang dan tidak lagi memberikan informasi baru. Pada kondisi inilah peneliti dapat mempertimbangkan bahwa saturasi data telah tercapai.</p>
+<p>Perlu dipahami bahwa saturasi bukan berarti seluruh partisipan memberikan jawaban yang sama. Sebaliknya, saturasi menunjukkan bahwa informasi yang diperoleh telah cukup untuk menjelaskan fenomena yang sedang diteliti sehingga pengumpulan data tambahan diperkirakan tidak lagi memberikan kontribusi yang bermakna terhadap analisis.</p>
+<p>Konsep saturasi data terutama banyak digunakan pada penelitian fenomenologi, studi kasus, dan <em>grounded theory</em>. Pada <em>grounded theory</em>, istilah yang sering digunakan adalah <strong>saturasi teoritis</strong> (<em>theoretical saturation</em>), yaitu kondisi ketika pengumpulan data tidak lagi menghasilkan kategori atau hubungan konseptual baru yang diperlukan untuk membangun teori <span class="citation" data-cites="Strauss1998 Charmaz2014">(<a href="#ref-Charmaz2014" role="doc-biblioref">Charmaz, 2014</a>; <a href="#ref-Strauss1998" role="doc-biblioref">Strauss &amp; Corbin, 1998</a>)</span>.</p>
+<p>Kecepatan tercapainya saturasi data dipengaruhi oleh berbagai faktor, seperti tingkat homogenitas partisipan, kompleksitas fenomena yang diteliti, kualitas wawancara, serta tujuan penelitian. Penelitian yang melibatkan partisipan dengan karakteristik relatif homogen sering kali mencapai saturasi lebih cepat dibandingkan penelitian yang melibatkan partisipan dengan latar belakang yang sangat beragam <span class="citation" data-cites="Hennink2017">(<a href="#ref-Hennink2017" role="doc-biblioref">Hennink dkk., 2017</a>)</span>.</p>
+</section>
+<section id="apakah-penelitian-kualitatif-dapat-menggunakan-satu-partisipan" class="level3">
+<h3 class="anchored" data-anchor-id="apakah-penelitian-kualitatif-dapat-menggunakan-satu-partisipan"><span class="header-section-number">11.3.3</span> Apakah Penelitian Kualitatif Dapat Menggunakan Satu Partisipan?</h3>
+<p>Salah satu anggapan yang masih sering dijumpai adalah bahwa penelitian yang baik harus melibatkan banyak partisipan. Anggapan tersebut tidak selalu berlaku dalam penelitian kualitatif.</p>
+<p>Pada pendekatan tertentu, penggunaan satu partisipan atau satu kasus justru dapat dibenarkan apabila kasus tersebut memiliki nilai ilmiah yang tinggi dan mampu memberikan pemahaman yang mendalam mengenai fenomena yang diteliti. Sebagai contoh, penelitian biografi secara khusus berfokus pada kehidupan satu individu, sedangkan studi kasus dapat menelaah secara mendalam satu organisasi, satu keluarga, satu sekolah, atau satu peristiwa tertentu <span class="citation" data-cites="Yin2018">(<a href="#ref-Yin2018" role="doc-biblioref">Yin &amp; Campbell, 2018</a>)</span>.</p>
+<p>Demikian pula, penelitian <em>interpretative phenomenological analysis</em> (IPA) sering menggunakan jumlah partisipan yang relatif sedikit agar setiap pengalaman dapat dianalisis secara mendalam <span class="citation" data-cites="Smith2021">(<a href="#ref-Smith2021" role="doc-biblioref">Smith dkk., 2021</a>)</span>. Oleh karena itu, penggunaan satu partisipan tidak dapat dinilai hanya berdasarkan jumlahnya, tetapi harus dipahami dalam konteks pendekatan penelitian dan tujuan analisis yang dilakukan.</p>
+</section>
+</section>
+<section id="merekrut-partisipan-penelitian" class="level2">
+<h2 class="anchored" data-anchor-id="merekrut-partisipan-penelitian"><span class="header-section-number">11.4</span> Merekrut Partisipan Penelitian</h2>
+<p>Setelah menentukan strategi <em>sampling</em> dan jumlah partisipan, langkah berikutnya adalah merekrut partisipan yang sesuai dengan kriteria penelitian. Tujuan utama proses rekrutmen adalah memperoleh partisipan yang benar-benar memenuhi karakteristik yang telah ditetapkan sehingga mampu memberikan informasi yang relevan dengan fokus penelitian.</p>
+<p>Cara merekrut partisipan bergantung pada karakteristik populasi, kemudahan akses, serta konteks penelitian. Pada beberapa penelitian, partisipan dapat dihubungi secara langsung, sedangkan pada penelitian lain peneliti perlu bekerja sama dengan pihak tertentu atau menggunakan jaringan partisipan yang telah direkrut sebelumnya.</p>
+<section id="rekrutmen-secara-langsung" class="level3">
+<h3 class="anchored" data-anchor-id="rekrutmen-secara-langsung"><span class="header-section-number">11.4.1</span> Rekrutmen Secara Langsung</h3>
+<p>Apabila populasi penelitian mudah diidentifikasi, peneliti dapat menghubungi calon partisipan secara langsung, misalnya melalui surat elektronik, telepon, media sosial, atau komunikasi tatap muka. Pada tahap awal, peneliti perlu menjelaskan tujuan penelitian, bentuk partisipasi yang diharapkan, serta hak calon partisipan untuk menerima atau menolak keikutsertaan dalam penelitian.</p>
+</section>
+<section id="rekrutmen-melalui-gatekeeper" class="level3">
+<h3 class="anchored" data-anchor-id="rekrutmen-melalui-gatekeeper"><span class="header-section-number">11.4.2</span> Rekrutmen Melalui <em>Gatekeeper</em></h3>
+<p>Pada beberapa penelitian, akses terhadap partisipan memerlukan bantuan pihak yang memiliki kewenangan atau hubungan dengan kelompok sasaran. Pihak tersebut dikenal sebagai <em>gatekeeper</em>, misalnya kepala sekolah, pimpinan organisasi, ketua komunitas, atau tenaga kesehatan.</p>
+<p>Peran <em>gatekeeper</em> adalah membantu peneliti memperoleh akses kepada calon partisipan. Namun demikian, keputusan untuk berpartisipasi tetap harus berasal dari masing-masing individu tanpa adanya unsur paksaan.</p>
+</section>
+<section id="sec-snowball" class="level3">
+<h3 class="anchored" data-anchor-id="sec-snowball"><span class="header-section-number">11.4.3</span> <em>Snowball Sampling</em></h3>
+<p>Apabila populasi penelitian sulit dijangkau atau tidak memiliki daftar anggota yang jelas, peneliti dapat menggunakan <em>snowball sampling</em>. Pada teknik ini, peneliti meminta partisipan yang telah diwawancarai untuk merekomendasikan individu lain yang memenuhi kriteria penelitian.</p>
+<p><em>Snowball sampling</em> banyak digunakan pada penelitian yang melibatkan populasi tersembunyi (<em>hidden populations</em>), seperti penyintas kekerasan, pengguna narkotika, atau kelompok minoritas tertentu. Meskipun efektif untuk menemukan partisipan, teknik ini berpotensi menghasilkan partisipan yang berasal dari jaringan sosial yang sama sehingga peneliti perlu mempertimbangkan kemungkinan bias yang muncul.</p>
+</section>
+<section id="tantangan-dalam-rekrutmen-partisipan" class="level3">
+<h3 class="anchored" data-anchor-id="tantangan-dalam-rekrutmen-partisipan"><span class="header-section-number">11.4.4</span> Tantangan dalam Rekrutmen Partisipan</h3>
+<p>Proses rekrutmen tidak selalu berjalan sesuai rencana. Peneliti dapat menghadapi berbagai kendala, seperti kesulitan menemukan partisipan yang memenuhi kriteria, rendahnya kesediaan calon partisipan, atau terbatasnya akses terhadap kelompok sasaran. Oleh karena itu, peneliti perlu menyiapkan strategi rekrutmen yang fleksibel dan mendokumentasikan proses rekrutmen sebagai bagian dari transparansi metodologi penelitian.</p>
+</section>
+</section>
+<section id="menuliskan-prosedur-sampling-dalam-proposal-dan-laporan-penelitian" class="level2">
+<h2 class="anchored" data-anchor-id="menuliskan-prosedur-sampling-dalam-proposal-dan-laporan-penelitian"><span class="header-section-number">11.5</span> Menuliskan Prosedur <em>Sampling</em> dalam Proposal dan Laporan Penelitian</h2>
+<p>Selain melaksanakan proses <em>sampling</em> dengan benar, peneliti juga perlu menjelaskan prosedur tersebut secara jelas dalam proposal maupun laporan penelitian. Uraian mengenai <em>sampling</em> membantu pembaca memahami siapa yang menjadi partisipan penelitian, bagaimana mereka dipilih, serta alasan penggunaan strategi <em>sampling</em> tertentu. Penjelasan yang lengkap juga meningkatkan transparansi dan kredibilitas penelitian.</p>
+<p>Secara umum, bagian metode penelitian perlu memuat beberapa informasi berikut.</p>
+<ol type="1">
+<li><p><strong>Populasi Penelitian</strong></p>
+<p>Peneliti perlu menjelaskan siapa yang menjadi populasi atau kelompok sasaran penelitian. Penjelasan tersebut sebaiknya disesuaikan dengan fokus penelitian sehingga pembaca memahami konteks penelitian yang dilakukan.</p>
+<p><strong>Contoh:</strong></p>
+<blockquote class="blockquote">
+<p>Populasi penelitian ini adalah mahasiswa program sarjana yang sedang menyusun skripsi pada sebuah perguruan tinggi di Jakarta.</p>
+</blockquote></li>
+<li><p><strong>Kriteria Partisipan</strong></p>
+<p>Setelah menjelaskan populasi penelitian, peneliti perlu menguraikan kriteria inklusi dan, apabila diperlukan, kriteria eksklusi yang digunakan dalam memilih partisipan.</p>
+<p><strong>Contoh:</strong></p>
+<blockquote class="blockquote">
+<p>Partisipan penelitian dipilih dengan kriteria sebagai berikut: (1) berstatus sebagai mahasiswa aktif, (2) sedang menyusun skripsi, dan (3) pernah mengalami <em>academic burnout</em>.</p>
+</blockquote>
+<p>Penjelasan mengenai kriteria partisipan menunjukkan bahwa pemilihan partisipan dilakukan secara sistematis dan sesuai dengan tujuan penelitian.</p></li>
+<li><p><strong>Strategi <em>Sampling</em></strong></p>
+<p>Peneliti perlu menjelaskan strategi <em>sampling</em> yang digunakan beserta alasan pemilihannya.</p>
+<p><strong>Contoh:</strong></p>
+<blockquote class="blockquote">
+<p>Penelitian ini menggunakan <em>purposive sampling</em> karena bertujuan memperoleh partisipan yang memiliki pengalaman secara langsung terhadap fenomena <em>academic burnout</em>.</p>
+</blockquote>
+<p>Apabila menggunakan <em>snowball sampling</em>, peneliti juga perlu menjelaskan alasan penggunaan strategi tersebut, misalnya karena populasi penelitian sulit dijangkau atau tidak memiliki daftar anggota yang jelas.</p></li>
+<li><p><strong>Jumlah Partisipan</strong></p>
+<p>Pada penelitian kualitatif, peneliti tidak selalu menetapkan jumlah partisipan secara pasti sejak awal. Oleh karena itu, selain menyebutkan jumlah partisipan yang direncanakan, peneliti juga perlu menjelaskan dasar pertimbangannya.</p>
+<p><strong>Contoh:</strong></p>
+<blockquote class="blockquote">
+<p>Pengumpulan data dilakukan hingga mencapai saturasi data, yaitu ketika wawancara tambahan tidak lagi menghasilkan tema atau informasi baru yang relevan dengan tujuan penelitian.</p>
+</blockquote>
+<p>Pernyataan tersebut lebih mencerminkan karakteristik penelitian kualitatif dibandingkan hanya menyebutkan target jumlah partisipan.</p></li>
+<li><p><strong>Proses Rekrutmen Partisipan</strong></p>
+<p>Bagian metode penelitian juga perlu menjelaskan secara singkat bagaimana partisipan direkrut.</p>
+<p>Sebagai contoh:</p>
+<blockquote class="blockquote">
+<p>Calon partisipan dihubungi melalui koordinator program studi dan selanjutnya dihubungi secara langsung oleh peneliti untuk memperoleh persetujuan mengikuti penelitian.</p>
+</blockquote>
+<p>Apabila menggunakan <em>snowball sampling</em>, peneliti dapat menjelaskan bahwa partisipan berikutnya diperoleh melalui rekomendasi dari partisipan yang telah diwawancarai sebelumnya.</p></li>
+</ol>
+<p><strong>Contoh Penulisan Lengkap</strong></p>
+<p>Berikut contoh penulisan prosedur <em>sampling</em> dalam proposal penelitian.</p>
+<blockquote class="blockquote">
+<p>Penelitian ini menggunakan <em>purposive sampling</em> untuk memilih mahasiswa yang memiliki pengalaman <em>academic burnout</em> selama menyusun skripsi. Partisipan dipilih berdasarkan tiga kriteria, yaitu berstatus sebagai mahasiswa aktif, sedang menyusun skripsi, dan pernah mengalami <em>academic burnout</em>. Rekrutmen partisipan dilakukan melalui pengumuman pada media sosial fakultas dan komunikasi langsung dengan calon partisipan. Pengumpulan data dilakukan hingga mencapai saturasi data.</p>
+</blockquote>
+<p>Penentuan populasi dan <em>sampling</em> dalam penelitian kualitatif bukanlah sekadar memilih sejumlah partisipan, melainkan merupakan rangkaian keputusan metodologis yang saling berkaitan. Peneliti perlu menentukan siapa yang menjadi populasi penelitian, memilih partisipan yang paling sesuai dengan tujuan penelitian, menetapkan jumlah partisipan yang memadai, merancang strategi rekrutmen yang tepat, serta menjelaskan seluruh proses tersebut secara transparan dalam proposal maupun laporan penelitian.</p>
+<p>Hubungan antartahapan tersebut dirangkum pada <a href="#fig-proseskuali" class="quarto-xref">Gambar&nbsp;<span>11.1</span></a>, yang menunjukkan bahwa proses pengambilan partisipan dalam penelitian kualitatif merupakan suatu alur yang sistematis dan terintegrasi. Pemahaman terhadap keseluruhan proses ini akan membantu peneliti memperoleh data yang kaya, relevan, dan kredibel sehingga mampu menghasilkan temuan penelitian yang bermakna.</p>
+<div id="fig-proseskuali" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-proseskuali-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/samplingkuali.png" class="img-fluid figure-img"></p>
+<figcaption>Proses Pengambilan Partisipan dalam Penelitian Kualitatif</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-proseskuali-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Gambar&nbsp;11.1
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Rangkuman
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>Penelitian kualitatif menggunakan sampling untuk memperoleh partisipan yang mampu memberikan informasi secara mendalam mengenai fenomena yang diteliti.</li>
+<li>Penentuan populasi diawali dengan menetapkan fokus penelitian serta kriteria inklusi dan eksklusi partisipan.</li>
+<li><em>Purposive sampling</em> merupakan strategi sampling yang paling umum digunakan, dengan berbagai variasi yang disesuaikan dengan tujuan penelitian.</li>
+<li><em>Snowball sampling</em> digunakan ketika populasi penelitian sulit dijangkau atau tidak memiliki daftar anggota yang jelas.</li>
+<li>Jumlah partisipan ditentukan berdasarkan tujuan penelitian dan prinsip saturasi data, bukan berdasarkan rumus statistik.</li>
+<li>Rekrutmen partisipan dapat dilakukan melalui berbagai cara sesuai dengan karakteristik populasi dan konteks penelitian.</li>
+<li>Prosedur sampling perlu dilaporkan secara jelas agar proses penelitian dapat dipahami dan dipertanggungjawabkan.</li>
+</ol>
+</div>
+</div>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Refleksi &amp; Diskusi
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Mengapa penelitian kualitatif lebih menekankan pemilihan partisipan yang mampu memberikan informasi secara mendalam daripada keterwakilan populasi secara statistik?</li>
+<li>Bayangkan Anda akan melakukan penelitian fenomenologi mengenai pengalaman mahasiswa yang mengalami <em>academic burnout</em>. Siapa yang menjadi populasi penelitian? Kriteria inklusi dan eksklusi apa yang akan Anda tetapkan?</li>
+<li>Suatu penelitian bertujuan mengeksplorasi pengalaman penggunaan kecerdasan artifisial (<em>artificial intelligence</em>) dalam proses pembelajaran oleh mahasiswa dari berbagai program studi. Strategi <em>purposive sampling</em> apa yang paling tepat digunakan? Jelaskan alasan Anda.</li>
+<li>Dalam kondisi seperti apa <em>snowball sampling</em> lebih tepat digunakan dibandingkan <em>purposive sampling</em> biasa? Berikan contoh topik penelitian yang sesuai.</li>
+<li>Seorang mahasiswa menyatakan bahwa penelitian kualitatif minimal harus melibatkan 30 partisipan agar hasilnya valid. Apakah Anda setuju dengan pernyataan tersebut? Jelaskan jawaban Anda berdasarkan konsep saturasi data.</li>
+</ul>
+</div>
+</div>
+<div class="sectionrefs">
+
+</div>
+
+
+</section>
+<section id="bibliography" class="level1 unnumbered">
+<h1 class="unnumbered">Daftar Pustaka</h1>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Bordens2018" class="csl-entry" role="listitem">
+Bordens, K. S., &amp; Abbott, B. B. (2018). <em>Research design and methods: A process approach</em> (10th ed.). McGraw-Hill Education.
+</div>
+<div id="ref-Charmaz2014" class="csl-entry" role="listitem">
+Charmaz, Kathy. (2014). <em>Constructing grounded theory</em>. SAGE.
+</div>
+<div id="ref-Creswell2018a" class="csl-entry" role="listitem">
+Creswell, J. W., &amp; Creswell, J. D. (2023). <em>Research design: Qualitative, quantitative, and mixed methods approaches</em> (6th ed.). SAGE Publications.
+</div>
+<div id="ref-Guest2006" class="csl-entry" role="listitem">
+Guest, G., Bunce, A., &amp; Johnson, L. (2006). How Many Interviews Are Enough? <em>Field Methods</em>, <em>18</em>, 59–82. <a href="https://doi.org/10.1177/1525822X05279903">https://doi.org/10.1177/1525822X05279903</a>
+</div>
+<div id="ref-Hennink2017" class="csl-entry" role="listitem">
+Hennink, M. M., Kaiser, B. N., &amp; Marconi, V. C. (2017). Code Saturation Versus Meaning Saturation. <em>Qualitative Health Research</em>, <em>27</em>, 591–608. <a href="https://doi.org/10.1177/1049732316665344">https://doi.org/10.1177/1049732316665344</a>
+</div>
+<div id="ref-Morling2024" class="csl-entry" role="listitem">
+Morling, B. (2024). <em>Research methods in psychology : evaluating a world of information</em> (4th ed.). W.W. Norton &amp; Company, Inc.
+</div>
+<div id="ref-Neuman2014" class="csl-entry" role="listitem">
+Neuman, W. Lawrence. (2014). <em>Social research methods: Qualitative and quantitative approaches</em> (7th ed.). Pearson.
+</div>
+<div id="ref-Patton2014" class="csl-entry" role="listitem">
+Patton, M. Q. (2014). <em>Qualitative research &amp; evaluation methods : integrating theory and practice</em>. SAGE Publications, Inc.
+</div>
+<div id="ref-Robinson2014" class="csl-entry" role="listitem">
+Robinson, O. C. (2014). Sampling in Interview-Based Qualitative Research: A Theoretical and Practical Guide. <em>Qualitative Research in Psychology</em>, <em>11</em>, 25–41. <a href="https://doi.org/10.1080/14780887.2013.801543">https://doi.org/10.1080/14780887.2013.801543</a>
+</div>
+<div id="ref-Smith2021" class="csl-entry" role="listitem">
+Smith, J. A. A., Flowers, P., &amp; Larkin, M. (2021). <em>Interpretative Phenomenological Analysis</em>. Sage Publications, Inc.
+</div>
+<div id="ref-Strauss1998" class="csl-entry" role="listitem">
+Strauss, A. L., &amp; Corbin, J. M. (1998). <em>Basics of qualitative research : techniques and procedures for developing grounded theory</em>. Sage Publications.
+</div>
+<div id="ref-Yin2018" class="csl-entry" role="listitem">
+Yin, R. K., &amp; Campbell, D. T. (2018). <em>Case study research and applications : design and methods</em>. SAGE Publications, Inc.
+</div>
+</div>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Disalin!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Disalin!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./3_18_laporankuanti.html" class="pagination-link" aria-label="Pelaporan Penelitian Kuantitatif: Struktur IMRaD">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Pelaporan Penelitian Kuantitatif: Struktur IMRaD</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./4_pengantar.html" class="pagination-link" aria-label="METODOLOGI PENELITIAN KUALITATIF">
+        <span class="nav-page-text">METODOLOGI PENELITIAN KUALITATIF</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Metodologi Penelitian</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Buku ini dicetak menggunakan <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
