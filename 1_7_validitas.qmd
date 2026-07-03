@@ -1,0 +1,295 @@
+---
+author:
+  - name: Sunu Bagaskara
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+bibliography: references.bib
+reference-section-title: Daftar Pustaka
+citeproc: true
+---
+
+# Validitas dan Kualitas Penelitian
+
+::: callout-note
+## Capaian Pembelajaran
+
+Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
+
+1.  Menjelaskan konsep validitas dalam penelitian.
+2.  Membedakan validitas alat ukur dan validitas penelitian.
+3.  Menjelaskan konsep validitas internal dan validitas eksternal.
+4.  Mengidentifikasi faktor-faktor yang dapat mengancam validitas penelitian.
+5.  Menentukan strategi yang dapat digunakan untuk meningkatkan kualitas penelitian.
+:::
+
+Penelitian ilmiah bertujuan menghasilkan pengetahuan yang akurat dan dapat dipercaya. Namun, tidak semua hasil penelitian dapat langsung diterima sebagai kebenaran. Kesimpulan yang dihasilkan suatu penelitian dapat dipengaruhi oleh berbagai faktor yang menyebabkan hasil penelitian menjadi bias atau kurang mencerminkan kondisi yang sebenarnya. Oleh karena itu, peneliti perlu memastikan bahwa penelitian yang dilakukan memiliki tingkat validitas yang memadai.
+
+Dalam metodologi penelitian, validitas merujuk pada ketepatan kesimpulan yang dihasilkan dari suatu penelitian. Semakin tinggi validitas penelitian, semakin besar keyakinan bahwa hasil yang diperoleh benar-benar menggambarkan fenomena yang diteliti. Sebaliknya, validitas yang rendah meningkatkan kemungkinan terjadinya kesalahan dalam penafsiran hasil penelitian.
+
+Pembahasan mengenai validitas menjadi sangat penting karena kualitas suatu penelitian tidak hanya ditentukan oleh banyaknya data yang dikumpulkan atau kecanggihan teknik analisis yang digunakan, tetapi juga oleh sejauh mana kesimpulan yang dihasilkan dapat dipercaya. Oleh karena itu, setiap peneliti perlu memahami berbagai faktor yang dapat memengaruhi validitas penelitian serta strategi yang dapat digunakan untuk mengendalikan faktor-faktor tersebut.
+
+Pada bab ini akan dibahas dua jenis validitas utama dalam penelitian, yaitu validitas internal dan validitas eksternal, beserta berbagai ancaman yang dapat memengaruhi keduanya.
+
+## Validitas Alat Ukur dan Validitas Penelitian
+
+Istilah validitas sering digunakan dalam dua konteks yang berbeda, yaitu validitas alat ukur dan validitas penelitian. Meskipun keduanya sama-sama berkaitan dengan kualitas penelitian, keduanya memiliki fokus yang berbeda.
+
+Validitas alat ukur berkaitan dengan kemampuan suatu instrumen untuk mengukur konstruk yang memang ingin diukur. Sebagai contoh, skala kecemasan seharusnya benar-benar mengukur kecemasan, bukan konstruk lain seperti stres atau depresi. Validitas alat ukur biasanya dievaluasi melalui berbagai prosedur pengujian psikometrik, seperti validitas isi, validitas konstruk, dan validitas kriteria.
+
+Sementara itu, validitas penelitian berkaitan dengan ketepatan kesimpulan yang dihasilkan dari penelitian secara keseluruhan. Dalam konteks ini, pertanyaan yang diajukan bukan lagi apakah instrumen mampu mengukur variabel dengan tepat, melainkan apakah hasil penelitian benar-benar mencerminkan hubungan yang sesungguhnya antarvariabel yang diteliti.
+
+Perbedaan ini penting untuk dipahami karena penggunaan instrumen yang valid tidak secara otomatis menjamin bahwa penelitian yang dilakukan juga valid. Sebagai contoh, seorang peneliti dapat menggunakan skala empati yang telah terbukti valid, tetapi apabila desain penelitiannya tidak mampu mengendalikan faktor-faktor pengganggu, maka kesimpulan yang dihasilkan tetap dapat menjadi tidak valid.
+
+Dengan demikian, validitas alat ukur dan validitas penelitian merupakan dua aspek yang saling melengkapi dalam menjamin kualitas suatu penelitian.
+
+## 7.2 Jenis-Jenis Validitas Penelitian
+
+Secara umum, validitas penelitian dapat dibedakan menjadi dua jenis utama, yaitu validitas internal dan validitas eksternal.
+
+### Validitas Internal
+
+Validitas internal berkaitan dengan sejauh mana perubahan pada variabel terikat benar-benar disebabkan oleh variabel bebas yang diteliti. Dengan kata lain, validitas internal menunjukkan seberapa kuat hubungan sebab-akibat yang dapat disimpulkan dari hasil penelitian.
+
+Validitas internal menjadi perhatian utama dalam penelitian eksperimental karena tujuan utama penelitian eksperimen adalah menjelaskan hubungan kausal antarvariabel. Apabila validitas internal rendah, peneliti tidak dapat memastikan apakah perubahan yang terjadi benar-benar disebabkan oleh perlakuan yang diberikan atau justru oleh faktor lain yang tidak dikendalikan.
+
+### Validitas Eksternal
+
+Validitas eksternal berkaitan dengan kemampuan peneliti untuk menggeneralisasikan hasil penelitian ke situasi yang lebih luas. Generalisasi tersebut dapat mencakup populasi yang berbeda, kondisi yang berbeda, maupun waktu yang berbeda dari penelitian yang dilakukan.
+
+Suatu penelitian mungkin memiliki validitas internal yang tinggi karena dilakukan dalam kondisi yang sangat terkontrol. Namun, hasil penelitian tersebut belum tentu dapat diterapkan pada situasi kehidupan nyata. Oleh karena itu, validitas eksternal menjadi penting untuk menilai sejauh mana hasil penelitian dapat digunakan di luar konteks penelitian.
+
+Kedua jenis validitas ini sama-sama penting. Peneliti perlu mempertimbangkan keseimbangan antara upaya memperoleh hubungan sebab-akibat yang kuat dan kemampuan menggeneralisasikan hasil penelitian ke konteks yang lebih luas.
+
+## 7.3 Validitas Internal
+
+Validitas internal merupakan salah satu indikator utama kualitas penelitian, terutama dalam penelitian eksperimental. Validitas internal menunjukkan sejauh mana peneliti dapat menyimpulkan bahwa perubahan yang terjadi pada variabel terikat benar-benar disebabkan oleh perlakuan atau manipulasi yang diberikan.
+
+Dalam penelitian yang memiliki validitas internal tinggi, peneliti dapat lebih yakin bahwa faktor-faktor lain di luar variabel bebas tidak menjadi penyebab utama perubahan yang diamati. Sebaliknya, apabila terdapat faktor lain yang turut memengaruhi hasil penelitian dan tidak dikendalikan dengan baik, maka hubungan sebab-akibat yang ditemukan menjadi diragukan.
+
+Berbagai faktor dapat mengancam validitas internal. Faktor-faktor tersebut dikenal sebagai ancaman terhadap validitas internal (*threats to internal validity*). Peneliti perlu memahami ancaman-ancaman ini agar dapat merancang penelitian yang lebih kuat dan menghasilkan kesimpulan yang lebih akurat.
+
+### 7.3.1 Proactive History
+
+Proactive history mengacu pada karakteristik yang telah dimiliki partisipan sebelum penelitian dimulai. Karakteristik tersebut dapat berupa usia, jenis kelamin, tingkat kecerdasan, kepribadian, motivasi, atau pengalaman sebelumnya. Faktor-faktor ini berpotensi memengaruhi hasil penelitian apabila tidak terdistribusi secara seimbang pada kelompok yang dibandingkan.
+
+Sebagai contoh, dalam penelitian mengenai efektivitas suatu metode pembelajaran, kelompok eksperimen mungkin memiliki kemampuan akademik yang lebih tinggi sejak awal dibandingkan kelompok kontrol. Dalam situasi ini, perbedaan hasil yang ditemukan belum tentu disebabkan oleh perlakuan yang diberikan. Ancaman proactive history dapat diminimalkan melalui randomisasi, matching, atau penggunaan kelompok yang memiliki karakteristik awal yang relatif setara.
+
+### 7.3.2 Retroactive History
+
+Retroactive history merupakan peristiwa yang terjadi selama penelitian berlangsung dan dapat memengaruhi hasil penelitian. Ancaman ini terutama ditemukan pada penelitian yang menggunakan desain pretest-posttest karena terdapat jeda waktu antara pengukuran awal dan pengukuran akhir.
+
+Sebagai contoh, ketika penelitian mengenai stres mahasiswa sedang berlangsung, kampus mungkin menerapkan kebijakan akademik baru yang memengaruhi kondisi psikologis mahasiswa. Akibatnya, perubahan skor yang ditemukan pada posttest tidak sepenuhnya berasal dari perlakuan yang diberikan. Untuk mengurangi pengaruh retroactive history, peneliti dapat menjaga kondisi penelitian tetap konsisten serta menggunakan kelompok kontrol yang mengalami kondisi eksternal yang sama.
+
+### 7.3.3 Maturation
+
+Maturation merupakan perubahan biologis atau psikologis yang terjadi secara alami seiring berjalannya waktu. Perubahan tersebut dapat berupa perkembangan fisik, peningkatan kemampuan kognitif, maupun perubahan emosional. Ancaman ini lebih sering muncul pada penelitian longitudinal dan penelitian yang melibatkan anak-anak karena perkembangan individu berlangsung relatif cepat.
+
+Sebagai contoh, peningkatan kemampuan membaca siswa sekolah dasar selama satu tahun penelitian mungkin terjadi karena proses perkembangan alami, bukan semata-mata karena program pembelajaran yang diberikan. Penggunaan kelompok kontrol merupakan salah satu cara yang paling efektif untuk membedakan efek perlakuan dari perubahan yang terjadi secara alami.
+
+### 7.3.4 Testing
+
+Testing terjadi ketika partisipan mengerjakan instrumen yang sama pada pretest dan posttest sehingga pengalaman mengerjakan tes sebelumnya memengaruhi hasil pengukuran berikutnya. Dalam kondisi ini, peningkatan skor tidak selalu menunjukkan efektivitas perlakuan yang diberikan.
+
+Sebagai contoh, mahasiswa yang mengerjakan tes kemampuan berpikir kritis untuk kedua kalinya mungkin memperoleh skor lebih tinggi karena telah memahami format dan jenis soal yang digunakan. Ancaman ini dapat dikurangi dengan menggunakan bentuk tes alternatif yang setara, memperpanjang interval antara pretest dan posttest, atau melibatkan kelompok kontrol.
+
+### 7.3.5 Experimental Mortality
+
+Experimental mortality terjadi ketika sebagian partisipan tidak menyelesaikan penelitian sehingga jumlah partisipan pada akhir penelitian berbeda dengan jumlah partisipan pada awal penelitian.
+
+Masalah ini menjadi serius apabila partisipan yang keluar memiliki karakteristik tertentu yang berbeda dari partisipan yang tetap bertahan. Akibatnya, hasil penelitian dapat menjadi bias. Peneliti dapat meminimalkan ancaman ini dengan menjaga keterlibatan partisipan selama penelitian dan merekrut jumlah partisipan yang memadai sejak awal.
+
+### 7.3.6 Interaction Effect
+
+Interaction effect sering ditemukan pada desain *within-subject*, yaitu ketika partisipan menerima lebih dari satu perlakuan. Pengaruh perlakuan sebelumnya dapat terbawa dan memengaruhi respons terhadap perlakuan berikutnya.
+
+Sebagai contoh, efek dari suatu program pelatihan mungkin masih dirasakan peserta ketika mereka mengikuti program lain yang sedang dibandingkan dalam penelitian. Ancaman ini dapat diminimalkan melalui teknik *counterbalancing* atau dengan memberikan jeda waktu yang cukup antarperlakuan.
+
+### 7.3.7 Instrumentation Effect
+
+Instrumentation effect terjadi ketika perubahan hasil penelitian disebabkan oleh perubahan alat ukur atau prosedur pengukuran yang digunakan.
+
+Sebagai contoh, pergantian pengamat dalam penelitian observasional dapat menyebabkan perbedaan skor karena adanya perbedaan cara penilaian, bukan karena perubahan perilaku partisipan. Untuk mencegah hal ini, peneliti perlu menggunakan instrumen yang valid dan reliabel serta menerapkan prosedur pengukuran yang konsisten.
+
+### 7.3.8 Experimenter Effect
+
+Experimenter effect muncul ketika karakteristik atau harapan peneliti memengaruhi perilaku partisipan maupun hasil penelitian. Pengaruh ini dapat terjadi secara sadar maupun tidak sadar.
+
+Sebagai contoh, peneliti yang berharap suatu perlakuan berhasil mungkin memberikan petunjuk verbal atau nonverbal yang memengaruhi respons partisipan. Ancaman ini dapat dikurangi melalui standardisasi prosedur penelitian dan penggunaan teknik *double-blind* apabila memungkinkan.
+
+### 7.3.9 Efek Partisipan (*Demand Characteristics*)
+
+Efek partisipan terjadi ketika partisipan mencoba menebak tujuan penelitian dan menyesuaikan perilakunya sesuai dengan harapan yang mereka tangkap dari situasi penelitian.
+
+Sebagai contoh, partisipan mungkin memberikan jawaban yang dianggap "baik" atau sesuai dengan tujuan penelitian, meskipun tidak mencerminkan kondisi sebenarnya. Ancaman ini dapat diminimalkan dengan menyamarkan tujuan penelitian dan membatasi informasi yang dapat mengungkap hipotesis penelitian.
+
+### 7.3.10 Participant Sophistication
+
+Participant sophistication mengacu pada pengetahuan atau pengalaman partisipan mengenai topik penelitian maupun metode penelitian yang digunakan. Semakin familiar partisipan terhadap penelitian, semakin besar kemungkinan mereka menyesuaikan respons yang diberikan.
+
+Masalah ini sering ditemukan pada penelitian yang menggunakan mahasiswa psikologi sebagai partisipan karena mereka umumnya telah mempelajari dasar-dasar metodologi penelitian. Untuk mengurangi ancaman ini, peneliti dapat melibatkan partisipan yang kurang familiar dengan topik penelitian atau memperluas sumber rekrutmen partisipan.
+
+### Tabel 7.1 Ringkasan Ancaman terhadap Validitas Internal
+
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | **Ancaman**                |      | **Deskripsi Singkat**                                         |      | **Strategi Pengendalian**           |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Proactive History          |      | Karakteristik partisipan sebelum penelitian                   |      | Randomisasi, matching               |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Retroactive History        |      | Peristiwa yang terjadi selama penelitian                      |      | Kelompok kontrol, konstansi kondisi |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Maturation                 |      | Perubahan alami seiring waktu                                 |      | Kelompok kontrol                    |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Testing                    |      | Pengaruh pengalaman mengerjakan tes sebelumnya                |      | Bentuk tes alternatif               |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Experimental Mortality     |      | Berkurangnya jumlah partisipan                                |      | Menjaga keterlibatan partisipan     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Interaction Effect         |      | Pengaruh perlakuan sebelumnya terhadap perlakuan berikutnya   |      | Counterbalancing                    |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Instrumentation Effect     |      | Perubahan alat ukur atau prosedur pengukuran                  |      | Standardisasi instrumen             |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Experimenter Effect        |      | Pengaruh karakteristik atau harapan peneliti                  |      | Double-blind                        |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Demand Characteristics     |      | Partisipan menebak tujuan penelitian                          |      | Deception yang etis                 |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       | Participant Sophistication |      | Partisipan terlalu memahami penelitian                        |      | Rekrutmen partisipan yang beragam   |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+|       |                            |      |                                                               |      |                                     |     |
++-------+----------------------------+------+---------------------------------------------------------------+------+-------------------------------------+-----+
+
+# 7.4 Validitas Eksternal
+
+Jika validitas internal berkaitan dengan ketepatan hubungan sebab-akibat yang ditemukan dalam penelitian, maka validitas eksternal berkaitan dengan kemampuan untuk menggeneralisasikan hasil penelitian ke situasi yang lebih luas. Dengan kata lain, validitas eksternal menjawab pertanyaan: *Apakah hasil penelitian ini juga berlaku di luar kondisi penelitian yang dilakukan?*
+
+Validitas eksternal menjadi penting karena tujuan penelitian tidak hanya untuk menjelaskan fenomena pada sampel yang diteliti, tetapi juga untuk memberikan pemahaman yang dapat diterapkan pada populasi, situasi, atau waktu yang lebih luas. Semakin tinggi validitas eksternal suatu penelitian, semakin besar peluang hasil penelitian tersebut dapat digunakan dalam praktik maupun penelitian lanjutan.
+
+Secara umum, terdapat tiga bentuk generalisasi yang menjadi perhatian dalam validitas eksternal, yaitu:
+
+1.      Generalisasi dari sampel ke populasi yang lebih luas.
+
+2.      Generalisasi dari situasi penelitian ke situasi dunia nyata.
+
+3.      Generalisasi dari satu waktu ke waktu yang berbeda.
+
+Beberapa faktor dapat memengaruhi validitas eksternal suatu penelitian, yaitu validitas populasi, validitas ekologis, dan validitas temporal.
+
+## 7.4.1 Validitas Populasi
+
+Validitas populasi berkaitan dengan sejauh mana hasil penelitian dapat digeneralisasikan dari sampel penelitian ke populasi sasaran. Semakin representatif sampel yang digunakan, semakin besar peluang hasil penelitian dapat diterapkan pada populasi yang lebih luas.
+
+Dalam praktiknya, peneliti sering menggunakan partisipan yang mudah diakses, seperti mahasiswa atau relawan. Meskipun praktis, pendekatan ini dapat membatasi kemampuan generalisasi hasil penelitian.
+
+Sebagai contoh, hasil penelitian mengenai stres akademik yang dilakukan pada mahasiswa psikologi belum tentu dapat digeneralisasikan kepada mahasiswa dari program studi lain atau kepada kelompok usia yang berbeda.
+
+Salah satu cara meningkatkan validitas populasi adalah menggunakan teknik sampling yang tepat serta melakukan replikasi penelitian pada kelompok partisipan yang berbeda.
+
+### Bias Seleksi
+
+Salah satu ancaman utama terhadap validitas populasi adalah bias seleksi (*selection bias*). Bias ini terjadi ketika sampel yang dipilih tidak mewakili karakteristik populasi sasaran.
+
+Sebagai contoh, survei mengenai kesehatan mental yang hanya dilakukan secara daring mungkin lebih banyak menjangkau individu yang aktif menggunakan internet dibandingkan kelompok masyarakat lainnya.
+
+Oleh karena itu, peneliti perlu mempertimbangkan karakteristik sampel dan keterbatasan generalisasi hasil penelitian yang dilakukan.
+
+## 7.4.2 Validitas Ekologis
+
+Validitas ekologis berkaitan dengan sejauh mana kondisi penelitian menyerupai kondisi yang terjadi dalam kehidupan nyata. Semakin mirip situasi penelitian dengan situasi sehari-hari, semakin tinggi validitas ekologisnya.
+
+Penelitian eksperimental sering dilakukan dalam lingkungan yang sangat terkontrol untuk meningkatkan validitas internal. Namun, kondisi yang terlalu terkontrol terkadang membuat situasi penelitian menjadi berbeda dari kondisi yang sesungguhnya.
+
+Beberapa faktor yang dapat mengancam validitas ekologis antara lain:
+
+### Multiple-Treatment Interference
+
+Ancaman ini muncul ketika partisipan menerima lebih dari satu perlakuan sehingga efek suatu perlakuan dipengaruhi oleh perlakuan sebelumnya. Akibatnya, hasil penelitian mungkin tidak mencerminkan situasi yang terjadi dalam kehidupan nyata.
+
+### Hawthorne Effect
+
+Hawthorne effect terjadi ketika partisipan mengubah perilakunya karena menyadari bahwa dirinya sedang diamati atau diteliti.
+
+Sebagai contoh, karyawan dapat menunjukkan produktivitas yang lebih tinggi selama penelitian berlangsung karena mengetahui bahwa kinerjanya sedang diamati.
+
+### Pretesting Effect
+
+Pretesting effect terjadi ketika keberadaan pretest memengaruhi respons partisipan pada tahap berikutnya. Dalam kondisi nyata, individu umumnya tidak menjalani pretest sebelum mengalami suatu perlakuan atau peristiwa.
+
+Oleh karena itu, hasil penelitian yang menggunakan pretest perlu ditafsirkan secara hati-hati ketika akan digeneralisasikan ke populasi yang lebih luas.
+
+## 7.4.3 Validitas Temporal
+
+Validitas temporal berkaitan dengan kemampuan hasil penelitian untuk tetap berlaku pada waktu yang berbeda. Faktor ini penting karena perilaku manusia dan kondisi sosial dapat berubah dari waktu ke waktu.
+
+Sebagai contoh, hasil penelitian mengenai penggunaan media sosial yang dilakukan sepuluh tahun lalu mungkin tidak lagi sepenuhnya relevan pada saat ini karena perubahan teknologi dan pola penggunaan media digital.
+
+Terdapat dua bentuk variasi waktu yang dapat memengaruhi validitas temporal.
+
+### Fixed-Time Variation
+
+Fixed-time variation merupakan perubahan yang terjadi secara teratur dan dapat diprediksi. Contohnya adalah perubahan suasana hati berdasarkan waktu dalam sehari atau perubahan perilaku yang dipengaruhi oleh musim tertentu.
+
+### Variable-Time Variation
+
+Variable-time variation merupakan perubahan yang tidak dapat diprediksi secara pasti, tetapi dapat memengaruhi hasil penelitian. Contohnya adalah perubahan perilaku masyarakat akibat krisis ekonomi, pandemi, atau peristiwa sosial tertentu.
+
+Karena berbagai faktor dapat berubah dari waktu ke waktu, hasil penelitian idealnya direplikasi pada periode yang berbeda untuk memastikan konsistensi temuan.
+
+## Tabel 7.2 Ringkasan Ancaman terhadap Validitas Eksternal
+
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       | **Faktor**                      |      | **Deskripsi Singkat**                              |      | **Cara Meningkatkan**                     |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       | Validitas Populasi              |      | Generalisasi dari sampel ke populasi               |      | Sampling yang representatif dan replikasi |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       | Bias Seleksi                    |      | Sampel tidak mewakili populasi                     |      | Teknik sampling yang tepat                |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       | Validitas Ekologis              |      | Kesesuaian kondisi penelitian dengan dunia nyata   |      | Penelitian lapangan dan replikasi         |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       | Multiple-Treatment Interference |      | Efek perlakuan dipengaruhi perlakuan lain          |      | Pengaturan desain penelitian              |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       | Hawthorne Effect                |      | Perubahan perilaku karena sadar diteliti           |      | Observasi yang lebih natural              |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       | Pretesting Effect               |      | Pretest memengaruhi hasil penelitian               |      | Mengurangi ketergantungan pada pretest    |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       | Validitas Temporal              |      | Generalisasi ke waktu yang berbeda                 |      | Replikasi pada periode berbeda            |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
+|       |                                 |      |                                                    |      |                                           |     |
++-------+---------------------------------+------+----------------------------------------------------+------+-------------------------------------------+-----+
