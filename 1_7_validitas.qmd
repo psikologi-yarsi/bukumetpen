@@ -45,7 +45,7 @@ Perbedaan ini penting dipahami karena penggunaan instrumen yang valid tidak seca
 
 ## Jenis-Jenis Validitas Penelitian
 
-Secara umum, validitas penelitian dapat dibedakan menjadi dua jenis utama, yaitu validitas internal dan validitas eksternal.
+Secara umum, validitas penelitian dibedakan menjadi dua jenis utama, yaitu validitas internal dan validitas eksternal. Keduanya saling melengkapi dalam menentukan kualitas penelitian. Validitas internal berfokus pada ketepatan inferensi kausal, sedangkan validitas eksternal berfokus pada kemampuan menggeneralisasikan hasil penelitian ke populasi, situasi, dan waktu yang berbeda [@Shadish2002; @Creswell2018a].
 
 ### Validitas Internal
 
@@ -135,7 +135,7 @@ Beberapa faktor dapat memengaruhi validitas eksternal suatu penelitian, yaitu va
 
     -   Representativitas sampel
 
-        Representativitas sampel menunjukkan sejauh mana karakteristik sampel mencerminkan karakteristik populasi sasaran. Sampel yang representatif tidak selalu berarti berukuran besar, tetapi mampu menggambarkan karakteristik penting dari populasi yang diteliti [@Morling2024]. Sebagai contoh, hasil penelitian mengenai stres akademik yang hanya melibatkan mahasiswa dari satu program studi belum tentu dapat digeneralisasikan kepada seluruh mahasiswa di Indonesia karena karakteristik populasinya berbeda.
+        Representativitas sampel terhadap populasi saasaran menunjukkan sejauh mana karakteristik sampel mencerminkan karakteristik populasi sasaran. Sampel yang representatif tidak selalu berarti berukuran besar, tetapi mampu menggambarkan karakteristik penting dari populasi yang diteliti [@Morling2024]. Sebagai contoh, hasil penelitian mengenai stres akademik yang hanya melibatkan mahasiswa dari satu program studi belum tentu dapat digeneralisasikan kepada seluruh mahasiswa di Indonesia karena karakteristik populasinya berbeda.
 
     -   Bias seleksi (*Selection bias*)
 
@@ -181,11 +181,11 @@ Beberapa faktor dapat memengaruhi validitas eksternal suatu penelitian, yaitu va
 
     -   *Fixed-time variation*
 
-        *Fixed-time variation* mengacu pada perubahan yang terjadi secara teratur dan dapat diprediksi, seperti perubahan perilaku berdasarkan waktu dalam sehari, hari dalam seminggu, atau musim tertentu. Variasi tersebut dapat memengaruhi hasil penelitian apabila waktu pengumpulan data tidak diperhatikan dengan baik.
+        *Fixed-time variation* mengacu pada perubahan yang terjadi secara teratur dan dapat diprediksi, seperti perubahan perilaku berdasarkan waktu dalam sehari, hari dalam seminggu, atau musim tertentu. Misalnya, tingkat kelelahan responden dapat berbeda antara pengambilan data pada pagi hari dan malam hari. Variasi tersebut dapat memengaruhi hasil penelitian apabila waktu pengumpulan data tidak diperhatikan dengan baik.
 
     -   *Variable-time variation*
 
-        *Variable-time variation* merupakan perubahan yang tidak dapat diprediksi secara pasti, seperti perubahan kebijakan pemerintah, bencana alam, pandemi, atau kondisi ekonomi. Peristiwa-peristiwa tersebut dapat memengaruhi hasil penelitian sehingga peneliti perlu mempertimbangkan konteks waktu ketika menginterpretasikan maupun menggeneralisasikan temuan penelitian.
+        *Variable-time variation* merupakan perubahan yang tidak dapat diprediksi secara pasti, seperti perubahan kebijakan pemerintah, bencana alam, pandemi, atau kondisi ekonomi. Peristiwa-peristiwa tersebut dapat memengaruhi hasil penelitian sehingga peneliti perlu mempertimbangkan konteks waktu ketika menginterpretasikan maupun menggeneralisasikan temuan penelitian. Pandemi COVID-19 merupakan contoh peristiwa yang dapat mengubah perilaku masyarakat secara drastis sehingga hasil penelitian yang dilakukan sebelum pandemi belum tentu tetap berlaku setelah pandemi.
 
 Secara keseluruhan, validitas eksternal menentukan sejauh mana hasil penelitian dapat diterapkan pada populasi, situasi, dan waktu yang berbeda dari kondisi penelitian yang dilakukan. Oleh karena itu, peneliti perlu mempertimbangkan berbagai faktor yang dapat memengaruhi kemampuan generalisasi hasil penelitian sejak tahap perancangan penelitian hingga interpretasi hasil. Ringkasan mengenai berbagai faktor yang memengaruhi validitas eksternal beserta strategi untuk meningkatkannya disajikan pada @fig-eksternal.
 
@@ -196,12 +196,11 @@ Secara keseluruhan, validitas eksternal menentukan sejauh mana hasil penelitian 
 ::: callout-tip
 ## Rangkuman
 
-1.  Validitas penelitian menunjukkan sejauh mana kesimpulan yang dihasilkan penelitian dapat dipercaya dan mencerminkan kondisi yang sebenarnya.
-2.  Validitas penelitian dapat dibedakan menjadi validitas internal, yang berkaitan dengan ketepatan hubungan sebab-akibat, dan validitas eksternal, yang berkaitan dengan kemampuan menggeneralisasikan hasil penelitian.
-3.  Berbagai faktor dapat mengancam validitas internal, seperti karakteristik partisipan, peristiwa yang terjadi selama penelitian, perubahan alami pada partisipan, maupun bias yang berasal dari peneliti dan prosedur penelitian.
-4.  Validitas eksternal dipengaruhi oleh representativitas sampel, kesesuaian situasi penelitian dengan kondisi nyata, serta kemungkinan perubahan kondisi dari waktu ke waktu.
-5.   Dalam praktiknya, peningkatan validitas internal sering kali harus diimbangi dengan pertimbangan terhadap validitas eksternal agar hasil penelitian tetap relevan untuk diterapkan pada konteks yang lebih luas.
-6.  Peneliti perlu mengidentifikasi dan mengendalikan berbagai ancaman terhadap validitas sejak tahap perencanaan penelitian agar dapat menghasilkan temuan yang akurat dan bermakna.
+1.  Validitas menunjukkan ketepatan kesimpulan penelitian.
+2.  Validitas penelitian terdiri atas validitas internal dan validitas eksternal.
+3.  Validitas internal dipengaruhi oleh berbagai ancaman yang dapat mengganggu inferensi kausal.
+4.  Validitas eksternal berkaitan dengan kemampuan menggeneralisasikan hasil penelitian ke populasi, situasi, dan waktu yang berbeda.
+5.  Peneliti perlu mengendalikan berbagai ancaman terhadap validitas agar hasil penelitian akurat dan dapat dipercaya.
 :::
 
 ::: callout-important
