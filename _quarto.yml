@@ -29,6 +29,7 @@ book:
         - 1_4_literatur.qmd
         - 1_5_desain.qmd
         - 1_6_sampling.qmd
+        - 1_7_validitas.qmd
     - part: 2_pengantar.qmd
       chapters:
         - 2_9_paradigma.qmd
