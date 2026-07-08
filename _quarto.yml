@@ -42,6 +42,7 @@ book:
     - part: 4_pengantar.qmd
       chapters: 
         - 4_19_paradigmakuali.qmd
+        - 4_20_desainkuali.qmd
         - 4_21_samplingkuali.qmd
         - 4_24_laporankuali.qmd
 filters:
