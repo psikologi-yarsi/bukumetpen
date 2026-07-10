@@ -37,6 +37,7 @@ book:
     - part: 3_pengantar.qmd
       chapters: 
         - 3_13_eksperimen.qmd
+        - 3_14_korelasional.qmd
         - 3_17_proposalkuanti.qmd
         - 3_18_laporankuanti.qmd
     - part: 4_pengantar.qmd
