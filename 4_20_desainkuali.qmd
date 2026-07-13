@@ -10,7 +10,7 @@ reference-section-title: Daftar Pustaka
 citeproc: true
 ---
 
-# Desain Penelitian Kualitatif
+# Desain Penelitian Kualitatif {#sec-desainkuali}
 
 ::: callout-note
 ## Capaian Pembelajaran

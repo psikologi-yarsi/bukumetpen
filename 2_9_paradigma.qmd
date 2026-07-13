@@ -71,7 +71,7 @@ Dengan demikian, paradigma menjadi dasar dalam pemilihan metode yang sesuai deng
 
 ::: {#tbl-paradigma}
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Dimensi** | **Paradigma** | **Metode** |
 | Sifat | Filosofis/keyakinan mendasar | Teknis/prosedural |
 | Pertanyaan yang dijawab | "Apa hakikat realitas yang saya teliti dan bagaimana saya dapat mengetahuinya?" | "Bagaimana cara terbaik mengumpulkan dan menganalisis data?" |
@@ -175,7 +175,7 @@ Interpretivisme berkembang sebagai respons terhadap keterbatasan pendekatan posi
 
 Akar filosofis paradigma ini berasal dari tradisi hermeneutika, fenomenologi, dan sosiologi interpretatif yang dikembangkan oleh tokoh-tokoh seperti Wilhelm Dilthey, Max Weber, Edmund Husserl, dan Martin Heidegger [@Laverty2003]. Dalam psikologi, paradigma ini menjadi landasan berkembangnya berbagai pendekatan penelitian kualitatif yang berfokus pada pengalaman subjektif, makna, dan konteks sosial [@Willig2017].
 
-Paradigma ini menjadi landasan berkembangnya berbagai pendekatan penelitian kualitatif, seperti fenomenologi, *grounded theory*, etnografi, studi naratif, dan analisis tematik, yang akan dibahas lebih mendalam pada @chap-pendekatan.
+Paradigma ini menjadi landasan berkembangnya berbagai pendekatan penelitian kualitatif, seperti fenomenologi, *grounded theory*, etnografi, studi naratif, dan analisis tematik, yang akan dibahas lebih mendalam pada @sec-desainkuali.
 
 #### Kekuatan dan Keterbatasan
 
@@ -221,7 +221,7 @@ Keempat paradigma yang telah dipaparkan di atas memiliki karakteristik, asumsi f
 
 ::: {#tbl-komparasiparadigma}
 |  |  |  |  |  |
-|:---|:---|:---|:---|:---|
+|:--------------|:--------------|:--------------|:--------------|:--------------|
 | **Dimensi** | **Positivisme** | **Post-Positivisme** | **Interpretivisme** | **Transformatif** |
 | Ontologi | Realisme naif | Realisme kritis | Relativisme | Realisme historis |
 | Epistemologi | Dualisme objektif | Obyektivitas dimodifikasi | Subyektivitas transaksional | Intersubyektivitas kritis |
