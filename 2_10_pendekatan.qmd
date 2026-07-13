@@ -93,7 +93,7 @@ Secara garis besar, perbedaan karakteristik antara pendekatan kuantitatif dan ku
 
 ::: {#tbl-kuanvskual}
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Dimensi** | **Kuantitatif** | **Kualitatif** |
 | **Tujuan utama** | Menguji hipotesis, mengukur hubungan, men-generalisasi | Memahami makna, mengeksplorasi proses, mengembangkan teori |
 | **Contoh Jenis pertanyaan** | “Apakah?”, “Seberapa besar?”, “Apakah X menyebabkan Y?” | “Bagaimana?”, “Mengapa?” (dalam pengalaman subjektif), “Apa maknanya?” |
@@ -111,7 +111,7 @@ Setiap penelitian harus memenuhi standar kualitas tertentu agar hasilnya dapat d
 
 Dalam penelitian kuantitatif, kualitas penelitian umumnya dinilai berdasarkan **validitas** dan **reliabilitas**. Validitas menunjukkan sejauh mana instrumen atau prosedur penelitian benar-benar mengukur apa yang seharusnya diukur. Reliabilitas menunjukkan konsistensi hasil pengukuran apabila instrumen digunakan berulang kali dalam kondisi yang serupa. Selain itu, peneliti kuantitatif juga memperhatikan **obyektivitas** dan kemampuan hasil penelitian untuk **digeneralisasikan** ke populasi yang lebih luas.
 
-Sementara itu, penelitian kualitatif tidak berfokus pada validitas dan reliabilitas dalam pengertian statistik. Sebagai gantinya, kualitas penelitian dinilai melalui konsep *trustworthiness* atau keterpercayaan penelitian [@Lincoln1990]. Konsep ini mencerminkan sejauh mana temuan penelitian dapat dipercaya dan didukung oleh data yang diperoleh dari partisipan. Penjelasan lebih lanjut mengenai konsep *trustworthiness* diuraikan pada @sec-kriteria.
+Sementara itu, penelitian kualitatif tidak berfokus pada validitas dan reliabilitas dalam pengertian statistik. Sebagai gantinya, kualitas penelitian dinilai melalui konsep *trustworthiness* atau keterpercayaan penelitian [@Lincoln1990]. Konsep ini mencerminkan sejauh mana temuan penelitian dapat dipercaya dan didukung oleh data yang diperoleh dari partisipan. Penjelasan lebih lanjut mengenai konsep *trustworthiness* diuraikan pada @sec-trustworthiness.
 
 Beberapa kriteria kualitas yang umum digunakan dalam penelitian kualitatif meliputi:
 

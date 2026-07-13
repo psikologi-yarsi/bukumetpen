@@ -27,7 +27,7 @@ Penelitian kualitatif bertujuan memahami makna, pengalaman, dan fenomena sosial 
 
 Selain menjaga keabsahan, peneliti juga perlu menerapkan refleksivitas (*reflexivity*), yaitu kesadaran untuk merefleksikan bagaimana latar belakang, pengalaman, nilai, dan posisi peneliti dapat memengaruhi proses maupun hasil penelitian. Bab ini membahas konsep *trustworthiness* beserta strategi untuk meningkatkannya, pentingnya refleksivitas dalam penelitian kualitatif, serta cara melaporkan upaya menjaga keabsahan dan refleksivitas dalam proposal maupun laporan penelitian.
 
-## Keabsahan (*Trustworthiness*) dalam Penelitian Kualitatif
+## Keabsahan (*Trustworthiness*) dalam Penelitian Kualitatif {#sec-trustworthiness}
 
 Penelitian kualitatif bertujuan memahami makna, pengalaman, dan realitas sosial berdasarkan perspektif partisipan dalam konteks tertentu. Oleh karena itu, kualitas penelitian kualitatif tidak dapat dinilai hanya menggunakan konsep validitas dan reliabilitas yang lazim digunakan dalam penelitian kuantitatif. Meskipun kedua pendekatan sama-sama mengutamakan penelitian yang berkualitas, cara menilai kualitas tersebut disesuaikan dengan karakteristik, tujuan, dan paradigma masing-masing pendekatan.
 
