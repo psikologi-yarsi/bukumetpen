@@ -1,6 +1,6 @@
 ---
 author:
-  - name: Endang Fourianalistyawati
+  - name: Entin Nurhayati
 filters:
   # Run Quarto's default filters first
   - quarto
