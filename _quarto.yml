@@ -36,6 +36,7 @@ book:
         - 2_10_pendekatan.qmd
     - part: 3_pengantar.qmd
       chapters: 
+        - 3_12_hipotesis.qmd
         - 3_13_eksperimen.qmd
         - 3_14_korelasional.qmd
         - 3_17_proposalkuanti.qmd

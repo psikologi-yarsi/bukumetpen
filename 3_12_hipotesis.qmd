@@ -1,8 +1,6 @@
 ---
-title: "Untitled"
-------
 author:
-  - name: Entin Nurhayati
+  - name: Sunu Bagaskara
 filters:
   # Run Quarto's default filters first
   - quarto
@@ -154,11 +152,13 @@ Hipotesis merupakan dugaan ilmiah yang menjadi dasar pengujian dalam penelitian 
 
     Hipotesis harus sesuai dengan tujuan penelitian dan desain penelitian yang digunakan. Penelitian korelasional, misalnya, seharusnya merumuskan hipotesis mengenai hubungan antarvariabel, sedangkan penelitian eksperimen merumuskan hipotesis mengenai pengaruh suatu perlakuan terhadap variabel tertentu.
 
+@fig-hipotesis mengilustrasikan bagaimana proses perumusan hipotesis dalam 3 desain penelitian yang berbeda.
+
 ::: {#fig-hipotesis}
 ![Contoh Proses Perumusan Hipotesis](images/hipotesis.png)
 :::
 
-::: callout-tip
+::: {.callout-tip icon="false"}
 ## Kesalahan yang Sering Terjadi dalam Merumuskan Hipotesis
 
 Mahasiswa sering melakukan beberapa kesalahan berikut ketika menyusun hipotesis penelitian:
@@ -178,206 +178,140 @@ Operasionalisasi variabel merupakan langkah penting dalam penelitian kuantitatif
 
 ### Apa Itu Operasionalisasi Variabel?
 
-Operasionalisasi variabel adalah proses mengubah konsep atau konstruk teoretis menjadi variabel yang dapat diukur secara empiris melalui indikator, instrumen pengukuran, prosedur penskoran, dan interpretasi hasil pengukuran (Kerlinger & Lee, 2000; Creswell & Creswell, 2023). Dengan kata lain, operasionalisasi menjelaskan bagaimana suatu konsep akan diukur dalam penelitian.
+Operasionalisasi variabel adalah proses mengubah konsep atau konstruk teoretis menjadi variabel yang dapat diukur secara empiris melalui indikator, instrumen pengukuran, prosedur penskoran, dan interpretasi hasil pengukuran [@Kerlinger2000; @Creswell2018a]. Dengan kata lain, operasionalisasi menjelaskan bagaimana suatu konsep akan diukur dalam penelitian (lihat @fig-operasionalisasi).
 
 Sebagai contoh, apabila seorang peneliti ingin mengukur *resiliensi*, ia tidak cukup hanya menyebutkan definisi resiliensi menurut teori tertentu. Peneliti juga harus menjelaskan instrumen yang digunakan, dimensi atau indikator yang diukur, cara pemberian skor, serta makna dari skor yang diperoleh. Melalui operasionalisasi, konsep yang semula bersifat abstrak dapat diubah menjadi data numerik yang selanjutnya dianalisis menggunakan teknik statistik.
 
-Operasionalisasi variabel merupakan salah satu tahapan penting dalam penelitian kuantitatif karena menentukan kualitas data yang diperoleh. Operasionalisasi yang kurang tepat dapat menyebabkan instrumen gagal merepresentasikan konsep yang ingin diukur sehingga hasil penelitian menjadi kurang valid. Sebaliknya, operasionalisasi yang baik akan menghasilkan pengukuran yang lebih akurat, konsisten, dan sesuai dengan tujuan penelitian (DeVellis & Thorpe, 2022).
+Operasionalisasi variabel merupakan salah satu tahapan penting dalam penelitian kuantitatif karena menentukan kualitas data yang diperoleh. Operasionalisasi yang kurang tepat dapat menyebabkan instrumen gagal merepresentasikan konsep yang ingin diukur sehingga hasil penelitian menjadi kurang valid. Sebaliknya, operasionalisasi yang baik akan menghasilkan pengukuran yang lebih akurat, konsisten, dan sesuai dengan tujuan penelitian [@DeVellis2023].
+
+::: {#fig-operasionalisasi}
+![Pentingnya Operasionalisasi Variabel Penelitian](images/operasionalisasi.png)
+:::
 
 ### Definisi Konseptual dan Definisi Operasional
 
 Dalam proses operasionalisasi, peneliti perlu membedakan **definisi konseptual** dan **definisi operasional**. Kedua jenis definisi tersebut saling melengkapi, tetapi memiliki tujuan yang berbeda.
 
-**Definisi konseptual** menjelaskan makna suatu konsep berdasarkan teori atau pendapat para ahli. Definisi ini bertujuan memberikan batasan ilmiah mengenai konsep yang diteliti sehingga pembaca memahami ruang lingkup variabel penelitian. Oleh karena itu, definisi konseptual biasanya disusun berdasarkan kajian literatur dan mengacu pada teori yang menjadi landasan penelitian.
+Definisi konseptual menjelaskan makna suatu konsep atau konstruk berdasarkan teori maupun kajian ilmiah sehingga memberikan batasan yang jelas mengenai apa yang dimaksud dengan variabel penelitian [@Babbie2021; @Creswell2018a]. Definisi ini bertujuan memberikan batasan ilmiah mengenai konsep yang diteliti sehingga pembaca memahami ruang lingkup variabel penelitian. Oleh karena itu, definisi konseptual biasanya disusun berdasarkan kajian literatur dan mengacu pada teori yang menjadi landasan penelitian.
 
-Sebaliknya, **definisi operasional** menjelaskan bagaimana konsep tersebut diukur dalam penelitian. Definisi operasional memuat informasi mengenai instrumen yang digunakan, aspek atau indikator yang diukur, bentuk skala pengukuran, serta cara menginterpretasikan skor yang diperoleh. Dengan demikian, definisi operasional menjembatani konsep teoretis dengan proses pengumpulan data empiris.
+Sebaliknya, Definisi operasional menjelaskan bagaimana konsep tersebut diukur melalui prosedur empiris, termasuk indikator, instrumen, skala pengukuran, dan prosedur penskoran yang digunakan dalam penelitian. Dengan demikian, definisi operasional menjembatani konsep teoretis dengan proses pengumpulan data empiris [@Kerlinger2000; @AmericanPsychologicalAssociation2018]. Perbedaan kedua jenis definisi tersebut dapat dilihat pada @tbl-definisi.
 
 Sebagai ilustrasi, konsep *resiliensi* dapat didefinisikan secara konseptual sebagai kemampuan individu untuk beradaptasi secara positif ketika menghadapi kesulitan atau tekanan hidup. Namun, dalam penelitian, konsep tersebut perlu didefinisikan secara operasional, misalnya sebagai skor yang diperoleh responden pada *Connor–Davidson Resilience Scale* (CD-RISC-10). Semakin tinggi skor yang diperoleh, semakin tinggi tingkat resiliensi individu.
 
-Perbedaan kedua jenis definisi tersebut dapat dilihat pada Tabel 12.1.
+::: {#tbl-definisi}
+|  |  |  |
+|:-----------------------|:-----------------------|:-----------------------|
+| **Aspek** | **Definisi Konseptual** | **Definisi Operasional** |
+| Tujuan | Menjelaskan makna suatu konsep berdasarkan teori | Menjelaskan bagaimana konsep diukur dalam penelitian |
+| Sumber | Teori dan kajian literatur | Instrumen dan prosedur pengukuran |
+| Fokus | Makna atau hakikat konsep | Pengukuran empiris |
+| Isi | Definisi dari ahli, karakteristik konsep | Instrumen, indikator, skala, penskoran, interpretasi |
 
-Tabel 12.1 Perbedaan Definisi Konseptual dan Definisi Operasional
+: Perbedaan Definisi Konseptual dan Definisi Operasional
+:::
 
-|  |  |  |  |  |  |  |
-|----|----|----|----|----|----|----|
-|  |  |  |  |  |  |  |
-|  | **Aspek** |  | **Definisi Konseptual** |  | **Definisi Operasional** |  |
-|  |  |  |  |  |  |  |
-|  | Tujuan |  | Menjelaskan makna suatu konsep berdasarkan teori |  | Menjelaskan bagaimana konsep diukur dalam penelitian |  |
-|  |  |  |  |  |  |  |
-|  | Sumber |  | Teori dan kajian literatur |  | Instrumen dan prosedur pengukuran |  |
-|  |  |  |  |  |  |  |
-|  | Fokus |  | Makna atau hakikat konsep |  | Pengukuran empiris |  |
-|  |  |  |  |  |  |  |
-|  | Isi |  | Definisi dari ahli, karakteristik konsep |  | Instrumen, indikator, skala, penskoran, interpretasi |  |
-|  |  |  |  |  |  |  |
+Definisi konseptual dan definisi operasional harus disusun secara selaras karena definisi operasional merupakan penerjemahan dari konsep teoretis ke dalam bentuk yang dapat diukur secara empiris. Oleh karena itu, menurut @Babbie2021, indikator, dimensi, maupun instrumen yang digunakan harus benar-benar merepresentasikan konstruk yang telah didefinisikan secara konseptual. Keselarasan ini penting untuk memastikan bahwa data yang dikumpulkan benar-benar mengukur variabel yang dimaksud sehingga menghasilkan temuan penelitian yang valid dan dapat dipertanggungjawabkan [@DeVellis2023; @AERA2014].
 
-Definisi konseptual dan definisi operasional harus disusun secara selaras karena definisi operasional merupakan penerjemahan dari konsep teoretis ke dalam bentuk yang dapat diukur secara empiris. Oleh karena itu, indikator, dimensi, maupun instrumen yang digunakan harus benar-benar merepresentasikan konstruk yang telah didefinisikan secara konseptual. Keselarasan ini penting untuk memastikan bahwa data yang dikumpulkan benar-benar mengukur variabel yang dimaksud sehingga menghasilkan temuan penelitian yang valid dan dapat dipertanggungjawabkan (DeVellis & Thorpe, 2022; AERA, APA, & NCME, 2014).
+::: {.callout-tip icon="false"}
+## Contoh Operasionalisasi Variabel
 
-Callout
+**Variabel:** *Academic burnout*
 
-**Contoh Operasionalisasi Variabel**
+**Definisi konseptual:** *Academic burnout* merupakan kondisi kelelahan fisik, emosional, dan mental akibat tuntutan akademik yang berkepanjangan [@Schaufeli2002].
 
-**Variabel:** *Academic Burnout*
-
-**Definisi konseptual:** *Academic burnout* merupakan kondisi kelelahan fisik, emosional, dan mental akibat tuntutan akademik yang berkepanjangan (Maslach & Leiter, 2016).
-
-**Definisi operasional:** *Academic burnout* diukur menggunakan ***Maslach Burnout Inventory–Student Survey*** **(MBI-SS)** yang terdiri atas tiga dimensi, yaitu *exhaustion*, *cynicism*, dan *academic efficacy*. Semakin tinggi skor pada dimensi *exhaustion* dan *cynicism* serta semakin rendah skor *academic efficacy*, semakin tinggi tingkat *academic burnout*.
+**Definisi operasional:** *Academic burnout* diukur menggunakan ***Maslach Burnout Inventory–Student Survey*** **(MBI-SS)** yang dikembangkan oleh @Schaufeli2002. Alat ukur ini terdiri atas tiga dimensi, yaitu *exhaustion*, *cynicism*, dan *academic efficacy*. Semakin tinggi skor pada dimensi *exhaustion* dan *cynicism* serta semakin rendah skor *academic efficacy*, semakin tinggi tingkat *academic burnout*.
+:::
 
 ### Mengoperasionalkan Variabel Penelitian
 
-Operasionalisasi variabel merupakan proses sistematis yang menghubungkan konsep teoretis dengan pengukuran empiris. Dalam praktiknya, proses ini tidak hanya menentukan instrumen yang akan digunakan, tetapi juga memastikan bahwa setiap aspek yang diukur benar-benar merepresentasikan konstruk yang menjadi fokus penelitian. Secara umum, operasionalisasi variabel dapat dilakukan melalui lima langkah berikut.
+Operasionalisasi variabel merupakan proses sistematis yang menghubungkan konsep teoretis dengan pengukuran empiris. Dalam praktiknya, proses ini tidak hanya menentukan instrumen yang akan digunakan, tetapi juga memastikan bahwa setiap aspek yang diukur benar-benar merepresentasikan konstruk yang menjadi fokus penelitian. Secara umum, operasionalisasi variabel dapat dilakukan melalui lima langkah berikut:
 
-**1. Menentukan konsep atau konstruk yang akan diukur**
+1.  **Menentukan konsep atau konstruk yang akan diukur**
 
-Langkah pertama adalah menetapkan secara jelas konsep yang menjadi variabel penelitian. Konsep tersebut harus didefinisikan berdasarkan teori yang menjadi landasan penelitian sehingga memiliki batasan yang jelas.
+    Langkah pertama adalah menetapkan secara jelas konsep yang menjadi variabel penelitian. Konsep tersebut harus didefinisikan berdasarkan teori yang menjadi landasan penelitian sehingga memiliki batasan yang jelas.
 
-Sebagai contoh, apabila variabel yang diteliti adalah *resiliensi*, peneliti terlebih dahulu menentukan definisi konseptual yang akan digunakan, misalnya berdasarkan teori Connor dan Davidson.
+    Sebagai contoh, apabila variabel yang diteliti adalah *resiliensi*, peneliti terlebih dahulu menentukan definisi konseptual yang akan digunakan, misalnya berdasarkan teori Connor dan Davidson.
 
-**2. Mengidentifikasi dimensi atau indikator variabel**
+2.  **Mengidentifikasi dimensi atau indikator variabel**
 
-Sebagian besar konstruk psikologis bersifat multidimensional. Oleh karena itu, setelah menentukan definisi konseptual, peneliti perlu mengidentifikasi dimensi atau indikator yang menyusun variabel tersebut berdasarkan teori atau instrumen yang digunakan.
+    Sebagian besar konstruk psikologis bersifat multidimensional. Oleh karena itu, setelah menentukan definisi konseptual, peneliti perlu mengidentifikasi dimensi atau indikator yang menyusun variabel tersebut berdasarkan teori atau instrumen yang digunakan.
 
-Sebagai contoh, apabila menggunakan *Connor–Davidson Resilience Scale (CD-RISC)*, maka indikator yang diukur mengikuti dimensi yang dikembangkan oleh penyusun instrumen tersebut.
+    Sebagai contoh, apabila menggunakan *Connor–Davidson Resilience Scale (CD-RISC)*, maka indikator yang diukur mengikuti dimensi yang dikembangkan oleh penyusun instrumen tersebut.
 
-**3. Menentukan instrumen pengukuran**
+3.  **Menentukan instrumen pengukuran**
 
-Langkah berikutnya adalah memilih atau mengembangkan instrumen yang sesuai dengan konstruk yang akan diukur. Dalam penelitian kuantitatif, peneliti umumnya menggunakan instrumen yang telah memiliki bukti validitas dan reliabilitas sehingga hasil pengukuran lebih dapat dipercaya (DeVellis & Thorpe, 2022).
+    Langkah berikutnya adalah memilih atau mengembangkan instrumen yang sesuai dengan konstruk yang akan diukur. Dalam penelitian kuantitatif, peneliti umumnya menggunakan instrumen yang telah memiliki bukti validitas dan reliabilitas sehingga hasil pengukuran lebih dapat dipercaya [@DeVellis2023].
 
-Apabila menggunakan instrumen yang telah ada, peneliti perlu menjelaskan nama instrumen, jumlah item, dimensi yang diukur, jenis skala, serta bukti validitas dan reliabilitasnya. Sebaliknya, apabila mengembangkan instrumen sendiri, peneliti perlu menjelaskan proses pengembangan instrumen tersebut secara rinci.
+    Apabila menggunakan instrumen yang telah ada, peneliti perlu menjelaskan nama instrumen, jumlah item, dimensi yang diukur, jenis skala, serta bukti validitas dan reliabilitasnya. Sebaliknya, apabila mengembangkan instrumen sendiri, peneliti perlu menjelaskan proses pengembangan instrumen tersebut secara rinci.
 
-**4. Menentukan prosedur penskoran**
+4.  **Menentukan prosedur penskoran**
 
-Operasionalisasi variabel juga harus menjelaskan bagaimana jawaban responden diubah menjadi skor numerik. Peneliti perlu menjelaskan jenis skala yang digunakan (misalnya skala Likert 1–5), cara menghitung skor total atau skor setiap dimensi, serta perlakuan terhadap item yang bersifat *reverse* apabila ada.
+    Operasionalisasi variabel juga harus menjelaskan bagaimana jawaban responden diubah menjadi skor numerik. Peneliti perlu menjelaskan jenis skala yang digunakan (misalnya skala Likert 1–5), cara menghitung skor total atau skor setiap dimensi, serta perlakuan terhadap item yang bersifat *reverse* apabila ada.
 
-**5. Menentukan interpretasi hasil pengukuran**
+5.  **Menentukan interpretasi hasil pengukuran**
 
-Langkah terakhir adalah menjelaskan makna skor yang diperoleh. Misalnya, apakah skor yang lebih tinggi menunjukkan tingkat variabel yang lebih tinggi atau justru sebaliknya. Penjelasan ini penting agar pembaca memahami bagaimana hasil pengukuran akan diinterpretasikan pada tahap analisis data.
+    Langkah terakhir adalah menjelaskan makna skor yang diperoleh. Misalnya, apakah skor yang lebih tinggi menunjukkan tingkat variabel yang lebih tinggi atau justru sebaliknya. Penjelasan ini penting agar pembaca memahami bagaimana hasil pengukuran akan diinterpretasikan pada tahap analisis data.
 
-Callout
-
-**Kesalahan yang Sering Terjadi dalam Operasionalisasi Variabel**
+::: {.callout-tip icon="false"}
+## Kesalahan yang Sering Terjadi dalam Operasionalisasi Variabel
 
 Beberapa kesalahan yang sering dilakukan mahasiswa ketika menyusun operasionalisasi variabel antara lain:
 
--   
-
 -   Menyalin definisi konseptual sebagai definisi operasional tanpa menjelaskan cara pengukurannya.
-
--   
-
 -   Menggunakan instrumen yang tidak sesuai dengan definisi konseptual variabel.
-
--   
-
 -   Mencantumkan indikator yang tidak berasal dari teori atau instrumen yang digunakan.
-
--   
-
 -   Tidak menjelaskan prosedur penskoran maupun interpretasi skor.
-
--   
-
 -   Menggabungkan indikator dari beberapa teori tanpa dasar konseptual yang jelas.
+:::
 
--   
+Setelah variabel berhasil dioperasionalkan, informasi tersebut biasanya dirangkum dalam bentuk tabel operasionalisasi variabel. Tabel ini berfungsi sebagai ringkasan mengenai bagaimana setiap variabel didefinisikan dan diukur sehingga memudahkan pembaca memahami keterkaitan antara konsep teoretis dan prosedur pengukuran. Contoh format tabel operasionalisasi variabel disajikan pada @tbl-operasionalisasi.
 
-Setelah variabel berhasil dioperasionalkan, informasi tersebut biasanya dirangkum dalam bentuk tabel operasionalisasi variabel. Tabel ini berfungsi sebagai ringkasan mengenai bagaimana setiap variabel didefinisikan dan diukur sehingga memudahkan pembaca memahami keterkaitan antara konsep teoretis dan prosedur pengukuran. Contoh format tabel operasionalisasi variabel disajikan pada Tabel 12.2.
+::: {#tbl-operasionalisasi}
+|  |  |  |  |  |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| **Variabel** | **Definisi Konseptual** | **Dimensi/Indikator** | **Instrumen** | **Skala** |
+| *Resiliensi* | Kemampuan individu untuk beradaptasi secara positif ketika menghadapi kesulitan hidup. | Kemampuan beradaptasi, ketekunan, regulasi emosi, optimisme | CD-RISC-10 | Likert 0–4 |
+| *Academic Burnout* | Kondisi kelelahan akibat tuntutan akademik yang berkepanjangan. | *Exhaustion*, *cynicism*, *academic efficacy* | MBI-SS | Likert 1–7 |
 
-<table>
-<tbody>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td><p><strong>Variabel</strong></p></td>
-<td></td>
-<td><p><strong>Definisi Konseptual</strong></p></td>
-<td></td>
-<td><p><strong>Dimensi/Indikator</strong></p></td>
-<td></td>
-<td><p><strong>Instrumen</strong></p></td>
-<td></td>
-<td><p><strong>Skala</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td><p><em>Resiliensi</em></p></td>
-<td></td>
-<td><p>Kemampuan individu untuk beradaptasi secara positif ketika menghadapi kesulitan hidup.</p></td>
-<td></td>
-<td><p>Kemampuan beradaptasi, ketekunan, regulasi emosi, optimisme</p></td>
-<td></td>
-<td><p>CD-RISC-10</p></td>
-<td></td>
-<td><p>Likert 0–4</p></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td><p><em>Academic Burnout</em></p></td>
-<td></td>
-<td><p>Kondisi kelelahan akibat tuntutan akademik yang berkepanjangan.</p></td>
-<td></td>
-<td><p><em>Exhaustion</em>, <em>cynicism</em>, <em>academic efficacy</em></p></td>
-<td></td>
-<td><p>MBI-SS</p></td>
-<td></td>
-<td><p>Likert 1–7</p></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+: Contoh Tabel Operasionalisasi Variabel
+:::
 
-Tabel 12.2 Contoh Tabel Operasionalisasi Variabel
+::: callout-tip
+## Rangkuman
+
+1.  Hipotesis merupakan dugaan ilmiah yang disusun berdasarkan teori dan temuan penelitian terdahulu serta dapat diuji secara empiris untuk menjawab rumusan masalah penelitian.
+2.  Hipotesis dapat diklasifikasikan berdasarkan fungsinya dalam penelitian, bentuk statistiknya, dan arah dugaan yang diajukan peneliti. Pemilihan jenis hipotesis harus disesuaikan dengan tujuan penelitian dan teknik analisis yang akan digunakan.
+3.  Hipotesis yang baik harus memiliki landasan teoretis yang kuat, dirumuskan secara jelas dan spesifik, menyatakan hubungan antarvariabel, dapat diuji secara empiris, dapat dibuktikan salah (*falsifiable*), serta konsisten dengan tujuan penelitian.
+4.  Operasionalisasi variabel merupakan proses menerjemahkan konsep atau konstruk teoretis menjadi variabel yang dapat diukur melalui indikator, instrumen, prosedur penskoran, dan interpretasi hasil pengukuran.
+5.  Definisi konseptual dan definisi operasional harus disusun secara selaras agar instrumen yang digunakan benar-benar mengukur konstruk yang menjadi fokus penelitian.
+6.  Hasil operasionalisasi variabel umumnya dirangkum dalam tabel operasionalisasi variabel yang menjadi dasar penyusunan instrumen dan pelaksanaan penelitian
+:::
+
+::: callout-important
+## Refleksi & Diskusi
+
+1.  Mengapa penelitian kuantitatif yang bertujuan menguji hubungan, perbedaan, atau pengaruh antarvariabel umumnya memerlukan hipotesis, sedangkan penelitian deskriptif tidak selalu memerlukannya?
+
+2.  Perhatikan topik penelitian berikut:
+
+    > *Hubungan antara penggunaan media sosial dan kesejahteraan psikologis pada mahasiswa.*
+
+    Lakukan langkah-langkah berikut:
+
+    -   Rumuskan satu hipotesis penelitian.
+    -   Tentukan hipotesis nol (H₀) dan hipotesis alternatif (H₁).
+    -   Jelaskan apakah hipotesis tersebut termasuk hipotesis satu arah atau dua arah beserta alasannya.
+
+3.  Pilih satu variabel psikologis yang Anda minati (misalnya *resiliensi*, *self-esteem*, *academic burnout*, atau *motivasi belajar*), kemudian lakukan operasionalisasi variabel dengan mengidentifikasi:
+
+    -   definisi konseptual;
+    -   dimensi atau indikator;
+    -   instrumen yang digunakan;
+    -   skala pengukuran; dan
+    -   interpretasi skor.
+
+4.  Susun sebuah tabel operasionalisasi variabel untuk penelitian kuantitatif yang melibatkan sedikitnya dua variabel. Pastikan setiap variabel memiliki definisi konseptual, indikator atau dimensi, instrumen pengukuran, dan skala yang sesuai
+:::
+
+::: sectionrefs
+:::
