@@ -145,7 +145,7 @@ Karena interpretasi sangat dipengaruhi oleh cara peneliti memahami dan memaknai 
 - Mengapa proses pengumpulan dan analisis data dalam penelitian kualitatif bersifat iteratif? Jelaskan implikasinya terhadap pelaksanaan penelitian.
 - Jika Anda ingin memahami pengalaman mahasiswa baru dalam beradaptasi dengan kehidupan kampus, teknik pengumpulan data apa yang paling sesuai? Jelaskan alasan pemilihan Anda.
 - Mengapa proses *coding* tidak dapat disamakan dengan sekadar memberi label pada data? Diskusikan peran *coding* dalam membangun tema penelitian.
-- Apa perbedaan antara **kode**, **kategori**, dan **tema** dalam analisis tematik? Berikan ilustrasi sederhana untuk menjelaskan hubungan ketiganya.
+- Apa perbedaan antara kode, kategori, dan tema dalam analisis tematik? Berikan ilustrasi sederhana untuk menjelaskan hubungan ketiganya.
 - Menurut Anda, mengapa interpretasi dalam penelitian kualitatif harus selalu didukung oleh bukti yang berasal dari data?
 :::
 
