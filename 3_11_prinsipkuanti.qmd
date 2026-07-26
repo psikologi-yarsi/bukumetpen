@@ -10,7 +10,7 @@ reference-section-title: Daftar Pustaka
 citeproc: true
 ---
 
-# Pengumpulan dan Analisis Data Kualitatif
+# Prinsip dan Logika Penelitian Kuantitatif
 
 ::: callout-note
 ## Capaian Pembelajaran
