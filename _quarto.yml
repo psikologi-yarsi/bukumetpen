@@ -26,9 +26,9 @@ book:
       chapters: 
         - 1_1_ilmu.qmd
         - 1_2_hakikat.qmd
+        - 1_3_masalah.qmd
         - 1_4_literatur.qmd
         - 1_5_desain.qmd
-        - 1_6_sampling.qmd
         - 1_7_validitas.qmd
     - part: 2_pengantar.qmd
       chapters:
@@ -38,6 +38,7 @@ book:
       chapters: 
         - 3_11_prinsipkuanti.qmd
         - 3_12_hipotesis.qmd
+        - 1_6_sampling.qmd
         - 3_13_eksperimen.qmd
         - 3_14_korelasional.qmd
         - 3_17_proposalkuanti.qmd
