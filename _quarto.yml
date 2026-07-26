@@ -55,8 +55,9 @@ filters:
   # Run Quarto's default filters first
   - quarto
   - section-bibliographies
+citeproc: false
 bibliography: references.bib
-reference-section-title: References
+reference-section-title: "Daftar Pustaka"
 csl: apa7id.csl
 
 lang: id
@@ -79,6 +80,7 @@ format:
     nocite: false
   pdf:
     documentclass: scrreprt
+    keep-tex: true
     
   docx: 
     toc: false

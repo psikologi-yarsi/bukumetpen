@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -111,9 +111,7 @@ Dalam praktiknya, menarik kesimpulan mengenai hubungan sebab-akibat tidaklah sed
 
 Secara keseluruhan, validitas internal menentukan sejauh mana kesimpulan mengenai hubungan sebab-akibat dalam suatu penelitian benar-benar mencerminkan pengaruh variabel bebas terhadap variabel terikat, bukan dipengaruhi oleh faktor-faktor lain yang tidak dikendalikan [@Shadish2002]. Oleh karena itu, peneliti perlu mengidentifikasi dan mengendalikan berbagai ancaman terhadap validitas internal sejak tahap perancangan hingga pelaksanaan penelitian. Ringkasan mengenai sembilan ancaman utama terhadap validitas internal disajikan pada @fig-internal.
 
-::: {#fig-internal}
-![Sumber-sumber Ancaman terhadap Validitas Internal](images/validitas%20internal.png)
-:::
+![Sumber-sumber Ancaman terhadap Validitas Internal](images/validitas%20internal2.png){#fig-internal}
 
 ### Validitas Eksternal
 
@@ -133,17 +131,17 @@ Beberapa faktor dapat memengaruhi validitas eksternal suatu penelitian, yaitu va
 
     Validitas populasi berkaitan dengan sejauh mana hasil penelitian dapat digeneralisasikan dari sampel penelitian ke populasi sasaran. Semakin representatif sampel terhadap populasi yang ingin diteliti, semakin besar peluang hasil penelitian dapat diterapkan pada populasi tersebut [@Gravetter2018]. Oleh karena itu, peneliti perlu mempertimbangkan karakteristik partisipan yang dipilih agar sesuai dengan tujuan penelitian. Beberapa hal yang memengaruhi validitas eksternal sebuah penelitian mencakup:
 
-    -   Representativitas sampel
+    - Representativitas sampel
 
-        Representativitas sampel terhadap populasi saasaran menunjukkan sejauh mana karakteristik sampel mencerminkan karakteristik populasi sasaran. Sampel yang representatif tidak selalu berarti berukuran besar, tetapi mampu menggambarkan karakteristik penting dari populasi yang diteliti [@Morling2024]. Sebagai contoh, hasil penelitian mengenai stres akademik yang hanya melibatkan mahasiswa dari satu program studi belum tentu dapat digeneralisasikan kepada seluruh mahasiswa di Indonesia karena karakteristik populasinya berbeda.
+      Representativitas sampel terhadap populasi saasaran menunjukkan sejauh mana karakteristik sampel mencerminkan karakteristik populasi sasaran. Sampel yang representatif tidak selalu berarti berukuran besar, tetapi mampu menggambarkan karakteristik penting dari populasi yang diteliti [@Morling2024]. Sebagai contoh, hasil penelitian mengenai stres akademik yang hanya melibatkan mahasiswa dari satu program studi belum tentu dapat digeneralisasikan kepada seluruh mahasiswa di Indonesia karena karakteristik populasinya berbeda.
 
-    -   Bias seleksi (*Selection bias*)
+    - Bias seleksi (*Selection bias*)
 
-        *Selection bias* terjadi ketika sampel yang digunakan tidak mewakili populasi sasaran. Bias ini dapat muncul karena penggunaan teknik *convenience sampling*, rendahnya tingkat respons, atau karakteristik tertentu yang menyebabkan sebagian individu lebih mungkin menjadi partisipan [@Gravetter2018]. Peneliti dapat mengurangi bias ini dengan menggunakan teknik sampling yang sesuai dan menjelaskan secara terbuka keterbatasan sampel yang digunakan.
+      *Selection bias* terjadi ketika sampel yang digunakan tidak mewakili populasi sasaran. Bias ini dapat muncul karena penggunaan teknik *convenience sampling*, rendahnya tingkat respons, atau karakteristik tertentu yang menyebabkan sebagian individu lebih mungkin menjadi partisipan [@Gravetter2018]. Peneliti dapat mengurangi bias ini dengan menggunakan teknik sampling yang sesuai dan menjelaskan secara terbuka keterbatasan sampel yang digunakan.
 
-    -   Replikasi pada populasi yang berbeda
+    - Replikasi pada populasi yang berbeda
 
-        Validitas populasi juga dapat diperkuat melalui replikasi penelitian pada populasi yang berbeda. Apabila hasil penelitian tetap konsisten ketika dilakukan pada kelompok partisipan yang memiliki karakteristik berbeda, maka tingkat kepercayaan terhadap kemampuan generalisasi hasil penelitian akan semakin tinggi [@Shadish2002]. Oleh karena itu, replikasi menjadi salah satu cara penting untuk menguji apakah suatu temuan berlaku secara lebih luas.
+      Validitas populasi juga dapat diperkuat melalui replikasi penelitian pada populasi yang berbeda. Apabila hasil penelitian tetap konsisten ketika dilakukan pada kelompok partisipan yang memiliki karakteristik berbeda, maka tingkat kepercayaan terhadap kemampuan generalisasi hasil penelitian akan semakin tinggi [@Shadish2002]. Oleh karena itu, replikasi menjadi salah satu cara penting untuk menguji apakah suatu temuan berlaku secara lebih luas.
 
 2.  **Validitas Ekologis**
 
@@ -153,23 +151,23 @@ Beberapa faktor dapat memengaruhi validitas eksternal suatu penelitian, yaitu va
 
     Beberapa faktor yang dapat memengaruhi validitas ekologis antara lain:
 
-    -   *Multiple-treatment interference*
+    - *Multiple-treatment interference*
 
-        *Multiple-treatment interference* terjadi ketika partisipan menerima lebih dari satu perlakuan sehingga efek suatu perlakuan dipengaruhi oleh perlakuan sebelumnya. Kondisi ini menyebabkan hasil penelitian menjadi sulit digeneralisasikan ke situasi nyata yang biasanya hanya melibatkan satu jenis perlakuan [@Campbell1963].
+      *Multiple-treatment interference* terjadi ketika partisipan menerima lebih dari satu perlakuan sehingga efek suatu perlakuan dipengaruhi oleh perlakuan sebelumnya. Kondisi ini menyebabkan hasil penelitian menjadi sulit digeneralisasikan ke situasi nyata yang biasanya hanya melibatkan satu jenis perlakuan [@Campbell1963].
 
-        Sebagai contoh, peserta penelitian yang mengikuti beberapa program pelatihan secara berurutan mungkin menunjukkan peningkatan kemampuan yang berasal dari kombinasi seluruh pelatihan, bukan dari satu program tertentu. Untuk mengurangi ancaman ini, peneliti dapat memberikan jeda waktu (*washout period*) atau menggunakan kelompok partisipan yang berbeda untuk setiap perlakuan.
+      Sebagai contoh, peserta penelitian yang mengikuti beberapa program pelatihan secara berurutan mungkin menunjukkan peningkatan kemampuan yang berasal dari kombinasi seluruh pelatihan, bukan dari satu program tertentu. Untuk mengurangi ancaman ini, peneliti dapat memberikan jeda waktu (*washout period*) atau menggunakan kelompok partisipan yang berbeda untuk setiap perlakuan.
 
-    -   *Hawthorne effect*
+    - *Hawthorne effect*
 
-        *Hawthorne effect* terjadi ketika partisipan mengubah perilakunya karena menyadari bahwa dirinya sedang diamati atau menjadi bagian dari suatu penelitian. Akibatnya, perilaku yang muncul selama penelitian belum tentu mencerminkan perilaku mereka dalam kondisi sehari-hari [@Morling2024].
+      *Hawthorne effect* terjadi ketika partisipan mengubah perilakunya karena menyadari bahwa dirinya sedang diamati atau menjadi bagian dari suatu penelitian. Akibatnya, perilaku yang muncul selama penelitian belum tentu mencerminkan perilaku mereka dalam kondisi sehari-hari [@Morling2024].
 
-        Sebagai contoh, karyawan yang mengetahui bahwa produktivitasnya sedang diamati mungkin bekerja lebih rajin selama penelitian berlangsung. Peneliti dapat mengurangi efek ini dengan menciptakan situasi pengamatan yang senatural mungkin serta membiasakan partisipan terhadap kehadiran peneliti sebelum pengumpulan data dilakukan.
+      Sebagai contoh, karyawan yang mengetahui bahwa produktivitasnya sedang diamati mungkin bekerja lebih rajin selama penelitian berlangsung. Peneliti dapat mengurangi efek ini dengan menciptakan situasi pengamatan yang senatural mungkin serta membiasakan partisipan terhadap kehadiran peneliti sebelum pengumpulan data dilakukan.
 
-    -   *Pretest sensitization*
+    - *Pretest sensitization*
 
-        *Pretest sensitization* terjadi ketika pemberian pretest memengaruhi respons partisipan terhadap perlakuan atau pengukuran berikutnya. Dalam kondisi tersebut, hasil penelitian mungkin hanya berlaku bagi individu yang telah mengikuti pretest sehingga kemampuan generalisasinya menjadi terbatas [@Shadish2002].
+      *Pretest sensitization* terjadi ketika pemberian pretest memengaruhi respons partisipan terhadap perlakuan atau pengukuran berikutnya. Dalam kondisi tersebut, hasil penelitian mungkin hanya berlaku bagi individu yang telah mengikuti pretest sehingga kemampuan generalisasinya menjadi terbatas [@Shadish2002].
 
-        Sebagai contoh, pengisian kuesioner mengenai gaya hidup sehat sebelum mengikuti program edukasi dapat membuat peserta lebih memperhatikan perilaku kesehatannya. Akibatnya, perubahan yang terjadi setelah intervensi mungkin dipengaruhi oleh pretest, bukan hanya oleh program edukasi yang diberikan. Ancaman ini dapat dikurangi melalui penggunaan desain *Solomon Four-Group Design* atau dengan mempertimbangkan kembali kebutuhan penggunaan pretest.
+      Sebagai contoh, pengisian kuesioner mengenai gaya hidup sehat sebelum mengikuti program edukasi dapat membuat peserta lebih memperhatikan perilaku kesehatannya. Akibatnya, perubahan yang terjadi setelah intervensi mungkin dipengaruhi oleh pretest, bukan hanya oleh program edukasi yang diberikan. Ancaman ini dapat dikurangi melalui penggunaan desain *Solomon Four-Group Design* atau dengan mempertimbangkan kembali kebutuhan penggunaan pretest.
 
 3.  **Validitas Temporal**
 
@@ -179,19 +177,17 @@ Beberapa faktor dapat memengaruhi validitas eksternal suatu penelitian, yaitu va
 
     Dua bentuk variasi waktu yang sering dibahas dalam literatur adalah:
 
-    -   *Fixed-time variation*
+    - *Fixed-time variation*
 
-        *Fixed-time variation* mengacu pada perubahan yang terjadi secara teratur dan dapat diprediksi, seperti perubahan perilaku berdasarkan waktu dalam sehari, hari dalam seminggu, atau musim tertentu. Misalnya, tingkat kelelahan responden dapat berbeda antara pengambilan data pada pagi hari dan malam hari. Variasi tersebut dapat memengaruhi hasil penelitian apabila waktu pengumpulan data tidak diperhatikan dengan baik.
+      *Fixed-time variation* mengacu pada perubahan yang terjadi secara teratur dan dapat diprediksi, seperti perubahan perilaku berdasarkan waktu dalam sehari, hari dalam seminggu, atau musim tertentu. Misalnya, tingkat kelelahan responden dapat berbeda antara pengambilan data pada pagi hari dan malam hari. Variasi tersebut dapat memengaruhi hasil penelitian apabila waktu pengumpulan data tidak diperhatikan dengan baik.
 
-    -   *Variable-time variation*
+    - *Variable-time variation*
 
-        *Variable-time variation* merupakan perubahan yang tidak dapat diprediksi secara pasti, seperti perubahan kebijakan pemerintah, bencana alam, pandemi, atau kondisi ekonomi. Peristiwa-peristiwa tersebut dapat memengaruhi hasil penelitian sehingga peneliti perlu mempertimbangkan konteks waktu ketika menginterpretasikan maupun menggeneralisasikan temuan penelitian. Pandemi COVID-19 merupakan contoh peristiwa yang dapat mengubah perilaku masyarakat secara drastis sehingga hasil penelitian yang dilakukan sebelum pandemi belum tentu tetap berlaku setelah pandemi.
+      *Variable-time variation* merupakan perubahan yang tidak dapat diprediksi secara pasti, seperti perubahan kebijakan pemerintah, bencana alam, pandemi, atau kondisi ekonomi. Peristiwa-peristiwa tersebut dapat memengaruhi hasil penelitian sehingga peneliti perlu mempertimbangkan konteks waktu ketika menginterpretasikan maupun menggeneralisasikan temuan penelitian. Pandemi COVID-19 merupakan contoh peristiwa yang dapat mengubah perilaku masyarakat secara drastis sehingga hasil penelitian yang dilakukan sebelum pandemi belum tentu tetap berlaku setelah pandemi.
 
 Secara keseluruhan, validitas eksternal menentukan sejauh mana hasil penelitian dapat diterapkan pada populasi, situasi, dan waktu yang berbeda dari kondisi penelitian yang dilakukan. Oleh karena itu, peneliti perlu mempertimbangkan berbagai faktor yang dapat memengaruhi kemampuan generalisasi hasil penelitian sejak tahap perancangan penelitian hingga interpretasi hasil. Ringkasan mengenai berbagai faktor yang memengaruhi validitas eksternal beserta strategi untuk meningkatkannya disajikan pada @fig-eksternal.
 
-::: {#fig-eksternal}
-![Ringkasan Faktor yang Memengaruhi Validitas Eksternal](images/validitas%20eksternal.png)
-:::
+![Ringkasan Faktor yang Memengaruhi Validitas Eksternal](images/validitas%20eksternal2.png){#fig-eksternal}
 
 ::: callout-tip
 ## Rangkuman
@@ -212,6 +208,6 @@ Secara keseluruhan, validitas eksternal menentukan sejauh mana hasil penelitian 
 4.  Dalam kondisi apa peneliti sebaiknya lebih memprioritaskan validitas internal dibandingkan validitas eksternal? Sebaliknya, kapan validitas eksternal menjadi lebih penting?
 5.  Menurut Anda, apakah mungkin suatu penelitian memiliki validitas internal dan validitas eksternal yang sama-sama sangat tinggi? Jelaskan alasan Anda.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

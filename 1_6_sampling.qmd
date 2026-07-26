@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -221,6 +221,6 @@ Penting untuk dipahami bahwa jumlah sampel tidak secara langsung menentukan kual
 - Apakah keputusan tersebut didasarkan pada pertimbangan ilmiah atau hanya keterbatasan praktis?
 - Apa saja risiko etis yang mungkin muncul dalam proses pengambilan partisipan, dan bagaimana Anda mengantisipasinya?
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

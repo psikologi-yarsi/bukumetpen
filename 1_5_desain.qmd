@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -288,6 +288,6 @@ Dalam banyak penelitian psikologi modern, peneliti sering mengombinasikan bebera
 - Mengapa pemilihan teknik pengumpulan data harus disesuaikan dengan tujuan penelitian?
 - Menurut Anda, dalam penelitian psikologi kapan wawancara lebih tepat digunakan dibandingkan kuesioner?
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

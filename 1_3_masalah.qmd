@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title: 
 citeproc: true
 ---
 
@@ -45,9 +45,7 @@ Untuk mengembangkan suatu fenomena menjadi masalah penelitian, peneliti perlu me
 
 Kesenjangan dapat muncul karena suatu fenomena belum cukup dipahami, hasil penelitian tidak konsisten, teori belum memberikan penjelasan yang memadai, atau bukti yang tersedia masih terbatas. Karena itu, peneliti perlu menunjukkan **apa yang sudah diketahui, apa yang belum diketahui, dan mengapa hal tersebut penting untuk diketahui**. Proses ini ditunjukkan pada @fig-fenomena.
 
-::: {#fig-fenomena}
-![Dari Fenomena Menjadi Masalah Penelitian](images/fenomena.png)
-:::
+![Dari Fenomena Menjadi Masalah Penelitian](images/fenomena.png){#fig-fenomena}
 
 ## Mengidentifikasi Kesenjangan Pengetahuan
 
@@ -217,6 +215,6 @@ Contoh tersebut menunjukkan bahwa pertanyaan penelitian dikembangkan melalui pro
 - Perhatikan pertanyaan berikut: “Apakah penggunaan gim yang mengandung kekerasan menyebabkan agresivitas pada remaja?” Jika peneliti hanya merencanakan survei korelasional satu kali pengukuran, apa yang perlu diperbaiki dari pertanyaan tersebut dan mengapa?
 - Pilih satu topik penelitian yang Anda minati. Susun secara berurutan: fenomena → pengetahuan yang tersedia → kesenjangan pengetahuan → masalah penelitian → satu pertanyaan penelitian. Kemudian tentukan apakah pertanyaan tersebut bersifat deskriptif, komparatif, asosiatif, atau kausal.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::
