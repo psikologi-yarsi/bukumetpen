@@ -65,9 +65,7 @@ Dalam praktiknya, peneliti juga dapat mengombinasikan beberapa teknik pengumpula
 
 Perlu diperhatikan bahwa pemilihan teknik pengumpulan data tidak menentukan apakah suatu penelitian termasuk desain korelasional atau bukan. Desain penelitian ditentukan oleh tujuan penelitian, yaitu mengkaji hubungan antarvariabel, sedangkan teknik pengumpulan data dipilih berdasarkan jenis variabel yang akan diukur dan ketersediaan sumber data [@Creswell2018a]. Contoh penerapan desain korelasional mulai dari identifikasi fenomena hingga pemilihan desain penelitian dapat dilihat pada @fig-korelasional.
 
-::: {#fig-korelasional}
-![Contoh Penelitian Menggunakan Desain Korelasional](images/korelasional.png)
-:::
+![Contoh Penelitian Menggunakan Desain Korelasional](images/korelasional.png){#fig-korelasional}
 
 ### Keunggulan & Keterbatasan
 
@@ -112,9 +110,7 @@ Survei dapat dilaksanakan secara tatap muka, melalui telepon, melalui pos, maupu
 
 Agar hasil survei dapat menggambarkan kondisi populasi secara akurat, peneliti perlu menggunakan instrumen yang valid dan reliabel, memilih sampel yang representatif, serta mengupayakan tingkat respons (*response rate*) yang memadai untuk meminimalkan potensi *nonresponse bias* [@Fraenkel2023]. Contoh penerapan desain survei mulai dari identifikasi fenomena hingga pemilihan desain penelitian dapat dilihat pada @fig-survei.
 
-::: {#fig-survei}
-![Contoh penelitian dengan desain survei](images/survei.png)
-:::
+![Contoh Penelitian dengan Desain Survei](images/survei.png){#fig-survei}
 
 ### Keunggulan & Keterbatasan
 
@@ -155,11 +151,9 @@ Perbedaan tersebut tidak berarti bahwa kedua desain tidak dapat digunakan secara
 
 ## Memilih Desain Penelitian yang Tepat
 
-Pemilihan desain penelitian harus disesuaikan dengan tujuan dan pertanyaan penelitian. Meskipun sama-sama termasuk penelitian kuantitatif non-eksperimental, desain korelasional dan desain survei memiliki fokus yang berbeda. @Fig-korelvssurvei dapat digunakan sebagai panduan dalam memilih desain yang paling sesuai.
+Pemilihan desain penelitian harus disesuaikan dengan tujuan dan pertanyaan penelitian. Meskipun sama-sama termasuk penelitian kuantitatif non-eksperimental, desain korelasional dan desain survei memiliki fokus yang berbeda. @fig-korelvssurvei dapat digunakan sebagai panduan dalam memilih desain yang paling sesuai.
 
-::: {#fig-korelvssurvei}
-![Panduan Pemilihan Desain Korelasional vs. Survei](images/korelasivssurvei2.png)
-:::
+![Panduan Pemilihan Desain Korelasional vs. Survei](images/korelasivssurvei2.png){#fig-korelvssurvei}
 
 ::: callout-tip
 ## Rangkuman

@@ -67,6 +67,10 @@ Tujuan intervensi berkaitan dengan upaya menciptakan perubahan yang terencana me
 
 Sebagai contoh, penelitian mengenai efektivitas terapi kognitif-perilaku dalam mengurangi gejala depresi bertujuan memastikan bahwa intervensi tersebut benar-benar memberikan manfaat. Hasil penelitian semacam ini menjadi dasar praktik berbasis bukti (*evidence-based practice*). Dengan demikian, penelitian intervensi menghubungkan teori dengan praktik nyata.
 
+@fig-tujuanpenelitian menampilkan contoh-contoh pertanyaan penelitian dan fokus utama dari tiap tujuan penelitian.
+
+![Lima Tujuan Penelitian Ilmiah](images/tujuanpenelitian.png){#fig-tujuanpenelitian}
+
 ## Jenis-Jenis Penelitian
 
 Penelitian dapat diklasifikasikan berdasarkan berbagai kriteria, termasuk tujuan, pendekatan, waktu pengumpulan data, dan desain metodologis. Klasifikasi ini membantu peneliti memilih strategi yang sesuai dengan pertanyaan penelitian [@Creswell2018a; @Neuman2014].
@@ -89,9 +93,13 @@ Sebaliknya, penelitian kualitatif berakar pada paradigma konstruktivisme yang me
 
 Penelitian eksperimental melibatkan manipulasi variabel independen dan kontrol terhadap variabel luar untuk menguji hubungan sebab-akibat [@Shadish2002]. Penelitian noneksperimental, seperti survei atau studi korelasional, tidak melibatkan manipulasi variabel tetapi tetap memberikan informasi penting mengenai hubungan antarvariabel.
 
+Untuk dapat lebih memahami bagaiamana sebuah penelitian dapat diklasifikasikan ke dalam jenis-jenis penelitian, lihat @fig-jenisriset.
+
+![Berbagai Dimensi Klasifikasi Penelitian](images/jenisriset.png){#fig-jenisriset}
+
 ## Siklus Proses Penelitian
 
-Penelitian ilmiah merupakan proses siklik yang melibatkan tahapan yang saling berkaitan. Proses ini dimulai dari identifikasi masalah dan berlanjut hingga interpretasi serta evaluasi hasil [@Babbie2021]. Setiap tahap memengaruhi tahap berikutnya, sehingga penelitian bukanlah prosedur linear yang kaku.
+Penelitian ilmiah merupakan proses siklik yang melibatkan tahapan yang saling berkaitan. Proses ini dimulai dari pengamatan fenomena dan identifikasi masalah, berlanjut hingga interpretasi serta evaluasi hasil [@Babbie2021]. Setiap tahap memengaruhi tahap berikutnya, sehingga penelitian bukanlah prosedur linear yang kaku.
 
 Tinjauan literatur menjadi tahap penting dalam proses ini karena membantu peneliti memahami posisi penelitiannya dalam konteks ilmu yang lebih luas. Setelah itu, peneliti merancang desain penelitian, mengumpulkan data, dan melakukan analisis. Hasil penelitian kemudian diinterpretasikan dalam kaitannya dengan teori dan penelitian sebelumnya.
 
@@ -154,6 +162,8 @@ Diskusi menginterpretasikan hasil penelitian dalam kaitannya dengan hipotesis da
 - Apa perbedaan utama antara penelitian kuantitatif dan kualitatif dalam hal tujuan dan pendekatan?
 - Jika Anda ingin meneliti fenomena “kepercayaan diri mahasiswa saat presentasi”, pendekatan apa yang akan Anda pilih? Jelaskan alasan Anda secara singkat.
 :::
+
 ## Daftar Pustaka {.unnumbered .unlisted}
+
 ::: sectionrefs
 :::
