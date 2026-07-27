@@ -119,29 +119,31 @@ Tahapan umum dalam proses penelitian meliputi:
 
 Penelitian ilmiah memiliki struktur yang sistematis dan terstandar. Struktur ini tidak sekadar format penulisan, tetapi mencerminkan logika berpikir ilmiah yang transparan dan dapat diuji [@AmericanPsychologicalAssociation2020]. Setiap elemen dalam laporan penelitian memiliki fungsi epistemologis tertentu dalam membangun pengetahuan yang dapat dipertanggungjawabkan.
 
-### Pendahuluan
+1.  **Pendahuluan**
 
-Pendahuluan menjelaskan latar belakang masalah, konteks fenomena, serta alasan pentingnya penelitian dilakukan. Bagian ini membangun argumentasi ilmiah yang mengarah pada pertanyaan penelitian yang spesifik [@Creswell2018a]. Dalam psikologi, pendahuluan biasanya menunjukkan kesenjangan antara fenomena empiris dan penjelasan teoretis yang tersedia.
+    Pendahuluan menjelaskan latar belakang masalah, konteks fenomena, serta alasan pentingnya penelitian dilakukan. Bagian ini membangun argumentasi ilmiah yang mengarah pada pertanyaan penelitian yang spesifik [@Creswell2018a]. Dalam psikologi, pendahuluan biasanya menunjukkan kesenjangan antara fenomena empiris dan penjelasan teoretis yang tersedia.
 
-### Tinjauan Literatur
+2.  **Tinjauan Literatur**
 
-Tinjauan literatur menempatkan penelitian dalam tradisi ilmiah yang telah ada. Bagian ini menyajikan teori dan temuan terdahulu secara kritis untuk menunjukkan posisi penelitian yang sedang dilakukan [@Neuman2014]. Tujuannya adalah mengidentifikasi kesenjangan atau inkonsistensi yang menjadi dasar penelitian baru.
+    Tinjauan literatur menempatkan penelitian dalam tradisi ilmiah yang telah ada. Bagian ini menyajikan teori dan temuan terdahulu secara kritis untuk menunjukkan posisi penelitian yang sedang dilakukan [@Neuman2014]. Tujuannya adalah mengidentifikasi kesenjangan atau inkonsistensi yang menjadi dasar penelitian baru.
 
-### Rumusan Masalah dan Hipotesis
+3.  **Rumusan Masalah dan Hipotesis**
 
-Rumusan masalah mengarahkan fokus penelitian agar jelas dan terukur. Dalam penelitian kuantitatif, rumusan masalah biasanya diterjemahkan menjadi hipotesis yang dapat diuji secara empiris [@Kerlinger2000]. Pada penelitian kualitatif, rumusan masalah lebih berbentuk pertanyaan terbuka yang mengarahkan eksplorasi makna.
+    Rumusan masalah mengarahkan fokus penelitian agar jelas dan terukur. Dalam penelitian kuantitatif, rumusan masalah biasanya diterjemahkan menjadi hipotesis yang dapat diuji secara empiris [@Kerlinger2000]. Pada penelitian kualitatif, rumusan masalah lebih berbentuk pertanyaan terbuka yang mengarahkan eksplorasi makna.
 
-### Metode Penelitian
+4.  **Metode Penelitian**
 
-Bagian metode menjelaskan desain, partisipan, instrumen, prosedur, dan teknik analisis data. Transparansi dalam metode memungkinkan penelitian direplikasi oleh peneliti lain [@Gravetter2018]. Bagian ini menjawab pertanyaan bagaimana pengetahuan diperoleh secara sistematis.
+    Bagian metode menjelaskan desain, partisipan, instrumen, prosedur, dan teknik analisis data. Transparansi dalam metode memungkinkan penelitian direplikasi oleh peneliti lain [@Gravetter2018]. Bagian ini menjawab pertanyaan bagaimana pengetahuan diperoleh secara sistematis.
 
-### Hasil
+5.  **Hasil**
 
-Bagian hasil menyajikan temuan penelitian secara objektif tanpa interpretasi berlebihan. Dalam penelitian kuantitatif, hasil biasanya disajikan dalam bentuk statistik, sedangkan dalam penelitian kualitatif berupa tema atau kategori utama [@Field2018]. Fokusnya adalah pada apa yang ditemukan dari data.
+    Bagian hasil menyajikan temuan penelitian secara objektif tanpa interpretasi berlebihan. Dalam penelitian kuantitatif, hasil biasanya disajikan dalam bentuk statistik, sedangkan dalam penelitian kualitatif berupa tema atau kategori utama [@Field2018]. Fokusnya adalah pada apa yang ditemukan dari data.
 
-### Diskusi
+6.  **Diskusi**
 
-Diskusi menginterpretasikan hasil penelitian dalam kaitannya dengan hipotesis dan teori yang digunakan. Bagian ini juga membahas implikasi serta keterbatasan penelitian [@AmericanPsychologicalAssociation2020]. Diskusi menunjukkan kontribusi penelitian terhadap pengembangan ilmu psikologi.
+    Diskusi menginterpretasikan hasil penelitian dalam kaitannya dengan hipotesis dan teori yang digunakan. Bagian ini juga membahas implikasi serta keterbatasan penelitian [@AmericanPsychologicalAssociation2020]. Diskusi menunjukkan kontribusi penelitian terhadap pengembangan ilmu psikologi.
+
+Pada akhirnya, penelitian ilmiah tidak dimulai dari pemilihan metode atau teknik analisis, melainkan dari adanya **masalah yang layak untuk diteliti dan pertanyaan yang perlu dijawab secara sistematis**. Pemahaman mengenai hakikat, tujuan, klasifikasi, dan proses penelitian yang telah dibahas dalam bab ini menjadi landasan untuk menentukan bagaimana suatu fenomena dapat diubah menjadi fokus penelitian yang jelas. Oleh karena itu, langkah penting berikutnya adalah memahami bagaimana peneliti **mengidentifikasi dan merumuskan masalah penelitian serta mengembangkannya menjadi pertanyaan penelitian yang spesifik dan dapat diteliti**, yang akan menjadi fokus pembahasan pada @sec-masalah.
 
 ::: callout-tip
 ## Rangkuman
