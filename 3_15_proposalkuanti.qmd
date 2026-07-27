@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -35,9 +35,9 @@ Proposal penelitian merupakan dokumen penting dalam setiap penelitian, baik kual
 
 Fungsi utama proposal adalah memastikan metodologi yang digunakan valid dan objektif, sekaligus meyakinkan pembaca mengenai kelayakan penelitian [@Creswell2018a]. Dengan demikian, proposal penelitian menjadi dasar evaluasi dan penentu keberlanjutan suatu penelitian. Secara garis besar, sebuah proposal perlu memiliki:
 
--   Tujuan penelitian yang jelas.
--   Rencana operasional dan detail untuk memperoleh jawaban atas pertanyaan penelitian.
--   Alasan atau rasionalisasi dari setiap rencana dan strategi yang dipilih.
+- Tujuan penelitian yang jelas.
+- Rencana operasional dan detail untuk memperoleh jawaban atas pertanyaan penelitian.
+- Alasan atau rasionalisasi dari setiap rencana dan strategi yang dipilih.
 
 Proposal penelitian yang dibuat seharusnya dapat menjadi panduan dalam melakukan penelitian, meyakinkan pembimbing dan penguji proposal penelitian, atau pemberi hibah penelitian.
 
@@ -59,14 +59,14 @@ Format proposal penelitian bisa berbeda dalam hal tata cara atau konten penulisa
 
 Pendahuluan proposal penelitian disusun berdasarkan tinjauan literatur yang relevan dengan masalah penelitian. Bagian ini dimulai dengan penjelasan umum mengenai topik, lalu secara bertahap mengerucut pada fokus atau isu utama yang diteliti. Pendahuluan yang baik biasanya memuat:
 
--   Gambaran umum topik penelitian;
--   Perspektif historis yang relevan dengan bidang studi;
--   Isu filosofis atau ideologis terkait topik;
--   Tren prevalensi (jika sesuai);
--   Teori-teori utama yang mendukung;
--   Isu, masalah, dan perkembangan dalam bidang penelitian;
--   Aspek teoritis maupun praktis yang penting; dan
--   Temuan utama yang berkaitan dengan isu inti.
+- Gambaran umum topik penelitian;
+- Perspektif historis yang relevan dengan bidang studi;
+- Isu filosofis atau ideologis terkait topik;
+- Tren prevalensi (jika sesuai);
+- Teori-teori utama yang mendukung;
+- Isu, masalah, dan perkembangan dalam bidang penelitian;
+- Aspek teoritis maupun praktis yang penting; dan
+- Temuan utama yang berkaitan dengan isu inti.
 
 Jika format penulisan proposal memiliki sub-bahasan landasan atau tinjauan teoretis yang dituliskan terpisah, teori utama dan pendukung di bagian pendahuluan hanya dibahas sekilas. Pembahasan lebih mendalam mengenai kerangka teoretis dan konseptual variabel penelitian dituliskan dalam sub-bahasan tinjauan teoretis. 
 
@@ -74,12 +74,12 @@ Jika format penulisan proposal memiliki sub-bahasan landasan atau tinjauan teore
 
 Setelah pengantar umum mengenai penelitian yang akan dilakukan, pendahuluan perlu berfokus pada isu utama penelitian dengan menyoroti celah (*gap*) pengetahuan yang ada [@Creswell2018a; @Findlay2019]. Bagian ini harus mengidentifikasi pertanyaan penelitian yang belum terjawab, sekaligus menjelaskan alasan dan relevansi setiap pertanyaan. Tinjauan literatur menjadi dasar penting untuk menunjukkan posisi penelitian, perbedaan pendapat yang ada, serta pengetahuan yang sudah tersedia. Secara khusus, pada bagian pendahuluan peneliti perlu:
 
--   Menentukan isu-isu utama yang mendasari studi;
--   Menguraikan perspektif atau aspek terkait isu tersebut;
--   Menunjukkan celah pengetahuan yang signifikan;
--   Merumuskan pertanyaan penelitian utama;
--   Menyajikan pengetahuan yang relevan, termasuk perbedaan pandangan dalam literatur;
--   Menjelaskan alasan penelitian dengan menekankan bagaimana studi akan mengisi celah tersebut.
+- Menentukan isu-isu utama yang mendasari studi;
+- Menguraikan perspektif atau aspek terkait isu tersebut;
+- Menunjukkan celah pengetahuan yang signifikan;
+- Merumuskan pertanyaan penelitian utama;
+- Menyajikan pengetahuan yang relevan, termasuk perbedaan pandangan dalam literatur;
+- Menjelaskan alasan penelitian dengan menekankan bagaimana studi akan mengisi celah tersebut.
 
 #### Tujuan Penelitian
 
@@ -122,13 +122,13 @@ Misalnya:
 
 Dalam uraian mengenai metode penelitian, desain penelitian harus disampaikan secara jelas dan rinci agar dapat menjawab pertanyaan penelitian [@Shadish2002]. Dalam rancangan atau proposal penelitian, peneliti perlu menyebutkan secara eksplisit dan spesifik jenis desain yang digunakan (misalnya studi kasus, deskriptif, *cross‑sectional*, eksperimen, atau non‑eksperimen), serta menguraikan kekuatan dan kelemahannya. Selain itu, penting juga untuk menguraikan prosedur logistik yang akan dilakukan sehingga penelitian dapat direplikasi oleh orang lain. Desain penelitian juga perlu memuat:
 
--   Populasi penelitian dan cara mengidentifikasinya;
--   Apakah menggunakan sampel atau seluruh populasi;
--   Cara menghubungi dan memperoleh persetujuan partisipan;
--   Metode pengumpulan data (wawancara, kuesioner, observasi);
--   Prosedur pengembalian kuesioner dan pengingat jika diperlukan;
--   Upaya menjaga kerahasiaan data; dan
--   Mekanisme komunikasi bagi responden yang memiliki pertanyaan.
+- Populasi penelitian dan cara mengidentifikasinya;
+- Apakah menggunakan sampel atau seluruh populasi;
+- Cara menghubungi dan memperoleh persetujuan partisipan;
+- Metode pengumpulan data (wawancara, kuesioner, observasi);
+- Prosedur pengembalian kuesioner dan pengingat jika diperlukan;
+- Upaya menjaga kerahasiaan data; dan
+- Mekanisme komunikasi bagi responden yang memiliki pertanyaan.
 
 #### *Setting* Penelitian
 
@@ -176,7 +176,7 @@ Sebagai ilustrasi, keterkaitan antar-komponen proposal dapat dilihat pada @tbl-k
 
 ::: {#tbl-komponen}
 | **Komponen** | **Contoh** |
-|:---|:---|
+|:-----------------------------------|:-----------------------------------|
 | Permasalahan penelitian | Apakah terdapat hubungan antara harga diri dan prestasi akademik mahasiswa? |
 | Tujuan penelitian | Mengetahui hubungan antara harga diri dan prestasi akademik mahasiswa |
 | Hipotesis | Terdapat hubungan positif antara harga diri dan prestasi akademik mahasiswa |
@@ -191,15 +191,15 @@ Sebagai ilustrasi, keterkaitan antar-komponen proposal dapat dilihat pada @tbl-k
 
 Beberapa kesalahan yang sering ditemukan dalam proposal penelitian antara lain:
 
--   Latar belakang terlalu panjang tetapi tidak mengarah pada permasalahan penelitian.
--   Tidak ada *research gap* yang jelas.
--   Permasalahan penelitian tidak dirumuskan secara jelas.
--   Tujuan penelitian tidak sesuai dengan rumusan masalah.
--   Hipotesis tidak diturunkan dari teori atau hasil penelitian sebelumnya.
--   Instrumen yang digunakan tidak sesuai dengan variabel yang diteliti.
--   Teknik analisis data tidak sesuai dengan tujuan penelitian.
--   Metode penelitian yang direncanakan sulit atau tidak realistis untuk dilaksanakan.
--   Referensi yang digunakan sudah terlalu lama atau tidak relevan dengan topik penelitian.
+- Latar belakang terlalu panjang tetapi tidak mengarah pada permasalahan penelitian.
+- Tidak ada *research gap* yang jelas.
+- Permasalahan penelitian tidak dirumuskan secara jelas.
+- Tujuan penelitian tidak sesuai dengan rumusan masalah.
+- Hipotesis tidak diturunkan dari teori atau hasil penelitian sebelumnya.
+- Instrumen yang digunakan tidak sesuai dengan variabel yang diteliti.
+- Teknik analisis data tidak sesuai dengan tujuan penelitian.
+- Metode penelitian yang direncanakan sulit atau tidak realistis untuk dilaksanakan.
+- Referensi yang digunakan sudah terlalu lama atau tidak relevan dengan topik penelitian.
 :::
 
 ## Prinsip-prinsip Penyusunan Proposal Penelitian
@@ -249,12 +249,12 @@ Dengan memperhatikan prinsip-prinsip tersebut, peneliti dapat menyusun proposal 
 ::: callout-important
 ## Refleksi & Diskusi
 
--   Mengapa proposal penelitian perlu disusun sebelum penelitian dilaksanakan? Jelaskan fungsi proposal penelitian menurut pendapat Anda.
--   Pilih satu topik penelitian psikologi yang menarik bagi Anda. Rumuskan satu permasalahan penelitian dan satu tujuan penelitian yang sesuai.
--   Menurut Anda, apa yang dapat terjadi jika tujuan penelitian, instrumen penelitian, dan teknik analisis data tidak saling konsisten? Berikan contoh sederhana.
--   Tinjau sebuah proposal penelitian atau skripsi yang pernah Anda baca. Apakah seluruh komponennya telah tersusun secara logis dan saling berkaitan? Jelaskan alasan Anda.
--   Buatlah matriks sederhana yang menunjukkan keterkaitan antara permasalahan penelitian, tujuan penelitian, hipotesis, instrumen penelitian, dan rencana analisis data untuk topik penelitian yang Anda minati.
+- Mengapa proposal penelitian perlu disusun sebelum penelitian dilaksanakan? Jelaskan fungsi proposal penelitian menurut pendapat Anda.
+- Pilih satu topik penelitian psikologi yang menarik bagi Anda. Rumuskan satu permasalahan penelitian dan satu tujuan penelitian yang sesuai.
+- Menurut Anda, apa yang dapat terjadi jika tujuan penelitian, instrumen penelitian, dan teknik analisis data tidak saling konsisten? Berikan contoh sederhana.
+- Tinjau sebuah proposal penelitian atau skripsi yang pernah Anda baca. Apakah seluruh komponennya telah tersusun secara logis dan saling berkaitan? Jelaskan alasan Anda.
+- Buatlah matriks sederhana yang menunjukkan keterkaitan antara permasalahan penelitian, tujuan penelitian, hipotesis, instrumen penelitian, dan rencana analisis data untuk topik penelitian yang Anda minati.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

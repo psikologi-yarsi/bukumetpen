@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -163,11 +163,11 @@ Hipotesis merupakan dugaan ilmiah yang menjadi dasar pengujian dalam penelitian 
 
 Mahasiswa sering melakukan beberapa kesalahan berikut ketika menyusun hipotesis penelitian:
 
--   Menyusun hipotesis tanpa didukung teori atau hasil penelitian terdahulu.
--   Merumuskan hipotesis yang terlalu umum sehingga variabel yang diteliti tidak jelas.
--   Menggunakan bentuk hipotesis yang tidak sesuai dengan tujuan penelitian, misalnya tujuan penelitian menguji hubungan tetapi hipotesis menyatakan adanya pengaruh.
--   Menggunakan konsep yang tidak dapat diukur secara empiris.
--   Menyusun hipotesis setelah melihat hasil analisis data (*HARKing* atau *Hypothesizing After the Results are Known*), padahal hipotesis seharusnya dirumuskan sebelum pengumpulan data dilakukan.
+- Menyusun hipotesis tanpa didukung teori atau hasil penelitian terdahulu.
+- Merumuskan hipotesis yang terlalu umum sehingga variabel yang diteliti tidak jelas.
+- Menggunakan bentuk hipotesis yang tidak sesuai dengan tujuan penelitian, misalnya tujuan penelitian menguji hubungan tetapi hipotesis menyatakan adanya pengaruh.
+- Menggunakan konsep yang tidak dapat diukur secara empiris.
+- Menyusun hipotesis setelah melihat hasil analisis data (*HARKing* atau *Hypothesizing After the Results are Known*), padahal hipotesis seharusnya dirumuskan sebelum pengumpulan data dilakukan.
 :::
 
 ## Operasionalisasi Variabel
@@ -257,11 +257,11 @@ Operasionalisasi variabel merupakan proses sistematis yang menghubungkan konsep 
 
 Beberapa kesalahan yang sering dilakukan mahasiswa ketika menyusun operasionalisasi variabel antara lain:
 
--   Menyalin definisi konseptual sebagai definisi operasional tanpa menjelaskan cara pengukurannya.
--   Menggunakan instrumen yang tidak sesuai dengan definisi konseptual variabel.
--   Mencantumkan indikator yang tidak berasal dari teori atau instrumen yang digunakan.
--   Tidak menjelaskan prosedur penskoran maupun interpretasi skor.
--   Menggabungkan indikator dari beberapa teori tanpa dasar konseptual yang jelas.
+- Menyalin definisi konseptual sebagai definisi operasional tanpa menjelaskan cara pengukurannya.
+- Menggunakan instrumen yang tidak sesuai dengan definisi konseptual variabel.
+- Mencantumkan indikator yang tidak berasal dari teori atau instrumen yang digunakan.
+- Tidak menjelaskan prosedur penskoran maupun interpretasi skor.
+- Menggabungkan indikator dari beberapa teori tanpa dasar konseptual yang jelas.
 :::
 
 Setelah variabel berhasil dioperasionalkan, informasi tersebut biasanya dirangkum dalam bentuk tabel operasionalisasi variabel. Tabel ini berfungsi sebagai ringkasan mengenai bagaimana setiap variabel didefinisikan dan diukur sehingga memudahkan pembaca memahami keterkaitan antara konsep teoretis dan prosedur pengukuran. Contoh format tabel operasionalisasi variabel disajikan pada @tbl-operasionalisasi.
@@ -298,20 +298,20 @@ Setelah variabel berhasil dioperasionalkan, informasi tersebut biasanya dirangku
 
     Lakukan langkah-langkah berikut:
 
-    -   Rumuskan satu hipotesis penelitian.
-    -   Tentukan hipotesis nol (H₀) dan hipotesis alternatif (H₁).
-    -   Jelaskan apakah hipotesis tersebut termasuk hipotesis satu arah atau dua arah beserta alasannya.
+    - Rumuskan satu hipotesis penelitian.
+    - Tentukan hipotesis nol (H₀) dan hipotesis alternatif (H₁).
+    - Jelaskan apakah hipotesis tersebut termasuk hipotesis satu arah atau dua arah beserta alasannya.
 
 3.  Pilih satu variabel psikologis yang Anda minati (misalnya *resiliensi*, *self-esteem*, *academic burnout*, atau *motivasi belajar*), kemudian lakukan operasionalisasi variabel dengan mengidentifikasi:
 
-    -   definisi konseptual;
-    -   dimensi atau indikator;
-    -   instrumen yang digunakan;
-    -   skala pengukuran; dan
-    -   interpretasi skor.
+    - definisi konseptual;
+    - dimensi atau indikator;
+    - instrumen yang digunakan;
+    - skala pengukuran; dan
+    - interpretasi skor.
 
 4.  Susun sebuah tabel operasionalisasi variabel untuk penelitian kuantitatif yang melibatkan sedikitnya dua variabel. Pastikan setiap variabel memiliki definisi konseptual, indikator atau dimensi, instrumen pengukuran, dan skala yang sesuai
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

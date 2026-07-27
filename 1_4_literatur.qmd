@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -76,9 +76,9 @@ Sumber pustaka dalam penelitian dapat dibedakan menjadi dua kategori utama, yait
 
     Sumber acuan umum biasanya digunakan untuk memahami konsep dasar atau teori yang bersifat umum. Contoh sumber acuan umum antara lain:
 
-    -   Buku teks akademik
-    -   Ensiklopedia ilmiah
-    -   *Handbook* dalam bidang ilmu tertentu
+    - Buku teks akademik
+    - Ensiklopedia ilmiah
+    - *Handbook* dalam bidang ilmu tertentu
 
     Sumber ini umumnya memberikan gambaran konseptual yang luas mengenai suatu topik penelitian.
 
@@ -86,12 +86,12 @@ Sumber pustaka dalam penelitian dapat dibedakan menjadi dua kategori utama, yait
 
     Sumber acuan khusus biasanya berisi hasil penelitian yang lebih spesifik dan mutakhir. Beberapa contoh sumber acuan khusus antara lain:
 
-    -   Artikel jurnal ilmiah
-    -   Disertasi atau tesis
-    -   Laporan penelitian
-    -   Prosiding konferensi ilmiah
-    -   Makalah seminar
-    -   Basis data ilmiah di internet
+    - Artikel jurnal ilmiah
+    - Disertasi atau tesis
+    - Laporan penelitian
+    - Prosiding konferensi ilmiah
+    - Makalah seminar
+    - Basis data ilmiah di internet
 
 Dalam penelitian ilmiah, artikel jurnal umumnya dianggap sebagai sumber referensi yang paling penting karena memuat temuan penelitian terbaru yang telah melalui proses peer review.
 
@@ -140,8 +140,8 @@ Kutipan merupakan cara untuk memberi informasi kepada pembaca bahwa sebagian gag
 
 Dalam psikologi, gaya penulisan kutipan yang paling banyak digunakan adalah gaya American Psychological Association (APA). Format kutipan biasanya ditulis dalam bentuk:
 
--   **Kutipan naratif**: penulis menjadi bagian dari kalimat. Contoh: Bandura (1986) menyatakan bahwa pembelajaran sosial terjadi melalui proses observasi.
--   **Kutipan dalam tanda kurung**: penulis ditulis dalam kurung. Contoh: Pembelajaran sosial dapat terjadi melalui observasi terhadap perilaku orang lain (Bandura, 1986).
+- **Kutipan naratif**: penulis menjadi bagian dari kalimat. Contoh: Bandura (1986) menyatakan bahwa pembelajaran sosial terjadi melalui proses observasi.
+- **Kutipan dalam tanda kurung**: penulis ditulis dalam kurung. Contoh: Pembelajaran sosial dapat terjadi melalui observasi terhadap perilaku orang lain (Bandura, 1986).
 
 Peneliti harus memastikan bahwa setiap sumber yang dikutip dalam teks tercantum dalam daftar pustaka.
 
@@ -198,15 +198,15 @@ Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi penting.
 ::: callout-important
 ## Refleksi & DIskusi
 
--   Mengapa tinjauan literatur menjadi bagian penting dalam penyusunan proposal atau laporan penelitian?
--   Apa perbedaan fungsi buku teks dan artikel jurnal ilmiah dalam penyusunan tinjauan literatur?
--   Bagaimana cara menentukan apakah suatu sumber literatur cukup kredibel untuk dijadikan referensi penelitian?
--   Mengapa peneliti perlu menggunakan sumber pustaka yang relatif mutakhir dalam penelitian ilmiah?
--   Bagaimana strategi yang dapat digunakan untuk menemukan literatur yang relevan dengan topik penelitian?
--   Mengapa pengutipan yang tepat penting dalam menjaga integritas akademik dalam penelitian?
--   Bagaimana teori membantu peneliti menjelaskan hubungan antar variabel dalam suatu penelitian?
--   Pilih satu topik penelitian psikologi, lalu diskusikan teori apa saja yang dapat digunakan sebagai dasar penyusunan kerangka teoretis penelitian tersebut.
+- Mengapa tinjauan literatur menjadi bagian penting dalam penyusunan proposal atau laporan penelitian?
+- Apa perbedaan fungsi buku teks dan artikel jurnal ilmiah dalam penyusunan tinjauan literatur?
+- Bagaimana cara menentukan apakah suatu sumber literatur cukup kredibel untuk dijadikan referensi penelitian?
+- Mengapa peneliti perlu menggunakan sumber pustaka yang relatif mutakhir dalam penelitian ilmiah?
+- Bagaimana strategi yang dapat digunakan untuk menemukan literatur yang relevan dengan topik penelitian?
+- Mengapa pengutipan yang tepat penting dalam menjaga integritas akademik dalam penelitian?
+- Bagaimana teori membantu peneliti menjelaskan hubungan antar variabel dalam suatu penelitian?
+- Pilih satu topik penelitian psikologi, lalu diskusikan teori apa saja yang dapat digunakan sebagai dasar penyusunan kerangka teoretis penelitian tersebut.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

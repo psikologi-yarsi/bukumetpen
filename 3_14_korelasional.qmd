@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -158,8 +158,30 @@ Perbedaan tersebut tidak berarti bahwa kedua desain tidak dapat digunakan secara
 Pemilihan desain penelitian harus disesuaikan dengan tujuan dan pertanyaan penelitian. Meskipun sama-sama termasuk penelitian kuantitatif non-eksperimental, desain korelasional dan desain survei memiliki fokus yang berbeda. @Fig-korelvssurvei dapat digunakan sebagai panduan dalam memilih desain yang paling sesuai.
 
 ::: {#fig-korelvssurvei}
-![](images/korelasivssurvei.png)
+![Panduan Pemilihan Desain Korelasional vs. Survei](images/korelasivssurvei2.png)
 :::
+
+::: callout-tip
+## Rangkuman
+
+1.  Desain korelasional dan desain survei merupakan dua desain penelitian kuantitatif non-eksperimental yang tidak melibatkan manipulasi variabel maupun pemberian perlakuan kepada partisipan.
+2.  Desain korelasional digunakan untuk menguji hubungan antara dua atau lebih variabel, sedangkan desain survei digunakan untuk menggambarkan karakteristik suatu populasi berdasarkan data yang diperoleh dari sampel.
+3.  Penelitian korelasional dapat menunjukkan arah dan kekuatan hubungan antarvariabel, tetapi tidak dapat digunakan untuk menyimpulkan hubungan sebab–akibat.
+4.  Dalam penelitian survei, kuesioner merupakan salah satu instrumen pengumpulan data yang paling umum digunakan, namun survei dan kuesioner bukanlah konsep yang sama.
+5.  Pemilihan desain penelitian harus didasarkan pada tujuan dan pertanyaan penelitian. Dalam praktiknya, data yang dikumpulkan melalui survei dapat dianalisis menggunakan teknik korelasional apabila tujuan penelitian adalah menguji hubungan antarvariabel.
+:::
+
+::: callout-important
+## Refleksi & Diskusi
+
+- Menurut Anda, mengapa desain survei dan desain korelasional termasuk penelitian non-eksperimental?
+- Dalam kondisi seperti apa desain survei lebih tepat digunakan dibandingkan desain korelasional?
+- Mengapa pemilihan sampel menjadi aspek penting dalam penelitian survei?
+- Mengapa hubungan yang ditemukan dalam penelitian korelasional tidak dapat langsung diartikan sebagai hubungan sebab-akibat?
+- Variabel apa saja dalam bidang studi Anda yang menarik untuk diteliti menggunakan desain korelasional?
+:::
+
+## Daftar Pustaka {.unnumbered .unlisted}
 
 ::: sectionrefs
 :::

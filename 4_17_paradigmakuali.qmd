@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -40,29 +40,29 @@ Berbeda dengan penelitian kuantitatif yang berupaya mengukur dan menjelaskan hub
 
 Hakikat penelitian kualitatif dapat dipahami melalui beberapa asumsi dasar berikut [@Maxwell2013; @Creswell2018a; @Neuman2014]:
 
--   **Realitas bersifat majemuk dan subyektif**
+- **Realitas bersifat majemuk dan subyektif**
 
-    Penelitian kualitatif berangkat dari asumsi bahwa realitas sosial tidak selalu dipahami secara sama oleh setiap individu. Seseorang membangun pemahamannya terhadap dunia berdasarkan pengalaman, interaksi sosial, nilai, budaya, dan konteks kehidupannya. Akibatnya, suatu fenomena dapat dimaknai secara berbeda oleh orang yang berbeda meskipun mereka mengalami peristiwa yang serupa.
+  Penelitian kualitatif berangkat dari asumsi bahwa realitas sosial tidak selalu dipahami secara sama oleh setiap individu. Seseorang membangun pemahamannya terhadap dunia berdasarkan pengalaman, interaksi sosial, nilai, budaya, dan konteks kehidupannya. Akibatnya, suatu fenomena dapat dimaknai secara berbeda oleh orang yang berbeda meskipun mereka mengalami peristiwa yang serupa.
 
-    Sebagai contoh, dua mahasiswa yang sama-sama mengalami kegagalan akademik dapat memberikan makna yang berbeda terhadap pengalaman tersebut. Seorang mahasiswa mungkin memandangnya sebagai pengalaman yang memotivasi untuk berkembang, sedangkan mahasiswa lain dapat memaknainya sebagai sumber kekecewaan dan penurunan kepercayaan diri. Penelitian kualitatif berupaya memahami keragaman makna tersebut.
+  Sebagai contoh, dua mahasiswa yang sama-sama mengalami kegagalan akademik dapat memberikan makna yang berbeda terhadap pengalaman tersebut. Seorang mahasiswa mungkin memandangnya sebagai pengalaman yang memotivasi untuk berkembang, sedangkan mahasiswa lain dapat memaknainya sebagai sumber kekecewaan dan penurunan kepercayaan diri. Penelitian kualitatif berupaya memahami keragaman makna tersebut.
 
--   **Makna menjadi fokus utama penelitian**
+- **Makna menjadi fokus utama penelitian**
 
-    Dalam penelitian kualitatif, pertanyaan yang diajukan tidak hanya berkaitan dengan apa yang terjadi, tetapi juga bagaimana dan mengapa pengalaman tersebut dimaknai oleh individu. Peneliti berusaha memahami dunia sebagaimana dipersepsikan oleh partisipan penelitian.
+  Dalam penelitian kualitatif, pertanyaan yang diajukan tidak hanya berkaitan dengan apa yang terjadi, tetapi juga bagaimana dan mengapa pengalaman tersebut dimaknai oleh individu. Peneliti berusaha memahami dunia sebagaimana dipersepsikan oleh partisipan penelitian.
 
-    Oleh karena itu, penelitian kualitatif sangat sesuai digunakan ketika tujuan penelitian adalah memahami pengalaman hidup, persepsi, keyakinan, nilai, identitas, maupun proses psikologis yang sulit direduksi menjadi angka atau skor pengukuran.
+  Oleh karena itu, penelitian kualitatif sangat sesuai digunakan ketika tujuan penelitian adalah memahami pengalaman hidup, persepsi, keyakinan, nilai, identitas, maupun proses psikologis yang sulit direduksi menjadi angka atau skor pengukuran.
 
--   **Konteks tidak dapat dipisahkan dari fenomena**
+- **Konteks tidak dapat dipisahkan dari fenomena**
 
-    Penelitian kualitatif memandang bahwa perilaku dan pengalaman manusia selalu terjadi dalam konteks tertentu. Makna yang diberikan individu terhadap suatu pengalaman sering kali dipengaruhi oleh lingkungan sosial, budaya, historis, maupun situasional tempat pengalaman tersebut terjadi.
+  Penelitian kualitatif memandang bahwa perilaku dan pengalaman manusia selalu terjadi dalam konteks tertentu. Makna yang diberikan individu terhadap suatu pengalaman sering kali dipengaruhi oleh lingkungan sosial, budaya, historis, maupun situasional tempat pengalaman tersebut terjadi.
 
-    Sebagai contoh, pengalaman menjadi *caregiver* bagi anggota keluarga yang mengalami demensia mungkin berbeda antara individu yang hidup dalam budaya kolektivistik dan individu yang hidup dalam budaya yang lebih individualistik. Oleh karena itu, penelitian kualitatif berusaha memahami fenomena beserta konteks yang melingkupinya.
+  Sebagai contoh, pengalaman menjadi *caregiver* bagi anggota keluarga yang mengalami demensia mungkin berbeda antara individu yang hidup dalam budaya kolektivistik dan individu yang hidup dalam budaya yang lebih individualistik. Oleh karena itu, penelitian kualitatif berusaha memahami fenomena beserta konteks yang melingkupinya.
 
--   **Pengetahuan dibangun melalui interaksi**
+- **Pengetahuan dibangun melalui interaksi**
 
-    Penelitian kualitatif juga mengasumsikan bahwa pengetahuan tidak diperoleh secara terpisah dari individu yang diteliti, melainkan dibangun melalui interaksi antara peneliti dan partisipan. Dalam proses wawancara, observasi, maupun diskusi, peneliti dan partisipan bersama-sama membangun pemahaman mengenai fenomena yang sedang diteliti.
+  Penelitian kualitatif juga mengasumsikan bahwa pengetahuan tidak diperoleh secara terpisah dari individu yang diteliti, melainkan dibangun melalui interaksi antara peneliti dan partisipan. Dalam proses wawancara, observasi, maupun diskusi, peneliti dan partisipan bersama-sama membangun pemahaman mengenai fenomena yang sedang diteliti.
 
-    Karena itu, peneliti bukan sekadar pengumpul data, melainkan juga berperan dalam proses interpretasi dan pemberian makna terhadap data yang diperoleh.
+  Karena itu, peneliti bukan sekadar pengumpul data, melainkan juga berperan dalam proses interpretasi dan pemberian makna terhadap data yang diperoleh.
 
 Asumsi-asumsi tersebut melahirkan berbagai karakteristik penelitian kualitatif, seperti penggunaan setting alamiah, peneliti sebagai instrumen utama, desain penelitian yang fleksibel, penggunaan data naratif, serta analisis yang berorientasi pada tema dan makna. Karakteristik operasional tersebut telah dibahas pada @sec-karakterkuali ketika membahas perbandingan antara pendekatan kuantitatif dan kualitatif. Pada bab ini, pembahasan difokuskan pada landasan filosofis yang menjelaskan mengapa penelitian kualitatif memiliki karakteristik tersebut.
 
@@ -100,7 +100,7 @@ Keempat paradigma tersebut menunjukkan bahwa penelitian kualitatif tidak berland
 
 ::: {#tbl-paradigma}
 | Paradigma | Realitas | Tujuan Penelitian | Peran Peneliti |
-|:---|:---|:---|:---|
+|:-----------------|:-----------------|:-----------------|:-----------------|
 | Postpositivisme | Ada tetapi tidak dapat diketahui secara sempurna | Mendekati kebenaran obyektif | Meminimalkan bias |
 | Konstruktivisme | Majemuk dan subyektif | Memahami makna | Berinteraksi dengan partisipan |
 | Transformatif | Dipengaruhi relasi kuasa | Mendorong perubahan sosial | Advokat perubahan |
@@ -133,11 +133,11 @@ Oleh karena itu, pemahaman terhadap paradigma penelitian penting agar peneliti d
 ::: callout-important
 ## Refleksi & Diskusi
 
--   Mengapa penelitian kualitatif memandang bahwa suatu fenomena dapat dimaknai secara berbeda oleh setiap individu? Berikan contoh untuk mendukung jawaban Anda.
--   Menurut Anda, apa pentingnya memahami hakikat dan paradigma penelitian sebelum melakukan penelitian kualitatif?
--   Seorang peneliti ingin memahami pengalaman mahasiswa yang mengalami burnout selama menyelesaikan skripsi. Paradigma manakah yang paling sesuai digunakan? Jelaskan alasan Anda.
--   Pilih satu fenomena psikologis yang menarik bagi Anda. Diskusikan bagaimana cara memahami fenomena tersebut jika ditinjau dari paradigma konstruktivisme dan paradigma transformatif.
+- Mengapa penelitian kualitatif memandang bahwa suatu fenomena dapat dimaknai secara berbeda oleh setiap individu? Berikan contoh untuk mendukung jawaban Anda.
+- Menurut Anda, apa pentingnya memahami hakikat dan paradigma penelitian sebelum melakukan penelitian kualitatif?
+- Seorang peneliti ingin memahami pengalaman mahasiswa yang mengalami burnout selama menyelesaikan skripsi. Paradigma manakah yang paling sesuai digunakan? Jelaskan alasan Anda.
+- Pilih satu fenomena psikologis yang menarik bagi Anda. Diskusikan bagaimana cara memahami fenomena tersebut jika ditinjau dari paradigma konstruktivisme dan paradigma transformatif.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

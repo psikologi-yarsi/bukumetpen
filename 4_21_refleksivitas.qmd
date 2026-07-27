@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -43,7 +43,7 @@ Dalam penelitian kualitatif, kualitas penelitian umumnya dinilai menggunakan kon
 
 ::: {#tbl-trustworthiness}
 |  |  |  |  |
-|:---|:---|:---|:---|
+|:-----------------|:-----------------|:-----------------|:-----------------|
 | **Kriteria** | **Fokus Penilaian** | **Pertanyaan yang Dijawab** | **Contoh Strategi** |
 | *Credibility* | Keterpercayaan temuan | Apakah temuan benar-benar mencerminkan pengalaman atau perspektif partisipan? | Triangulasi, *member checking*, *peer debriefing*, *prolonged engagement* |
 | *Transferability* | Keteralihan hasil penelitian | Apakah pembaca memiliki informasi yang cukup untuk menilai apakah temuan relevan dengan konteks lain? | *Thick description* |
@@ -166,7 +166,7 @@ Jurnal reflektif tidak memiliki format yang baku. Peneliti dapat menyesuaikan be
 
 ::: {#tbl-jurnal}
 |  |  |  |  |
-|:---|:---|:---|:---|
+|:-----------------|:-----------------|:-----------------|:-----------------|
 | **Tahap Penelitian** | **Peristiwa** | **Refleksi Peneliti** | **Tindak Lanjut** |
 | Pengumpulan data | Wawancara pertama dengan mahasiswa tahun pertama mengenai pengalaman beradaptasi di perguruan tinggi. | Saya adalah dosen di fakultas yang sama sehingga beberapa partisipan tampak berhati-hati ketika menyampaikan pengalaman negatif. Posisi saya sebagai dosen mungkin memengaruhi keterbukaan mereka dalam menjawab pertanyaan. | Pada wawancara berikutnya saya akan kembali menegaskan bahwa seluruh jawaban bersifat rahasia, tidak memengaruhi penilaian akademik, dan partisipan bebas menghentikan wawancara kapan saja. |
 | Analisis data | Melakukan pengkodean (*coding*) terhadap transkrip wawancara. | Saya menyadari lebih mudah mengenali kutipan yang sesuai dengan dugaan awal penelitian dibandingkan kutipan yang bertentangan. Hal ini berpotensi menyebabkan saya mengabaikan informasi yang sama pentingnya. | Meninjau kembali seluruh transkrip secara sistematis dan mendiskusikan hasil pengkodean dengan dosen pembimbing untuk memperoleh sudut pandang lain. |
@@ -195,6 +195,6 @@ Contoh pada @tbl-jurnal menunjukkan bahwa jurnal reflektif bukan sekadar catatan
 - Identifikasi *positionality* Anda sebagai peneliti pada topik penelitian yang ingin Anda lakukan. Apakah Anda lebih berperan sebagai *insider*, *outsider*, atau berada di antara keduanya? Bagaimana posisi tersebut dapat memengaruhi proses penelitian?
 - Tuliskan satu contoh entri jurnal reflektif berdasarkan topik penelitian yang Anda rencanakan. Uraikan peristiwa yang dialami, refleksi yang muncul, serta tindak lanjut yang akan Anda lakukan untuk menjaga kualitas penelitian.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -67,7 +67,7 @@ Dalam penelitian kuantitatif, prinsip ini menjadi dasar penggunaan teknik sampli
 
 ::: {#tbl-prinsipkuantitatif}
 |  |  |
-|:-----------------------|:-----------------------------------------------|
+|:-----------------------|:----------------------------------------------|
 | **Prinsip/Logika** | **Implikasi dalam Penelitian Kuantitatif** |
 | *Determinism* | Mengidentifikasi dan menguji hubungan antar variabel |
 | *Empiricism* | Menerjemahkan konsep menjadi variabel yang dapat diamati dan diukur |
@@ -156,6 +156,6 @@ Pemahaman terhadap logika deduktif menunjukkan bahwa hipotesis penelitian bukan 
 - Seorang peneliti memperoleh hasil yang tidak mendukung hipotesisnya. Apakah hal tersebut berarti teori yang digunakannya pasti salah? Jelaskan alasan Anda.
 - Pilih salah satu topik penelitian, kemudian susun sebuah contoh silogisme kategoris atau hipotetik yang dapat menjadi dasar penalaran dalam penelitian tersebut.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

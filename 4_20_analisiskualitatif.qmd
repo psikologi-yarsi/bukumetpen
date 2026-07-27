@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -148,6 +148,6 @@ Karena interpretasi sangat dipengaruhi oleh cara peneliti memahami dan memaknai 
 - Apa perbedaan antara kode, kategori, dan tema dalam analisis tematik? Berikan ilustrasi sederhana untuk menjelaskan hubungan ketiganya.
 - Menurut Anda, mengapa interpretasi dalam penelitian kualitatif harus selalu didukung oleh bukti yang berasal dari data?
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

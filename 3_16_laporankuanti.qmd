@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -36,7 +36,7 @@ Bagian Pendahuluan dapat ditulis secara kurang lebih sama seperti dalam proposal
 
 ::: {#tbl-propvlap}
 | Proposal Penelitian                 | Laporan Penelitian                   |
-|:------------------------------------|:-------------------------------------|
+|:-----------------------------------|:-----------------------------------|
 | Menjelaskan apa yang akan dilakukan | Menjelaskan apa yang telah dilakukan |
 | Menggunakan bentuk perencanaan      | Menggunakan bentuk pelaporan         |
 | Berisi rencana analisis             | Berisi analisis yang dilakukan       |
@@ -53,11 +53,11 @@ Abstrak adalah ringkasan singkat dari karya ilmiah, seperti tesis, disertasi, at
 
 Struktur Abstrak dapat bervariasi menurut disiplin ilmu, tetapi format umum Abstrak harus memuat elemen utama penelitian, yaitu:
 
--   Masalah penelitian yang diselidiki, termasuk hipotesis, pertanyaan, atau teori utama.
--   Sampel atau sumber data yang digunakan.
--   Metode penelitian meliputi desain, strategi analisis, prosedur pengumpulan data, ukuran sampel, serta instrumen atau variabel utama.
--   Temuan dasar, baik kuantitatif (misalnya, signifikansi statistik) maupun kualitatif (temuan utama).
--   Kesimpulan dan implikasi, termasuk aplikasi hasil penelitian.
+- Masalah penelitian yang diselidiki, termasuk hipotesis, pertanyaan, atau teori utama.
+- Sampel atau sumber data yang digunakan.
+- Metode penelitian meliputi desain, strategi analisis, prosedur pengumpulan data, ukuran sampel, serta instrumen atau variabel utama.
+- Temuan dasar, baik kuantitatif (misalnya, signifikansi statistik) maupun kualitatif (temuan utama).
+- Kesimpulan dan implikasi, termasuk aplikasi hasil penelitian.
 
 Panjang Abstrak biasanya 100–300 kata, dengan batasan jumlah kata yang ditentukan oleh ketentuan masing‑masing jurnal atau institusi. Abstrak biasanya disajikan dalam versi Bahasa Indonesia dan Bahasa Inggris (*Abstract*). Pada bagian akhir Abstrak dilengkapi dengan 3–5 kata kunci yang memudahkan pembaca untuk melakukan pencarian daring.
 
@@ -81,12 +81,12 @@ Bagian Pendahuluan bertujuan menjelaskan permasalahan penelitian, mengaitkannya 
 
 Sebuah pendahuluan laporan hasil penelitian yang baik, memuat jawaban dari pertanyaan berikut ini:
 
--   Apa yang Anda teliti?
--   Mengapa Anda melakukan penelitian ini?
--   Apa kerangka konseptualnya?
--   Apa pertanyaan yang ingin Anda jawab?
--   Apa tujuan penelitian ini?
--   Apa hipotesis yang ingin Anda uji?
+- Apa yang Anda teliti?
+- Mengapa Anda melakukan penelitian ini?
+- Apa kerangka konseptualnya?
+- Apa pertanyaan yang ingin Anda jawab?
+- Apa tujuan penelitian ini?
+- Apa hipotesis yang ingin Anda uji?
 
 ### Metode (*Methods*)
 
@@ -94,10 +94,10 @@ Bagian Metode memiliki tiga tujuan utama. Pertama, memberikan informasi yang cuk
 
 Dengan membaca bab Metode, pembaca dapat memahami mengenai:
 
--   Metode apa yang Anda gunakan dan mengapa?
--   Sampel apa yang Anda teliti? Bagaimana Anda memilih sampel, dll.?
--   Apa yang Anda lakukan untuk mengumpulkan data? Apa teknik yang Anda gunakan?
--   Apakah Anda telah memperoleh persetujuan etik dan persetujuan *informed consent* untuk penelitian Anda?
+- Metode apa yang Anda gunakan dan mengapa?
+- Sampel apa yang Anda teliti? Bagaimana Anda memilih sampel, dll.?
+- Apa yang Anda lakukan untuk mengumpulkan data? Apa teknik yang Anda gunakan?
+- Apakah Anda telah memperoleh persetujuan etik dan persetujuan *informed consent* untuk penelitian Anda?
 
 #### Partisipan Penelitian
 
@@ -135,9 +135,9 @@ Bagian hasil sebaiknya diawali dengan pengingat mengenai jenis analisis yang dig
 
 Dalam bidang psikologi, hasil statistik umumnya dilaporkan mengikuti pedoman APA Edisi 7. Peneliti tidak hanya melaporkan nilai signifikansi (p-value), tetapi juga statistik utama yang digunakan dalam analisis. Sebagai contoh:
 
--   Korelasi: *r*(198) = .42, *p* \< .001
--   Uji-t: *t*(98) = 2.35, *p* = .021
--   Regresi: *β* = .31, *p* \< .001
+- Korelasi: *r*(198) = .42, *p* \< .001
+- Uji-t: *t*(98) = 2.35, *p* = .021
+- Regresi: *β* = .31, *p* \< .001
 
 Selain nilai signifikansi (*p-value*), peneliti juga dianjurkan melaporkan ukuran efek (*effect size*) untuk menunjukkan besarnya hubungan atau perbedaan yang ditemukan [@Cumming2012]. Beberapa ukuran efek yang umum digunakan antara lain Cohen's *d*, *r*, dan *R²*.
 
@@ -186,11 +186,11 @@ Bagian diskusi bertujuan menginterpretasikan hasil penelitian dan menjelaskan ma
 
 Beberapa kesalahan yang sering ditemukan dalam laporan penelitian antara lain:
 
--   Mengulang isi Pendahuluan secara berlebihan.
--   Menyajikan hasil tanpa interpretasi.
--   Menafsirkan korelasi sebagai sebab-akibat.
--   Tidak melaporkan keterbatasan penelitian.
--   Membuat kesimpulan yang melampaui data.
+- Mengulang isi Pendahuluan secara berlebihan.
+- Menyajikan hasil tanpa interpretasi.
+- Menafsirkan korelasi sebagai sebab-akibat.
+- Tidak melaporkan keterbatasan penelitian.
+- Membuat kesimpulan yang melampaui data.
 :::
 
 ## Keterkaitan antara Bagian Hasil dan Diskusi
@@ -222,16 +222,16 @@ Dari contoh tersebut terlihat bahwa bagian Hasil berisi penyajian temuan dan sta
 ::: callout-important
 ## Refleksi & Diskusi
 
--   Pilih satu artikel penelitian kuantitatif dari jurnal psikologi. Identifikasikan bagian-bagian IMRaD yang terdapat dalam artikel tersebut dan jelaskan fungsi masing-masing bagian.
+- Pilih satu artikel penelitian kuantitatif dari jurnal psikologi. Identifikasikan bagian-bagian IMRaD yang terdapat dalam artikel tersebut dan jelaskan fungsi masing-masing bagian.
 
--   Perhatikan contoh berikut:
+- Perhatikan contoh berikut:
 
-    > "Hasil analisis korelasi menunjukkan hubungan positif yang signifikan antara harga diri dan prestasi akademik, *r*(198) = .42, *p* \< .001."
+  > "Hasil analisis korelasi menunjukkan hubungan positif yang signifikan antara harga diri dan prestasi akademik, *r*(198) = .42, *p* \< .001."
 
-    Menurut Anda, apakah pernyataan tersebut termasuk bagian Hasil atau Diskusi? Jelaskan alasan Anda.
+  Menurut Anda, apakah pernyataan tersebut termasuk bagian Hasil atau Diskusi? Jelaskan alasan Anda.
 
--   Menurut Anda, bagian manakah dari laporan penelitian yang paling sulit ditulis? Jelaskan alasannya dan strategi yang dapat dilakukan untuk mengatasinya.
+- Menurut Anda, bagian manakah dari laporan penelitian yang paling sulit ditulis? Jelaskan alasannya dan strategi yang dapat dilakukan untuk mengatasinya.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

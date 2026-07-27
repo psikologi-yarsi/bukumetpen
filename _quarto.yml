@@ -29,28 +29,28 @@ book:
         - 1_3_masalah.qmd
         - 1_4_literatur.qmd
         - 1_5_desain.qmd
-        - 1_7_validitas.qmd
+        - 1_6_validitas.qmd
     - part: 2_pengantar.qmd
       chapters:
-        - 2_9_paradigma.qmd
-        - 2_10_pendekatan.qmd
+        - 2_8_paradigma.qmd
+        - 2_9_pendekatan.qmd
     - part: 3_pengantar.qmd
       chapters: 
-        - 3_11_prinsipkuanti.qmd
-        - 3_12_hipotesis.qmd
-        - 1_6_sampling.qmd
+        - 3_10_prinsipkuanti.qmd
+        - 3_11_hipotesis.qmd
+        - 3_12_sampling.qmd
         - 3_13_eksperimen.qmd
         - 3_14_korelasional.qmd
-        - 3_17_proposalkuanti.qmd
-        - 3_18_laporankuanti.qmd
+        - 3_15_proposalkuanti.qmd
+        - 3_16_laporankuanti.qmd
     - part: 4_pengantar.qmd
       chapters: 
-        - 4_19_paradigmakuali.qmd
-        - 4_20_desainkuali.qmd
-        - 4_21_samplingkuali.qmd
-        - 4_22_analisiskualitatif.qmd
-        - 4_23_refleksivitas.qmd
-        - 4_24_laporankuali.qmd
+        - 4_17_paradigmakuali.qmd
+        - 4_18_desainkuali.qmd
+        - 4_19_samplingkuali.qmd
+        - 4_20_analisiskualitatif.qmd
+        - 4_21_refleksivitas.qmd
+        - 4_22_laporankuali.qmd
 filters:
   # Run Quarto's default filters first
   - quarto

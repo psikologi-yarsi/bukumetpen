@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -70,15 +70,15 @@ Sebagai contoh, penelitian mengenai pengalaman *burnout* pada dosen dapat meneta
 
 > **Kriteria inklusi**
 >
-> -   berstatus sebagai dosen aktif;
-> -   memiliki pengalaman *burnout* dalam dua tahun terakhir;
-> -   bersedia mengikuti wawancara secara mendalam.
+> - berstatus sebagai dosen aktif;
+> - memiliki pengalaman *burnout* dalam dua tahun terakhir;
+> - bersedia mengikuti wawancara secara mendalam.
 >
 > **Kriteria eksklusi**
 >
-> -   sedang menjalani cuti panjang;
-> -   memiliki gangguan kesehatan yang menghambat proses wawancara;
-> -   tidak bersedia direkam selama proses wawancara.
+> - sedang menjalani cuti panjang;
+> - memiliki gangguan kesehatan yang menghambat proses wawancara;
+> - tidak bersedia direkam selama proses wawancara.
 
 Penyusunan kriteria inklusi dan eksklusi memberikan beberapa manfaat. Pertama, membantu peneliti menjaga konsistensi dalam memilih partisipan. Kedua, memastikan bahwa seluruh partisipan benar-benar relevan dengan tujuan penelitian. Ketiga, meningkatkan transparansi penelitian karena pembaca dapat memahami alasan mengapa seseorang dipilih atau tidak dipilih sebagai partisipan.
 
@@ -186,11 +186,11 @@ Dalam penelitian kualitatif, jumlah partisipan ditentukan berdasarkan kemampuan 
 
 Tidak ada jumlah partisipan yang dapat diterapkan pada semua penelitian kualitatif. Penentuan jumlah partisipan dipengaruhi oleh berbagai faktor, antara lain sebagai berikut [@Robinson2014; @Strauss1998]:
 
--   **Tujuan penelitian.** Penelitian yang bertujuan mengeksplorasi pengalaman secara mendalam umumnya membutuhkan jumlah partisipan yang lebih sedikit dibandingkan penelitian yang ingin memperoleh variasi pengalaman dari berbagai kelompok.
--   **Pendekatan penelitian.** Setiap pendekatan kualitatif memiliki karakteristik yang berbeda. Misalnya, penelitian biografi umumnya hanya berfokus pada satu individu, sedangkan etnografi dapat melibatkan banyak informan dari suatu komunitas. Pada *grounded theory*, jumlah partisipan berkembang mengikuti proses pengembangan teori.
--   **Keragaman partisipan.** Penelitian yang melibatkan partisipan dengan latar belakang yang sangat beragam biasanya memerlukan lebih banyak partisipan dibandingkan penelitian yang menggunakan kelompok yang relatif homogen.
--   **Kompleksitas fenomena.** Fenomena yang sederhana mungkin dapat dipahami melalui sedikit partisipan, sedangkan fenomena yang kompleks sering kali memerlukan eksplorasi dari berbagai perspektif.
--   **Kualitas data.** Partisipan yang memiliki pengalaman yang kaya dan mampu menjelaskan fenomena secara rinci sering kali menghasilkan data yang lebih bermakna daripada jumlah partisipan yang banyak tetapi memberikan informasi yang terbatas.
+- **Tujuan penelitian.** Penelitian yang bertujuan mengeksplorasi pengalaman secara mendalam umumnya membutuhkan jumlah partisipan yang lebih sedikit dibandingkan penelitian yang ingin memperoleh variasi pengalaman dari berbagai kelompok.
+- **Pendekatan penelitian.** Setiap pendekatan kualitatif memiliki karakteristik yang berbeda. Misalnya, penelitian biografi umumnya hanya berfokus pada satu individu, sedangkan etnografi dapat melibatkan banyak informan dari suatu komunitas. Pada *grounded theory*, jumlah partisipan berkembang mengikuti proses pengembangan teori.
+- **Keragaman partisipan.** Penelitian yang melibatkan partisipan dengan latar belakang yang sangat beragam biasanya memerlukan lebih banyak partisipan dibandingkan penelitian yang menggunakan kelompok yang relatif homogen.
+- **Kompleksitas fenomena.** Fenomena yang sederhana mungkin dapat dipahami melalui sedikit partisipan, sedangkan fenomena yang kompleks sering kali memerlukan eksplorasi dari berbagai perspektif.
+- **Kualitas data.** Partisipan yang memiliki pengalaman yang kaya dan mampu menjelaskan fenomena secara rinci sering kali menghasilkan data yang lebih bermakna daripada jumlah partisipan yang banyak tetapi memberikan informasi yang terbatas.
 
 Dengan demikian, penentuan jumlah partisipan tidak dapat dilepaskan dari konteks penelitian yang dilakukan.
 
@@ -323,12 +323,12 @@ Hubungan antartahapan tersebut dirangkum pada @fig-proseskuali, yang menunjukkan
 ::: callout-important
 ## Refleksi & Diskusi
 
--   Mengapa penelitian kualitatif lebih menekankan pemilihan partisipan yang mampu memberikan informasi secara mendalam daripada keterwakilan populasi secara statistik?
--   Bayangkan Anda akan melakukan penelitian fenomenologi mengenai pengalaman mahasiswa yang mengalami *academic burnout*. Siapa yang menjadi populasi penelitian? Kriteria inklusi dan eksklusi apa yang akan Anda tetapkan?
--   Suatu penelitian bertujuan mengeksplorasi pengalaman penggunaan kecerdasan artifisial (*artificial intelligence*) dalam proses pembelajaran oleh mahasiswa dari berbagai program studi. Strategi *purposive sampling* apa yang paling tepat digunakan? Jelaskan alasan Anda.
--   Dalam kondisi seperti apa *snowball sampling* lebih tepat digunakan dibandingkan *purposive sampling* biasa? Berikan contoh topik penelitian yang sesuai.
--   Seorang mahasiswa menyatakan bahwa penelitian kualitatif minimal harus melibatkan 30 partisipan agar hasilnya valid. Apakah Anda setuju dengan pernyataan tersebut? Jelaskan jawaban Anda berdasarkan konsep saturasi data.
+- Mengapa penelitian kualitatif lebih menekankan pemilihan partisipan yang mampu memberikan informasi secara mendalam daripada keterwakilan populasi secara statistik?
+- Bayangkan Anda akan melakukan penelitian fenomenologi mengenai pengalaman mahasiswa yang mengalami *academic burnout*. Siapa yang menjadi populasi penelitian? Kriteria inklusi dan eksklusi apa yang akan Anda tetapkan?
+- Suatu penelitian bertujuan mengeksplorasi pengalaman penggunaan kecerdasan artifisial (*artificial intelligence*) dalam proses pembelajaran oleh mahasiswa dari berbagai program studi. Strategi *purposive sampling* apa yang paling tepat digunakan? Jelaskan alasan Anda.
+- Dalam kondisi seperti apa *snowball sampling* lebih tepat digunakan dibandingkan *purposive sampling* biasa? Berikan contoh topik penelitian yang sesuai.
+- Seorang mahasiswa menyatakan bahwa penelitian kualitatif minimal harus melibatkan 30 partisipan agar hasilnya valid. Apakah Anda setuju dengan pernyataan tersebut? Jelaskan jawaban Anda berdasarkan konsep saturasi data.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

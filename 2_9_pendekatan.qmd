@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -115,10 +115,10 @@ Sementara itu, penelitian kualitatif tidak berfokus pada validitas dan reliabili
 
 Beberapa kriteria kualitas yang umum digunakan dalam penelitian kualitatif meliputi:
 
--   ***Credibility*** **(kredibilitas)**, yaitu sejauh mana temuan penelitian mencerminkan pengalaman dan perspektif partisipan secara akurat.
--   ***Transferability*** **(transferabilitas)**, yaitu sejauh mana temuan dapat diterapkan atau dipertimbangkan relevan pada konteks lain yang memiliki karakteristik serupa.
--   ***Dependability*** **(dependabilitas)**, yaitu konsistensi proses penelitian sehingga langkah-langkah penelitian dapat ditelusuri dan dievaluasi oleh peneliti lain.
--   ***Confirmability*** **(konfirmabilitas)**, yaitu sejauh mana temuan didasarkan pada data dan bukan semata-mata pada asumsi atau bias peneliti [@Lincoln1990].
+- ***Credibility*** **(kredibilitas)**, yaitu sejauh mana temuan penelitian mencerminkan pengalaman dan perspektif partisipan secara akurat.
+- ***Transferability*** **(transferabilitas)**, yaitu sejauh mana temuan dapat diterapkan atau dipertimbangkan relevan pada konteks lain yang memiliki karakteristik serupa.
+- ***Dependability*** **(dependabilitas)**, yaitu konsistensi proses penelitian sehingga langkah-langkah penelitian dapat ditelusuri dan dievaluasi oleh peneliti lain.
+- ***Confirmability*** **(konfirmabilitas)**, yaitu sejauh mana temuan didasarkan pada data dan bukan semata-mata pada asumsi atau bias peneliti [@Lincoln1990].
 
 Perbedaan kriteria ini tidak menunjukkan bahwa salah satu pendekatan lebih ilmiah daripada yang lain. Sebaliknya, masing-masing pendekatan memiliki standar kualitas yang disesuaikan dengan tujuan dan karakteristik metode yang digunakan. Oleh karena itu, penilaian kualitas penelitian harus dilakukan berdasarkan kriteria yang relevan dengan pendekatan penelitian yang dipilih.
 
@@ -219,13 +219,13 @@ Jawablah pertanyaan refleksi berikut secara singkat dan argumentatif:
 6.  Jika penelitian ini hanya menggunakan pendekatan kuantitatif (survei preferensi mahasiswa), informasi penting apa yang kemungkinan besar akan hilang? Sebaliknya, jika penelitian ini hanya menggunakan pendekatan kualitatif, apa keterbatasannya? Jelaskan.
 7.  Menurut Anda, desain *mixed methods* apa yang paling sesuai untuk menggambarkan penelitian ini: *convergent*, *explanatory sequential*, atau *exploratory sequential?* Jelaskan alasan Anda berdasarkan urutan penelitian dalam artikel.
 8.  Bayangkan Anda menjadi peneliti lanjutan dari studi ini. Tuliskan:
-    -   satu pertanyaan penelitian kuantitatif untuk menguji efektivitas program mindfulness yang telah dikembangkan; dan
+    - satu pertanyaan penelitian kuantitatif untuk menguji efektivitas program mindfulness yang telah dikembangkan; dan
 
-    -   satu pertanyaan penelitian kualitatif untuk memahami pengalaman mahasiswa menggunakan program tersebut.
+    - satu pertanyaan penelitian kualitatif untuk memahami pengalaman mahasiswa menggunakan program tersebut.
 
 Setelah membaca artikel tersebut, refleksikan dalam satu paragraf:\
 Kapan pendekatan kuantitatif lebih tepat digunakan, kapan pendekatan kualitatif lebih tepat digunakan, dan kapan keduanya perlu digabungkan dalam penelitian psikologi?
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::

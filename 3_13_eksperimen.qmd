@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -69,10 +69,10 @@ Keberadaan kelompok kontrol membantu peneliti menentukan apakah perubahan yang t
 
 Kelompok kontrol tidak selalu berarti kelompok yang sama sekali tidak memperoleh perlakuan. Dalam praktik penelitian, kelompok kontrol dapat menggunakan berbagai bentuk pembanding, antara lain:
 
--   ***No-treatment control***, yaitu kelompok yang tidak menerima perlakuan apa pun.
--   ***Placebo control***, yaitu kelompok yang menerima perlakuan semu sehingga peserta merasa memperoleh perlakuan, padahal tidak menerima intervensi utama.
--   ***Waiting-list control***, yaitu kelompok yang baru menerima perlakuan setelah penelitian selesai.
--   ***Active control***, yaitu kelompok yang menerima perlakuan lain yang telah digunakan sebagai pembanding.
+- ***No-treatment control***, yaitu kelompok yang tidak menerima perlakuan apa pun.
+- ***Placebo control***, yaitu kelompok yang menerima perlakuan semu sehingga peserta merasa memperoleh perlakuan, padahal tidak menerima intervensi utama.
+- ***Waiting-list control***, yaitu kelompok yang baru menerima perlakuan setelah penelitian selesai.
+- ***Active control***, yaitu kelompok yang menerima perlakuan lain yang telah digunakan sebagai pembanding.
 
 Pemilihan jenis kelompok kontrol bergantung pada tujuan penelitian, pertimbangan etis, serta karakteristik intervensi yang diberikan.
 
@@ -122,7 +122,7 @@ Namun demikian, bukan berarti eksperimen murni selalu menjadi pilihan terbaik. P
 
 ::: {#tbl-desaineksp}
 |  |  |  |  |
-|:-----------------|:----------------:|:----------------:|:----------------:|
+|:---|:--:|:--:|:--:|
 | **Karakteristik** | **Pra-eksperimen** | **Kuasi eksperimen** | **Eksperimen murni** |
 | Manipulasi variabel independen | ✓ | ✓ | ✓ |
 | Kelompok pembanding | Tidak selalu ada | Ada | Ada |
@@ -182,7 +182,7 @@ Tabel 13.2 merangkum perbedaan utama kedua struktur kondisi tersebut.
 
 ::: {#tbl-struktur}
 |  |  |  |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **Aspek** | ***Between-subjects design*** | ***Within-subjects design*** |
 | Partisipan | Setiap peserta hanya mengikuti satu kondisi | Setiap peserta mengikuti seluruh kondisi |
 | Jumlah partisipan | Relatif lebih banyak | Relatif lebih sedikit |
@@ -270,7 +270,7 @@ Desain Solomon menggabungkan kelebihan desain *posttest-only* dan *pretest-postt
 
 ::: {#tbl-desainexp}
 |  |  |  |  |  |
-|---------------|:-------------:|:-------------:|:-------------:|:-------------:|
+|----|:--:|:--:|:--:|:--:|
 | **Desain** | **Kelompok Pembanding** | ***Pretest*** | ***Random Assignment*** | **Kegunaan** |
 | *One-shot case study* | ✗ | ✗ | ✗ | Studi awal |
 | *One-group pretest-posttest* | ✗ | ✓ | ✗ | Evaluasi awal |
@@ -305,18 +305,20 @@ Selain itu, penelitian eksperimen harus dilaksanakan sesuai dengan prinsip-prins
 ::: callout-important
 ## Refleksi & Diskusi
 
--   Mengapa eksperimen dianggap lebih kuat daripada penelitian korelasional dalam menjelaskan hubungan sebab-akibat?
+- Mengapa eksperimen dianggap lebih kuat daripada penelitian korelasional dalam menjelaskan hubungan sebab-akibat?
 
--   Apa perbedaan utama antara eksperimen murni, kuasi eksperimen, dan pra-eksperimen?
+- Apa perbedaan utama antara eksperimen murni, kuasi eksperimen, dan pra-eksperimen?
 
-    Dalam situasi apa peneliti lebih tepat menggunakan kuasi eksperimen daripada eksperimen murni?
+  Dalam situasi apa peneliti lebih tepat menggunakan kuasi eksperimen daripada eksperimen murni?
 
--   Apa perbedaan antara *between-subjects design* dan *within-subjects design*?
+- Apa perbedaan antara *between-subjects design* dan *within-subjects design*?
 
--   Apa saja pertimbangan etis yang perlu diperhatikan ketika peneliti memberikan perlakuan atau intervensi kepada partisipan?
+- Apa saja pertimbangan etis yang perlu diperhatikan ketika peneliti memberikan perlakuan atau intervensi kepada partisipan?
 
--   Tentukan sebuah masalah penelitian di bidang psikologi, kemudian pilih desain eksperimen yang paling sesuai (pra-eksperimen, kuasi eksperimen, atau eksperimen murni). Jelaskan alasan pemilihan desain tersebut beserta bentuk rancangan eksperimen yang akan digunakan.
+- Tentukan sebuah masalah penelitian di bidang psikologi, kemudian pilih desain eksperimen yang paling sesuai (pra-eksperimen, kuasi eksperimen, atau eksperimen murni). Jelaskan alasan pemilihan desain tersebut beserta bentuk rancangan eksperimen yang akan digunakan.
 :::
+
+## Daftar Pustaka {.unnumbered .unlisted}
 
 ::: sectionrefs
 :::

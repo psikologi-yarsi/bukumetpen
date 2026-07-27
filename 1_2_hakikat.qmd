@@ -7,7 +7,7 @@ filters:
   - section-bibliographies
 bibliography: references.bib
 bibliographystyle: apa
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -148,12 +148,12 @@ Diskusi menginterpretasikan hasil penelitian dalam kaitannya dengan hipotesis da
 ::: callout-important
 ## Refleksi & Diskusi
 
--   Jelaskan dengan kata-kata Anda sendiri apa yang membedakan penelitian ilmiah dari sekadar pengumpulan informasi.
--   Dari lima tujuan penelitian (eksplorasi, deskripsi, prediksi, eksplanasi, dan intervensi), berikan masing-masing satu contoh dalam konteks psikologi.
--   Mengapa penelitian ilmiah harus mengikuti struktur yang sistematis (pendahuluan, tinjauan literatur, metode, hasil, dan diskusi)?
--   Apa perbedaan utama antara penelitian kuantitatif dan kualitatif dalam hal tujuan dan pendekatan?
--   Jika Anda ingin meneliti fenomena “kepercayaan diri mahasiswa saat presentasi”, pendekatan apa yang akan Anda pilih? Jelaskan alasan Anda secara singkat.
+- Jelaskan dengan kata-kata Anda sendiri apa yang membedakan penelitian ilmiah dari sekadar pengumpulan informasi.
+- Dari lima tujuan penelitian (eksplorasi, deskripsi, prediksi, eksplanasi, dan intervensi), berikan masing-masing satu contoh dalam konteks psikologi.
+- Mengapa penelitian ilmiah harus mengikuti struktur yang sistematis (pendahuluan, tinjauan literatur, metode, hasil, dan diskusi)?
+- Apa perbedaan utama antara penelitian kuantitatif dan kualitatif dalam hal tujuan dan pendekatan?
+- Jika Anda ingin meneliti fenomena “kepercayaan diri mahasiswa saat presentasi”, pendekatan apa yang akan Anda pilih? Jelaskan alasan Anda secara singkat.
 :::
-
+## Daftar Pustaka {.unnumbered .unlisted}
 ::: sectionrefs
 :::
