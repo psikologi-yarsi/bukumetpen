@@ -27,6 +27,8 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 8.  Mengembangkan model konseptual penelitian yang menjelaskan hubungan antar variabel.
 :::
 
+Penelitian ilmiah tidak berkembang secara terpisah dari pengetahuan yang telah ada. Setelah menentukan masalah dan pertanyaan penelitian, peneliti perlu memahami apa yang telah diketahui mengenai masalah tersebut, teori apa yang dapat menjelaskannya, serta temuan apa yang telah dihasilkan oleh penelitian sebelumnya. Proses inilah yang dilakukan melalui tinjauan literatur. Bab ini membahas bagaimana peneliti memilih dan menelusuri sumber ilmiah, mengevaluasi serta mengintegrasikan informasi yang diperoleh, dan menggunakannya untuk membangun kerangka teoretis yang menjadi landasan bagi penelitian.
+
 ## Pengertian Tinjauan Literatur
 
 Setiap penelitian ilmiah tidak pernah dimulai dari ruang kosong. Sebaliknya, penelitian selalu dibangun di atas pengetahuan, gagasa, dan temuan yang telah dikembangkan oleh para peneliti sebelumnya. Oleh karena itu, salah satu tahap penting dalam proses penelitian adalah melakukan tinjauan literatur atau tinjauan pustaka.
@@ -42,7 +44,9 @@ Menurut @Creswell2018, tinjauan literatur memiliki beberapa fungsi penting dalam
 3.  Memberikan dasar konseptual bagi pengembangan hipotesis atau pertanyaan penelitian.
 4.  Menjelaskan bagaimana penelitian yang dilakukan berkontribusi pada pengembangan ilmu pengetahuan.
 
-Dengan demikian, tinjauan literatur tidak sekadar menjadi kumpulan ringkasan penelitian terdahulu, tetapi merupakan analisis kritis yang membantu membangun kerangka berpikir penelitian.
+Dengan demikian, tinjauan literatur tidak sekadar menjadi kumpulan ringkasan penelitian terdahulu, tetapi merupakan analisis kritis yang membantu membangun kerangka berpikir penelitian (lihat @fig-literatur) .
+
+![Proses Peninjauan dan Telaah Literatur](images/literatur.png){#fig-literatur}
 
 ## Tujuan Tinjauan Literatur dalam Penelitian
 
@@ -76,9 +80,9 @@ Sumber pustaka dalam penelitian dapat dibedakan menjadi dua kategori utama, yait
 
     Sumber acuan umum biasanya digunakan untuk memahami konsep dasar atau teori yang bersifat umum. Contoh sumber acuan umum antara lain:
 
-    - Buku teks akademik
-    - Ensiklopedia ilmiah
-    - *Handbook* dalam bidang ilmu tertentu
+    -   Buku teks akademik
+    -   Ensiklopedia ilmiah
+    -   *Handbook* dalam bidang ilmu tertentu
 
     Sumber ini umumnya memberikan gambaran konseptual yang luas mengenai suatu topik penelitian.
 
@@ -86,12 +90,12 @@ Sumber pustaka dalam penelitian dapat dibedakan menjadi dua kategori utama, yait
 
     Sumber acuan khusus biasanya berisi hasil penelitian yang lebih spesifik dan mutakhir. Beberapa contoh sumber acuan khusus antara lain:
 
-    - Artikel jurnal ilmiah
-    - Disertasi atau tesis
-    - Laporan penelitian
-    - Prosiding konferensi ilmiah
-    - Makalah seminar
-    - Basis data ilmiah di internet
+    -   Artikel jurnal ilmiah
+    -   Disertasi atau tesis
+    -   Laporan penelitian
+    -   Prosiding konferensi ilmiah
+    -   Makalah seminar
+    -   Basis data ilmiah di internet
 
 Dalam penelitian ilmiah, artikel jurnal umumnya dianggap sebagai sumber referensi yang paling penting karena memuat temuan penelitian terbaru yang telah melalui proses peer review.
 
@@ -140,8 +144,8 @@ Kutipan merupakan cara untuk memberi informasi kepada pembaca bahwa sebagian gag
 
 Dalam psikologi, gaya penulisan kutipan yang paling banyak digunakan adalah gaya American Psychological Association (APA). Format kutipan biasanya ditulis dalam bentuk:
 
-- **Kutipan naratif**: penulis menjadi bagian dari kalimat. Contoh: Bandura (1986) menyatakan bahwa pembelajaran sosial terjadi melalui proses observasi.
-- **Kutipan dalam tanda kurung**: penulis ditulis dalam kurung. Contoh: Pembelajaran sosial dapat terjadi melalui observasi terhadap perilaku orang lain (Bandura, 1986).
+-   **Kutipan naratif**: penulis menjadi bagian dari kalimat. Contoh: Bandura (1986) menyatakan bahwa pembelajaran sosial terjadi melalui proses observasi.
+-   **Kutipan dalam tanda kurung**: penulis ditulis dalam kurung. Contoh: Pembelajaran sosial dapat terjadi melalui observasi terhadap perilaku orang lain (Bandura, 1986).
 
 Peneliti harus memastikan bahwa setiap sumber yang dikutip dalam teks tercantum dalam daftar pustaka.
 
@@ -198,15 +202,17 @@ Dalam penelitian psikologi, kerangka teoretis memiliki beberapa fungsi penting.
 ::: callout-important
 ## Refleksi & DIskusi
 
-- Mengapa tinjauan literatur menjadi bagian penting dalam penyusunan proposal atau laporan penelitian?
-- Apa perbedaan fungsi buku teks dan artikel jurnal ilmiah dalam penyusunan tinjauan literatur?
-- Bagaimana cara menentukan apakah suatu sumber literatur cukup kredibel untuk dijadikan referensi penelitian?
-- Mengapa peneliti perlu menggunakan sumber pustaka yang relatif mutakhir dalam penelitian ilmiah?
-- Bagaimana strategi yang dapat digunakan untuk menemukan literatur yang relevan dengan topik penelitian?
-- Mengapa pengutipan yang tepat penting dalam menjaga integritas akademik dalam penelitian?
-- Bagaimana teori membantu peneliti menjelaskan hubungan antar variabel dalam suatu penelitian?
-- Pilih satu topik penelitian psikologi, lalu diskusikan teori apa saja yang dapat digunakan sebagai dasar penyusunan kerangka teoretis penelitian tersebut.
+-   Mengapa tinjauan literatur menjadi bagian penting dalam penyusunan proposal atau laporan penelitian?
+-   Apa perbedaan fungsi buku teks dan artikel jurnal ilmiah dalam penyusunan tinjauan literatur?
+-   Bagaimana cara menentukan apakah suatu sumber literatur cukup kredibel untuk dijadikan referensi penelitian?
+-   Mengapa peneliti perlu menggunakan sumber pustaka yang relatif mutakhir dalam penelitian ilmiah?
+-   Bagaimana strategi yang dapat digunakan untuk menemukan literatur yang relevan dengan topik penelitian?
+-   Mengapa pengutipan yang tepat penting dalam menjaga integritas akademik dalam penelitian?
+-   Bagaimana teori membantu peneliti menjelaskan hubungan antar variabel dalam suatu penelitian?
+-   Pilih satu topik penelitian psikologi, lalu diskusikan teori apa saja yang dapat digunakan sebagai dasar penyusunan kerangka teoretis penelitian tersebut.
 :::
+
 ## Daftar Pustaka {.unnumbered .unlisted}
+
 ::: sectionrefs
 :::
