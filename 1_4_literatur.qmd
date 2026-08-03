@@ -115,7 +115,9 @@ Tidak semua sumber bacaan dapat dijadikan rujukan dalam penelitian ilmiah. Oleh 
 
     Sumber literatur harus berasal dari publikasi ilmiah yang memiliki reputasi baik, seperti jurnal akademik yang terindeks atau penerbit akademik yang terpercaya.
 
-Perlu diingat bahwa kualitas penelitian tidak ditentukan oleh banyaknya jumlah referensi yang digunakan, melainkan oleh relevansi dan kualitas referensi tersebut.
+Perlu diingat bahwa kualitas penelitian tidak ditentukan oleh banyaknya jumlah referensi yang digunakan, melainkan oleh relevansi dan kualitas referensi tersebut. Sebelum menyusun tinjauan literatur, peneliti perlu memahami prioritas penggunaan berbagai jenis sumber ilmiah sebagaimana diilustrasikan pada @fig-hirarki. Pemahaman ini membantu peneliti memilih referensi yang sesuai dan menyusun landasan teori yang lebih kuat.
+
+![Hierarki Tingkat Keilmiahan Sumber Literatur dan Tahapan Evaluasi Referensi](images/hierarki.png){#fig-hirarki}
 
 ## Strategi Menelusuri Literatur
 
@@ -123,11 +125,11 @@ Menemukan literatur yang relevan merupakan keterampilan penting bagi seorang pen
 
 1.  *Backward referencing*
 
-    *Backward referencing* dilakukan dengan menelusuri daftar pustaka dari artikel atau buku yang dianggap penting. Dengan cara ini, peneliti dapat menemukan sumber-sumber yang menjadi dasar bagi penelitian tersebut. Strategi ini membantu peneliti memahami perkembangan awal suatu konsep atau teori.
+    *Backward referencing* dilakukan dengan menelusuri daftar pustaka (*references*) dari artikel atau buku yang dianggap penting. Dengan cara ini, peneliti dapat menemukan sumber-sumber yang menjadi dasar bagi penelitian tersebut. Strategi ini membantu peneliti memahami perkembangan awal suatu konsep atau teori.
 
 2.  *Forward referencing*
 
-    *Forward referencing* dilakukan dengan mencari artikel-artikel yang mengutip suatu karya ilmiah tertentu. Cara ini membantu peneliti mengetahui bagaimana suatu teori atau temuan penelitian berkembang dari waktu ke waktu. Proses *forward referencing* dapat dilakukan melalui berbagai basis data ilmiah seperti Google Scholar atau Scopus.
+    *Forward referencing* dilakukan dengan mencari artikel-artikel yang mengutip suatu karya ilmiah tertentu. Cara ini membantu peneliti mengetahui bagaimana suatu teori atau temuan penelitian berkembang dari waktu ke waktu. Proses *forward referencing* dapat dilakukan melalui berbagai basis data ilmiah seperti Google Scholar, halaman website artikel jurnal atau buku, atau Scopus. Artikel-artikel yang mengutip artikel tersebut biasanya ditampilkan di bagian "*Cited by*" dalam halaman website artikel.
 
 Kombinasi kedua strategi ini memungkinkan peneliti memperoleh gambaran yang lebih komprehensif mengenai perkembangan penelitian pada suatu topik.
 
