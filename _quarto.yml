@@ -37,20 +37,21 @@ book:
     - part: 3_pengantar.qmd
       chapters: 
         - 3_10_prinsipkuanti.qmd
-        - 3_11_hipotesis.qmd
-        - 3_12_sampling.qmd
-        - 3_13_eksperimen.qmd
-        - 3_14_korelasional.qmd
-        - 3_15_proposalkuanti.qmd
-        - 3_16_laporankuanti.qmd
+        - 3_11_variabel.qmd
+        - 3_12_hipotesis.qmd
+        - 3_13_sampling.qmd
+        - 3_14_eksperimen.qmd
+        - 3_15_korelasional.qmd
+        - 3_16_proposalkuanti.qmd
+        - 3_17_laporankuanti.qmd
     - part: 4_pengantar.qmd
       chapters: 
-        - 4_17_paradigmakuali.qmd
-        - 4_18_desainkuali.qmd
-        - 4_19_samplingkuali.qmd
-        - 4_20_analisiskualitatif.qmd
-        - 4_21_refleksivitas.qmd
-        - 4_22_laporankuali.qmd
+        - 4_18_paradigmakuali.qmd
+        - 4_19_desainkuali.qmd
+        - 4_20_samplingkuali.qmd
+        - 4_21_analisiskualitatif.qmd
+        - 4_22_refleksivitas.qmd
+        - 4_23_laporankuali.qmd
 filters:
   # Run Quarto's default filters first
   - quarto
