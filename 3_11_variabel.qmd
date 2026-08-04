@@ -10,7 +10,7 @@ reference-section-title:
 citeproc: true
 ---
 
-# Kontrol dalam Penelitian Eksperimen
+# Variabel dalam Penelitian Eksperimen
 
 ::: callout-note
 ## Capaian Pembelajaran
@@ -165,7 +165,7 @@ Kemampuan mengidentifikasi variabel dengan tepat akan memudahkan peneliti dalam 
 ::: callout-tip
 ## Rangkuman
 
-1.   Tidak semua karakteristik dapat disebut sebagai variabel. Suatu karakteristik hanya dapat berfungsi sebagai variabel apabila nilainya berbeda antarpartisipan atau antarunit analisis sehingga dapat diukur dan dibandingkan.
+1.  Tidak semua karakteristik dapat disebut sebagai variabel. Suatu karakteristik hanya dapat berfungsi sebagai variabel apabila nilainya berbeda antarpartisipan atau antarunit analisis sehingga dapat diukur dan dibandingkan.
 2.  Jenis variabel ditentukan oleh perannya dalam model penelitian, bukan oleh nama variabelnya. Variabel yang sama dapat berperan sebagai variabel independen pada satu penelitian, tetapi menjadi variabel dependen atau variabel lain pada penelitian yang berbeda.
 3.  Berdasarkan perannya, variabel dalam penelitian kuantitatif dapat dibedakan menjadi variabel independen, dependen, mediator, moderator, dan kontrol. Masing-masing memiliki fungsi yang berbeda dalam menjelaskan hubungan antarvariabel.
 4.  Variabel kontrol digunakan untuk mengurangi pengaruh faktor lain yang dapat mengganggu hubungan antara variabel independen dan dependen. Variabel kontrol berbeda dengan variabel perancu (*confounding variable*); variabel perancu merupakan potensi sumber bias, sedangkan variabel kontrol adalah variabel yang secara sengaja diperhitungkan atau dikendalikan oleh peneliti.
