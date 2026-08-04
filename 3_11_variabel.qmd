@@ -165,27 +165,39 @@ Kemampuan mengidentifikasi variabel dengan tepat akan memudahkan peneliti dalam 
 ::: callout-tip
 ## Rangkuman
 
-1.  Penelitian eksperimen merupakan desain penelitian yang digunakan untuk menguji hubungan sebab-akibat melalui manipulasi variabel independen dan pengamatan terhadap perubahan pada variabel dependen.
-2.  Berdasarkan tingkat kontrol terhadap variabel luar, desain eksperimen dibedakan menjadi eksperimen murni, kuasi eksperimen, dan pra-eksperimen. Ketiga desain tersebut memiliki karakteristik, tingkat validitas internal, serta kekuatan inferensi kausal yang berbeda.
-3.  Penelitian eksperimen dapat menggunakan *between-subjects design* atau *within-subjects design*, bergantung pada cara partisipan mengikuti kondisi eksperimen dan tujuan penelitian.
-4.  Pemilihan desain eksperimen harus mempertimbangkan keseimbangan antara kekuatan kontrol metodologis, kondisi lapangan, pertimbangan etika, ketersediaan sumber daya, serta tujuan penelitian.
-5.  Penelitian eksperimen harus dilaksanakan dengan memperhatikan validitas penelitian dan prinsip-prinsip etika agar menghasilkan temuan yang dapat dipercaya sekaligus melindungi hak dan kesejahteraan partisipan.
+1.   Tidak semua karakteristik dapat disebut sebagai variabel. Suatu karakteristik hanya dapat berfungsi sebagai variabel apabila nilainya berbeda antarpartisipan atau antarunit analisis sehingga dapat diukur dan dibandingkan.
+2.  Jenis variabel ditentukan oleh perannya dalam model penelitian, bukan oleh nama variabelnya. Variabel yang sama dapat berperan sebagai variabel independen pada satu penelitian, tetapi menjadi variabel dependen atau variabel lain pada penelitian yang berbeda.
+3.  Berdasarkan perannya, variabel dalam penelitian kuantitatif dapat dibedakan menjadi variabel independen, dependen, mediator, moderator, dan kontrol. Masing-masing memiliki fungsi yang berbeda dalam menjelaskan hubungan antarvariabel.
+4.  Variabel kontrol digunakan untuk mengurangi pengaruh faktor lain yang dapat mengganggu hubungan antara variabel independen dan dependen. Variabel kontrol berbeda dengan variabel perancu (*confounding variable*); variabel perancu merupakan potensi sumber bias, sedangkan variabel kontrol adalah variabel yang secara sengaja diperhitungkan atau dikendalikan oleh peneliti.
+5.  Kemampuan mengidentifikasi variabel merupakan keterampilan dasar dalam penelitian kuantitatif. Identifikasi variabel yang tepat akan memudahkan peneliti menyusun hipotesis, menentukan instrumen pengukuran, memilih teknik analisis data, serta mengoperasionalkan variabel pada tahap penelitian berikutnya.
 :::
 
 ::: callout-important
 ## Refleksi & Diskusi
 
--   Mengapa eksperimen dianggap lebih kuat daripada penelitian korelasional dalam menjelaskan hubungan sebab-akibat?
+-   Mengapa suatu karakteristik harus memiliki variasi nilai agar dapat disebut sebagai variabel dalam penelitian kuantitatif? Berikan satu contoh karakteristik yang merupakan variabel dan satu contoh yang bukan variabel dalam konteks penelitian tertentu.
 
--   Apa perbedaan utama antara eksperimen murni, kuasi eksperimen, dan pra-eksperimen?
+-   Perhatikan judul penelitian berikut.
 
-    Dalam situasi apa peneliti lebih tepat menggunakan kuasi eksperimen daripada eksperimen murni?
+    *Pengaruh Literasi Digital terhadap Kemampuan Berpikir Kritis Mahasiswa.*
 
--   Apa perbedaan antara *between-subjects design* dan *within-subjects design*?
+    Identifikasikan variabel independen dan variabel dependen pada penelitian tersebut. Jelaskan alasan Anda.
 
--   Apa saja pertimbangan etis yang perlu diperhatikan ketika peneliti memberikan perlakuan atau intervensi kepada partisipan?
+-   Perhatikan judul penelitian berikut.
 
--   Tentukan sebuah masalah penelitian di bidang psikologi, kemudian pilih desain eksperimen yang paling sesuai (pra-eksperimen, kuasi eksperimen, atau eksperimen murni). Jelaskan alasan pemilihan desain tersebut beserta bentuk rancangan eksperimen yang akan digunakan.
+    *Pengaruh Beban Kerja terhadap Burnout dengan Resiliensi sebagai Mediator dan Dukungan Organisasi sebagai Moderator.*
+
+    Identifikasikan seluruh variabel yang terdapat pada penelitian tersebut beserta perannya.
+
+-   Jelaskan perbedaan antara variabel mediator, variabel moderator, dan variabel kontrol. Mengapa ketiga jenis variabel tersebut memiliki fungsi yang berbeda dalam menjelaskan hubungan antarvariabel?
+
+-   Pilih salah satu judul penelitian yang sesuai dengan bidang psikologi yang Anda minati. Kemudian:
+
+    -   identifikasikan seluruh variabel yang terdapat dalam judul tersebut;
+
+    -   tentukan peran masing-masing variabel (independen, dependen, mediator, moderator, atau kontrol); dan
+
+    -   jelaskan alasan penetapan peran setiap variabel.
 :::
 
 ## Daftar Pustaka {.unnumbered .unlisted}

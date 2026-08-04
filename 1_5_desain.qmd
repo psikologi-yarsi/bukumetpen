@@ -95,7 +95,7 @@ Pada bagian ini, desain penelitian dijelaskan berdasarkan lima dimensi utama, ya
 
     b.  **Desain prospektif**
 
-        Desain prospektif mempelajari fenomena yang akan terjadi di masa depan. Dalam desain ini, peneliti terlebih dahulu mengidentifikasi partisipan atau kondisi tertentu, kemudian mengikuti perkembangan mereka dalam periode waktu tertentu untuk mengamati perubahan atau munculnya fenomena yang diteliti. Pendekatan ini memungkinkan peneliti memperoleh data yang lebih sistematis mengenai proses terjadinya suatu peristiwa. Namun, penelitian prospektif biasanya membutuhkan waktu dan sumber daya yang lebih besar dibandingkan penelitian retrospektif [@Rothman2008].
+        Desain prospektif mempelajari fenomena yang akan terjadi di masa depan. Dalam desain ini, peneliti terlebih dahulu mengidentifikasi partisipan atau kondisi tertentu, kemudian mengikuti perkembangan mereka dalam periode waktu tertentu untuk mengamati perubahan atau munculnya fenomena yang diteliti. Pendekatan ini memungkinkan peneliti memperoleh data yang lebih sistematis mengenai proses terjadinya suatu peristiwa. Namun, penelitian prospektif biasanya membutuhkan waktu dan sumber daya yang lebih besar dibandingkan penelitian retrospektif [@Rothman2021].
 
     c.  **Desain retrospektif–prospektif**
 
@@ -177,10 +177,10 @@ Secara umum, metode pengumpulan data dapat diklasifikasikan ke dalam beberapa ka
 
 Dalam penelitian psikologi, data dapat diperoleh melalui berbagai teknik pengumpulan data yang disesuaikan dengan tujuan penelitian, desain penelitian, serta karakteristik fenomena yang diteliti. Setiap teknik memiliki cara pelaksanaan, kelebihan, dan keterbatasan yang berbeda dalam menghasilkan informasi mengenai perilaku, pengalaman, atau karakteristik psikologis individu. Oleh karena itu, peneliti perlu memahami berbagai teknik pengumpulan data agar dapat memilih teknik yang paling tepat untuk menjawab pertanyaan penelitian. Beberapa metode pengumpulan data yang umum digunakan antara lain:
 
-- **Wawancara**, yaitu interaksi antara peneliti dan partisipan untuk memperoleh informasi mengenai pengalaman, persepsi, atau pandangan mereka;
-- **Observasi**, yaitu pengamatan sistematis terhadap perilaku atau interaksi sosial dalam konteks tertentu;
-- **Tes dan skala psikologis**, yaitu instrumen yang digunakan untuk mengukur karakteristik psikologis seperti kecerdasan, sikap, atau kepribadian;
-- **Kuesioner atau survei**, yaitu instrumen tertulis yang berisi serangkaian pertanyaan yang harus dijawab oleh responden.
+-   **Wawancara**, yaitu interaksi antara peneliti dan partisipan untuk memperoleh informasi mengenai pengalaman, persepsi, atau pandangan mereka;
+-   **Observasi**, yaitu pengamatan sistematis terhadap perilaku atau interaksi sosial dalam konteks tertentu;
+-   **Tes dan skala psikologis**, yaitu instrumen yang digunakan untuk mengukur karakteristik psikologis seperti kecerdasan, sikap, atau kepribadian;
+-   **Kuesioner atau survei**, yaitu instrumen tertulis yang berisi serangkaian pertanyaan yang harus dijawab oleh responden.
 
 ### Wawancara sebagai Metode Pengumpulan Data
 
@@ -194,9 +194,9 @@ a.  Wawancara terstruktur
 
     Kelebihan wawancara terstruktur:
 
-    - meningkatkan konsistensi pengukuran
-    - memudahkan proses analisis data
-    - meningkatkan reliabilitas
+    -   meningkatkan konsistensi pengukuran
+    -   memudahkan proses analisis data
+    -   meningkatkan reliabilitas
 
     Namun, metode ini memiliki keterbatasan karena kurang memberikan ruang untuk eksplorasi yang mendalam.
 
@@ -212,8 +212,8 @@ a.  Pertanyaan pilihan tetap (*fixed-alternative items)*
 
     Pertanyaan telah disertai dengan pilihan jawaban tertentu, misalnya:
 
-    - ya / tidak
-    - setuju / tidak setuju
+    -   ya / tidak
+    -   setuju / tidak setuju
 
     Jenis pertanyaan ini menghasilkan data yang lebih mudah dianalisis tetapi kurang mendalam.
 
@@ -238,10 +238,10 @@ b.  Observasi non-partisipatif: Peneliti tidak terlibat dalam aktivitas yang dia
 
 Beberapa masalah yang dapat muncul dalam observasi antara lain:
 
-- *Hawthorne effect*, yaitu perubahan perilaku karena individu mengetahui dirinya sedang diamati
-- bias pengamat
-- keterbatasan pencatatan data
-- kemungkinan informasi yang tidak lengkap
+-   *Hawthorne effect*, yaitu perubahan perilaku karena individu mengetahui dirinya sedang diamati
+-   bias pengamat
+-   keterbatasan pencatatan data
+-   kemungkinan informasi yang tidak lengkap
 
 Karena itu, observasi biasanya dilengkapi dengan teknik pencatatan yang sistematis seperti f*ield notes*, rekaman video, atau lembar observasi terstruktur [@Angrosino2008].
 
@@ -272,22 +272,24 @@ Dalam banyak penelitian psikologi modern, peneliti sering mengombinasikan bebera
 ::: callout-tip
 ## Rangkuman
 
-- Desain penelitian merupakan rencana sistematis yang mengarahkan proses penelitian untuk menjawab pertanyaan penelitian secara valid dan terstruktur.
-- Desain penelitian dapat diklasifikasikan berdasarkan jumlah kontak dengan partisipan, periode penelitian, dan perlakuan terhadap variabel penelitian.
-- Metode pengumpulan data merujuk pada cara yang digunakan peneliti untuk memperoleh data yang diperlukan dalam penelitian.
-- Data penelitian dapat diklasifikasikan berdasarkan sumber data (primer dan sekunder), jenis data (kuantitatif dan kualitatif), serta interpretasi data (faktual dan non-faktual).
-- Dalam penelitian psikologi, beberapa teknik pengumpulan data yang sering digunakan antara lain wawancara, observasi, tes atau skala psikologis, serta kuesioner atau survei.
+-   Desain penelitian merupakan rencana sistematis yang mengarahkan proses penelitian untuk menjawab pertanyaan penelitian secara valid dan terstruktur.
+-   Desain penelitian dapat diklasifikasikan berdasarkan jumlah kontak dengan partisipan, periode penelitian, dan perlakuan terhadap variabel penelitian.
+-   Metode pengumpulan data merujuk pada cara yang digunakan peneliti untuk memperoleh data yang diperlukan dalam penelitian.
+-   Data penelitian dapat diklasifikasikan berdasarkan sumber data (primer dan sekunder), jenis data (kuantitatif dan kualitatif), serta interpretasi data (faktual dan non-faktual).
+-   Dalam penelitian psikologi, beberapa teknik pengumpulan data yang sering digunakan antara lain wawancara, observasi, tes atau skala psikologis, serta kuesioner atau survei.
 :::
 
 ::: callout-important
 ## Refleksi & Diskusi
 
-- Mengapa desain penelitian perlu dirancang sebelum proses pengumpulan data dilakukan?
-- Dalam situasi apa peneliti lebih tepat menggunakan desain eksperimental dibandingkan desain non-eksperimental?
-- Apa perbedaan utama antara data primer dan data sekunder, serta apa kelebihan dan keterbatasan masing-masing?
-- Mengapa pemilihan teknik pengumpulan data harus disesuaikan dengan tujuan penelitian?
-- Menurut Anda, dalam penelitian psikologi kapan wawancara lebih tepat digunakan dibandingkan kuesioner?
+-   Mengapa desain penelitian perlu dirancang sebelum proses pengumpulan data dilakukan?
+-   Dalam situasi apa peneliti lebih tepat menggunakan desain eksperimental dibandingkan desain non-eksperimental?
+-   Apa perbedaan utama antara data primer dan data sekunder, serta apa kelebihan dan keterbatasan masing-masing?
+-   Mengapa pemilihan teknik pengumpulan data harus disesuaikan dengan tujuan penelitian?
+-   Menurut Anda, dalam penelitian psikologi kapan wawancara lebih tepat digunakan dibandingkan kuesioner?
 :::
+
 ## Daftar Pustaka {.unnumbered .unlisted}
+
 ::: sectionrefs
 :::
