@@ -62,7 +62,7 @@ Komponen utama desain penelitian meliputi:
     Desain penelitian juga harus menjelaskan bagaimana data akan diperoleh. Peneliti perlu memilih metode pengumpulan data yang sesuai dengan tujuan penelitian dan karakteristik fenomena yang diteliti. Strategi ini dapat melibatkan satu metode saja atau kombinasi beberapa metode.
 
 4.  **Strategi analisis data**\
-    Selain pengumpulan data, desain penelitian juga mencakup rencana mengenai bagaimana data tersebut akan dianalisis. Dalam penelitian kuantitatif, analisis biasanya menggunakan teknik statistik. Sebaliknya, dalam penelitian kualitatif analisis sering melibatkan proses interpretasi makna melalui *coding* dan kategorisasi data.
+    Selain pengumpulan data, desain penelitian juga mencakup rencana mengenai bagaimana data tersebut akan dianalisis. Dalam penelitian kuantitatif, analisis biasanya menggunakan teknik statistik. Sedangkan dalam penelitian kualitatif, analisis sering melibatkan proses interpretasi makna melalui *coding* dan kategorisasi data.
 
 5.  **Pertimbangan validitas dan kualitas penelitian**\
     Desain penelitian juga harus mempertimbangkan bagaimana menjaga kualitas data dan hasil penelitian. Hal ini mencakup strategi untuk meningkatkan validitas, reliabilitas, serta kredibilitas penelitian. Pembahasan lebih mendalam mengenai isu ini akan dijelaskan pada bab tersendiri mengenai validitas dan kualitas penelitian.
