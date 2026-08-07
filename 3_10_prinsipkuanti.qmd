@@ -67,7 +67,7 @@ Dalam penelitian kuantitatif, prinsip ini menjadi dasar penggunaan teknik sampli
 
 ::: {#tbl-prinsipkuantitatif}
 |  |  |
-|:-----------------------|:----------------------------------------------|
+|:---|:---|
 | **Prinsip/Logika** | **Implikasi dalam Penelitian Kuantitatif** |
 | *Determinism* | Mengidentifikasi dan menguji hubungan antar variabel |
 | *Empiricism* | Menerjemahkan konsep menjadi variabel yang dapat diamati dan diukur |
@@ -83,9 +83,7 @@ Logika merupakan cara penalaran yang mengikuti kaidah tertentu agar suatu kesimp
 
 Penelitian kuantitatif utamanya menggunakan logika deduktif. Peneliti berangkat dari teori atau pengetahuan yang telah ada, kemudian menurunkannya menjadi dugaan yang lebih spesifik dalam bentuk hipotesis. Hipotesis tersebut selanjutnya diuji menggunakan data empiris untuk menentukan apakah bukti yang diperoleh konsisten dengan prediksi yang diturunkan dari teori [@Creswell2018a]. Alur tersebut tidak berhenti pada penarikan kesimpulan; temuan empiris yang diperoleh dapat menjadi dasar untuk memperbaiki atau mengembangkan teori dan selanjutnya diuji kembali melalui penelitian berikutnya (lihat @fig-deduktif).
 
-::: {#fig-deduktif}
-![Siklus Penelitian Kuantitatif](images/alurkuanti.png)
-:::
+![Siklus Penelitian Kuantitatif](images/alurkuanti.png){#fig-deduktif}
 
 Meskipun demikian, deduksi dan induksi tidak harus dipandang sebagai dua proses yang sepenuhnya terpisah. Temuan empiris dari penelitian kuantitatif dapat menghasilkan pola atau persoalan baru yang kemudian digunakan untuk memperbaiki dan mengembangkan penjelasan teoretis. Dengan demikian, perkembangan pengetahuan ilmiah berlangsung secara berkelanjutan melalui hubungan antara teori dan bukti empiris [@Babbie2021].
 
@@ -149,13 +147,15 @@ Pemahaman terhadap logika deduktif menunjukkan bahwa hipotesis penelitian bukan 
 ::: callout-important
 ## Refleksi & Diskusi
 
-- Mengapa penelitian kuantitatif perlu dilakukan secara sistematis dan terstruktur? Kaitkan jawaban Anda dengan prinsip-prinsip penelitian kuantitatif.
-- Pilih satu fenomena psikologis yang menarik bagi Anda. Jelaskan bagaimana prinsip *determinism*, *empiricism*, *parsimony*, dan *generalization* dapat diterapkan untuk meneliti fenomena tersebut.
-- Buatlah satu contoh sederhana yang menunjukkan alur teori → hipotesis → pengumpulan data → analisis → kesimpulan.
-- Mengapa hipotesis dalam penelitian kuantitatif seharusnya memiliki dasar teori atau temuan penelitian sebelumnya?
-- Seorang peneliti memperoleh hasil yang tidak mendukung hipotesisnya. Apakah hal tersebut berarti teori yang digunakannya pasti salah? Jelaskan alasan Anda.
-- Pilih salah satu topik penelitian, kemudian susun sebuah contoh silogisme kategoris atau hipotetik yang dapat menjadi dasar penalaran dalam penelitian tersebut.
+-   Mengapa penelitian kuantitatif perlu dilakukan secara sistematis dan terstruktur? Kaitkan jawaban Anda dengan prinsip-prinsip penelitian kuantitatif.
+-   Pilih satu fenomena psikologis yang menarik bagi Anda. Jelaskan bagaimana prinsip *determinism*, *empiricism*, *parsimony*, dan *generalization* dapat diterapkan untuk meneliti fenomena tersebut.
+-   Buatlah satu contoh sederhana yang menunjukkan alur teori → hipotesis → pengumpulan data → analisis → kesimpulan.
+-   Mengapa hipotesis dalam penelitian kuantitatif seharusnya memiliki dasar teori atau temuan penelitian sebelumnya?
+-   Seorang peneliti memperoleh hasil yang tidak mendukung hipotesisnya. Apakah hal tersebut berarti teori yang digunakannya pasti salah? Jelaskan alasan Anda.
+-   Pilih salah satu topik penelitian, kemudian susun sebuah contoh silogisme kategoris atau hipotetik yang dapat menjadi dasar penalaran dalam penelitian tersebut.
 :::
+
 ## Daftar Pustaka {.unnumbered .unlisted}
+
 ::: sectionrefs
 :::

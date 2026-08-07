@@ -62,16 +62,16 @@ Selain itu, peneliti menyusun **catatan lapangan (*field notes*)** sebagai dokum
 
 Etnografi tepat digunakan apabila tujuan penelitian adalah:
 
-- memahami budaya atau cara hidup suatu kelompok;
-- mengkaji norma, nilai, atau praktik sosial yang berkembang dalam suatu komunitas;
-- memahami bagaimana anggota kelompok berinteraksi dalam kehidupan sehari-hari; atau
-- menjelaskan suatu fenomena berdasarkan sudut pandang anggota kelompok itu sendiri.
+-   memahami budaya atau cara hidup suatu kelompok;
+-   mengkaji norma, nilai, atau praktik sosial yang berkembang dalam suatu komunitas;
+-   memahami bagaimana anggota kelompok berinteraksi dalam kehidupan sehari-hari; atau
+-   menjelaskan suatu fenomena berdasarkan sudut pandang anggota kelompok itu sendiri.
 
 Contoh pertanyaan penelitian:
 
-- Bagaimana budaya bermain dan norma sosial berkembang dalam komunitas pemain *online game* kompetitif?
-- Bagaimana budaya kerja memengaruhi komunikasi antarprofesi di ruang ICU?
-- Bagaimana budaya sekolah membentuk perilaku anti-perundungan di kalangan siswa?
+-   Bagaimana budaya bermain dan norma sosial berkembang dalam komunitas pemain *online game* kompetitif?
+-   Bagaimana budaya kerja memengaruhi komunikasi antarprofesi di ruang ICU?
+-   Bagaimana budaya sekolah membentuk perilaku anti-perundungan di kalangan siswa?
 :::
 
 ## Studi Kasus
@@ -125,17 +125,17 @@ Penggunaan berbagai sumber data tersebut memungkinkan peneliti melakukan **trian
 
 Studi kasus tepat digunakan apabila tujuan penelitian adalah:
 
-- memahami satu kasus secara mendalam;
-- menjelaskan bagaimana atau mengapa suatu fenomena terjadi;
-- mengkaji fenomena yang sangat dipengaruhi oleh konteks; atau
-- mengintegrasikan berbagai sumber data untuk memperoleh gambaran yang komprehensif mengenai suatu kasus.
+-   memahami satu kasus secara mendalam;
+-   menjelaskan bagaimana atau mengapa suatu fenomena terjadi;
+-   mengkaji fenomena yang sangat dipengaruhi oleh konteks; atau
+-   mengintegrasikan berbagai sumber data untuk memperoleh gambaran yang komprehensif mengenai suatu kasus.
 
 Contoh pertanyaan penelitian:
 
-- Bagaimana proses pemulihan psikologis seorang penyintas kecelakaan lalu lintas setelah mengikuti terapi kognitif-perilaku?
-- Mengapa program pencegahan *bullying* di SMA X berhasil menurunkan jumlah kasus perundungan?
-- Bagaimana dinamika kerja tim psikolog di Rumah Sakit Y dalam menangani pasien bencana?
-- Bagaimana implementasi layanan konseling sebaya di Universitas Z mendukung kesehatan mental mahasiswa?
+-   Bagaimana proses pemulihan psikologis seorang penyintas kecelakaan lalu lintas setelah mengikuti terapi kognitif-perilaku?
+-   Mengapa program pencegahan *bullying* di SMA X berhasil menurunkan jumlah kasus perundungan?
+-   Bagaimana dinamika kerja tim psikolog di Rumah Sakit Y dalam menangani pasien bencana?
+-   Bagaimana implementasi layanan konseling sebaya di Universitas Z mendukung kesehatan mental mahasiswa?
 :::
 
 ## Biografi
@@ -156,34 +156,34 @@ Selain wawancara, peneliti dapat menggunakan dokumen pendukung seperti foto, buk
 
 ### Keunggulan Biografi
 
-- **Memberikan gambaran yang mendalam mengenai perjalanan hidup seseorang** beserta perubahan yang terjadi sepanjang kehidupannya.
-- **Membantu memahami bagaimana individu memaknai pengalaman hidupnya** dalam konteks sosial, budaya, dan sejarah.
-- **Mengungkap hubungan antara berbagai peristiwa kehidupan** yang mungkin tidak dapat dipahami apabila hanya meneliti satu pengalaman secara terpisah.
-- **Mendorong refleksi diri partisipan** sehingga penelitian dapat memberikan manfaat tidak hanya bagi pengembangan ilmu, tetapi juga bagi partisipan sendiri.
+-   **Memberikan gambaran yang mendalam mengenai perjalanan hidup seseorang** beserta perubahan yang terjadi sepanjang kehidupannya.
+-   **Membantu memahami bagaimana individu memaknai pengalaman hidupnya** dalam konteks sosial, budaya, dan sejarah.
+-   **Mengungkap hubungan antara berbagai peristiwa kehidupan** yang mungkin tidak dapat dipahami apabila hanya meneliti satu pengalaman secara terpisah.
+-   **Mendorong refleksi diri partisipan** sehingga penelitian dapat memberikan manfaat tidak hanya bagi pengembangan ilmu, tetapi juga bagi partisipan sendiri.
 
 ### Keterbatasan Biografi
 
-- **Temuan penelitian tidak dimaksudkan untuk digeneralisasikan** karena biasanya hanya melibatkan sedikit partisipan dengan pengalaman yang sangat spesifik.
-- **Penelitian membutuhkan waktu yang cukup lama** karena melibatkan wawancara mendalam, analisis narasi, dan interpretasi terhadap data yang sangat kaya.
-- **Data sangat bergantung pada kemampuan partisipan mengingat serta menceritakan pengalaman hidupnya** sehingga berpotensi dipengaruhi oleh *recall bias* maupun informasi yang sengaja tidak diungkapkan.
-- **Interpretasi peneliti berpotensi memengaruhi penyusunan dan penafsiran** kisah hidup partisipan sehingga refleksivitas menjadi bagian penting dalam penelitian biografi.
-- Mengingat pengalaman hidup yang sensitif atau traumatis **dapat menimbulkan beban emosional bagi responden** sehingga peneliti perlu memperhatikan aspek etika penelitian.
+-   **Temuan penelitian tidak dimaksudkan untuk digeneralisasikan** karena biasanya hanya melibatkan sedikit partisipan dengan pengalaman yang sangat spesifik.
+-   **Penelitian membutuhkan waktu yang cukup lama** karena melibatkan wawancara mendalam, analisis narasi, dan interpretasi terhadap data yang sangat kaya.
+-   **Data sangat bergantung pada kemampuan partisipan mengingat serta menceritakan pengalaman hidupnya** sehingga berpotensi dipengaruhi oleh *recall bias* maupun informasi yang sengaja tidak diungkapkan.
+-   **Interpretasi peneliti berpotensi memengaruhi penyusunan dan penafsiran** kisah hidup partisipan sehingga refleksivitas menjadi bagian penting dalam penelitian biografi.
+-   Mengingat pengalaman hidup yang sensitif atau traumatis **dapat menimbulkan beban emosional bagi responden** sehingga peneliti perlu memperhatikan aspek etika penelitian.
 
 ::: {.callout-tip icon="false"}
 ## Kapan menggunakan biografi?
 
 Biografi tepat digunakan apabila tujuan penelitian adalah:
 
-- memahami perjalanan hidup seseorang;
-- mengkaji pengalaman penting yang membentuk kehidupan individu;
-- memahami perubahan identitas seseorang dari waktu ke waktu;
-- menjelaskan hubungan antara pengalaman pribadi dan konteks sosial
+-   memahami perjalanan hidup seseorang;
+-   mengkaji pengalaman penting yang membentuk kehidupan individu;
+-   memahami perubahan identitas seseorang dari waktu ke waktu;
+-   menjelaskan hubungan antara pengalaman pribadi dan konteks sosial
 
 Contoh pertanyaan penelitian:
 
-- Bagaimana pengalaman *bullying* membentuk identitas diri seseorang hingga dewasa?
-- Bagaimana perjalanan karier atlet nasional membentuk resiliensi psikologisnya?
-- Bagaimana pengalaman menjadi *caregiver* memengaruhi kehidupan seseorang selama bertahun-tahun?
+-   Bagaimana pengalaman *bullying* membentuk identitas diri seseorang hingga dewasa?
+-   Bagaimana perjalanan karier atlet nasional membentuk resiliensi psikologisnya?
+-   Bagaimana pengalaman menjadi *caregiver* memengaruhi kehidupan seseorang selama bertahun-tahun?
 :::
 
 ## *Participatory Action Research* (PAR)
@@ -202,9 +202,7 @@ Dalam PAR, pengumpulan data dilakukan secara kolaboratif dengan melibatkan anggo
 
 Pelaksanaan PAR berlangsung dalam suatu siklus yang berulang, yaitu mengidentifikasi masalah, mengumpulkan dan menganalisis data, merencanakan tindakan, melaksanakan tindakan, mengevaluasi hasilnya melalui refleksi bersama, kemudian menyusun langkah perbaikan berikutnya. Siklus ini dapat diulang hingga tujuan penelitian atau perubahan yang diharapkan tercapai [@Cornish2023]. Alur pelaksanaan PAR secara ringkas disajikan pada @fig-sikluspar.
 
-::: {#fig-sikluspar}
-![Siklus Pelaksanaan PAR](images/siklus.png)
-:::
+![Siklus Pelaksanaan PAR](images/siklus.png){#fig-sikluspar}
 
 ### Keunggulan PAR
 
@@ -225,17 +223,17 @@ Pelaksanaan PAR berlangsung dalam suatu siklus yang berulang, yaitu mengidentifi
 
 PAR tepat digunakan apabila tujuan penelitian adalah:
 
-- menyelesaikan suatu permasalahan bersama komunitas;
-- mengembangkan atau mengevaluasi program berbasis komunitas;
-- melibatkan komunitas sebagai mitra dalam penelitian;
-- menghasilkan perubahan sosial sekaligus pengetahuan ilmiah.
+-   menyelesaikan suatu permasalahan bersama komunitas;
+-   mengembangkan atau mengevaluasi program berbasis komunitas;
+-   melibatkan komunitas sebagai mitra dalam penelitian;
+-   menghasilkan perubahan sosial sekaligus pengetahuan ilmiah.
 
 Contoh pertanyaan penelitian:
 
-- Bagaimana guru, siswa, dan orang tua dapat bekerja sama mengembangkan program promosi kesehatan mental di sekolah?
-- Bagaimana masyarakat Desa X dapat meningkatkan perilaku hidup bersih dan sehat melalui program berbasis komunitas?
-- Bagaimana mahasiswa dapat berkolaborasi merancang program pencegahan stres akademik di Fakultas Psikologi?
-- Bagaimana kader Posyandu bersama masyarakat meningkatkan partisipasi ibu balita dalam pemantauan tumbuh kembang anak?
+-   Bagaimana guru, siswa, dan orang tua dapat bekerja sama mengembangkan program promosi kesehatan mental di sekolah?
+-   Bagaimana masyarakat Desa X dapat meningkatkan perilaku hidup bersih dan sehat melalui program berbasis komunitas?
+-   Bagaimana mahasiswa dapat berkolaborasi merancang program pencegahan stres akademik di Fakultas Psikologi?
+-   Bagaimana kader Posyandu bersama masyarakat meningkatkan partisipasi ibu balita dalam pemantauan tumbuh kembang anak?
 :::
 
 ## Fenomenologi
@@ -273,17 +271,17 @@ d.  **Penelitian sering kali membahas pengalaman yang sensitif atau traumatis**,
 
 Fenomenologi tepat digunakan apabila tujuan penelitian adalah:
 
-- memahami makna suatu pengalaman hidup;
-- menggali bagaimana seseorang mengalami suatu peristiwa;
-- mengidentifikasi esensi dari pengalaman yang dialami beberapa individu;
-- memahami pengalaman yang bersifat subjektif dan personal.
+-   memahami makna suatu pengalaman hidup;
+-   menggali bagaimana seseorang mengalami suatu peristiwa;
+-   mengidentifikasi esensi dari pengalaman yang dialami beberapa individu;
+-   memahami pengalaman yang bersifat subjektif dan personal.
 
 Contoh pertanyaan penelitian:
 
-- Bagaimana pengalaman menjadi *caregiver* pasien demensia?
-- Bagaimana pengalaman mahasiswa tunanetra mengikuti pembelajaran di perguruan tinggi?
-- Apa makna pengalaman menjadi penyintas gempa bumi bagi individu yang mengalaminya?
-- Bagaimana pengalaman perawat memberikan perawatan paliatif kepada pasien terminal?
+-   Bagaimana pengalaman menjadi *caregiver* pasien demensia?
+-   Bagaimana pengalaman mahasiswa tunanetra mengikuti pembelajaran di perguruan tinggi?
+-   Apa makna pengalaman menjadi penyintas gempa bumi bagi individu yang mengalaminya?
+-   Bagaimana pengalaman perawat memberikan perawatan paliatif kepada pasien terminal?
 :::
 
 ## *Grounded Theory*
@@ -321,24 +319,22 @@ Pengumpulan data dilakukan secara bertahap dan berlangsung bersamaan dengan pros
 
 *Grounded theory* tepat digunakan apabila tujuan penelitian adalah:
 
-- membangun teori baru mengenai suatu fenomena;
-- memahami bagaimana suatu proses atau interaksi berkembang;
-- menjelaskan tahapan atau mekanisme suatu perilaku;
-- meneliti fenomena yang masih sedikit memiliki landasan teori.
+-   membangun teori baru mengenai suatu fenomena;
+-   memahami bagaimana suatu proses atau interaksi berkembang;
+-   menjelaskan tahapan atau mekanisme suatu perilaku;
+-   meneliti fenomena yang masih sedikit memiliki landasan teori.
 
 Contoh pertanyaan penelitian:
 
-- Bagaimana proses terjadinya *burnout* pada tenaga kesehatan di rumah sakit?
-- Bagaimana proses mahasiswa mengembangkan kecanduan gim daring hingga memengaruhi prestasi akademik?
-- Bagaimana proses terbentuknya resiliensi pada penyintas bencana alam?
-- Bagaimana proses pemulihan psikologis penyintas kekerasan dalam rumah tangga?
+-   Bagaimana proses terjadinya *burnout* pada tenaga kesehatan di rumah sakit?
+-   Bagaimana proses mahasiswa mengembangkan kecanduan gim daring hingga memengaruhi prestasi akademik?
+-   Bagaimana proses terbentuknya resiliensi pada penyintas bencana alam?
+-   Bagaimana proses pemulihan psikologis penyintas kekerasan dalam rumah tangga?
 :::
 
 Keenam desain penelitian kualitatif yang telah dibahas memiliki karakteristik, tujuan, dan luaran yang berbeda sehingga pemilihannya harus disesuaikan dengan tujuan penelitian, jenis pertanyaan penelitian, serta fenomena yang ingin dipahami. Tidak ada satu desain yang lebih baik daripada desain lainnya, karena masing-masing dikembangkan untuk menjawab kebutuhan penelitian yang berbeda. Ringkasan perbandingan karakteristik utama dari setiap desain penelitian kualitatif disajikan pada @fig-desainkuali, yang dapat digunakan sebagai panduan dalam memilih desain penelitian yang paling sesuai.
 
-::: {#fig-desainkuali}
-![Perbandingan Desain Penelitian Kualitatif](images/desain%20kualitatif.png)
-:::
+![Perbandingan Desain Penelitian Kualitatif](images/desain%20kualitatif.png){#fig-desainkuali}
 
 Dari perbandingan tersebut terlihat bahwa perbedaan utama antar desain penelitian kualitatif tidak terletak pada teknik pengumpulan datanya, karena sebagian besar menggunakan wawancara dan observasi, melainkan pada tujuan penelitian serta jenis pengetahuan yang ingin dihasilkan. Oleh karena itu, pemilihan desain penelitian hendaknya didasarkan pada pertanyaan penelitian dan fenomena yang ingin dipahami, bukan semata-mata pada teknik pengumpulan data yang akan digunakan.
 
@@ -358,11 +354,13 @@ Dari perbandingan tersebut terlihat bahwa perbedaan utama antar desain penelitia
 ::: callout-important
 ## Refleksi & Diskusi
 
-- Menurut Anda, apa perbedaan mendasar antara etnografi, studi kasus, biografi, *participatory action research* (PAR), fenomenologi, dan *grounded theory*? Jelaskan karakteristik yang paling membedakan masing-masing desain.
-- Pilih salah satu fenomena psikologis yang menarik bagi Anda, kemudian tentukan desain penelitian kualitatif yang paling sesuai untuk mengkajinya. Jelaskan alasan pemilihan desain tersebut.
-- Perhatikan sebuah artikel penelitian kualitatif yang Anda temukan dari jurnal ilmiah. Identifikasi desain penelitian yang digunakan, kemudian jelaskan apakah desain tersebut sudah sesuai dengan tujuan penelitian yang ingin dicapai.
-- Anda adalah seorang peneliti yang sedang meneliti fenomena "Transisi Pembelajaran Berbasis Kecerdasan Buatan (AI) di Sekolah Menengah Daerah Terpencil". Susunlah pertanyaan penelitian dari topik riset di atas di mana setiap pertanyaan mencerminkan karakteristik khas dan tujuan utama dari masing-masing desain riset yang telah dipelajari sebelumnya (etnografi,  studi kasus, biografi,  *participatory action research,* fenomenologi, dan *grounded theory*).
+-   Menurut Anda, apa perbedaan mendasar antara etnografi, studi kasus, biografi, *participatory action research* (PAR), fenomenologi, dan *grounded theory*? Jelaskan karakteristik yang paling membedakan masing-masing desain.
+-   Pilih salah satu fenomena psikologis yang menarik bagi Anda, kemudian tentukan desain penelitian kualitatif yang paling sesuai untuk mengkajinya. Jelaskan alasan pemilihan desain tersebut.
+-   Perhatikan sebuah artikel penelitian kualitatif yang Anda temukan dari jurnal ilmiah. Identifikasi desain penelitian yang digunakan, kemudian jelaskan apakah desain tersebut sudah sesuai dengan tujuan penelitian yang ingin dicapai.
+-   Anda adalah seorang peneliti yang sedang meneliti fenomena "Transisi Pembelajaran Berbasis Kecerdasan Buatan (AI) di Sekolah Menengah Daerah Terpencil". Susunlah pertanyaan penelitian dari topik riset di atas di mana setiap pertanyaan mencerminkan karakteristik khas dan tujuan utama dari masing-masing desain riset yang telah dipelajari sebelumnya (etnografi,  studi kasus, biografi,  *participatory action research,* fenomenologi, dan *grounded theory*).
 :::
+
 ## Daftar Pustaka {.unnumbered .unlisted}
+
 ::: sectionrefs
 :::

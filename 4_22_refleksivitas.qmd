@@ -33,9 +33,7 @@ Penelitian kualitatif bertujuan memahami makna, pengalaman, dan realitas sosial 
 
 Dalam penelitian kualitatif, kualitas penelitian umumnya dinilai menggunakan konsep *trustworthiness*, yaitu sejauh mana proses dan temuan penelitian dapat dipercaya (*trustworthy*) serta didukung oleh prosedur penelitian yang sistematis dan transparan. Konsep ini diperkenalkan oleh @Lincoln1990 sebagai alternatif terhadap konsep validitas dan reliabilitas dalam penelitian kuantitatif. *Trustworthiness* menekankan bahwa kualitas penelitian tidak hanya ditentukan oleh hasil akhir, tetapi juga oleh bagaimana data dikumpulkan, dianalisis, diinterpretasikan, dan didokumentasikan selama proses penelitian. @fig-trustworthiness menyajikan perbandingan konseptual antara standar keabsahan yang digunakan dalam penelitian kuantitatif dan penelitian kualitatif.
 
-::: {#fig-trustworthiness}
-![Perbandingan konseptual keabsahan penelitian kuantitatif & kualitatif](images/trustworthiness.png)
-:::
+![Perbandingan konseptual keabsahan penelitian kuantitatif & kualitatif](images/trustworthiness.png){#fig-trustworthiness}
 
 ### Kriteria *Trustworthiness* {#sec-kriteria}
 
@@ -43,7 +41,7 @@ Dalam penelitian kualitatif, kualitas penelitian umumnya dinilai menggunakan kon
 
 ::: {#tbl-trustworthiness}
 |  |  |  |  |
-|:-----------------|:-----------------|:-----------------|:-----------------|
+|:---|:---|:---|:---|
 | **Kriteria** | **Fokus Penilaian** | **Pertanyaan yang Dijawab** | **Contoh Strategi** |
 | *Credibility* | Keterpercayaan temuan | Apakah temuan benar-benar mencerminkan pengalaman atau perspektif partisipan? | Triangulasi, *member checking*, *peer debriefing*, *prolonged engagement* |
 | *Transferability* | Keteralihan hasil penelitian | Apakah pembaca memiliki informasi yang cukup untuk menilai apakah temuan relevan dengan konteks lain? | *Thick description* |
@@ -87,10 +85,10 @@ Triangulasi merupakan strategi untuk meningkatkan kepercayaan terhadap temuan pe
 
 Beberapa bentuk triangulasi yang umum digunakan meliputi:
 
-- **Triangulasi sumber**, yaitu membandingkan informasi yang diperoleh dari partisipan atau sumber data yang berbeda.
-- **Triangulasi metode**, yaitu menggunakan lebih dari satu teknik pengumpulan data, misalnya wawancara, observasi, dan analisis dokumen.
-- **Triangulasi peneliti**, yaitu melibatkan lebih dari satu peneliti dalam proses pengumpulan atau analisis data.
-- **Triangulasi teori**, yaitu menggunakan lebih dari satu perspektif teoretis untuk menafsirkan data.
+-   **Triangulasi sumber**, yaitu membandingkan informasi yang diperoleh dari partisipan atau sumber data yang berbeda.
+-   **Triangulasi metode**, yaitu menggunakan lebih dari satu teknik pengumpulan data, misalnya wawancara, observasi, dan analisis dokumen.
+-   **Triangulasi peneliti**, yaitu melibatkan lebih dari satu peneliti dalam proses pengumpulan atau analisis data.
+-   **Triangulasi teori**, yaitu menggunakan lebih dari satu perspektif teoretis untuk menafsirkan data.
 
 > **Contoh:** Peneliti yang mengkaji pengalaman mahasiswa baru dapat menggabungkan wawancara mendalam, observasi kegiatan orientasi, dan analisis buku panduan akademik untuk memperoleh pemahaman yang lebih komprehensif.
 
@@ -130,9 +128,9 @@ Refleksivitas bukan berarti peneliti harus menghilangkan subjektivitas sepenuhny
 
 Secara umum, posisi peneliti dapat digambarkan sebagai berikut.
 
-- ***Insider***, yaitu peneliti merupakan bagian dari kelompok atau komunitas yang diteliti.
-- ***Outsider***, yaitu peneliti berasal dari luar kelompok atau komunitas yang diteliti.
-- ***Insider*****–*outsider***, yaitu peneliti memiliki kedekatan pada aspek tertentu, tetapi tetap berada di luar pada aspek lainnya.
+-   ***Insider***, yaitu peneliti merupakan bagian dari kelompok atau komunitas yang diteliti.
+-   ***Outsider***, yaitu peneliti berasal dari luar kelompok atau komunitas yang diteliti.
+-   ***Insider*****–*outsider***, yaitu peneliti memiliki kedekatan pada aspek tertentu, tetapi tetap berada di luar pada aspek lainnya.
 
 Tidak ada posisi yang selalu lebih baik dibandingkan posisi lainnya. Peneliti yang berperan sebagai *insider* umumnya lebih mudah memperoleh akses dan memahami konteks penelitian, tetapi berisiko menganggap sesuatu sebagai hal yang "sudah diketahui". Sebaliknya, peneliti *outsider* mungkin menghadapi tantangan dalam membangun kepercayaan dengan partisipan, tetapi dapat memberikan sudut pandang yang lebih kritis terhadap fenomena yang diteliti [@Berger2015].
 
@@ -144,17 +142,15 @@ Salah satu cara yang umum digunakan adalah menyusun **jurnal reflektif** (*refle
 
 Beberapa pertanyaan reflektif yang dapat diajukan peneliti selama proses penelitian antara lain:
 
-- Mengapa saya tertarik meneliti topik ini?
-- Pengalaman atau keyakinan apa yang saya miliki terkait fenomena yang diteliti?
-- Bagaimana hubungan saya dengan partisipan dapat memengaruhi proses pengumpulan data?
-- Bagaimana keputusan yang saya ambil selama analisis data memengaruhi interpretasi yang dihasilkan?
-- Bukti apa yang mendukung interpretasi yang saya buat?
+-   Mengapa saya tertarik meneliti topik ini?
+-   Pengalaman atau keyakinan apa yang saya miliki terkait fenomena yang diteliti?
+-   Bagaimana hubungan saya dengan partisipan dapat memengaruhi proses pengumpulan data?
+-   Bagaimana keputusan yang saya ambil selama analisis data memengaruhi interpretasi yang dihasilkan?
+-   Bukti apa yang mendukung interpretasi yang saya buat?
 
 Dengan melakukan refleksivitas secara berkelanjutan, peneliti tidak berupaya menghilangkan subjektivitas, melainkan mengelolanya secara sadar dan transparan sehingga pembaca dapat menilai kualitas proses penelitian secara lebih komprehensif.
 
-::: {#fig-refleksivitas}
-![Proses refleksivitas peneliti](images/refleksivitas.png)
-:::
+![Proses refleksivitas peneliti](images/refleksivitas.png){#fig-refleksivitas}
 
 @fig-refleksivitas menunjukkan bahwa refleksivitas merupakan proses yang berlangsung secara berkesinambungan pada setiap tahap penelitian. Pada setiap tahap tersebut, peneliti perlu mengajukan pertanyaan reflektif yang berbeda, mulai dari menyadari motivasi memilih topik penelitian, mengevaluasi hubungan dengan partisipan, hingga menilai apakah interpretasi yang dihasilkan benar-benar didukung oleh data. Dengan demikian, refleksivitas menjadi bagian yang tidak terpisahkan dari seluruh proses penelitian kualitatif.
 
@@ -166,7 +162,7 @@ Jurnal reflektif tidak memiliki format yang baku. Peneliti dapat menyesuaikan be
 
 ::: {#tbl-jurnal}
 |  |  |  |  |
-|:-----------------|:-----------------|:-----------------|:-----------------|
+|:---|:---|:---|:---|
 | **Tahap Penelitian** | **Peristiwa** | **Refleksi Peneliti** | **Tindak Lanjut** |
 | Pengumpulan data | Wawancara pertama dengan mahasiswa tahun pertama mengenai pengalaman beradaptasi di perguruan tinggi. | Saya adalah dosen di fakultas yang sama sehingga beberapa partisipan tampak berhati-hati ketika menyampaikan pengalaman negatif. Posisi saya sebagai dosen mungkin memengaruhi keterbukaan mereka dalam menjawab pertanyaan. | Pada wawancara berikutnya saya akan kembali menegaskan bahwa seluruh jawaban bersifat rahasia, tidak memengaruhi penilaian akademik, dan partisipan bebas menghentikan wawancara kapan saja. |
 | Analisis data | Melakukan pengkodean (*coding*) terhadap transkrip wawancara. | Saya menyadari lebih mudah mengenali kutipan yang sesuai dengan dugaan awal penelitian dibandingkan kutipan yang bertentangan. Hal ini berpotensi menyebabkan saya mengabaikan informasi yang sama pentingnya. | Meninjau kembali seluruh transkrip secara sistematis dan mendiskusikan hasil pengkodean dengan dosen pembimbing untuk memperoleh sudut pandang lain. |
@@ -190,11 +186,13 @@ Contoh pada @tbl-jurnal menunjukkan bahwa jurnal reflektif bukan sekadar catatan
 ::: callout-important
 ## Refleksi & Diskusi
 
-- Dari empat kriteria *trustworthiness* (*credibility, transferability, dependability*, dan *confirmability*), menurut Anda manakah yang paling menantang untuk diterapkan dalam penelitian kualitatif? Berikan alasannya.
-- Bayangkan Anda akan melakukan penelitian kualitatif untuk skripsi. Strategi apa saja yang akan Anda gunakan untuk meningkatkan *trustworthiness* penelitian tersebut? Jelaskan alasan pemilihannya.
-- Identifikasi *positionality* Anda sebagai peneliti pada topik penelitian yang ingin Anda lakukan. Apakah Anda lebih berperan sebagai *insider*, *outsider*, atau berada di antara keduanya? Bagaimana posisi tersebut dapat memengaruhi proses penelitian?
-- Tuliskan satu contoh entri jurnal reflektif berdasarkan topik penelitian yang Anda rencanakan. Uraikan peristiwa yang dialami, refleksi yang muncul, serta tindak lanjut yang akan Anda lakukan untuk menjaga kualitas penelitian.
+-   Dari empat kriteria *trustworthiness* (*credibility, transferability, dependability*, dan *confirmability*), menurut Anda manakah yang paling menantang untuk diterapkan dalam penelitian kualitatif? Berikan alasannya.
+-   Bayangkan Anda akan melakukan penelitian kualitatif untuk skripsi. Strategi apa saja yang akan Anda gunakan untuk meningkatkan *trustworthiness* penelitian tersebut? Jelaskan alasan pemilihannya.
+-   Identifikasi *positionality* Anda sebagai peneliti pada topik penelitian yang ingin Anda lakukan. Apakah Anda lebih berperan sebagai *insider*, *outsider*, atau berada di antara keduanya? Bagaimana posisi tersebut dapat memengaruhi proses penelitian?
+-   Tuliskan satu contoh entri jurnal reflektif berdasarkan topik penelitian yang Anda rencanakan. Uraikan peristiwa yang dialami, refleksi yang muncul, serta tindak lanjut yang akan Anda lakukan untuk menjaga kualitas penelitian.
 :::
+
 ## Daftar Pustaka {.unnumbered .unlisted}
+
 ::: sectionrefs
 :::

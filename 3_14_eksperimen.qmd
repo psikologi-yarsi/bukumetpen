@@ -88,7 +88,7 @@ Untuk meminimalkan pengaruh variabel perancu, penelitian eksperimen menerapkan b
 
 ::: {#tbl-kontrol}
 | Strategi | Penjelasan |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Kelompok kontrol** | Menggunakan kelompok pembanding yang tidak menerima perlakuan atau menerima perlakuan yang berbeda sehingga perubahan yang terjadi dapat dibandingkan dengan kelompok eksperimen. |
 | ***Random assignment*** | Menempatkan partisipan ke dalam kelompok penelitian secara acak agar karakteristik partisipan tersebar secara relatif seimbang pada setiap kelompok. |
 | **Standardisasi prosedur** (*holding variables constant*) | Menjaga agar seluruh kelompok memperoleh kondisi penelitian yang sama, misalnya instruksi, instrumen, ruangan, waktu, dan durasi pelaksanaan. |
@@ -116,9 +116,7 @@ Penggunaan pretest memungkinkan peneliti mengetahui kondisi awal peserta sebelum
 
 Secara umum, semakin lengkap informasi mengenai kondisi peserta sebelum dan sesudah perlakuan, semakin kuat pula dasar peneliti dalam mengevaluasi perubahan yang terjadi.
 
-::: {#fig-unsureksp}
-![Unsur-unsur Pokok Penelitian Eksperimen](images/eksperimen_ch13.png){fig-align="center"}
-:::
+![Unsur-unsur Pokok Penelitian Eksperimen](images/eksperimen_ch13.png){#fig-unsureksp}
 
 Sebagaimana ditunjukkan pada @fig-unsureksp, kelima unsur tersebut saling berkaitan dalam menghasilkan penelitian eksperimen yang memiliki validitas internal yang tinggi. Semakin baik manipulasi dilakukan, semakin efektif pengendalian variabel luar, semakin seimbang karakteristik kelompok melalui r*andom assignment*, serta semakin tepat pengukuran hasil dilakukan, maka semakin kuat pula dasar peneliti dalam menyimpulkan bahwa perubahan pada variabel dependen berkaitan dengan perlakuan yang diberikan.
 
@@ -134,7 +132,7 @@ Namun demikian, bukan berarti eksperimen murni selalu menjadi pilihan terbaik. P
 
 ::: {#tbl-desaineksp}
 |  |  |  |  |
-|:-----------------|:----------------:|:----------------:|:----------------:|
+|:---|:--:|:--:|:--:|
 | **Karakteristik** | **Pra-eksperimen** | **Kuasi eksperimen** | **Eksperimen murni** |
 | Manipulasi variabel independen | ✓ | ✓ | ✓ |
 | Kelompok pembanding | Tidak selalu ada | Ada | Ada |
@@ -194,7 +192,7 @@ Tabel 13.2 merangkum perbedaan utama kedua struktur kondisi tersebut.
 
 ::: {#tbl-struktur}
 |  |  |  |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **Aspek** | ***Between-subjects design*** | ***Within-subjects design*** |
 | Partisipan | Setiap peserta hanya mengikuti satu kondisi | Setiap peserta mengikuti seluruh kondisi |
 | Jumlah partisipan | Relatif lebih banyak | Relatif lebih sedikit |
@@ -282,7 +280,7 @@ Desain Solomon menggabungkan kelebihan desain *posttest-only* dan *pretest-postt
 
 ::: {#tbl-desainexp}
 |  |  |  |  |  |
-|---------------|:-------------:|:-------------:|:-------------:|:-------------:|
+|----|:--:|:--:|:--:|:--:|
 | **Desain** | **Kelompok Pembanding** | ***Pretest*** | ***Random Assignment*** | **Kegunaan** |
 | *One-shot case study* | ✗ | ✗ | ✗ | Studi awal |
 | *One-group pretest-posttest* | ✗ | ✓ | ✗ | Evaluasi awal |

@@ -48,7 +48,7 @@ Beberapa fungsi utama desain penelitian antara lain:
 
 ## Komponen Utama Desain Penelitian
 
-Secara umum, desain penelitian mencakup beberapa komponen utama yang saling berkaitan. Komponen-komponen ini membentuk suatu sistem yang memastikan bahwa penelitian dilakukan secara logis dan sistematis.
+Secara umum, desain penelitian mencakup beberapa komponen utama yang saling berkaitan. Komponen-komponen ini membentuk suatu sistem yang memastikan bahwa penelitian dilakukan secara logis dan sistematis. Sebagaimana ditunjukkan pada @fig-komponen, setiap komponen disusun secara berurutan, tetapi hasil evaluasi terhadap validitas dan kualitas penelitian dapat menjadi dasar untuk meninjau kembali komponen-komponen sebelumnya sehingga proses penelitian berlangsung secara siklik dan berkelanjutan.
 
 Komponen utama desain penelitian meliputi:
 
@@ -67,11 +67,13 @@ Komponen utama desain penelitian meliputi:
 5.  **Pertimbangan validitas dan kualitas penelitian**\
     Desain penelitian juga harus mempertimbangkan bagaimana menjaga kualitas data dan hasil penelitian. Hal ini mencakup strategi untuk meningkatkan validitas, reliabilitas, serta kredibilitas penelitian. Pembahasan lebih mendalam mengenai isu ini akan dijelaskan pada bab tersendiri mengenai validitas dan kualitas penelitian.
 
+![Hubungan Antarkomponen dalam Desain Penelitian](images/komponen.png){#fig-komponen}
+
 ## Klasifikasi Desain Penelitian
 
 Desain penelitian dapat diklasifikasikan berdasarkan beberapa aspek yang berkaitan dengan bagaimana penelitian dirancang dan dilaksanakan. Klasifikasi ini membantu peneliti memahami berbagai alternatif strategi penelitian yang dapat digunakan untuk menjawab pertanyaan penelitian secara tepat. Dalam praktiknya, satu penelitian sering kali memiliki karakteristik dari lebih dari satu tipe desain sekaligus.
 
-Pada bagian ini, desain penelitian dijelaskan berdasarkan lima dimensi utama, yaitu **jumlah kontak dengan partisipan, periode penelitian, dan sumber investigasi**. Masing-masing dimensi memberikan gambaran mengenai bagaimana penelitian dilakukan serta jenis informasi yang dihasilkan.
+Pada bagian ini, desain penelitian dijelaskan berdasarkan tiga dimensi utama, yaitu **jumlah kontak dengan partisipan, periode penelitian, dan sumber investigasi**. Masing-masing dimensi memberikan gambaran mengenai bagaimana penelitian dilakukan serta jenis informasi yang dihasilkan.
 
 1.  **Berdasarkan jumlah kontak dengan partisipan**
 
@@ -118,6 +120,10 @@ Pada bagian ini, desain penelitian dijelaskan berdasarkan lima dimensi utama, ya
     3.  **Desain non-eksperimental**
 
         Desain non-eksperimental merupakan desain penelitian yang tidak melibatkan manipulasi variabel oleh peneliti. Peneliti hanya mengamati atau mengukur fenomena yang terjadi secara alami tanpa memberikan perlakuan tertentu kepada partisipan penelitian. Desain ini sering digunakan dalam penelitian deskriptif, korelasional, maupun survei. Meskipun tidak memungkinkan peneliti menyimpulkan hubungan sebab–akibat secara langsung, desain ini tetap penting untuk memahami pola hubungan antarvariabel dalam kehidupan nyata.
+
+Dalam praktiknya, suatu penelitian dapat memiliki karakteristik dari lebih dari satu dimensi klasifikasi secara bersamaan. @fig-desain memberikan ringkasan mengenai berbagai klasifikasi desain penelitian yang dapat menjadi acuan dalam memilih strategi penelitian yang sesuai.
+
+![Klasifikasi Desain Penelitian](images/desain.png){#fig-desain}
 
 ## Metode Pengumpulan Data
 
