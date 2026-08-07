@@ -6,7 +6,7 @@ filters:
   - quarto
   - section-bibliographies
 bibliography: references.bib
-reference-section-title: Daftar Pustaka
+reference-section-title:
 citeproc: true
 ---
 
@@ -150,6 +150,8 @@ Dengan fondasi ini, mahasiswa akan lebih siap mempelajari logika penelitian, des
 - Dalam situasi apa intuisi dapat membantu, dan kapan intuisi berpotensi menyesatkan?
 - Berikan contoh fenomena psikologis yang memerlukan pembuktian ilmiah untuk menghindari kesimpulan keliru.
 :::
+
+## Daftar Pustaka {.unnumbered .unlisted}
 
 ::: sectionrefs
 :::
