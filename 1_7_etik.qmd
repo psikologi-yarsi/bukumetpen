@@ -36,10 +36,10 @@ Etika penelitian berkembang melalui proses panjang yang tidak terlepas dari berb
 
 Dalam berbagai periode, sejumlah studi menunjukkan bagaimana antusiasme terhadap pengetahuan dapat mengabaikan batas-batas perlindungan terhadap partisipan. Dari konteks inilah muncul kesadaran kolektif bahwa penelitian membutuhkan kerangka etika yang lebih jelas dan mengikat.
 
-- ***Monster Study*** **(1939).** Penelitian Mary Tudor di University of Iowa melibatkan 22 anak di panti asuhan untuk mempelajari pengaruh evaluasi dan pemberian label terhadap kelancaran bicara. Sebagian anak yang berbicara normal diberi label mengalami gagap dan menerima umpan balik negatif. Kasus ini menjadi contoh historis mengenai persoalan penelitian yang melibatkan anak dan potensi dampak psikologis dari prosedur penelitian [@Tudor1939].
-- ***Milgram Obedience Study*** **(1961–1962).** Dalam penelitian Stanley Milgram, partisipan diminta memberikan "kejutan listrik" kepada orang lain, meskipun kejutan tersebut sebenarnya tidak diberikan. Penelitian ini menggunakan *deception* dan menimbulkan tekanan psikologis pada sebagian partisipan. Kasus ini kemudian menjadi salah satu contoh penting dalam pembahasan mengenai penggunaan *deception* dan pengelolaan risiko psikologis dalam penelitian [@Milgram1963].
-- ***Stanford Prison Experiment*** **(1971).** Penelitian yang dilakukan oleh Philip Zimbardo dan koleganya melibatkan mahasiswa yang diberi peran sebagai tahanan atau penjaga dalam lingkungan penjara simulasi. Penelitian dihentikan setelah enam hari ketika kondisi yang berkembang menimbulkan kekhawatiran terhadap partisipan [@HaneyBanksZimbardo1973]. Kasus ini sering digunakan untuk membahas pentingnya pemantauan kondisi penelitian dan kewenangan untuk menghentikan penelitian ketika situasi berkembang di luar batas yang dapat diterima.
-- ***Tuskegee Syphilis Study*** **(1932–1972).** Penelitian ini melibatkan 600 laki-laki Afrika-Amerika, termasuk 399 orang dengan sifilis dan 201 orang tanpa sifilis. Partisipan tidak memperoleh informasi dan persetujuan yang memadai mengenai penelitian, sementara pengobatan yang efektif tidak diberikan setelah penisilin tersedia. Kasus ini menunjukkan persoalan serius dalam perlakuan terhadap partisipan dan menjadi salah satu peristiwa penting dalam perkembangan sistem perlindungan partisipan penelitian [@CDC2024].
+-   ***Monster Study*** **(1939).** Penelitian Mary Tudor di University of Iowa melibatkan 22 anak di panti asuhan untuk mempelajari pengaruh evaluasi dan pemberian label terhadap kelancaran bicara. Sebagian anak yang berbicara normal diberi label mengalami gagap dan menerima umpan balik negatif. Kasus ini menjadi contoh historis mengenai persoalan penelitian yang melibatkan anak dan potensi dampak psikologis dari prosedur penelitian [@Tudor1939].
+-   ***Milgram Obedience Study*** **(1961–1962).** Dalam penelitian Stanley Milgram, partisipan diminta memberikan "kejutan listrik" kepada orang lain, meskipun kejutan tersebut sebenarnya tidak diberikan. Penelitian ini menggunakan *deception* dan menimbulkan tekanan psikologis pada sebagian partisipan. Kasus ini kemudian menjadi salah satu contoh penting dalam pembahasan mengenai penggunaan *deception* dan pengelolaan risiko psikologis dalam penelitian [@Milgram1963].
+-   ***Stanford Prison Experiment*** **(1971).** Penelitian yang dilakukan oleh Philip Zimbardo dan koleganya melibatkan mahasiswa yang diberi peran sebagai tahanan atau penjaga dalam lingkungan penjara simulasi. Penelitian dihentikan setelah enam hari ketika kondisi yang berkembang menimbulkan kekhawatiran terhadap partisipan [@HaneyBanksZimbardo1973]. Kasus ini sering digunakan untuk membahas pentingnya pemantauan kondisi penelitian dan kewenangan untuk menghentikan penelitian ketika situasi berkembang di luar batas yang dapat diterima.
+-   ***Tuskegee Syphilis Study*** **(1932–1972).** Penelitian ini melibatkan 600 laki-laki Afrika-Amerika, termasuk 399 orang dengan sifilis dan 201 orang tanpa sifilis. Partisipan tidak memperoleh informasi dan persetujuan yang memadai mengenai penelitian, sementara pengobatan yang efektif tidak diberikan setelah penisilin tersedia. Kasus ini menunjukkan persoalan serius dalam perlakuan terhadap partisipan dan menjadi salah satu peristiwa penting dalam perkembangan sistem perlindungan partisipan penelitian [@CDC2024].
 
 Kasus-kasus tersebut memperlihatkan bahwa penelitian memerlukan batas dan tanggung jawab yang melampaui pertimbangan ilmiah semata. Perkembangan sistem etika penelitian kemudian mendorong lahirnya berbagai pedoman dan mekanisme pengawasan untuk melindungi partisipan penelitian.
 
@@ -69,7 +69,7 @@ Ketiga prinsip tersebut saling berkaitan dan perlu dipertimbangkan secara bersam
 
 Prinsip-prinsip etika penelitian juga tercermin dalam kode etik profesi psikologi. *Ethical Principles of Psychologists and Code of Conduct* dari American Psychological Association (APA) memuat lima *General Principles*: *Beneficence and Nonmaleficence*, *Fidelity and Responsibility*, *Integrity*, *Justice*, serta *Respect for People's Rights and Dignity*. APA juga memiliki standar khusus mengenai penelitian dan publikasi dalam *Standard 8*: *Research and Publication* [@AmericanPsychologicalAssociation2017]. Di Indonesia, Kode Etik Psikologi Indonesia yang diterbitkan oleh Himpunan Psikologi Indonesia (HIMPSI) menjadi pedoman bagi psikolog dan ilmuwan psikologi dalam menjalankan kegiatan profesional, termasuk penelitian [@HIMPSI2010]. Dengan demikian, prinsip-prinsip etika penelitian perlu dipahami tidak hanya melalui kerangka umum seperti *Belmont Report*, tetapi juga melalui kode etik dan ketentuan yang berlaku dalam konteks profesi dan penelitian yang dilakukan.
 
-## 8.3 Persetujuan Setelah Penjelasan (*Informed Consent*)
+## Persetujuan Setelah Penjelasan (*Informed Consent*)
 
 *Informed consent* atau persetujuan setelah penjelasan merupakan proses yang memungkinkan calon partisipan memahami penelitian dan secara sukarela memutuskan untuk berpartisipasi. Karena itu, *informed consent* bukan sekadar tanda tangan pada lembar persetujuan, tetapi proses komunikasi yang perlu memastikan bahwa informasi dapat dipahami dan keputusan diberikan secara bebas. Informasi yang diberikan setidaknya mencakup tujuan dan prosedur penelitian, durasi, risiko atau ketidaknyamanan, manfaat yang mungkin diperoleh, perlindungan data, sifat sukarela partisipasi, hak untuk menolak atau mengundurkan diri, serta kontak peneliti. Bahasa yang digunakan perlu disesuaikan dengan karakteristik calon partisipan agar informasi tersebut dapat dipahami dengan baik [@Belmont1979].
 
@@ -79,13 +79,13 @@ Pada anak atau individu yang kapasitas pengambilan keputusannya terbatas, diperl
 
 Peneliti wajib melindungi privasi dan kerahasiaan partisipan. **Privasi** berkaitan dengan hak individu untuk menentukan bagaimana informasi mengenai dirinya diakses atau dikumpulkan, sedangkan **kerahasiaan** berkaitan dengan kewajiban peneliti untuk melindungi informasi yang telah diperoleh dari akses atau pengungkapan yang tidak berwenang. Perlindungan dapat dilakukan melalui pengodean data, pemisahan data identitas dan data penelitian, pembatasan akses, penyimpanan yang aman, serta prosedur penyimpanan dan pemusnahan data yang sesuai. Peneliti juga perlu menjelaskan penggunaan dan perlindungan data kepada partisipan sebagai bagian dari proses *informed consent*.
 
-## 8.4 Analisis Risiko dan Manfaat (*Risk–Benefit Analysis*)
+## Analisis Risiko dan Manfaat (*Risk–Benefit Analysis*)
 
 Setiap penelitian memiliki potensi risiko, mulai dari ketidaknyamanan ringan hingga risiko psikologis atau fisik yang lebih serius. Karena itu, peneliti perlu melakukan analisis risiko dan manfaat (*risk–benefit assessment*) sebelum penelitian dilaksanakan. Risiko dapat berupa dampak fisik, psikologis, sosial, ekonomi, maupun terhadap privasi dan kerahasiaan partisipan. Peneliti perlu mempertimbangkan apakah risiko tersebut diperlukan untuk menjawab pertanyaan penelitian, bagaimana risiko dapat diminimalkan, dan apakah manfaat yang diharapkan bagi partisipan, ilmu pengetahuan, atau masyarakat cukup untuk membenarkannya.
 
 Salah satu konsep yang digunakan dalam menilai risiko penelitian adalah *minimal risk*, yaitu kondisi ketika kemungkinan dan tingkat bahaya yang ditimbulkan penelitian tidak lebih besar daripada yang umumnya dihadapi dalam kehidupan sehari-hari atau dalam pemeriksaan atau prosedur rutin. Survei sederhana, misalnya, dapat memiliki risiko yang relatif rendah, sedangkan wawancara mengenai pengalaman traumatis dapat menimbulkan risiko psikologis yang lebih besar. Semakin besar risiko yang mungkin timbul, semakin kuat pula justifikasi ilmiah dan langkah perlindungan yang diperlukan. Risiko yang tidak diperlukan atau tidak proporsional dengan manfaat yang diharapkan tidak dapat dibenarkan hanya karena penelitian memiliki nilai ilmiah.
 
-## 8.5 *Deception* dan *Debriefing*
+## *Deception* dan *Debriefing*
 
 *Deception* adalah penggunaan informasi yang menyesatkan atau penyembunyian informasi tertentu dari partisipan agar pengetahuan mereka mengenai penelitian tidak memengaruhi perilaku yang sedang diteliti. *Deception* dapat berupa *active deception*, yaitu memberikan informasi yang sengaja dibuat tidak benar, atau *passive deception*, yaitu menyembunyikan informasi tertentu. Penggunaannya perlu dipertimbangkan secara hati-hati karena dapat membatasi kemampuan partisipan untuk membuat keputusan berdasarkan informasi yang lengkap.
 
@@ -93,13 +93,13 @@ Menurut APA *Ethical Standard* 8.07, *deception* dapat digunakan apabila penelit
 
 Jika *deception* digunakan, peneliti perlu melakukan ***debriefing***, yaitu menjelaskan informasi yang sebelumnya disembunyikan, alasan penggunaannya, dan memberikan kesempatan kepada partisipan untuk bertanya. *Debriefing* sebaiknya dilakukan sesegera mungkin setelah partisipasi, kecuali penundaan diperlukan karena alasan metodologis yang dapat dipertanggungjawabkan. Jika prosedur penelitian memungkinkan, partisipan juga perlu diberi kesempatan untuk mempertimbangkan penarikan datanya. Dengan demikian, *deception* hanya layak digunakan ketika benar-benar diperlukan untuk mencapai tujuan penelitian dan tidak tersedia alternatif yang lebih etis dengan kualitas ilmiah yang sebanding.
 
-## 8.6 Penelitian dengan Kelompok yang Memerlukan Perlindungan Tambahan
+## Penelitian dengan Kelompok yang Memerlukan Perlindungan Tambahan
 
 Dalam penelitian, sebagian individu atau kelompok mungkin memerlukan perlindungan tambahan karena memiliki keterbatasan dalam mengambil keputusan secara mandiri atau berada dalam kondisi yang meningkatkan risiko *coercion*, *undue influence*, atau eksploitasi [@Belmont1979]. Kerentanan tidak selalu melekat pada suatu kelompok, tetapi dapat muncul karena karakteristik individu, kondisi penelitian, atau hubungan kekuasaan. Kelompok yang dapat memerlukan perlindungan tambahan antara lain anak-anak, individu dengan kapasitas pengambilan keputusan terbatas, tahanan, pasien, serta individu yang berada dalam hubungan hierarkis seperti mahasiswa atau pegawai.
 
 Perlindungan tambahan perlu disesuaikan dengan sumber dan tingkat kerentanan serta risiko penelitian. Bentuknya dapat mencakup persetujuan orang tua atau wali dan *assent* untuk anak, penilaian kapasitas pengambilan keputusan, penggunaan bahasa yang mudah dipahami, jaminan bahwa partisipasi benar-benar sukarela, serta kepastian bahwa penolakan atau pengunduran diri tidak menimbulkan konsekuensi negatif. Peneliti juga perlu memastikan bahwa kelompok tersebut dilibatkan karena alasan ilmiah yang jelas dan bukan semata-mata karena mudah dijangkau atau berada dalam posisi yang lebih mudah dikendalikan. Rencana perlindungan tambahan perlu dijelaskan dalam proposal dan, apabila diperlukan, memperoleh persetujuan komite etik sebelum penelitian dilaksanakan [@AmericanPsychologicalAssociation2017].
 
-## 8.7 Komite Etik Penelitian
+## Komite Etik Penelitian
 
 Komite Etik Penelitian (KEP) merupakan badan independen yang melakukan penilaian terhadap kelayakan etik penelitian yang melibatkan manusia sebelum penelitian dilaksanakan. Dalam konteks penelitian kesehatan di Indonesia, komite ini antara lain dikenal sebagai Komite Etik Penelitian Kesehatan (KEPK). Dalam beberapa konteks internasional, istilah *Institutional Review Board* (IRB) digunakan untuk mekanisme peninjauan etik yang sejenis. Tujuan utama *ethical review* adalah melindungi hak, keselamatan, dan kesejahteraan partisipan serta memastikan bahwa risiko penelitian telah dipertimbangkan dan diminimalkan [@KEPKN2021].
 
@@ -111,7 +111,7 @@ Berbagai pertimbangan etik tersebut saling berkaitan dan perlu dipertimbangkan s
 
 ![Peta Pengambilan Keputusan Etik Penelitian](images/etik.png){#fig-etik}
 
-## 8.8 Integritas dan Tanggung Jawab dalam Penelitian
+## Integritas dan Tanggung Jawab dalam Penelitian
 
 Etika penelitian tidak hanya berkaitan dengan perlindungan partisipan, tetapi juga dengan kejujuran dan tanggung jawab peneliti dalam menghasilkan serta menyampaikan pengetahuan. Integritas penelitian mencakup nilai kejujuran, keterbukaan, keadilan, akuntabilitas, dan tanggung jawab dalam seluruh proses penelitian [@NASEM2017]. Peneliti perlu melaporkan proses dan hasil penelitian secara akurat serta menghindari tindakan yang dapat menyesatkan pembaca atau merusak kepercayaan terhadap hasil penelitian.
 
@@ -119,13 +119,13 @@ Pelanggaran integritas penelitian yang secara umum dikenal sebagai *research mis
 
 Tanggung jawab peneliti juga mencakup pengelolaan data, pengungkapan dan pengelolaan konflik kepentingan, serta pemberian pengakuan yang tepat terhadap kontribusi dalam penelitian dan publikasi. Peneliti bertanggung jawab memastikan bahwa hasil penelitian dilaporkan secara jujur, termasuk ketika hasil tersebut tidak mendukung hipotesis yang diajukan. Dengan demikian, penelitian yang etis tidak hanya melindungi manusia yang menjadi partisipan, tetapi juga menjaga **kejujuran proses ilmiah dan kepercayaan terhadap pengetahuan yang dihasilkan** [@NASEM2017].
 
-## 8.9 Etika Penelitian di Era Digital
+## Etika Penelitian di Era Digital
 
 Perkembangan teknologi digital memudahkan pengumpulan dan penggunaan data penelitian, tetapi juga menimbulkan persoalan etika baru. Penelitian daring, media sosial, *digital trace data*, dan data sekunder perlu mempertimbangkan bagaimana data diperoleh, tujuan penggunaannya, serta ekspektasi privasi individu. Informasi yang tersedia secara publik tidak selalu berarti bebas digunakan untuk penelitian tanpa pertimbangan etik [@AoIR2020; @AcklandVivanco2024].
 
 Perlindungan data menjadi semakin penting karena penghapusan identitas langsung tidak selalu menghilangkan seluruh risiko identifikasi ketika data dapat dikombinasikan dengan informasi lain. Peneliti perlu membatasi akses, menggunakan penyimpanan yang aman, dan mempertimbangkan risiko ketika data dibagikan atau digunakan kembali. Penggunaan kecerdasan artifisial (AI) juga menuntut perhatian terhadap privasi, transparansi, akuntabilitas, dan pengawasan manusia dalam penggunaan data dan teknologi penelitian [@UNESCO2022]. Prinsip dasar etika penelitian tetap berlaku meskipun metode dan teknologi yang digunakan terus berkembang.
 
-## 8.10 Etika Penelitian dengan Hewan
+## Etika Penelitian dengan Hewan
 
 Dalam penelitian yang menggunakan hewan nonmanusia, peneliti memiliki tanggung jawab untuk mempertimbangkan kesejahteraan hewan dan meminimalkan rasa sakit atau *distress* yang mungkin ditimbulkan oleh prosedur penelitian. Salah satu prinsip yang banyak digunakan adalah **3R** yang diperkenalkan oleh @RussellBurch1959, yaitu ***Replacement*** (menggunakan alternatif yang layak untuk menggantikan hewan), ***Reduction*** (menggunakan jumlah hewan seminimal mungkin tanpa mengurangi kualitas penelitian), dan ***Refinement*** (meminimalkan rasa sakit dan *distress* serta memperbaiki kondisi pemeliharaan dan prosedur penelitian).
 
@@ -147,11 +147,11 @@ Penelitian dengan hewan juga perlu melalui peninjauan etik oleh komite yang berw
 ::: callout-important
 ## Refleksi & Diskusi
 
-- Bayangkan Anda akan melakukan penelitian psikologi yang melibatkan kelompok yang memerlukan perlindungan tambahan, misalnya anak, mahasiswa yang Anda ajar, atau pasien. Apa saja potensi masalah etik yang mungkin muncul?
-- Bagaimana Anda akan memastikan bahwa calon partisipan memahami penelitian dan memberikan *informed consent* secara sukarela? Apa yang perlu dilakukan jika terdapat hubungan kekuasaan antara peneliti dan calon partisipan?
-- Suatu penelitian memiliki manfaat ilmiah yang besar, tetapi juga berpotensi menimbulkan risiko psikologis bagi partisipan. Bagaimana Anda akan menilai apakah penelitian tersebut dapat dibenarkan secara etis?
-- Peneliti ingin menggunakan *deception* karena khawatir partisipan akan mengubah perilakunya jika mengetahui tujuan penelitian yang sebenarnya. Kapan penggunaan *deception* dapat dibenarkan, dan apa yang perlu dilakukan setelah penelitian selesai?
-- Anda menemukan bahwa sebagian data penelitian tidak mendukung hipotesis yang diajukan. Apakah peneliti boleh hanya melaporkan hasil yang mendukung hipotesis? Jelaskan alasan Anda berdasarkan prinsip integritas penelitian.
+-   Bayangkan Anda akan melakukan penelitian psikologi yang melibatkan kelompok yang memerlukan perlindungan tambahan, misalnya anak, mahasiswa yang Anda ajar, atau pasien. Apa saja potensi masalah etik yang mungkin muncul?
+-   Bagaimana Anda akan memastikan bahwa calon partisipan memahami penelitian dan memberikan *informed consent* secara sukarela? Apa yang perlu dilakukan jika terdapat hubungan kekuasaan antara peneliti dan calon partisipan?
+-   Suatu penelitian memiliki manfaat ilmiah yang besar, tetapi juga berpotensi menimbulkan risiko psikologis bagi partisipan. Bagaimana Anda akan menilai apakah penelitian tersebut dapat dibenarkan secara etis?
+-   Peneliti ingin menggunakan *deception* karena khawatir partisipan akan mengubah perilakunya jika mengetahui tujuan penelitian yang sebenarnya. Kapan penggunaan *deception* dapat dibenarkan, dan apa yang perlu dilakukan setelah penelitian selesai?
+-   Anda menemukan bahwa sebagian data penelitian tidak mendukung hipotesis yang diajukan. Apakah peneliti boleh hanya melaporkan hasil yang mendukung hipotesis? Jelaskan alasan Anda berdasarkan prinsip integritas penelitian.
 :::
 
 ## Daftar Pustaka {.unnumbered .unlisted}
