@@ -92,7 +92,7 @@ Berbagai sumber tersebut pada dasarnya membantu peneliti menemukan **kesenjangan
 
 ## Menilai Kelayakan Masalah Penelitian
 
-Menemukan kesenjangan pengetahuan belum berarti bahwa masalah tersebut layak untuk diteliti. Peneliti juga perlu mempertimbangkan apakah penelitian dapat dilaksanakan, memberikan kontribusi, dan memenuhi prinsip etika. Salah satu kerangka yang dapat digunakan untuk menilainya adalah ***FINE***, yaitu *Feasible, Interesting, Novel,* dan *Ethical* [@Browner2023].
+Menemukan kesenjangan pengetahuan belum berarti bahwa masalah tersebut layak untuk diteliti. Peneliti juga perlu mempertimbangkan apakah penelitian dapat dilaksanakan, memberikan kontribusi, dan memenuhi prinsip etika. Salah satu kerangka yang dapat digunakan untuk menilainya adalah ***FINE***, yaitu *Feasible, Important, Novel,* dan *Ethical* [@Browner2023].
 
 1.  ***Feasible*** **(dapat dilaksanakan).** Penelitian harus realistis untuk dilakukan dengan sumber daya yang tersedia. Peneliti perlu mempertimbangkan ketersediaan dan jumlah partisipan atau data, kompetensi yang diperlukan, waktu, biaya, fasilitas, serta ruang lingkup penelitian. Jika penelitian terlalu luas atau membutuhkan sumber daya yang tidak tersedia, pertanyaan penelitian perlu dipersempit atau desainnya disesuaikan.
 2.  ***Important*** **(penting).** Penelitian sebaiknya menjawab persoalan yang memiliki arti bagi pengembangan pengetahuan atau kesejahteraan manusia. Peneliti perlu mempertimbangkan apakah hasil penelitian berpotensi memperluas pengetahuan ilmiah, memengaruhi praktik atau kebijakan, maupun memberikan arah bagi penelitian selanjutnya. Dengan demikian, pentingnya suatu masalah tidak hanya ditentukan oleh ketertarikan peneliti, tetapi juga oleh kontribusi yang mungkin dihasilkan.
