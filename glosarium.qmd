@@ -1,0 +1,409 @@
+# Glosarium {.unnumbered}
+
+------------------------------------------------------------------------
+
+**Abstrak** — Ringkasan singkat penelitian yang memuat masalah, metode, temuan utama, serta kesimpulan dan implikasi penelitian.
+
+***Ambiguous temporal precedence*** — Kondisi ketika urutan waktu antara penyebab dan akibat tidak dapat dipastikan, sehingga hubungan kausal menjadi tidak jelas.
+
+**Analisis data** — Proses pengolahan dan analisis data untuk menjawab pertanyaan penelitian atau menguji hipotesis.
+
+**Analisis tematik** — Pendekatan analisis data kualitatif untuk mengidentifikasi, mengorganisasi, dan menginterpretasikan pola makna dalam data.
+
+**Asosiatif (*associative*)** — Jenis pertanyaan penelitian yang bertujuan mengetahui apakah dua atau lebih variabel saling berhubungan, tanpa dengan sendirinya menyatakan hubungan sebab-akibat.
+
+***Assent*** — Persetujuan dari anak atau individu dengan kapasitas pengambilan keputusan terbatas untuk berpartisipasi dalam penelitian, sesuai dengan tingkat pemahaman mereka.
+
+***Attrition*** — Berkurangnya partisipan selama penelitian karena sebagian partisipan tidak menyelesaikan penelitian.
+
+***Audit trail*** — Dokumentasi sistematis yang memungkinkan proses dan keputusan penelitian ditelusuri.
+
+***Backward referencing*** **—** Strategi penelusuran literatur dengan menelusuri daftar pustaka suatu sumber untuk menemukan karya ilmiah yang menjadi dasar sumber tersebut.
+
+***Beneficence***—Prinsip etika yang menuntut peneliti memaksimalkan manfaat penelitian dan meminimalkan risiko atau kerugian bagi partisipan.
+
+**Bias seleksi (*Selection bias*)** — Bias yang terjadi ketika karakteristik sampel tidak mencerminkan populasi sasaran.
+
+**Biografi** — Desain penelitian kualitatif yang memahami perjalanan hidup seseorang melalui narasi pengalaman dan peristiwa penting dalam kehidupannya.
+
+***Bracketing*** — Upaya peneliti untuk menunda sementara asumsi dan pengalaman pribadi agar tidak mendominasi pemahaman terhadap pengalaman partisipan.
+
+***Coding*** **(Pengodean)** — Proses memberikan label pada bagian data yang dianggap bermakna atau relevan dengan pertanyaan penelitian.
+
+***Coding tree*** — Struktur yang menunjukkan hubungan antara kode, kategori, dan tema yang dikembangkan dalam proses analisis data.
+
+***Confirmability*** — Tingkat kepastian bahwa temuan penelitian didasarkan pada data, bukan semata-mata pada kecenderungan atau pandangan pribadi peneliti.
+
+***Convergent Parallel Design*** — Desain *mixed methods* yang mengumpulkan data kuantitatif dan kualitatif secara relatif bersamaan, kemudian menganalisis dan membandingkan hasilnya.
+
+**COREQ (*Consolidated Criteria for Reporting Qualitative Research*)** — Panduan pelaporan penelitian kualitatif yang terdiri atas 32 butir untuk membantu meningkatkan kelengkapan dan transparansi laporan penelitian.
+
+***Credibility*** — Kriteria keterpercayaan yang menunjukkan sejauh mana temuan penelitian kualitatif mencerminkan pengalaman dan perspektif partisipan.
+
+**Data faktual** —Data yang menggambarkan kondisi atau peristiwa yang dapat diverifikasi secara langsung, seperti usia, pendidikan, atau frekuensi perilaku.
+
+**Data kualitatif** — Data berupa narasi, percakapan, hasil observasi, dokumen, atau informasi lain yang menggambarkan pengalaman dan makna dalam suatu konteks.
+
+**Data kuantitatif** — Data yang dinyatakan dalam bentuk angka atau dapat diukur secara numerik dan umumnya dianalisis menggunakan teknik statistik.
+
+**Data non-faktual** — Data yang berkaitan dengan persepsi, sikap, keyakinan, atau interpretasi subjektif individu terhadap suatu fenomena.
+
+**Data primer** — Data yang diperoleh secara langsung oleh peneliti dari sumber pertama melalui prosedur pengumpulan data dalam penelitian. 
+
+**Data sekunder** — Data yang diperoleh dari sumber yang telah tersedia sebelumnya, seperti arsip, dokumen, *database*, laporan, atau publikasi ilmiah.
+
+***Debriefing***— Proses memberikan penjelasan kepada partisipan setelah penelitian, terutama mengenai informasi atau tujuan yang sebelumnya disembunyikan melalui *deception*.
+
+***Deception*** — Penggunaan informasi yang menyesatkan atau penyembunyian informasi tertentu dari partisipan agar pengetahuan mereka tidak memengaruhi perilaku yang diteliti.
+
+**Definisi konseptual** — Penjelasan mengenai makna suatu konsep atau konstruk berdasarkan teori dan kajian ilmiah.
+
+**Definisi operasional** — Penjelasan mengenai bagaimana suatu konsep diukur secara empiris melalui indikator, instrumen, skala, dan prosedur penskoran.
+
+***Dependability*** — Keandalan proses penelitian yang menunjukkan bahwa prosedur penelitian dilakukan secara sistematis dan terdokumentasi.
+
+**Desain *cross-sectional*** — Desain penelitian yang mengukur variabel pada satu waktu atau satu periode pengukuran, sehingga terutama memberikan gambaran mengenai kondisi atau hubungan antarvariabel pada saat tersebut.
+
+**Desain eksperimental** — Desain penelitian yang melibatkan manipulasi variabel independen dan pengendalian kondisi penelitian untuk menguji hubungan sebab–akibat.
+
+**Desain korelasional** — Desain penelitian kuantitatif non-eksperimental untuk mengkaji hubungan antara dua atau lebih variabel tanpa memberikan perlakuan atau manipulasi.
+
+**Desain kuasi-eksperimental** — Desain yang melibatkan perlakuan terhadap partisipan tetapi tidak memungkinkan pengendalian penuh, terutama dalam penentuan kelompok atau randomisasi.
+
+**Desain longitudinal** — Desain penelitian yang melakukan pengukuran terhadap variabel pada lebih dari satu waktu sehingga memungkinkan peneliti mempelajari perubahan atau perkembangan dari waktu ke waktu.
+
+**Desain non-eksperimental** — Desain penelitian yang tidak melibatkan manipulasi variabel oleh peneliti dan digunakan untuk mengamati fenomena sebagaimana terjadi secara alami.
+
+**Desain penelitian** — Rencana sistematis yang menghubungkan pertanyaan penelitian dengan prosedur pengumpulan, analisis, dan interpretasi data.
+
+**Desain prospektif** — Desain yang mengidentifikasi kondisi atau partisipan terlebih dahulu dan kemudian mengikuti perkembangan fenomena yang diteliti pada masa mendatang.
+
+**Desain retrospektif** — Desain yang menelusuri kembali fenomena atau kondisi yang telah terjadi pada masa lalu.
+
+**Desain retrospektif–prospektif** — Desain yang menggabungkan penelusuran data masa lalu dengan pengamatan terhadap perkembangan fenomena pada masa mendatang.
+
+**Desain survei** — Desain penelitian untuk memperoleh gambaran mengenai karakteristik, sikap, opini, perilaku, atau kondisi suatu populasi berdasarkan data dari sampel.
+
+**Deskriptif (*descriptive*)** —  Jenis pertanyaan penelitian yang bertujuan menggambarkan keadaan atau karakteristik suatu variabel pada populasi atau konteks tertentu.
+
+**Determinisme** — Prinsip bahwa fenomena memiliki penyebab atau kondisi tertentu dan tidak terjadi secara kebetulan.
+
+**Diari** — Catatan yang dibuat partisipan secara berkala untuk mendokumentasikan pengalaman, aktivitas, atau peristiwa dalam kehidupan sehari-hari.
+
+***Effect size*** — Ukuran yang menunjukkan besarnya hubungan atau perbedaan yang ditemukan dalam penelitian.
+
+**Eksplorasi** — Tujuan penelitian untuk memperoleh pemahaman awal mengenai fenomena yang belum banyak diketahui atau dipahami.
+
+**Emergent** — Karakteristik penelitian kualitatif yang memungkinkan desain dan proses penelitian berkembang berdasarkan temuan selama penelitian berlangsung.
+
+**Eksplanasi** — Tujuan penelitian untuk menjelaskan hubungan sebab-akibat atau mekanisme yang mendasari suatu fenomena.
+
+**Empirisme** — Pandangan yang menempatkan observasi dan pengalaman empiris sebagai dasar utama dalam memperoleh pengetahuan.
+
+**Epistemologi** — Cabang filsafat yang membahas bagaimana pengetahuan tentang realitas dapat diperoleh dan dibenarkan.
+
+***Ethical***— Salah satu kriteria FINE yang menunjukkan bahwa pertanyaan penelitian dapat dijawab melalui penelitian yang menghormati hak, keselamatan, privasi, kesejahteraan, dan keadilan bagi partisipan serta pihak yang terdampak penelitian.
+
+***Ethical review*** — Proses penilaian terhadap kelayakan etik suatu penelitian untuk memastikan perlindungan hak, keselamatan, dan kesejahteraan partisipan.
+
+**Etika penelitian** — Prinsip dan prosedur untuk melindungi hak, kesejahteraan, privasi, dan martabat partisipan penelitian.
+
+**Etnografi** — Desain penelitian yang digunakan untuk memahami budaya, pola kehidupan, dan makna yang dimiliki bersama oleh suatu kelompok.
+
+***Explanatory sequential design*** — Desain *mixed methods* yang dimulai dengan penelitian kuantitatif dan dilanjutkan dengan penelitian kualitatif untuk menjelaskan temuan kuantitatif.
+
+***Exploratory sequential design*** — Desain *mixed methods* yang dimulai dengan eksplorasi kualitatif dan dilanjutkan dengan penelitian kuantitatif, misalnya untuk mengembangkan dan menguji instrumen.
+
+**Fabrikasi** — Pembuatan data, hasil, atau informasi penelitian yang sebenarnya tidak ada.
+
+**Falsifikasi** — Manipulasi bahan, prosedur, atau data penelitian sehingga catatan penelitian tidak lagi menggambarkan keadaan sebenarnya.
+
+***Feasible*** — Salah satu kriteria *FINE* yang menunjukkan bahwa penelitian realistis untuk dilaksanakan dengan mempertimbangkan partisipan atau data, kompetensi, waktu, biaya, fasilitas, dan ruang lingkup penelitian.
+
+**Fenomena** — Keadaan, gejala, atau peristiwa yang diamati dan dapat menjadi titik awal munculnya pertanyaan penelitian.
+
+**Fenomenologi** — Desain penelitian yang berfokus pada pemahaman makna dan esensi pengalaman hidup seseorang terhadap suatu fenomena.
+
+**FGD (*Focus Group Discussion*)** — Teknik pengumpulan data melalui diskusi kelompok yang dipandu moderator untuk menggali pandangan, pengalaman, dan dinamika antarpeserta.
+
+**FINE** — Kerangka untuk menilai kelayakan masalah atau pertanyaan penelitian berdasarkan empat kriteria: *Feasible*, *Important*, *Novel*, dan *Ethical*.
+
+***Fixed-time variation*** — Perubahan yang terjadi secara teratur dan dapat diprediksi berdasarkan waktu, seperti perbedaan perilaku pada pagi dan malam hari.
+
+***Forward referencing*** — Strategi penelusuran literatur dengan mencari karya ilmiah yang mengutip suatu sumber untuk mengetahui perkembangan penelitian setelah sumber tersebut diterbitkan.
+
+***Gatekeeper*** — Pihak yang membantu peneliti memperoleh akses kepada calon partisipan, seperti pimpinan organisasi, kepala sekolah, atau ketua komunitas.
+
+**Generalisasi** — Proses menerapkan temuan penelitian dari sampel kepada populasi yang lebih luas dengan mempertimbangkan kesesuaian dan keterwakilan sampel.
+
+***Grounded theory*** — Desain penelitian yang bertujuan mengembangkan teori substantif berdasarkan data yang diperoleh dari lapangan.
+
+***Hawthorne effect*** — Perubahan perilaku individu yang terjadi karena individu tersebut mengetahui bahwa dirinya sedang diamati.
+
+**Hipotesis** — Dugaan ilmiah yang dapat diuji secara empiris mengenai hubungan, perbedaan, atau pengaruh antarvariabel.
+
+**Hipotesis alternatif (H₁/Hₐ)** — Hipotesis statistik yang menyatakan adanya hubungan, perbedaan, atau pengaruh dalam populasi.
+
+**Hipotesis dua arah** — Hipotesis yang menyatakan adanya hubungan atau perbedaan tanpa menentukan arah hubungan atau kelompok yang memiliki nilai lebih tinggi.
+
+**Hipotesis nol (H₀)** — Hipotesis statistik yang menyatakan tidak adanya hubungan, perbedaan, atau pengaruh dalam populasi.
+
+**Hipotesis penelitian** — Pernyataan substantif mengenai dugaan hubungan, perbedaan, atau pengaruh antarvariabel yang didasarkan pada landasan ilmiah.
+
+**Hipotesis satu arah** — Hipotesis yang secara spesifik menyatakan arah hubungan, perbedaan, atau pengaruh yang diharapkan.
+
+**Hipotesis statistik** — Rumusan hipotesis dalam bentuk simbol atau notasi statistik yang digunakan dalam pengujian statistik.
+
+***History*** — Peristiwa di luar penelitian yang terjadi selama penelitian dan dapat memengaruhi hasil penelitian.
+
+***Homogeneous sampling*** — Strategi memilih partisipan dengan karakteristik yang relatif seragam untuk memperoleh pemahaman mendalam mengenai pengalaman kelompok tertentu.
+
+**Ilmu pengetahuan (*science*)** — Pengetahuan yang diperoleh melalui proses ilmiah yang sistematis, berbasis bukti empiris, dapat diuji, dan terbuka terhadap koreksi.
+
+***Important***— Salah satu kriteria FINE yang menunjukkan bahwa masalah penelitian memiliki arti bagi pengembangan pengetahuan, kesejahteraan manusia, praktik, kebijakan, atau penelitian selanjutnya.
+
+**IMRaD** — Struktur laporan ilmiah yang terdiri atas *Introduction*, *Methods*, *Results*, dan *Discussion* (Pendahuluan, Metode, Hasil, dan Diskusi).
+
+**Indikator** — Aspek atau karakteristik yang digunakan untuk merepresentasikan suatu konsep atau konstruk agar dapat diukur.
+
+**Induksi** — Penalaran yang bergerak dari pengamatan atau kasus khusus menuju pola atau kesimpulan yang lebih umum.
+
+**Inferensi statistik** — Proses menarik kesimpulan mengenai populasi berdasarkan data yang diperoleh dari sampel.
+
+***Information-rich cases*** — Individu atau kasus yang memiliki pengalaman, pengetahuan, atau keterlibatan yang mampu memberikan informasi kaya dan relevan bagi penelitian.
+
+***Informed consent*** — Persetujuan partisipan yang diberikan secara sukarela setelah memperoleh informasi yang memadai mengenai penelitian.
+
+***Insider*** — Posisi peneliti sebagai bagian dari kelompok atau komunitas yang diteliti.
+
+***Instrumentation*** — Perubahan alat ukur atau prosedur pengukuran selama penelitian yang dapat memengaruhi hasil.
+
+**Interpretasi** — Proses memberikan makna terhadap tema atau pola yang ditemukan dengan mengaitkannya pada pertanyaan penelitian, teori, dan konteks penelitian.
+
+**Interpretivisme** — Paradigma yang memandang realitas sebagai sesuatu yang dibentuk melalui pengalaman, interaksi, dan pemberian makna oleh individu.
+
+**Intuisi (*intuition*)** — Keyakinan atau pemahaman yang muncul secara spontan tanpa melalui proses penalaran yang disadari secara eksplisit.
+
+***Justice*** — Prinsip etika yang menekankan keadilan dalam pembagian manfaat dan beban penelitian serta dalam pemilihan partisipan.
+
+**Kausal (*causal*)** — Jenis pertanyaan penelitian yang bertujuan mengetahui apakah perubahan pada suatu variabel menyebabkan perubahan pada variabel lainnya.
+
+**Kekukuhan pendapat (*tenacity*)** — Cara memperoleh pengetahuan dengan mempertahankan keyakinan karena telah lama dipercaya, diwariskan, atau dianggap sebagai kebenaran umum.
+
+**Kerangka teoretis** — Struktur konseptual yang dibangun berdasarkan teori dan temuan penelitian sebelumnya untuk menjelaskan fenomena serta hubungan antarkonsep atau variabel dalam penelitian.
+
+**Kesenjangan empiris** — Kesenjangan yang muncul ketika bukti yang tersedia belum cukup untuk memberikan jawaban yang meyakinkan, misalnya karena bukti masih terbatas atau hasil penelitian sebelumnya tidak konsisten.
+
+**Kesenjangan metodologis** — Kesenjangan yang muncul ketika pengetahuan mengenai suatu fenomena masih dibatasi oleh metode yang digunakan dalam penelitian sebelumnya.
+
+**Kesenjangan penelitian** — Kesenjangan pengetahuan atau persoalan yang belum terjawab dalam penelitian sebelumnya dan menjadi dasar dilakukannya penelitian baru
+
+**Kesenjangan pengetahuan** — Keadaan ketika pengetahuan atau bukti yang tersedia belum memadai untuk menjawab suatu persoalan penelitian.
+
+**Kesenjangan praktis** — Kesenjangan yang muncul ketika sesuatu yang diperlukan untuk memahami, mengukur, atau menangani suatu persoalan belum tersedia secara memadai dalam bentuk pengetahuan, metode, instrumen, atau sumber daya.
+
+**Kesenjangan teoretis** — Kesenjangan yang muncul ketika teori yang tersedia belum mampu menjelaskan suatu fenomena secara memadai atau ketika beberapa perspektif teoretis memberikan penjelasan yang berbeda.
+
+**Koefisien korelasi** — Nilai statistik yang menunjukkan arah dan kekuatan hubungan antara dua variabel.
+
+**Konstruk** — Konsep teoretis yang bersifat abstrak dan perlu direpresentasikan melalui indikator atau pengukuran empiris.
+
+**Konstruktivisme** — Paradigma yang memandang bahwa realitas dibentuk melalui pengalaman dan interaksi sosial, sehingga suatu fenomena dapat memiliki beragam makna.
+
+**Kredibilitas ilmiah** — Tingkat kepercayaan terhadap suatu sumber berdasarkan kualitas ilmiah, reputasi publikasi atau penerbit, kompetensi penulis, dan proses ilmiah yang mendasarinya.
+
+**Kriteria eksklusi** — Kriteria yang menyebabkan seseorang tidak dapat menjadi partisipan meskipun termasuk dalam populasi penelitian.
+
+**Kriteria inklusi** — Karakteristik yang harus dimiliki seseorang agar dapat diikutsertakan sebagai partisipan penelitian.
+
+**Kuesioner** — Instrumen yang berisi serangkaian pertanyaan atau pernyataan yang digunakan untuk memperoleh data dari responden.
+
+***Lived experiences*** — Pengalaman hidup yang dialami dan dimaknai secara langsung oleh individu.
+
+**Makna subjektif** — Makna atau interpretasi yang dibentuk individu berdasarkan pengalaman, nilai, dan konteks kehidupannya.
+
+**Masalah penelitian** — Persoalan yang menunjukkan sesuatu yang belum diketahui atau belum dapat dijelaskan secara memadai dan membutuhkan penyelidikan ilmiah untuk memperoleh jawabannya.
+
+**Masalah praktis** — Persoalan yang membutuhkan tindakan atau solusi dalam praktik. Masalah praktis dapat menjadi titik awal munculnya masalah penelitian.
+
+***Matching*** — Pemilihan atau pemasangan partisipan atau kelompok berdasarkan karakteristik tertentu agar relatif serupa.
+
+***Maturation*** — Perubahan biologis atau psikologis yang terjadi secara alami pada partisipan selama penelitian.
+
+***Maximum variation sampling*** — Strategi memilih partisipan dengan karakteristik yang beragam untuk mengeksplorasi variasi pengalaman terhadap suatu fenomena.
+
+***Member checking*** — Proses meminta partisipan meninjau data atau interpretasi peneliti untuk memastikan kesesuaiannya dengan pengalaman mereka.
+
+**Metode ilmiah** — Pendekatan sistematis untuk memperoleh dan menguji pengetahuan dengan memadukan penalaran dan bukti empiris.
+
+**Metodologi** — Kerangka atau strategi umum yang digunakan untuk memperoleh pengetahuan berdasarkan asumsi filosofis tertentu.
+
+***Minimal risk***— Tingkat risiko penelitian yang tidak lebih besar daripada risiko yang umumnya dihadapi seseorang dalam kehidupan sehari-hari atau prosedur rutin.
+
+***Mixed methods*** — Pendekatan penelitian yang mengintegrasikan metode kuantitatif dan kualitatif untuk menjawab pertanyaan penelitian secara lebih komprehensif.
+
+**Model konseptual** — Gambaran sistematis mengenai hubungan antarkonsep atau variabel yang menjadi dasar untuk menjelaskan struktur penelitian dan mengembangkan hipotesis.
+
+***Multiple-contact design***— Desain yang melibatkan lebih dari satu kali kontak dengan partisipan selama proses penelitian sehingga memungkinkan pengamatan terhadap perubahan dari waktu ke waktu.
+
+***Multiple-teatment interference*** — Kondisi ketika partisipan menerima lebih dari satu perlakuan sehingga efek suatu perlakuan dapat dipengaruhi oleh perlakuan sebelumnya.
+
+***Nonresponse bias*** — Bias yang muncul ketika individu yang tidak memberikan respons memiliki karakteristik yang berbeda secara sistematis dari individu yang memberikan respons.
+
+***Novel*** — Salah satu kriteria FINE yang menunjukkan bahwa penelitian memberikan tambahan yang bermakna terhadap pengetahuan yang telah tersedia. Kebaruan dapat berupa replikasi, perluasan, pengujian pada populasi lain, perbaikan terhadap kelemahan penelitian sebelumnya, atau penggunaan metode baru.
+
+**Observasi** — Teknik pengumpulan data melalui pengamatan sistematis terhadap perilaku atau fenomena yang sedang terjadi.
+
+**Otoritas** — Cara memperoleh pengetahuan dengan menerima informasi dari individu atau lembaga yang dianggap memiliki keahlian atau kewenangan.
+
+***Outsider*** — Posisi peneliti yang berasal dari luar kelompok atau komunitas yang diteliti.
+
+**Paradigma penelitian** — Sistem keyakinan atau cara pandang mendasar yang menjadi landasan dalam memahami realitas, memperoleh pengetahuan, dan melakukan penelitian.
+
+***Parsimony*** — Prinsip bahwa suatu fenomena sebaiknya dijelaskan dengan penjelasan yang sederhana dan tidak melibatkan asumsi yang tidak diperlukan.
+
+***Participatory Action Research*** **(PAR)** — Desain penelitian yang melibatkan komunitas sebagai mitra aktif untuk menghasilkan pengetahuan sekaligus mendorong perubahan.
+
+**Partisipan penelitian** — Individu yang terlibat sebagai sumber data dalam penelitian.
+
+**Penalaran deduktif** — Penalaran yang menggunakan konsep atau kerangka yang telah ada untuk meninjau dan menafsirkan data.
+
+**Penalaran induktif** — Penalaran yang membangun tema, kategori, atau pola berdasarkan data yang diperoleh dari lapangan.
+
+**Penelitian non-eksperimental** — Penelitian yang dilakukan tanpa memberikan perlakuan atau memanipulasi variabel penelitian.
+
+**Pengetahuan (*knowledge*)** — Informasi, pemahaman, atau keyakinan yang dimiliki manusia mengenai diri sendiri, lingkungan, atau realitas.
+
+**Pertanyaan penelitian** — Pertanyaan yang secara spesifik menyatakan apa yang hendak diketahui melalui penelitian dan menjadi acuan dalam menentukan data yang perlu dikumpulkan serta cara menganalisisnya.
+
+**Posisionalitas (*positionality*)** — Posisi sosial, pengalaman, identitas, dan latar belakang peneliti yang dapat memengaruhi proses dan interpretasi penelitian.
+
+**Positivisme** — Paradigma yang menekankan pengetahuan berbasis observasi empiris, pengukuran, dan penalaran logis untuk menjelaskan fenomena.
+
+**Post-positivisme** — Paradigma yang mengakui adanya realitas objektif, tetapi memandang pengetahuan tentang realitas tersebut sebagai sementara, tidak sempurna, dan terbuka terhadap revisi.
+
+**Pragmatisme** — Paradigma yang menekankan penyelesaian masalah secara praktis dengan memilih pendekatan atau metode yang paling sesuai untuk menjawab pertanyaan penelitian.
+
+**Prediksi** — Dugaan mengenai hasil yang akan diperoleh berdasarkan teori atau pengetahuan sebelumnya dan dapat diuji secara empiris.
+
+***Pretest sensitization*** — Kondisi ketika pemberian pretest memengaruhi respons partisipan terhadap perlakuan atau pengukuran berikutnya.
+
+***Privacy*** — Hak individu untuk menentukan bagaimana informasi mengenai dirinya diakses atau dikumpulkan.
+
+***Purposive sampling*** — Strategi memilih partisipan secara sengaja berdasarkan pertimbangan bahwa mereka memiliki karakteristik atau pengalaman yang relevan dengan tujuan penelitian.
+
+***Random assignment*** — Penempatan partisipan ke dalam kelompok penelitian secara acak.
+
+**Rasionalisme** — Pandangan yang menekankan penalaran logis sebagai sumber utama dalam memperoleh pengetahuan.
+
+**Refleksivitas** — Proses peneliti menyadari dan secara kritis mempertimbangkan pengaruh pengalaman, nilai, dan asumsi pribadi terhadap proses penelitian.
+
+***Reflexive journal*** — Catatan berkala yang mendokumentasikan pemikiran, pengalaman, keputusan metodologis, dan refleksi peneliti selama penelitian.
+
+***Regression toward the mean*** — Kecenderungan skor yang sangat tinggi atau rendah pada pengukuran awal bergerak mendekati nilai rata-rata pada pengukuran berikutnya.
+
+**Reliabilitas** — Konsistensi hasil pengukuran yang dihasilkan oleh suatu instrumen.
+
+**Replikabilitas** — Kemampuan suatu penelitian untuk diulang menggunakan prosedur yang sama atau serupa sehingga hasilnya dapat dibandingkan.
+
+**Replikasi** — Pengulangan penelitian dengan prosedur yang sama atau serupa untuk menguji konsistensi temuan sebelumnya.
+
+***Research misconduct*** — Perilaku yang melanggar integritas penelitian, terutama fabrikasi, falsifikasi, dan plagiarisme.
+
+***Respect for Persons***— Prinsip etika yang menekankan penghormatan terhadap otonomi individu serta perlindungan tambahan bagi individu dengan kapasitas pengambilan keputusan yang terbatas.
+
+***Response bias*** — Kecenderungan responden memberikan jawaban yang tidak sepenuhnya mencerminkan keadaan, sikap, atau perilaku sebenarnya.
+
+***Risk–benefit assessment***— Proses menilai risiko yang mungkin dialami partisipan dibandingkan dengan manfaat yang diharapkan dari penelitian.
+
+**Rumusan masalah** — Uraian argumentatif mengenai persoalan yang hendak diteliti, kesenjangan pengetahuan yang mendasarinya, alasan mengapa persoalan tersebut perlu diteliti, dan arah penelitian.
+
+**Sampel representatif** — Sampel yang memiliki karakteristik yang cukup mencerminkan populasi yang menjadi sasaran penelitian.
+
+***Sample universe*** — Keseluruhan individu atau kasus yang secara konseptual memenuhi syarat untuk dipilih sebagai partisipan penelitian.
+
+**Sampling** — Proses menentukan dan memilih sumber data yang sesuai dengan tujuan penelitian.
+
+**Sampling teoretis** — Proses memilih partisipan atau sumber data berikutnya berdasarkan kebutuhan pengembangan teori yang sedang berlangsung.
+
+**Saturasi data** — Kondisi ketika pengumpulan data tidak lagi menghasilkan informasi, tema, atau kategori baru yang relevan dengan tujuan penelitian.
+
+**Saturasi teoritis** — Kondisi dalam grounded theory ketika data tambahan tidak lagi menghasilkan kategori atau hubungan konseptual baru yang diperlukan untuk mengembangkan teori.
+
+***Selection*** — Perbedaan karakteristik awal antara kelompok yang dibandingkan yang dapat memengaruhi hasil penelitian.
+
+**Silogisme** — Bentuk penalaran deduktif yang menghasilkan kesimpulan berdasarkan hubungan logis antara premis-premis.
+
+***Single-contact design*** — Desain yang melibatkan satu kali kontak dengan partisipan untuk mengumpulkan data penelitian.
+
+**Sintesis literatur** — Proses mengintegrasikan berbagai teori, konsep, dan temuan penelitian sebelumnya untuk membangun pemahaman atau argumentasi yang lebih menyeluruh mengenai suatu topik. —
+
+***Snowball sampling*** — Strategi memperoleh partisipan baru melalui rekomendasi dari partisipan yang telah direkrut sebelumnya.
+
+**Statistik deskriptif** — Statistik yang digunakan untuk menggambarkan karakteristik data, seperti rata-rata dan deviasi standar.
+
+**Statistik inferensial** — Statistik yang digunakan untuk menguji hipotesis dan menarik kesimpulan berdasarkan data sampel.
+
+**Studi kasus** — Desain penelitian yang mengkaji suatu kasus secara mendalam dalam konteks kehidupan nyata.
+
+**Studi kasus instrumental** — Studi kasus yang menggunakan suatu kasus sebagai sarana untuk memahami fenomena atau konsep yang lebih umum.
+
+**Studi kasus intrinsik** — Studi kasus yang dilakukan karena kasus itu sendiri dianggap menarik, unik, atau penting untuk dipahami.
+
+**Studi kasus kolektif** — Studi kasus yang mengkaji beberapa kasus secara bersamaan untuk memperoleh pemahaman yang lebih luas mengenai suatu fenomena.
+
+***Target population*** — Kelompok sasaran yang menjadi fokus penelitian dan memiliki karakteristik yang relevan dengan fenomena yang diteliti.
+
+**Teknik sampling** — Prosedur yang digunakan untuk memilih sampel dari populasi penelitian.
+
+***Testing*** — Pengaruh pengalaman mengikuti pengukuran sebelumnya terhadap hasil pengukuran berikutnya.
+
+***Thick description*** — Deskripsi rinci mengenai konteks, partisipan, situasi, dan proses penelitian untuk membantu pembaca memahami keteralihan temuan.
+
+***Third-variable problem*** — Masalah ketika hubungan antara dua variabel mungkin sebenarnya dipengaruhi oleh variabel lain sehingga hubungan tersebut tidak dapat langsung ditafsirkan sebagai hubungan sebab-akibat.
+
+***Transferability*** — Sejauh mana temuan penelitian kualitatif dapat dipertimbangkan relevan atau diterapkan pada konteks lain yang memiliki karakteristik serupa.
+
+**Transformatif** — Paradigma yang menempatkan penelitian sebagai sarana untuk memahami sekaligus mendorong perubahan sosial, khususnya bagi kelompok yang mengalami marginalisasi atau ketidakadilan.
+
+**Triangulasi** — Strategi membandingkan informasi dari berbagai sumber, metode, peneliti, atau perspektif teoretis untuk meningkatkan kepercayaan terhadap temuan.
+
+***Trustworthiness*** — Konsep keterpercayaan yang digunakan untuk menilai kualitas penelitian kualitatif, terutama melalui *credibility*, *transferability*, *dependability*, dan *confirmability*.
+
+**Unit analisis** — Entitas yang menjadi fokus analisis penelitian, seperti individu, kelompok, organisasi, atau interaksi sosial.
+
+**Validitas** — Sejauh mana hasil penelitian atau instrumen mendukung kesimpulan yang dibuat sesuai tujuan penelitian.
+
+**Validitas alat Ukur** — Sejauh mana instrumen benar-benar mengukur konstruk yang dimaksud.
+
+**Validitas ekologis** — Sejauh mana kondisi penelitian menyerupai kondisi kehidupan nyata sehingga hasilnya dapat diterapkan pada situasi sehari-hari.
+
+**Validitas eksternal** — Sejauh mana hasil penelitian dapat digeneralisasikan ke populasi, situasi, atau waktu yang berbeda.
+
+**Validitas internal** — Sejauh mana kesimpulan mengenai hubungan sebab-akibat dalam penelitian dapat dipercaya.
+
+**Validitas penelitian** — Sejauh mana kesimpulan yang dihasilkan dari keseluruhan proses penelitian dapat dipercaya.
+
+**Validitas temporal** — Sejauh mana hasil penelitian tetap berlaku ketika penelitian dilakukan pada waktu yang berbeda.
+
+**Variabel** — Karakteristik, atribut, atau sifat yang menjadi objek pengamatan dan memiliki variasi nilai antarunit analisis.
+
+**Variabel dependen** — Variabel yang dipengaruhi atau dijelaskan oleh variabel independen.
+
+**Variabel independen** — Variabel yang diduga memengaruhi atau menjelaskan perubahan pada variabel lain.
+
+**Variabel kontrol** — Variabel yang sengaja diperhitungkan atau dikendalikan agar hubungan antara variabel independen dan dependen dapat diamati dengan lebih akurat.
+
+**Variabel luar (*extraneous variable*)** — Faktor selain variabel independen yang berpotensi memengaruhi variabel dependen.
+
+**Variabel mediator** — Variabel yang menjelaskan mekanisme atau proses bagaimana variabel independen memengaruhi variabel dependen.
+
+**Variabel moderator** — Variabel yang memengaruhi arah atau kekuatan hubungan antara variabel independen dan variabel dependen.
+
+**Variabel perancu (*confounding variable*)** — Variabel yang berhubungan dengan variabel independen dan dependen sehingga dapat menimbulkan bias dalam hubungan yang diamati.
+
+***Variable-time variation*** — Perubahan yang tidak dapat diprediksi secara pasti, seperti perubahan kebijakan, pandemi, atau kondisi sosial-ekonomi.
+
+**Wawancara mendalam** — Teknik pengumpulan data melalui percakapan individual untuk menggali pengalaman, pandangan, dan makna yang diberikan partisipan terhadap suatu fenomena.
+
+***Worldview*** — Cara pandang atau seperangkat keyakinan dasar yang menjadi landasan seseorang dalam memahami realitas dan pengetahuan.

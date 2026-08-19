@@ -53,6 +53,7 @@ book:
         - 4_21_analisiskualitatif.qmd
         - 4_22_refleksivitas.qmd
         - 4_23_laporankuali.qmd
+    - glosarium.qmd
 filters:
   # Run Quarto's default filters first
   - quarto
