@@ -34,13 +34,13 @@ Oleh karena itu, untuk memahami penelitian kualitatif secara utuh, kita tidak cu
 
 ## Hakikat penelitian kualitatif
 
-Penelitian kualitatif merupakan pendekatan penelitian yang bertujuan memahami dan menafsirkan makna yang diberikan individu atau kelompok terhadap pengalaman hidup, peristiwa, maupun fenomena sosial yang mereka alami. Menurut @Creswell2018a, penelitian kualitatif digunakan untuk mengeksplorasi dan memahami makna yang dianggap berasal dari suatu masalah sosial atau kemanusiaan. Sementara itu, @Moleong2014 menjelaskan bahwa penelitian kualitatif bertujuan memahami fenomena yang dialami subyek penelitian secara holistik melalui deskripsi dalam bentuk kata-kata dan bahasa pada konteks yang alamiah. @Poerwandari2007 menjelaskan bahwa penelitian kualtitatif menghasilkan dan mengolah data yang sifatnya deskriptif, seperti transkripsi wawancara, catatan lapangan, gambar, foto, rekaman video, dan lain-lain.
+Penelitian kualitatif merupakan pendekatan penelitian yang bertujuan memahami dan menafsirkan makna yang diberikan individu atau kelompok terhadap pengalaman hidup, peristiwa, maupun fenomena sosial yang mereka alami. Menurut @Creswell2018a, penelitian kualitatif digunakan untuk mengeksplorasi dan memahami makna yang dianggap berasal dari suatu masalah sosial atau kemanusiaan. Sementara itu, @Moleong2014 menjelaskan bahwa penelitian kualitatif bertujuan memahami fenomena yang dialami subjek penelitian secara holistik melalui deskripsi dalam bentuk kata-kata dan bahasa pada konteks yang alamiah. @Poerwandari2007 menjelaskan bahwa penelitian kualtitatif menghasilkan dan mengolah data yang sifatnya deskriptif, seperti transkripsi wawancara, catatan lapangan, gambar, foto, rekaman video, dan lain-lain.
 
 Berbeda dengan penelitian kuantitatif yang berupaya mengukur dan menjelaskan hubungan antarvariabel, penelitian kualitatif berusaha memahami bagaimana individu mengalami, memaknai, dan menginterpretasikan realitas yang mereka hadapi. Oleh karena itu, fokus utama penelitian kualitatif bukanlah menemukan hukum umum yang berlaku untuk semua orang, melainkan memperoleh pemahaman yang mendalam terhadap suatu fenomena dalam konteks tertentu.
 
 Hakikat penelitian kualitatif dapat dipahami melalui beberapa asumsi dasar berikut [@Maxwell2013; @Creswell2018a; @Neuman2014]:
 
--   **Realitas bersifat majemuk dan subyektif**
+-   **Realitas bersifat majemuk dan subjektif**
 
     Penelitian kualitatif berangkat dari asumsi bahwa realitas sosial tidak selalu dipahami secara sama oleh setiap individu. Seseorang membangun pemahamannya terhadap dunia berdasarkan pengalaman, interaksi sosial, nilai, budaya, dan konteks kehidupannya. Akibatnya, suatu fenomena dapat dimaknai secara berbeda oleh orang yang berbeda meskipun mereka mengalami peristiwa yang serupa.
 
@@ -76,7 +76,7 @@ Meskipun konstruktivisme sering dianggap sebagai paradigma yang paling erat kait
 
 Postpositivisme merupakan perkembangan dari positivisme yang mengakui bahwa realitas memang ada, tetapi tidak dapat diketahui secara sempurna karena keterbatasan manusia dalam mengamati dan memahami dunia. Oleh karena itu, setiap pengetahuan yang dihasilkan selalu bersifat sementara dan terbuka untuk direvisi berdasarkan bukti baru.
 
-Paradigma ini umumnya menjadi landasan penelitian kuantitatif, tetapi juga memberikan pengaruh terhadap sebagian penelitian kualitatif. Dalam perspektif postpositivisme, peneliti berupaya mendekati realitas secara seobjektif mungkin dengan menggunakan prosedur yang sistematis serta berbagai strategi untuk meningkatkan keakuratan temuan, seperti triangulasi dan verifikasi data. Dengan demikian, penelitian kualitatif yang berlandaskan postpositivisme tetap mengakui adanya subyektivitas, tetapi berupaya meminimalkan pengaruhnya melalui prosedur penelitian yang ketat.
+Paradigma ini umumnya menjadi landasan penelitian kuantitatif, tetapi juga memberikan pengaruh terhadap sebagian penelitian kualitatif. Dalam perspektif postpositivisme, peneliti berupaya mendekati realitas secara seobjektif mungkin dengan menggunakan prosedur yang sistematis serta berbagai strategi untuk meningkatkan keakuratan temuan, seperti triangulasi dan verifikasi data. Dengan demikian, penelitian kualitatif yang berlandaskan postpositivisme tetap mengakui adanya subjektivitas, tetapi berupaya meminimalkan pengaruhnya melalui prosedur penelitian yang ketat.
 
 ### Konstruktivisme (*The Constructivist Worldview)*
 
@@ -102,7 +102,7 @@ Keempat paradigma tersebut menunjukkan bahwa penelitian kualitatif tidak berland
 | Paradigma | Realitas | Tujuan Penelitian | Peran Peneliti |
 |:-----------------|:-----------------|:-----------------|:-----------------|
 | Postpositivisme | Ada tetapi tidak dapat diketahui secara sempurna | Mendekati kebenaran objektif | Meminimalkan bias |
-| Konstruktivisme | Majemuk dan subyektif | Memahami makna | Berinteraksi dengan partisipan |
+| Konstruktivisme | Majemuk dan subjektif | Memahami makna | Berinteraksi dengan partisipan |
 | Transformatif | Dipengaruhi relasi kuasa | Mendorong perubahan sosial | Advokat perubahan |
 | Pragmatisme | Tidak menjadi fokus utama | Menyelesaikan masalah praktis | Memilih metode yang paling efektif |
 

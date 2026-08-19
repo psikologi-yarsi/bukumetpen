@@ -220,7 +220,7 @@ Keempat paradigma yang telah dipaparkan di atas memiliki karakteristik, asumsi f
 |:--------------|:--------------|:--------------|:--------------|:--------------|
 | **Dimensi** | **Positivisme** | **Post-Positivisme** | **Interpretivisme** | **Transformatif** |
 | Ontologi | Realisme naif | Realisme kritis | Relativisme | Realisme historis |
-| Epistemologi | Dualisme objektif | Objektivitas dimodifikasi | Subyektivitas transaksional | Intersubyektivitas kritis |
+| Epistemologi | Dualisme objektif | Objektivitas dimodifikasi | Subjektivitas transaksional | Intersubjektivitas kritis |
 | Metodologi | Deduktif, eksperimental, pengujian hipotesis, pengukuran objektif. | Deduktif-falsifikatif, pengujian teori secara kritis, triangulasi, replikasi, dan pengendalian bias. | Induktif, eksploratif, interpretatif, berfokus pada pengalaman dan makna. | Partisipatif, kolaboratif, reflektif, berorientasi pada aksi dan perubahan sosial. |
 | Tujuan penelitian | Hukum universal, prediksi | Teori probabilistik, kontrol variabel | Pemahaman mendalam, teori lokal | Perubahan sosial, pemberdayaan |
 | Kekuatan | objektif, terukur, dan hasilnya mudah digeneralisasi. | Lebih realistis karena mengakui keterbatasan pengukuran dan potensi bias. | Memberikan pemahaman yang mendalam terhadap pengalaman dan makna. | Mendorong pemberdayaan serta perubahan sosial yang berkeadilan. |

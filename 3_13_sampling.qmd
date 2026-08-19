@@ -37,15 +37,15 @@ Unit analisis merujuk pada entitas utama yang menjadi fokus analisis dalam penel
 
 Dalam penelitian psikologi, unit analisis sering kali adalah individu. Namun, tidak selalu demikian. Bergantung pada tujuan penelitian, unit analisis dapat bervariasi, seperti:
 
-- individu (misalnya: mahasiswa, pasien, karyawan)
-- kelompok (misalnya: keluarga, komunitas, tim kerja)
-- organisasi (misalnya: sekolah, perusahaan, lembaga)
-- produk sosial (misalnya: dokumen, unggahan media sosial, karya budaya)
+-   individu (misalnya: mahasiswa, pasien, karyawan)
+-   kelompok (misalnya: keluarga, komunitas, tim kerja)
+-   organisasi (misalnya: sekolah, perusahaan, lembaga)
+-   produk sosial (misalnya: dokumen, unggahan media sosial, karya budaya)
 
 Salah satu hal yang sering menjadi jebakan bagi peneliti pemula adalah ketidakkonsistenan antara unit analisis dan unit observasi. Misalnya, data dikumpulkan dari individu, tetapi kesimpulan ditarik pada level kelompok. Hal ini dapat menimbulkan kesalahan seperti:
 
-- *ecological fallacy*: menyimpulkan individu berdasarkan data kelompok
-- *atomistic fallacy*: menyimpulkan kelompok berdasarkan data individu
+-   *ecological fallacy*: menyimpulkan individu berdasarkan data kelompok
+-   *atomistic fallacy*: menyimpulkan kelompok berdasarkan data individu
 
 Oleh karena itu, sejak awal peneliti perlu memastikan bahwa unit analisis selaras dengan rumusan masalah dan tujuan penelitian.
 
@@ -55,19 +55,19 @@ Populasi adalah keseluruhan elemen yang memiliki karakteristik tertentu yang rel
 
 Dalam praktiknya, penting untuk membedakan dua jenis populasi:
 
-- **Populasi target:** Kelompok ideal yang ingin dijadikan dasar generalisasi hasil penelitian
-- **Populasi terjangkau:** Bagian dari populasi yang dapat diakses oleh peneliti
+-   **Populasi target:** Kelompok ideal yang ingin dijadikan dasar generalisasi hasil penelitian
+-   **Populasi terjangkau:** Bagian dari populasi yang dapat diakses oleh peneliti
 
 Sebagai contoh, jika penelitian membahas stres pada mahasiswa di Indonesia, maka:
 
-- populasi target: seluruh mahasiswa di Indonesia
-- populasi terjangkau: mahasiswa di universitas tertentu yang dapat dijangkau peneliti
+-   populasi target: seluruh mahasiswa di Indonesia
+-   populasi terjangkau: mahasiswa di universitas tertentu yang dapat dijangkau peneliti
 
 Agar tidak menimbulkan bias, populasi harus didefinisikan secara jelas, misalnya dengan menyebutkan:
 
-- batasan usia
-- lokasi geografis
-- karakteristik khusus (misalnya: status pekerjaan, kondisi kesehatan, dll.)
+-   batasan usia
+-   lokasi geografis
+-   karakteristik khusus (misalnya: status pekerjaan, kondisi kesehatan, dll.)
 
 Semakin spesifik definisi populasi, semakin mudah proses pengambilan sampel dilakukan secara tepat.
 
@@ -87,10 +87,10 @@ Dalam perspektif metodologi, *representativeness* berkaitan erat dengan validita
 
 Meskipun *sampling* memberikan efisiensi, proses ini tidak lepas dari potensi kesalahan atau eror. Secara umum, terdapat dua jenis kesalahan utama dalam *sampling* [@Neuman2014]:
 
-- ***Sampling error***\
-  Kesalahan yang muncul karena sampel hanya sebagian dari populasi, sehingga hasil penelitian mungkin tidak sepenuhnya sama dengan kondisi populasi sebenarnya.
-- **Bias *sampling***\
-  Kesalahan sistematis yang terjadi karena proses pemilihan sampel tidak representatif.
+-   ***Sampling error***\
+    Kesalahan yang muncul karena sampel hanya sebagian dari populasi, sehingga hasil penelitian mungkin tidak sepenuhnya sama dengan kondisi populasi sebenarnya.
+-   **Bias *sampling***\
+    Kesalahan sistematis yang terjadi karena proses pemilihan sampel tidak representatif.
 
 *Sampling error* bersifat tidak dapat dihindari sepenuhnya, tetapi dapat diminimalkan dengan memperbesar ukuran sampel. Sebaliknya, bias *sampling* lebih berbahaya karena dapat menghasilkan kesimpulan yang keliru secara sistematis.
 
@@ -106,14 +106,14 @@ a.  ***Probability Sampling***
 
     Jenis-jenis *probability sampling* meliputi:
 
-    - ***Simple Random Sampling***\
-      Sampel dipilih secara acak dari seluruh anggota populasi, misalnya melalui undian atau bantuan komputer. Teknik ini mudah dipahami dan relatif bebas bias. Namun, pada populasi yang heterogen, teknik ini tidak menjamin bahwa setiap kelompok penting akan terwakili secara proporsional.
-    - ***Systematic Sampling***\
-      Sampel dipilih berdasarkan interval tertentu dari daftar populasi, misalnya setiap elemen ke-10 setelah menentukan titik awal secara acak. Teknik ini lebih praktis dibandingkan *random* murni dan mudah diterapkan pada data yang sudah tersusun. Kelemahannya, jika terdapat pola tertentu dalam daftar populasi, hasil *sampling* dapat menjadi bias.
-    - ***Stratified Sampling***\
-      Populasi dibagi ke dalam beberapa kelompok (strata) berdasarkan karakteristik tertentu, seperti usia, jenis kelamin, atau wilayah. Sampel kemudian diambil dari setiap strata, baik secara proporsional maupun tidak. Teknik ini sangat berguna untuk memastikan bahwa kelompok-kelompok penting dalam populasi tetap terwakili, sehingga meningkatkan akurasi hasil penelitian.
-    - ***Cluster Sampling***\
-      Digunakan ketika populasi besar dan tersebar luas. Peneliti memilih kelompok (*cluster*), seperti sekolah atau wilayah, kemudian seluruh anggota dalam kelompok tersebut dijadikan sampel. Teknik ini efisien dari segi biaya dan waktu, tetapi memiliki risiko rendahnya variasi dalam cluster yang dapat memengaruhi representativitas.
+    -   ***Simple Random Sampling***\
+        Sampel dipilih secara acak dari seluruh anggota populasi, misalnya melalui undian atau bantuan komputer. Teknik ini mudah dipahami dan relatif bebas bias. Namun, pada populasi yang heterogen, teknik ini tidak menjamin bahwa setiap kelompok penting akan terwakili secara proporsional.
+    -   ***Systematic Sampling***\
+        Sampel dipilih berdasarkan interval tertentu dari daftar populasi, misalnya setiap elemen ke-10 setelah menentukan titik awal secara acak. Teknik ini lebih praktis dibandingkan *random* murni dan mudah diterapkan pada data yang sudah tersusun. Kelemahannya, jika terdapat pola tertentu dalam daftar populasi, hasil *sampling* dapat menjadi bias.
+    -   ***Stratified Sampling***\
+        Populasi dibagi ke dalam beberapa kelompok (strata) berdasarkan karakteristik tertentu, seperti usia, jenis kelamin, atau wilayah. Sampel kemudian diambil dari setiap strata, baik secara proporsional maupun tidak. Teknik ini sangat berguna untuk memastikan bahwa kelompok-kelompok penting dalam populasi tetap terwakili, sehingga meningkatkan akurasi hasil penelitian.
+    -   ***Cluster Sampling***\
+        Digunakan ketika populasi besar dan tersebar luas. Peneliti memilih kelompok (*cluster*), seperti sekolah atau wilayah, kemudian seluruh anggota dalam kelompok tersebut dijadikan sampel. Teknik ini efisien dari segi biaya dan waktu, tetapi memiliki risiko rendahnya variasi dalam cluster yang dapat memengaruhi representativitas.
 
     @tbl-probsampling menampilkan rangkuman mengenai perbandingan tiap teknik *probability sampling.*
 
@@ -139,7 +139,7 @@ a.  ***Non-Probability Sampling***
         Sampel dipilih berdasarkan kemudahan akses, misalnya individu yang mudah ditemui oleh peneliti. Teknik ini sangat praktis dan efisien, tetapi memiliki tingkat bias yang tinggi karena tidak mempertimbangkan *representativeness* populasi.
 
     2.  ***Purposive Sampling***\
-        Sampel dipilih berdasarkan kriteria tertentu yang sesuai dengan tujuan penelitian. Teknik ini memungkinkan peneliti mendapatkan partisipan yang benar-benar relevan dengan topik penelitian. Namun, karena bergantung pada pertimbangan peneliti, teknik ini berpotensi mengandung subyektivitas.
+        Sampel dipilih berdasarkan kriteria tertentu yang sesuai dengan tujuan penelitian. Teknik ini memungkinkan peneliti mendapatkan partisipan yang benar-benar relevan dengan topik penelitian. Namun, karena bergantung pada pertimbangan peneliti, teknik ini berpotensi mengandung subjektivitas.
 
     3.  ***Snowball Sampling***\
         Digunakan untuk populasi yang sulit diakses. Peneliti memulai dengan beberapa partisipan awal, kemudian meminta mereka merekomendasikan partisipan lain. Teknik ini efektif untuk menjangkau kelompok tersembunyi, tetapi cenderung menghasilkan sampel yang homogen karena berasal dari jaringan sosial yang sama.
@@ -151,7 +151,7 @@ a.  ***Non-Probability Sampling***
 |:--------------|:--------------|:--------------|:--------------|:--------------|
 | **Teknik** | **Prosedur** | **Kekuatan** | **Kelemahan** | **Contoh** |
 | ***Convenience sampling*** | Memilih unit yang paling mudah dijangkau | Praktis, murah, cepat | Bias seleksi sangat tinggi | Mahasiswa psikologi untuk studi laboratorium |
-| ***Purposive sampling*** | Memilih unit berdasarkan kriteria spesifik (pengetahuan peneliti) | Dapat menargetkan informan kunci | Subyektif; tidak representatif | Wawancara dengan penyintas trauma yang memiliki resiliensi tinggi |
+| ***Purposive sampling*** | Memilih unit berdasarkan kriteria spesifik (pengetahuan peneliti) | Dapat menargetkan informan kunci | Subjektif; tidak representatif | Wawancara dengan penyintas trauma yang memiliki resiliensi tinggi |
 | ***Snowball sampling*** | Partisipan awal merekrut partisipan berikutnya | Mengakses populasi tersembunyi (*hidden population*) | Bias jaringan; over-representasi orang dengan banyak koneksi | Penelitian pada pengguna narkoba ilegal, LGBT+ di daerah konservatif |
 
 : Perbandingan Metode *Non-Probability Sampling*
@@ -163,10 +163,10 @@ Secara umum, *probability sampling* lebih dianjurkan jika penelitian bertujuan u
 
 Tidak ada teknik *sampling* yang dapat dianggap paling unggul dalam semua situasi. Pemilihan teknik *sampling* harus disesuaikan dengan konteks penelitian. Beberapa pertimbangan penting dalam memilih teknik *sampling* meliputi:
 
-- tujuan penelitian (eksploratif vs. inferensial)
-- karakteristik populasi (homogen vs. heterogen)
-- ketersediaan kerangka sampel (*sampling frame*)
-- keterbatasan sumber daya (waktu, biaya, tenaga)
+-   tujuan penelitian (eksploratif vs. inferensial)
+-   karakteristik populasi (homogen vs. heterogen)
+-   ketersediaan kerangka sampel (*sampling frame*)
+-   keterbatasan sumber daya (waktu, biaya, tenaga)
 
 Dalam penelitian yang bertujuan untuk generalisasi, probability *sampling* lebih dianjurkan. Namun, dalam penelitian eksploratif atau ketika populasi sulit diakses, non-probability *sampling* dapat menjadi pilihan yang rasional.
 
@@ -208,19 +208,21 @@ Penting untuk dipahami bahwa jumlah sampel tidak secara langsung menentukan kual
 ::: callout-important
 ## Refleksi & DIskusi
 
-- Bagaimana Anda menentukan unit analisis dalam penelitian yang sedang atau akan Anda lakukan?
-- Apakah sudah konsisten dengan tujuan penelitian?
-- Apa perbedaan antara populasi target dan populasi terjangkau dalam konteks penelitian Anda?
-- Apakah ada potensi bias dari keterbatasan akses tersebut?
-- Sejauh mana sampel yang Anda pilih dapat merepresentasikan populasi?
-- Faktor apa saja yang mungkin mengganggu *representativeness* tersebut?
-- Jika Anda menggunakan teknik *non-probability sampling*, bagaimana Anda menjelaskan keterbatasannya dalam laporan penelitian?
-- Dalam kondisi ideal, teknik *sampling* apa yang paling tepat untuk penelitian Anda?
-- Apakah teknik tersebut realistis untuk diterapkan?
-- Bagaimana Anda menentukan jumlah sampel yang dianggap cukup?
-- Apakah keputusan tersebut didasarkan pada pertimbangan ilmiah atau hanya keterbatasan praktis?
-- Apa saja risiko etis yang mungkin muncul dalam proses pengambilan partisipan, dan bagaimana Anda mengantisipasinya?
+-   Bagaimana Anda menentukan unit analisis dalam penelitian yang sedang atau akan Anda lakukan?
+-   Apakah sudah konsisten dengan tujuan penelitian?
+-   Apa perbedaan antara populasi target dan populasi terjangkau dalam konteks penelitian Anda?
+-   Apakah ada potensi bias dari keterbatasan akses tersebut?
+-   Sejauh mana sampel yang Anda pilih dapat merepresentasikan populasi?
+-   Faktor apa saja yang mungkin mengganggu *representativeness* tersebut?
+-   Jika Anda menggunakan teknik *non-probability sampling*, bagaimana Anda menjelaskan keterbatasannya dalam laporan penelitian?
+-   Dalam kondisi ideal, teknik *sampling* apa yang paling tepat untuk penelitian Anda?
+-   Apakah teknik tersebut realistis untuk diterapkan?
+-   Bagaimana Anda menentukan jumlah sampel yang dianggap cukup?
+-   Apakah keputusan tersebut didasarkan pada pertimbangan ilmiah atau hanya keterbatasan praktis?
+-   Apa saja risiko etis yang mungkin muncul dalam proses pengambilan partisipan, dan bagaimana Anda mengantisipasinya?
 :::
+
 ## Daftar Pustaka {.unnumbered .unlisted}
+
 ::: sectionrefs
 :::

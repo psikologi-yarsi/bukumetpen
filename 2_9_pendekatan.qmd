@@ -53,9 +53,9 @@ Penelitian kuantitatif adalah proses pengumpulan dan analisis data numerik untuk
 
 Pendekatan kualitatif adalah cara penelitian yang bertujuan memahami pengalaman manusia secara mendalam. Dalam psikologi, pendekatan ini digunakan ketika peneliti ingin mengetahui bagaimana seseorang memahami, merasakan, atau memaknai suatu pengalaman hidup. Alih-alih berfokus pada angka atau hubungan statistik, penelitian kualitatif lebih menekankan cerita, pengalaman, makna, dan konteks kehidupan individu [@Creswell2018a].
 
-1.  **Berfokus pada pemahaman makna subyektif**
+1.  **Berfokus pada pemahaman makna subjektif**
 
-    Salah satu ciri utama penelitian kualitatif adalah fokusnya pada makna subyektif, yaitu bagaimana seseorang menginterpretasikan pengalaman yang dialaminya. Peneliti tidak hanya ingin mengetahui apa yang terjadi, tetapi juga bagaimana dan mengapa pengalaman tersebut dimaknai oleh individu secara mendalam. Sebagai contoh, seorang peneliti mungkin tertarik meneliti pengalaman seseorang yang merawat anggota keluarga dengan demensia. Pertanyaan penelitian tidak hanya berbunyi “berapa tingkat stres *caregiver*?”, tetapi lebih pada: “Bagaimana pengalaman menjadi *caregiver* bagi anggota keluarga dengan demensia?” 
+    Salah satu ciri utama penelitian kualitatif adalah fokusnya pada makna subjektif, yaitu bagaimana seseorang menginterpretasikan pengalaman yang dialaminya. Peneliti tidak hanya ingin mengetahui apa yang terjadi, tetapi juga bagaimana dan mengapa pengalaman tersebut dimaknai oleh individu secara mendalam. Sebagai contoh, seorang peneliti mungkin tertarik meneliti pengalaman seseorang yang merawat anggota keluarga dengan demensia. Pertanyaan penelitian tidak hanya berbunyi “berapa tingkat stres *caregiver*?”, tetapi lebih pada: “Bagaimana pengalaman menjadi *caregiver* bagi anggota keluarga dengan demensia?” 
 
 2.  **Dilakukan dalam konteks alamiah**
 
@@ -124,7 +124,7 @@ Perbedaan kriteria ini tidak menunjukkan bahwa salah satu pendekatan lebih ilmia
 
 ## Mengenal Pendekatan Gabungan (*Mixed Methods*): Integrasi Kuantitatif dan Kualitatif {#sec-mixedmethod}
 
-Dalam penelitian psikologi, terkadang satu pendekatan saja belum cukup untuk memahami suatu fenomena secara utuh. Penelitian kuantitatif dapat menunjukkan pola umum, hubungan antarvariabel, atau efektivitas intervensi melalui angka dan analisis statistik. Namun, pendekatan ini sering kali belum mampu menjelaskan pengalaman subyektif, proses psikologis, atau alasan di balik suatu temuan.
+Dalam penelitian psikologi, terkadang satu pendekatan saja belum cukup untuk memahami suatu fenomena secara utuh. Penelitian kuantitatif dapat menunjukkan pola umum, hubungan antarvariabel, atau efektivitas intervensi melalui angka dan analisis statistik. Namun, pendekatan ini sering kali belum mampu menjelaskan pengalaman subjektif, proses psikologis, atau alasan di balik suatu temuan.
 
 Sebaliknya, penelitian kualitatif dapat memberikan pemahaman yang mendalam mengenai pengalaman individu, tetapi biasanya melibatkan jumlah partisipan yang lebih kecil sehingga sulit digeneralisasi. Oleh karena itu, peneliti dapat menggabungkan kedua pendekatan tersebut melalui *mixed methods research*. Pendekatan ini mengintegrasikan metode kuantitatif dan kualitatif dalam satu penelitian untuk memperoleh pemahaman yang lebih lengkap mengenai fenomena psikologis. 
 
@@ -150,7 +150,7 @@ MMR bukan sekadar “menggunakan kuesioner plus wawancara” secara terpisah dan
 
 4.  **Inisiasi (*Initiation*): Menjelaskan kontradiksi**
 
-    Perbedaan antara temuan kuantitatif dan kualitatif dapat memunculkan pertanyaan baru. Misalnya, data statistik menunjukkan intervensi tidak efektif, tetapi wawancara menunjukkan perubahan subyektif yang bermakna. Kondisi ini mendorong peneliti mengeksplorasi kemungkinan keterbatasan alat ukur atau mekanisme yang belum teridentifikasi.
+    Perbedaan antara temuan kuantitatif dan kualitatif dapat memunculkan pertanyaan baru. Misalnya, data statistik menunjukkan intervensi tidak efektif, tetapi wawancara menunjukkan perubahan subjektif yang bermakna. Kondisi ini mendorong peneliti mengeksplorasi kemungkinan keterbatasan alat ukur atau mekanisme yang belum teridentifikasi.
 
 5.  **Ekspansi (*Expansion*): Memperluas pemahaman**
 
