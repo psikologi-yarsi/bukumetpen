@@ -69,7 +69,7 @@ Dengan demikian, paradigma menjadi dasar dalam pemilihan metode yang sesuai deng
 
 ::: {#tbl-paradigma}
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Dimensi** | **Paradigma** | **Metode** |
 | Sifat | Filosofis/keyakinan mendasar | Teknis/prosedural |
 | Pertanyaan yang dijawab | "Apa hakikat realitas yang saya teliti dan bagaimana saya dapat mengetahuinya?" | "Bagaimana cara terbaik mengumpulkan dan menganalisis data?" |
@@ -129,17 +129,17 @@ Dalam psikologi, pengaruh positivisme tampak sejak berdirinya laboratorium psiko
 
 **Kekuatan:**
 
-- Menghasilkan pengetahuan yang dapat direplikasi dan digeneralisasi.
-- Memungkinkan komparasi lintas populasi dan waktu.
-- Menjadi basis legitimasi ilmiah psikologi di antara ilmu-ilmu alam.
-- Produktif untuk penelitian dasar (basic research) tentang proses kognitif, perseptual, dan neurologis.
+-   Menghasilkan pengetahuan yang dapat direplikasi dan digeneralisasi.
+-   Memungkinkan komparasi lintas populasi dan waktu.
+-   Menjadi basis legitimasi ilmiah psikologi di antara ilmu-ilmu alam.
+-   Produktif untuk penelitian dasar (basic research) tentang proses kognitif, perseptual, dan neurologis.
 
 **Keterbatasan:**
 
-- Menempatkan realitas manusia seolah setara dengan realitas fisik, padahal manusia adalah makhluk yang bermakna (*meaning*-*making*).
-- Cenderung mereduksi kompleksitas pengalaman manusia menjadi angka-angka yang kehilangan konteks.
-- Menafikan peran konteks budaya, sejarah, dan kuasa dalam membentuk fenomena psikologis.
-- Rentan terhadap bias positivistik tersembunyi dalam alat ukur.
+-   Menempatkan realitas manusia seolah setara dengan realitas fisik, padahal manusia adalah makhluk yang bermakna (*meaning*-*making*).
+-   Cenderung mereduksi kompleksitas pengalaman manusia menjadi angka-angka yang kehilangan konteks.
+-   Menafikan peran konteks budaya, sejarah, dan kuasa dalam membentuk fenomena psikologis.
+-   Rentan terhadap bias positivistik tersembunyi dalam alat ukur.
 
 ### Paradigma Post-Positivisme
 
@@ -153,21 +153,21 @@ Perkembangan paradigma ini dipengaruhi oleh pemikiran Karl Popper mengenai falsi
 
 **Kekuatan:**
 
-- Tetap mempertahankan ketelitian metode ilmiah sambil mengakui adanya keterbatasan pengukuran dan bias peneliti.
-- Mendorong pengujian teori secara kritis melalui falsifikasi, replikasi, dan triangulasi.
-- Menjadi landasan utama bagi sebagian besar penelitian kuantitatif modern dalam psikologi.
+-   Tetap mempertahankan ketelitian metode ilmiah sambil mengakui adanya keterbatasan pengukuran dan bias peneliti.
+-   Mendorong pengujian teori secara kritis melalui falsifikasi, replikasi, dan triangulasi.
+-   Menjadi landasan utama bagi sebagian besar penelitian kuantitatif modern dalam psikologi.
 
 **Keterbatasan:**
 
-- Tetap berfokus pada pengujian teori sehingga kurang mampu menangkap makna subjektif dan konteks sosial secara mendalam.
-- Objektivitas yang diupayakan tetap tidak dapat sepenuhnya menghilangkan pengaruh asumsi dan interpretasi peneliti.
-- Kurang sesuai untuk penelitian yang bertujuan memahami pengalaman individual atau mendorong perubahan sosial.
+-   Tetap berfokus pada pengujian teori sehingga kurang mampu menangkap makna subjektif dan konteks sosial secara mendalam.
+-   Objektivitas yang diupayakan tetap tidak dapat sepenuhnya menghilangkan pengaruh asumsi dan interpretasi peneliti.
+-   Kurang sesuai untuk penelitian yang bertujuan memahami pengalaman individual atau mendorong perubahan sosial.
 
 ### Paradigma Interpretivisme/Konstruktivisme
 
 #### Akar Historis dan Tokoh Kunci
 
-Interpretivisme berkembang sebagai respons terhadap keterbatasan pendekatan positivistik dalam memahami pengalaman manusia. Paradigma ini berangkat dari pandangan bahwa manusia bukan sekadar obyek yang dapat diukur, tetapi individu yang secara aktif membangun dan memberi makna terhadap pengalaman hidupnya. Oleh karena itu, penelitian berupaya memahami perspektif partisipan dalam konteks kehidupannya [@Crotty1998; @Creswell2018].
+Interpretivisme berkembang sebagai respons terhadap keterbatasan pendekatan positivistik dalam memahami pengalaman manusia. Paradigma ini berangkat dari pandangan bahwa manusia bukan sekadar objek yang dapat diukur, tetapi individu yang secara aktif membangun dan memberi makna terhadap pengalaman hidupnya. Oleh karena itu, penelitian berupaya memahami perspektif partisipan dalam konteks kehidupannya [@Crotty1998; @Creswell2018].
 
 Akar filosofis paradigma ini berasal dari tradisi hermeneutika, fenomenologi, dan sosiologi interpretatif yang dikembangkan oleh tokoh-tokoh seperti Wilhelm Dilthey, Max Weber, Edmund Husserl, dan Martin Heidegger [@Laverty2003]. Dalam psikologi, paradigma ini menjadi landasan berkembangnya berbagai pendekatan penelitian kualitatif yang berfokus pada pengalaman subjektif, makna, dan konteks sosial [@Willig2017].
 
@@ -177,17 +177,17 @@ Paradigma ini menjadi landasan berkembangnya berbagai pendekatan penelitian kual
 
 **Kekuatan:**
 
-- Menangkap kedalaman, kompleksitas, dan kontekstualism pengalaman manusia yang tidak dapat diangkakan.
-- Menghasilkan teori yang kaya dan "hidup" karena berakar pada realitas partisipan.
-- Sangat berguna untuk memahami fenomena baru atau yang kurang dipahami.
-- Memungkinkan suara kelompok yang terpinggirkan terdengar.
+-   Menangkap kedalaman, kompleksitas, dan kontekstualism pengalaman manusia yang tidak dapat diangkakan.
+-   Menghasilkan teori yang kaya dan "hidup" karena berakar pada realitas partisipan.
+-   Sangat berguna untuk memahami fenomena baru atau yang kurang dipahami.
+-   Memungkinkan suara kelompok yang terpinggirkan terdengar.
 
 **Keterbatasan:**
 
-- Hasil sulit digeneralisasi secara statistis ke populasi yang lebih luas.
-- Memerlukan waktu dan keahlian yang lebih intensif.
-- Rentan terhadap bias peneliti jika refleksivitas tidak dijaga.
-- Sering menghadapi pertanyaan legitimasi ilmiah dari komunitas positivis.
+-   Hasil sulit digeneralisasi secara statistis ke populasi yang lebih luas.
+-   Memerlukan waktu dan keahlian yang lebih intensif.
+-   Rentan terhadap bias peneliti jika refleksivitas tidak dijaga.
+-   Sering menghadapi pertanyaan legitimasi ilmiah dari komunitas positivis.
 
 ### Paradigma Transformatif (Kritis)
 
@@ -203,24 +203,24 @@ Dalam psikologi, paradigma transformatif menjadi landasan berkembangnya berbagai
 
 **Kekuatan:**
 
-- Mengungkap pengaruh faktor sosial, budaya, dan relasi kekuasaan terhadap fenomena psikologis.
-- Berorientasi pada pemberdayaan individu dan komunitas serta mendorong perubahan sosial yang lebih adil.
-- Relevan untuk penelitian pada kelompok rentan atau komunitas yang kurang terwakili.
+-   Mengungkap pengaruh faktor sosial, budaya, dan relasi kekuasaan terhadap fenomena psikologis.
+-   Berorientasi pada pemberdayaan individu dan komunitas serta mendorong perubahan sosial yang lebih adil.
+-   Relevan untuk penelitian pada kelompok rentan atau komunitas yang kurang terwakili.
 
 **Keterbatasan:**
 
-- Keterlibatan peneliti yang tinggi dapat meningkatkan potensi bias dan mengurangi objektivitas.
-- Proses penelitian umumnya memerlukan waktu, kolaborasi, dan sumber daya yang lebih besar.
-- Temuan sering kali bersifat kontekstual sehingga transferabilitasnya ke konteks lain perlu dipertimbangkan secara hati-hati.
+-   Keterlibatan peneliti yang tinggi dapat meningkatkan potensi bias dan mengurangi objektivitas.
+-   Proses penelitian umumnya memerlukan waktu, kolaborasi, dan sumber daya yang lebih besar.
+-   Temuan sering kali bersifat kontekstual sehingga transferabilitasnya ke konteks lain perlu dipertimbangkan secara hati-hati.
 
 Keempat paradigma yang telah dipaparkan di atas memiliki karakteristik, asumsi filosofis, dan implikasi metodologis yang berbeda. Ringkasan perbandingan keempat paradigma disajikan pada @tbl-komparasiparadigma.
 
 ::: {#tbl-komparasiparadigma}
 |  |  |  |  |  |
-|:---|:---|:---|:---|:---|
+|:--------------|:--------------|:--------------|:--------------|:--------------|
 | **Dimensi** | **Positivisme** | **Post-Positivisme** | **Interpretivisme** | **Transformatif** |
 | Ontologi | Realisme naif | Realisme kritis | Relativisme | Realisme historis |
-| Epistemologi | Dualisme objektif | Obyektivitas dimodifikasi | Subyektivitas transaksional | Intersubyektivitas kritis |
+| Epistemologi | Dualisme objektif | Objektivitas dimodifikasi | Subyektivitas transaksional | Intersubyektivitas kritis |
 | Metodologi | Deduktif, eksperimental, pengujian hipotesis, pengukuran objektif. | Deduktif-falsifikatif, pengujian teori secara kritis, triangulasi, replikasi, dan pengendalian bias. | Induktif, eksploratif, interpretatif, berfokus pada pengalaman dan makna. | Partisipatif, kolaboratif, reflektif, berorientasi pada aksi dan perubahan sosial. |
 | Tujuan penelitian | Hukum universal, prediksi | Teori probabilistik, kontrol variabel | Pemahaman mendalam, teori lokal | Perubahan sosial, pemberdayaan |
 | Kekuatan | objektif, terukur, dan hasilnya mudah digeneralisasi. | Lebih realistis karena mengakui keterbatasan pengukuran dan potensi bias. | Memberikan pemahaman yang mendalam terhadap pengalaman dan makna. | Mendorong pemberdayaan serta perubahan sosial yang berkeadilan. |
@@ -269,10 +269,10 @@ Meskipun *mixed methods* sering dikaitkan dengan paradigma pragmatis, penerapann
 ::: callout-important
 ## Refleksi & Diskusi
 
-- Mengapa paradigma penelitian perlu dipahami sebelum menentukan pendekatan, desain, dan metode penelitian?
-- Jelaskan hubungan antara ontologi, epistemologi, dan metodologi dalam membentuk suatu paradigma penelitian.
-- Bandingkan karakteristik utama paradigma positivisme, post-positivisme, interpretivisme, dan transformatif. Dalam situasi penelitian seperti apa masing-masing paradigma lebih sesuai digunakan?
-- Pilih satu topik penelitian psikologi yang Anda minati (misalnya kesehatan mental, kecanduan media sosial, *bullying*, atau kesejahteraan kerja). Jelaskan bagaimana rumusan masalah, tujuan penelitian, dan metode yang digunakan dapat berbeda apabila penelitian tersebut dilakukan dengan paradigma yang berbeda.
+-   Mengapa paradigma penelitian perlu dipahami sebelum menentukan pendekatan, desain, dan metode penelitian?
+-   Jelaskan hubungan antara ontologi, epistemologi, dan metodologi dalam membentuk suatu paradigma penelitian.
+-   Bandingkan karakteristik utama paradigma positivisme, post-positivisme, interpretivisme, dan transformatif. Dalam situasi penelitian seperti apa masing-masing paradigma lebih sesuai digunakan?
+-   Pilih satu topik penelitian psikologi yang Anda minati (misalnya kesehatan mental, kecanduan media sosial, *bullying*, atau kesejahteraan kerja). Jelaskan bagaimana rumusan masalah, tujuan penelitian, dan metode yang digunakan dapat berbeda apabila penelitian tersebut dilakukan dengan paradigma yang berbeda.
 :::
 
 ## Daftar Pustaka {.unnumbered .unlisted}

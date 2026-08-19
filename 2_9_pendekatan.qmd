@@ -29,9 +29,9 @@ Bab ini membahas karakteristik utama pendekatan kuantitatif dan kualitatif, perb
 
 Penelitian kuantitatif adalah proses pengumpulan dan analisis data numerik untuk menjelaskan fenomena, menguji hipotesis, dan menjawab pertanyaan tentang hubungan antar variabel. Karakteristik dari penelitian kuantitatif adalah sebagai berikut:
 
-1.  **Pengukuran obyektif**
+1.  **Pengukuran objektif**
 
-    Pengukuran obyektif merupakan salah satu karakteristik utama penelitian kuantitatif, di mana variabel penelitian dioperasionalkan menjadi indikator yang dapat diukur secara numerik dan dianalisis menggunakan teknik statistik [@Appelbaum2018]. Dengan demikian, hasil penelitian menjadi lebih terstandar dan memungkinkan interpretasi yang lebih konsisten. Sebagai contoh, pengukuran obyektif tampak pada penggunaan instrumen psikologis terstandar seperti Depression, Anxiety, and Stress Scale-21 (DASS-21) untuk mengukur tingkat distres psikologis berdasarkan skor keparahan gejala yang dilaporkan. 
+    Pengukuran objektif merupakan salah satu karakteristik utama penelitian kuantitatif, di mana variabel penelitian dioperasionalkan menjadi indikator yang dapat diukur secara numerik dan dianalisis menggunakan teknik statistik [@Appelbaum2018]. Dengan demikian, hasil penelitian menjadi lebih terstandar dan memungkinkan interpretasi yang lebih konsisten. Sebagai contoh, pengukuran objektif tampak pada penggunaan instrumen psikologis terstandar seperti Depression, Anxiety, and Stress Scale-21 (DASS-21) untuk mengukur tingkat distres psikologis berdasarkan skor keparahan gejala yang dilaporkan. 
 
 2.  **Generalisasi**
 
@@ -39,7 +39,7 @@ Penelitian kuantitatif adalah proses pengumpulan dan analisis data numerik untuk
 
 3.  **Pengujian hipotesis**
 
-    Penelitian kuantitatif umumnya dimulai dengan perumusan hipotesis sebelum proses pengumpulan data dilakukan. Hipotesis dirancang agar dapat diuji secara obyektif dan dianalisis melalui prosedur statistik tertentu untuk menentukan apakah dugaan tersebut didukung atau ditolak. Misalnya, @Listiyandini2025 merumuskan hipotesis bahwa mahasiswa yang mengikuti program *mindfulness* berbasis internet akan memiliki tingkat distres psikologis yang lebih rendah dibandingkan kelompok daftar tunggu.
+    Penelitian kuantitatif umumnya dimulai dengan perumusan hipotesis sebelum proses pengumpulan data dilakukan. Hipotesis dirancang agar dapat diuji secara objektif dan dianalisis melalui prosedur statistik tertentu untuk menentukan apakah dugaan tersebut didukung atau ditolak. Misalnya, @Listiyandini2025 merumuskan hipotesis bahwa mahasiswa yang mengikuti program *mindfulness* berbasis internet akan memiliki tingkat distres psikologis yang lebih rendah dibandingkan kelompok daftar tunggu.
 
 4.  **Kontrol variabel**
 
@@ -99,7 +99,7 @@ Secara garis besar, perbedaan karakteristik antara pendekatan kuantitatif dan ku
 | **Contoh Jenis pertanyaan** | “Apakah?”, “Seberapa besar?”, “Apakah X menyebabkan Y?” | “Bagaimana?”, “Mengapa?” (dalam pengalaman subjektif), “Apa maknanya?” |
 | **Ukuran Sampel** | Besar (n sering \>100), *probability sampling* (untuk generalisasi) | Lebih kecil, *purposive sampling* (untuk kedalaman) |
 | **Sumber Data** | Angka, skala, frekuensi, durasi | Teks, ucapan partisipan, observasi, dokumen, foto, video |
-| **Hubungan peneliti-partisipan** | Jarak dijaga (obyektivitas) | Kolaboratif, *engaged*, refleksif |
+| **Hubungan peneliti-partisipan** | Jarak dijaga (objektivitas) | Kolaboratif, *engaged*, refleksif |
 | **Analisis data** | Dilakukan di akhir tahap setelah seluruh data terkumpul secara lengkap | Dilakukan secara terus-menerus sejak awal pengumpulan data hingga akhir |
 
 : Perbandingan Sistematis Pendekatan Kuantitatif *vs* Kualitatif
@@ -109,16 +109,16 @@ Secara garis besar, perbedaan karakteristik antara pendekatan kuantitatif dan ku
 
 Setiap penelitian harus memenuhi standar kualitas tertentu agar hasilnya dapat dipercaya. Namun, karena penelitian kuantitatif dan kualitatif berangkat dari asumsi dan tujuan yang berbeda, kriteria yang digunakan untuk menilai kualitasnya juga tidak sepenuhnya sama [@Creswell2018a].
 
-Dalam penelitian kuantitatif, kualitas penelitian umumnya dinilai berdasarkan **validitas** dan **reliabilitas**. Validitas menunjukkan sejauh mana instrumen atau prosedur penelitian benar-benar mengukur apa yang seharusnya diukur. Reliabilitas menunjukkan konsistensi hasil pengukuran apabila instrumen digunakan berulang kali dalam kondisi yang serupa. Selain itu, peneliti kuantitatif juga memperhatikan **obyektivitas** dan kemampuan hasil penelitian untuk **digeneralisasikan** ke populasi yang lebih luas.
+Dalam penelitian kuantitatif, kualitas penelitian umumnya dinilai berdasarkan **validitas** dan **reliabilitas**. Validitas menunjukkan sejauh mana instrumen atau prosedur penelitian benar-benar mengukur apa yang seharusnya diukur. Reliabilitas menunjukkan konsistensi hasil pengukuran apabila instrumen digunakan berulang kali dalam kondisi yang serupa. Selain itu, peneliti kuantitatif juga memperhatikan **objektivitas** dan kemampuan hasil penelitian untuk **digeneralisasikan** ke populasi yang lebih luas.
 
 Sementara itu, penelitian kualitatif tidak berfokus pada validitas dan reliabilitas dalam pengertian statistik. Sebagai gantinya, kualitas penelitian dinilai melalui konsep *trustworthiness* atau keterpercayaan penelitian [@Lincoln1990]. Konsep ini mencerminkan sejauh mana temuan penelitian dapat dipercaya dan didukung oleh data yang diperoleh dari partisipan. Penjelasan lebih lanjut mengenai konsep *trustworthiness* diuraikan pada @sec-trustworthiness.
 
 Beberapa kriteria kualitas yang umum digunakan dalam penelitian kualitatif meliputi:
 
-- ***Credibility*** **(kredibilitas)**, yaitu sejauh mana temuan penelitian mencerminkan pengalaman dan perspektif partisipan secara akurat.
-- ***Transferability*** **(transferabilitas)**, yaitu sejauh mana temuan dapat diterapkan atau dipertimbangkan relevan pada konteks lain yang memiliki karakteristik serupa.
-- ***Dependability*** **(dependabilitas)**, yaitu konsistensi proses penelitian sehingga langkah-langkah penelitian dapat ditelusuri dan dievaluasi oleh peneliti lain.
-- ***Confirmability*** **(konfirmabilitas)**, yaitu sejauh mana temuan didasarkan pada data dan bukan semata-mata pada asumsi atau bias peneliti [@Lincoln1990].
+-   ***Credibility*** **(kredibilitas)**, yaitu sejauh mana temuan penelitian mencerminkan pengalaman dan perspektif partisipan secara akurat.
+-   ***Transferability*** **(transferabilitas)**, yaitu sejauh mana temuan dapat diterapkan atau dipertimbangkan relevan pada konteks lain yang memiliki karakteristik serupa.
+-   ***Dependability*** **(dependabilitas)**, yaitu konsistensi proses penelitian sehingga langkah-langkah penelitian dapat ditelusuri dan dievaluasi oleh peneliti lain.
+-   ***Confirmability*** **(konfirmabilitas)**, yaitu sejauh mana temuan didasarkan pada data dan bukan semata-mata pada asumsi atau bias peneliti [@Lincoln1990].
 
 Perbedaan kriteria ini tidak menunjukkan bahwa salah satu pendekatan lebih ilmiah daripada yang lain. Sebaliknya, masing-masing pendekatan memiliki standar kualitas yang disesuaikan dengan tujuan dan karakteristik metode yang digunakan. Oleh karena itu, penilaian kualitas penelitian harus dilakukan berdasarkan kriteria yang relevan dengan pendekatan penelitian yang dipilih.
 
@@ -182,7 +182,7 @@ Terakhir, jika penelitian bertujuan mengembangkan instrumen atau intervensi baru
 
 ## Kesalahan Umum dalam Memilih Pendekatan Penelitian
 
-Kesalahan pertama adalah menganggap penelitian kuantitatif lebih ilmiah daripada kualitatif. Padahal, keduanya sama-sama ilmiah tetapi memiliki tujuan, asumsi, dan standar kualitas yang berbeda. Pemilihan metode seharusnya didasarkan pada kesesuaian dengan pertanyaan penelitian, bukan pada anggapan bahwa penggunaan angka selalu lebih obyektif.
+Kesalahan pertama adalah menganggap penelitian kuantitatif lebih ilmiah daripada kualitatif. Padahal, keduanya sama-sama ilmiah tetapi memiliki tujuan, asumsi, dan standar kualitas yang berbeda. Pemilihan metode seharusnya didasarkan pada kesesuaian dengan pertanyaan penelitian, bukan pada anggapan bahwa penggunaan angka selalu lebih objektif.
 
 Kesalahan kedua adalah menggunakan sampel terlalu kecil dalam penelitian kuantitatif sehingga analisis menjadi kurang kuat secara statistik (*underpowered*). Sebaliknya, penelitian kualitatif sering kali justru terlalu besar sehingga mengurangi kedalaman analisis. Dalam penelitian kualitatif, partisipan dipilih secara purposif dengan jumlah yang cukup untuk mencapai kedalaman dan kecukupan data.
 
@@ -219,13 +219,15 @@ Jawablah pertanyaan refleksi berikut secara singkat dan argumentatif:
 6.  Jika penelitian ini hanya menggunakan pendekatan kuantitatif (survei preferensi mahasiswa), informasi penting apa yang kemungkinan besar akan hilang? Sebaliknya, jika penelitian ini hanya menggunakan pendekatan kualitatif, apa keterbatasannya? Jelaskan.
 7.  Menurut Anda, desain *mixed methods* apa yang paling sesuai untuk menggambarkan penelitian ini: *convergent*, *explanatory sequential*, atau *exploratory sequential?* Jelaskan alasan Anda berdasarkan urutan penelitian dalam artikel.
 8.  Bayangkan Anda menjadi peneliti lanjutan dari studi ini. Tuliskan:
-    - satu pertanyaan penelitian kuantitatif untuk menguji efektivitas program mindfulness yang telah dikembangkan; dan
+    -   satu pertanyaan penelitian kuantitatif untuk menguji efektivitas program mindfulness yang telah dikembangkan; dan
 
-    - satu pertanyaan penelitian kualitatif untuk memahami pengalaman mahasiswa menggunakan program tersebut.
+    -   satu pertanyaan penelitian kualitatif untuk memahami pengalaman mahasiswa menggunakan program tersebut.
 
 Setelah membaca artikel tersebut, refleksikan dalam satu paragraf:\
 Kapan pendekatan kuantitatif lebih tepat digunakan, kapan pendekatan kualitatif lebih tepat digunakan, dan kapan keduanya perlu digabungkan dalam penelitian psikologi?
 :::
+
 ## Daftar Pustaka {.unnumbered .unlisted}
+
 ::: sectionrefs
 :::

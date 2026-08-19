@@ -41,9 +41,9 @@ Dalam konteks kehidupan sehari-hari, pengetahuan sering kali dianggap benar sela
 
 Dalam kehidupan sehari-hari, pengetahuan sering dinilai benar apabila:
 
-- terasa masuk akal,
-- sesuai dengan pengalaman pribadi,
-- atau diyakini oleh banyak orang.
+-   terasa masuk akal,
+-   sesuai dengan pengalaman pribadi,
+-   atau diyakini oleh banyak orang.
 
 Namun, kriteria tersebut tidak selalu menjamin akurasi. Dalam psikologi, misalnya, pengalaman subjektif seseorang belum tentu merepresentasikan pola umum populasi. Pengetahuan sehari-hari sering kali bersifat parsial, kontekstual, dan rentan terhadap bias kognitif.
 
@@ -102,7 +102,7 @@ Empirisme menekankan observasi dan pengalaman indrawi sebagai sumber utama penge
 
 Sebagai contoh, seorang peneliti mungkin mengamati bahwa siswa yang mengikuti program bimbingan belajar menunjukkan peningkatan nilai. Berdasarkan pengamatan tersebut, peneliti dapat menyimpulkan bahwa program tersebut efektif. Namun, tanpa kontrol terhadap variabel lain, kesimpulan tersebut mungkin prematur karena peningkatan nilai dapat dipengaruhi oleh faktor tambahan seperti motivasi atau dukungan keluarga.
 
-Kelemahan utama empirisme adalah ketergantungannya pada persepsi dan interpretasi manusia yang tidak selalu obyektif. Observasi dapat dipengaruhi oleh bias peneliti, kesalahan pengukuran, atau kondisi situasional tertentu. Tanpa prosedur sistematis dan kontrol yang memadai, empirisme dapat menghasilkan generalisasi yang keliru.
+Kelemahan utama empirisme adalah ketergantungannya pada persepsi dan interpretasi manusia yang tidak selalu objektif. Observasi dapat dipengaruhi oleh bias peneliti, kesalahan pengukuran, atau kondisi situasional tertentu. Tanpa prosedur sistematis dan kontrol yang memadai, empirisme dapat menghasilkan generalisasi yang keliru.
 
 ![Cara-Cara Memperoleh Pengetahuan dan Keterbatasannya](images/pengetahuan.png){#fig-pengetahuan}
 
@@ -127,10 +127,10 @@ Sebagai mahasiswa psikologi, memahami metode ilmiah bukan sekadar kewajiban akad
 
 Metode ilmiah membantu mahasiswa:
 
-- Menghindari kesalahan berpikir
-- Menguji klaim psikologis secara kritis
-- Membedakan fakta dari mitos
-- Mengambil keputusan berbasis bukti (*evidence-based practice*)
+-   Menghindari kesalahan berpikir
+-   Menguji klaim psikologis secara kritis
+-   Membedakan fakta dari mitos
+-   Mengambil keputusan berbasis bukti (*evidence-based practice*)
 
 Dengan fondasi ini, mahasiswa akan lebih siap mempelajari logika penelitian, desain kuantitatif, maupun pendekatan kualitatif pada bab-bab selanjutnya.
 
@@ -146,9 +146,9 @@ Dengan fondasi ini, mahasiswa akan lebih siap mempelajari logika penelitian, des
 ::: callout-important
 ## Refleksi & Diskusi
 
-- Mengapa keyakinan yang telah lama dipercaya belum tentu benar secara ilmiah?
-- Dalam situasi apa intuisi dapat membantu, dan kapan intuisi berpotensi menyesatkan?
-- Berikan contoh fenomena psikologis yang memerlukan pembuktian ilmiah untuk menghindari kesimpulan keliru.
+-   Mengapa keyakinan yang telah lama dipercaya belum tentu benar secara ilmiah?
+-   Dalam situasi apa intuisi dapat membantu, dan kapan intuisi berpotensi menyesatkan?
+-   Berikan contoh fenomena psikologis yang memerlukan pembuktian ilmiah untuk menghindari kesimpulan keliru.
 :::
 
 ## Daftar Pustaka {.unnumbered .unlisted}
