@@ -75,7 +75,8 @@ format:
   html:
     theme:
       #- pandoc
-      - simplex
+      #- simplex
+      - cosmo
     toc: true
     toc-depth: 3
     ##css: style.css
