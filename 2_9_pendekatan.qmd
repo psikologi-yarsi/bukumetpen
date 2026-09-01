@@ -21,7 +21,7 @@ Setelah mempelajari bab ini, mahasiswa diharapkan mampu:
 2.  Menjelaskan dan menguraikan sejauh mana penelitian mixed methods yang mengintegrasikan pendekatan kuantitatif dan kualitatif dapat digunakan sesuai dengan tujuan dari penelitian.
 :::
 
-Saat ini, konsensus di kalangan metodolog psikologi adalah bahwa pendekatan kuantitatif dan kualitatif adalah komplementer, bukan kompetitif. Pilihan pendekatan harus didasarkan pada pertanyaan penelitian, bukan loyalitas paradigmatik buta [@Creswell2018a]. Setiap pendekatan memiliki tujuan, kekuatan, dan keterbatasannya masing-masing dalam membantu peneliti memahami fenomena psikologis. Oleh karena itu, pemahaman mengenai karakteristik berbagai pendekatan penelitian menjadi bekal penting bagi setiap peneliti dalam merancang studi yang sesuai dengan tujuan penelitiannya.
+Saat ini, konsensus di kalangan ahli metodologi psikologi adalah bahwa pendekatan kuantitatif dan kualitatif adalah komplementer, bukan kompetitif. Pilihan pendekatan harus didasarkan pada pertanyaan penelitian, bukan loyalitas paradigmatik buta [@Creswell2018a]. Setiap pendekatan memiliki tujuan, kekuatan, dan keterbatasannya masing-masing dalam membantu peneliti memahami fenomena psikologis. Oleh karena itu, pemahaman mengenai karakteristik berbagai pendekatan penelitian menjadi bekal penting bagi setiap peneliti dalam merancang studi yang sesuai dengan tujuan penelitiannya.
 
 Bab ini membahas karakteristik utama pendekatan kuantitatif dan kualitatif, perbedaan mendasar di antara keduanya, serta perkembangan pendekatan *mixed methods* yang mengintegrasikan kedua tradisi tersebut. Pada bagian akhir, disajikan panduan praktis untuk membantu peneliti memilih pendekatan yang paling sesuai berdasarkan pertanyaan penelitian yang ingin dijawab.
 
@@ -126,7 +126,11 @@ Perbedaan kriteria ini tidak menunjukkan bahwa salah satu pendekatan lebih ilmia
 
 Dalam penelitian psikologi, terkadang satu pendekatan saja belum cukup untuk memahami suatu fenomena secara utuh. Penelitian kuantitatif dapat menunjukkan pola umum, hubungan antarvariabel, atau efektivitas intervensi melalui angka dan analisis statistik. Namun, pendekatan ini sering kali belum mampu menjelaskan pengalaman subjektif, proses psikologis, atau alasan di balik suatu temuan.
 
-Sebaliknya, penelitian kualitatif dapat memberikan pemahaman yang mendalam mengenai pengalaman individu, tetapi biasanya melibatkan jumlah partisipan yang lebih kecil sehingga sulit digeneralisasi. Oleh karena itu, peneliti dapat menggabungkan kedua pendekatan tersebut melalui *mixed methods research*. Pendekatan ini mengintegrasikan metode kuantitatif dan kualitatif dalam satu penelitian untuk memperoleh pemahaman yang lebih lengkap mengenai fenomena psikologis. 
+Sebaliknya, penelitian kualitatif dapat memberikan pemahaman yang mendalam mengenai pengalaman individu, tetapi biasanya melibatkan jumlah partisipan yang lebih kecil sehingga sulit digeneralisasi. Oleh karena itu, peneliti dapat menggabungkan kedua pendekatan tersebut melalui *mixed methods research*. Pendekatan ini mengintegrasikan metode kuantitatif dan kualitatif dalam satu penelitian untuk memperoleh pemahaman yang lebih lengkap mengenai fenomena psikologis.
+
+Secara ringkas, perbedaan karakteristik dan cara kerja ketiga pendekatan tersebut dalam menghasilkan pemahaman mengenai fenomena psikologis dapat dilihat pada @fig-mixedmethod.
+
+![Tiga Pendekatan Penelitian dan Perannya dalam Memahami Fenomena Psikologis](images/mixedmethod.png){#mixedmethod}
 
 ### Kapan Pendekatan *Mixed Methods* Diperlukan?
 
