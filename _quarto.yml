@@ -74,7 +74,8 @@ crossref:
 format:
   html:
     theme:
-      - pandoc
+      #- pandoc
+      - simplex
     toc: true
     toc-depth: 3
     ##css: style.css
