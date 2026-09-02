@@ -7,19 +7,22 @@ book:
   subtitle: "Panduan Komprehensif untuk Mahasiswa dan Peneliti"
   reader-mode: true
   author: "Sunu Bagaskara"
-  date: "3/8/2026"
-  date-format: "D MMMM YYYY"
+  date: "9/1/2026"
+  date-format: "DD MMMM YYYY"
   sidebar:
     style: floating
     search: true
     collapse-level: 2
+    logo: images/cover.jpg
   language: id
           
   page-footer:
     left: |
-      Metodologi Penelitian
+      Metodologi Penelitian Psikologi
     right: |
       Buku ini dicetak menggunakan <a href="https://quarto.org/">Quarto</a>.
+  cover-image: images/cover.jpg
+  favicon: images/cover.jpg
   chapters:
     - index.qmd
     - part: 1_pengantar.qmd
