@@ -1,4 +1,7 @@
-# METODOLOGI PENELITIAN KUALITATIF
+---
+title: "METODOLOGI PENELITIAN KUALITATIF"
+number: false
+---
 
 Bagian IV membahas **penelitian kualitatif dalam psikologi**, yang digunakan untuk memahami pengalaman, makna, proses, dan konteks suatu fenomena secara mendalam. Pembahasan diawali dengan hakikat dan paradigma penelitian kualitatif, kemudian dilanjutkan dengan berbagai pilihan desain penelitian serta prinsip populasi dan sampling yang sesuai dengan karakteristik pendekatan kualitatif. Pembaca selanjutnya diajak memahami proses pengumpulan dan analisis data, termasuk bagaimana data yang kaya dan kontekstual dapat diolah menjadi temuan yang bermakna.
 

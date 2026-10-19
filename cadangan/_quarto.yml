@@ -1,0 +1,101 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "Metodologi Penelitian Psikologi"
+  subtitle: "Panduan Komprehensif untuk Mahasiswa dan Peneliti Pemula"
+  reader-mode: true
+  author: "Sunu Bagaskara"
+  date: "9/1/2026"
+  date-format: "DD MMMM YYYY"
+  sidebar:
+    style: floating
+    search: true
+    collapse-level: 2
+    logo: images/cover.jpg
+  language: id
+          
+  page-footer:
+    left: |
+      Metodologi Penelitian Psikologi
+    right: |
+      Buku ini dicetak menggunakan <a href="https://quarto.org/">Quarto</a>.
+  cover-image: images/cover.jpg
+  favicon: images/cover.jpg
+  chapters:
+    - index.qmd
+    - part: 1_pengantar.qmd
+      chapters: 
+        - 1_1_ilmu.qmd
+        - 1_2_hakikat.qmd
+        - 1_3_masalah.qmd
+        - 1_4_literatur.qmd
+        - 1_5_desain.qmd
+        - 1_6_validitas.qmd
+        - 1_7_etik.qmd
+    - part: 2_pengantar.qmd
+      chapters:
+        - 2_8_paradigma.qmd
+        - 2_9_pendekatan.qmd
+    - part: 3_pengantar.qmd
+      chapters: 
+        - 3_10_prinsipkuanti.qmd
+        - 3_11_variabel.qmd
+        - 3_12_hipotesis.qmd
+        - 3_13_sampling.qmd
+        - 3_14_eksperimen.qmd
+        - 3_15_korelasional.qmd
+        - 3_16_proposalkuanti.qmd
+        - 3_17_laporankuanti.qmd
+    - part: 4_pengantar.qmd
+      chapters: 
+        - 4_18_paradigmakuali.qmd
+        - 4_19_desainkuali.qmd
+        - 4_20_samplingkuali.qmd
+        - 4_21_analisiskualitatif.qmd
+        - 4_22_refleksivitas.qmd
+        - 4_23_laporankuali.qmd
+    - glosarium.qmd
+filters:
+  # Run Quarto's default filters first
+  - quarto
+  - section-bibliographies
+citeproc: false
+bibliography: references.bib
+reference-section-title: "Daftar Pustaka"
+csl: apa7id.csl
+
+lang: id
+
+crossref: 
+  sec-prefix: "Bab"
+  fig-prefix: "Gambar"
+  tbl-prefix: "Tabel"
+  eq-prefix: "Persamaan"
+  
+format:
+  html:
+    theme:
+      #- pandoc
+      #- simplex
+      - cosmo
+    toc: true
+    toc-depth: 3
+    ##css: style.css
+    number-sections: true
+    number-depth: 3
+    nocite: false
+  pdf:
+    documentclass: scrreprt
+    keep-tex: true
+    
+  docx: 
+    toc: false
+    toc-depth: 3
+    number-sections: true
+    reference-doc: custom-reference-styled.docx
+    fontsize: 12pt
+    linestretch: 1.5
+  
+editor: visual

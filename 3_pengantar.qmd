@@ -1,4 +1,7 @@
-# METODOLOGI PENELITIAN KUANTITATIF
+---
+title: "METODOLOGI PENELITIAN KUANTITATIF"
+number: false
+---
 
 Bagian III membahas **penelitian kuantitatif dalam psikologi**, mulai dari prinsip dan logika yang mendasari pendekatan kuantitatif hingga bagaimana sebuah penelitian dirancang, dilaksanakan, dan dilaporkan secara sistematis. Pembahasan mencakup konsep variabel, hipotesis, dan operasionalisasi variabel sebagai dasar untuk menerjemahkan konsep teoretis ke dalam bentuk yang dapat diukur. Selanjutnya, pembaca diajak memahami unit analisis, populasi, dan teknik sampling, sebelum mempelajari berbagai desain penelitian kuantitatif, termasuk eksperimen, kuasi eksperimen, korelasional, dan survei.
 

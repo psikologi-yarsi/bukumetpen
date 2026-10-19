@@ -25,8 +25,9 @@ book:
   favicon: images/cover.jpg
   chapters:
     - index.qmd
-    - part: 1_pengantar.qmd
-      chapters: 
+    - part: "Bagian I — Landasan Ilmiah Penelitian"
+      chapters:
+        - 1_pengantar.qmd
         - 1_1_ilmu.qmd
         - 1_2_hakikat.qmd
         - 1_3_masalah.qmd
@@ -34,12 +35,14 @@ book:
         - 1_5_desain.qmd
         - 1_6_validitas.qmd
         - 1_7_etik.qmd
-    - part: 2_pengantar.qmd
+    - part: "Bagian II — Paradigma dan Pendekatan Penelitian"
       chapters:
+        - 2_pengantar.qmd
         - 2_8_paradigma.qmd
         - 2_9_pendekatan.qmd
-    - part: 3_pengantar.qmd
-      chapters: 
+    - part: "Bagian III — Metodologi Penelitian Kuantitatif"
+      chapters:
+        - 3_pengantar.qmd
         - 3_10_prinsipkuanti.qmd
         - 3_11_variabel.qmd
         - 3_12_hipotesis.qmd
@@ -48,8 +51,9 @@ book:
         - 3_15_korelasional.qmd
         - 3_16_proposalkuanti.qmd
         - 3_17_laporankuanti.qmd
-    - part: 4_pengantar.qmd
-      chapters: 
+    - part: "Bagian IV — Metodologi Penelitian Kualitatif"
+      chapters:
+        - 4_pengantar.qmd
         - 4_18_paradigmakuali.qmd
         - 4_19_desainkuali.qmd
         - 4_20_samplingkuali.qmd
@@ -94,7 +98,7 @@ format:
     toc: false
     toc-depth: 3
     number-sections: true
-    reference-doc: custom-reference-styled.docx
+    reference-doc: custom-reference.docx
     fontsize: 12pt
     linestretch: 1.5
   

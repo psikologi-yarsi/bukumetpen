@@ -1,4 +1,7 @@
-# PENGANTAR METODOLOGI PENELITIAN ILMIAH
+---
+title: "PENGANTAR METODOLOGI PENELITIAN ILMIAH"
+number: false
+---
 
 Bagian I membahas **landasan penelitian dalam psikologi**, mulai dari memahami ilmu pengetahuan dan kedudukan penelitian sebagai cara untuk memperoleh pengetahuan ilmiah, hingga bagaimana penelitian dirancang dan dilaksanakan secara sistematis. Pembahasan diawali dengan hakikat ilmu pengetahuan dan penelitian dalam psikologi, kemudian berlanjut pada proses mengidentifikasi masalah dan merumuskan pertanyaan penelitian, menelaah literatur untuk membangun kerangka teoretis, serta memilih desain penelitian dan strategi pengumpulan data yang sesuai.
 
