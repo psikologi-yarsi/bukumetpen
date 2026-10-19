@@ -94,7 +94,7 @@ format:
     toc: false
     toc-depth: 3
     number-sections: true
-    reference-doc: custom-reference.docx
+    reference-doc: custom-reference-styled.docx
     fontsize: 12pt
     linestretch: 1.5
   
