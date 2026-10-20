@@ -95,11 +95,11 @@ format:
     keep-tex: true
     
   docx: 
-    toc: false
-    toc-depth: 3
+    toc: true
+    toc-depth: 2
     number-sections: true
     reference-doc: custom-reference-styled.docx
-    fontsize: 12pt
+    #fontsize: 12pt
     linestretch: 1.5
   
 editor: visual
