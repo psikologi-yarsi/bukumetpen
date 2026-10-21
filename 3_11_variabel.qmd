@@ -71,7 +71,7 @@ Secara umum, terdapat lima jenis variabel berdasarkan perannya dalam penelitian,
 
     @fig-modmed mengilustrasikan perbedaan konseptual, tujuan, serta contoh variabel moderator dan variabel mediator dalam sebuah penelitian.
 
-    ![Perbedaan antara Variabel Moderator dan Variabel Mediator](images/medmod.png){#fig-modmed}
+    ![Perbedaan antara Variabel Moderator dan Variabel Mediator](images/medmod.jpg){#fig-modmed}
 
 5.  **Variabel Kontrol**
 

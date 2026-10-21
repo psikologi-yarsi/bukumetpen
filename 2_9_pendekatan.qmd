@@ -130,7 +130,7 @@ Sebaliknya, penelitian kualitatif dapat memberikan pemahaman yang mendalam menge
 
 Secara ringkas, perbedaan karakteristik dan cara kerja ketiga pendekatan tersebut dalam menghasilkan pemahaman mengenai fenomena psikologis dapat dilihat pada @fig-mixedmethod.
 
-![Tiga Pendekatan Penelitian dan Perannya dalam Memahami Fenomena Psikologis](images/mixedmethod.png){#fig-mixedmethod}
+![Tiga Pendekatan Penelitian dan Perannya dalam Memahami Fenomena Psikologis](images/mixedmethod.jpg){#fig-mixedmethod}
 
 ### Kapan Pendekatan *Mixed Methods* Diperlukan?
 

@@ -96,7 +96,7 @@ format:
     
   docx: 
     toc: true
-    toc-depth: 2
+    toc-depth: 1
     number-sections: true
     reference-doc: custom-reference-styled.docx
     #fontsize: 12pt

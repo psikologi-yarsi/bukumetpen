@@ -57,7 +57,7 @@ Paradigma penelitian merupakan landasan filosofis yang mendasari seluruh proses 
 
 Hubungan antara paradigma dan keseluruhan proses penelitian ditunjukkan pada @fig-proses.
 
-![Paradigma sebagai Landasan Proses Penelitian](images/paradigma%20-%20bab%209.png){#fig-proses}
+![Paradigma sebagai Landasan Proses Penelitian](images/paradigma%20-%20bab%209.jpg){#fig-proses}
 
 Meskipun terdapat berbagai paradigma penelitian, semuanya berangkat dari asumsi filosofis yang berbeda mengenai hakikat realitas, cara memperoleh pengetahuan, dan cara melakukan penelitian. Perbedaan tersebut akan dibahas pada bagian-bagian berikutnya di bab ini.
 
@@ -109,7 +109,7 @@ Metodologi menjelaskan strategi atau pendekatan umum yang digunakan untuk memper
 
 Perlu dibedakan bahwa metodologi bukanlah metode penelitian. Metodologi merupakan kerangka atau logika penelitian yang didasarkan pada asumsi filosofis tertentu, sedangkan metode adalah teknik yang digunakan untuk mengumpulkan dan menganalisis data.
 
-![Hubungan Ontologi, Epistemologi, dan Metodologi](images/pilar%20filososif%20-%20bab%209.png){#fig-pilar}
+![Hubungan Ontologi, Epistemologi, dan Metodologi](images/pilar%20filososif%20-%20bab%209.jpg){#fig-pilar}
 
 @fig-pilar menunjukkan bahwa ontologi, epistemologi, dan metodologi merupakan tiga pilar filosofis yang saling berkaitan. Perbedaan pandangan terhadap ketiga aspek inilah yang kemudian melahirkan berbagai paradigma penelitian. Pada bagian berikutnya akan dibahas empat paradigma utama yang banyak digunakan dalam penelitian psikologi.
 

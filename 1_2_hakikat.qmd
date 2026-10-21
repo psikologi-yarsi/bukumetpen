@@ -69,7 +69,7 @@ Sebagai contoh, penelitian mengenai efektivitas terapi kognitif-perilaku dalam m
 
 @fig-tujuanpenelitian menampilkan contoh-contoh pertanyaan penelitian dan fokus utama dari tiap tujuan penelitian.
 
-![Lima Tujuan Penelitian Ilmiah](images/tujuanpenelitian.png){#fig-tujuanpenelitian}
+![Lima Tujuan Penelitian Ilmiah](images/tujuanpenelitian.jpg){#fig-tujuanpenelitian}
 
 ## Jenis-Jenis Penelitian
 
@@ -95,7 +95,7 @@ Penelitian eksperimental melibatkan manipulasi variabel independen dan kontrol t
 
 Untuk dapat lebih memahami bagaiamana sebuah penelitian dapat diklasifikasikan ke dalam jenis-jenis penelitian, lihat @fig-jenisriset.
 
-![Berbagai Dimensi Klasifikasi Penelitian](images/jenisriset.png){#fig-jenisriset}
+![Berbagai Dimensi Klasifikasi Penelitian](images/jenisriset.jpg){#fig-jenisriset}
 
 ## Siklus Proses Penelitian
 
@@ -158,11 +158,11 @@ Pada akhirnya, penelitian ilmiah tidak dimulai dari pemilihan metode atau teknik
 ::: callout-important
 ## Refleksi & Diskusi
 
-- Jelaskan dengan kata-kata Anda sendiri apa yang membedakan penelitian ilmiah dari sekadar pengumpulan informasi.
-- Dari lima tujuan penelitian (eksplorasi, deskripsi, prediksi, eksplanasi, dan intervensi), berikan masing-masing satu contoh dalam konteks psikologi.
-- Mengapa penelitian ilmiah harus mengikuti struktur yang sistematis (pendahuluan, tinjauan literatur, metode, hasil, dan diskusi)?
-- Apa perbedaan utama antara penelitian kuantitatif dan kualitatif dalam hal tujuan dan pendekatan?
-- Jika Anda ingin meneliti fenomena “kepercayaan diri mahasiswa saat presentasi”, pendekatan apa yang akan Anda pilih? Jelaskan alasan Anda secara singkat.
+-   Jelaskan dengan kata-kata Anda sendiri apa yang membedakan penelitian ilmiah dari sekadar pengumpulan informasi.
+-   Dari lima tujuan penelitian (eksplorasi, deskripsi, prediksi, eksplanasi, dan intervensi), berikan masing-masing satu contoh dalam konteks psikologi.
+-   Mengapa penelitian ilmiah harus mengikuti struktur yang sistematis (pendahuluan, tinjauan literatur, metode, hasil, dan diskusi)?
+-   Apa perbedaan utama antara penelitian kuantitatif dan kualitatif dalam hal tujuan dan pendekatan?
+-   Jika Anda ingin meneliti fenomena “kepercayaan diri mahasiswa saat presentasi”, pendekatan apa yang akan Anda pilih? Jelaskan alasan Anda secara singkat.
 :::
 
 ## Daftar Pustaka {.unnumbered .unlisted}

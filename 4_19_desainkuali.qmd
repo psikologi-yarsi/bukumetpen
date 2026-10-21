@@ -202,7 +202,7 @@ Dalam PAR, pengumpulan data dilakukan secara kolaboratif dengan melibatkan anggo
 
 Pelaksanaan PAR berlangsung dalam suatu siklus yang berulang, yaitu mengidentifikasi masalah, mengumpulkan dan menganalisis data, merencanakan tindakan, melaksanakan tindakan, mengevaluasi hasilnya melalui refleksi bersama, kemudian menyusun langkah perbaikan berikutnya. Siklus ini dapat diulang hingga tujuan penelitian atau perubahan yang diharapkan tercapai [@Cornish2023]. Alur pelaksanaan PAR secara ringkas disajikan pada @fig-sikluspar.
 
-![Siklus Pelaksanaan PAR](images/siklus.png){#fig-sikluspar}
+![Siklus Pelaksanaan PAR](images/siklus.jpg){#fig-sikluspar}
 
 ### Keunggulan PAR
 
@@ -334,7 +334,7 @@ Contoh pertanyaan penelitian:
 
 Keenam desain penelitian kualitatif yang telah dibahas memiliki karakteristik, tujuan, dan luaran yang berbeda sehingga pemilihannya harus disesuaikan dengan tujuan penelitian, jenis pertanyaan penelitian, serta fenomena yang ingin dipahami. Tidak ada satu desain yang lebih baik daripada desain lainnya, karena masing-masing dikembangkan untuk menjawab kebutuhan penelitian yang berbeda. Ringkasan perbandingan karakteristik utama dari setiap desain penelitian kualitatif disajikan pada @fig-desainkuali, yang dapat digunakan sebagai panduan dalam memilih desain penelitian yang paling sesuai.
 
-![Perbandingan Desain Penelitian Kualitatif](images/desain%20kualitatif.png){#fig-desainkuali}
+![Perbandingan Desain Penelitian Kualitatif](images/desain%20kualitatif.jpg){#fig-desainkuali}
 
 Dari perbandingan tersebut terlihat bahwa perbedaan utama antar desain penelitian kualitatif tidak terletak pada teknik pengumpulan datanya, karena sebagian besar menggunakan wawancara dan observasi, melainkan pada tujuan penelitian serta jenis pengetahuan yang ingin dihasilkan. Oleh karena itu, pemilihan desain penelitian hendaknya didasarkan pada pertanyaan penelitian dan fenomena yang ingin dipahami, bukan semata-mata pada teknik pengumpulan data yang akan digunakan.
 

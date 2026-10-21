@@ -152,7 +152,7 @@ Berbagai strategi *purposive sampling* memiliki tujuan dan konteks penggunaan ya
 
 ::: {#tbl-samplingkuali}
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Strategi** | **Tujuan** | **Contoh Penelitian** |
 | *Criterion* | Memilih partisipan yang memenuhi kriteria tertentu | Pengalaman penyintas stroke |
 | *Homogeneous* | Mendalami pengalaman kelompok yang seragam | Pengalaman mahasiswa tingkat akhir menyusun skripsi |
@@ -304,7 +304,7 @@ Penentuan populasi dan *sampling* dalam penelitian kualitatif bukanlah sekadar m
 
 Hubungan antartahapan tersebut dirangkum pada @fig-proseskuali, yang menunjukkan bahwa proses pengambilan partisipan dalam penelitian kualitatif merupakan suatu alur yang sistematis dan terintegrasi. Pemahaman terhadap keseluruhan proses ini akan membantu peneliti memperoleh data yang kaya, relevan, dan kredibel sehingga mampu menghasilkan temuan penelitian yang bermakna.
 
-![Proses Pengambilan Partisipan dalam Penelitian Kualitatif](images/samplingkuali.png){#fig-proseskuali}
+![Proses Pengambilan Partisipan dalam Penelitian Kualitatif](images/samplingkuali.jpg){#fig-proseskuali}
 
 ::: callout-tip
 ## Rangkuman

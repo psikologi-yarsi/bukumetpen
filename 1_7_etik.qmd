@@ -63,7 +63,7 @@ Salah satu kerangka paling berpengaruh dalam etika penelitian yang melibatkan ma
 
 Ketiga prinsip tersebut saling berkaitan dan perlu dipertimbangkan secara bersama-sama. Dalam suatu penelitian, peneliti dapat menghadapi situasi ketika kepentingan ilmiah, otonomi partisipan, perlindungan dari risiko, dan keadilan dalam pemilihan partisipan perlu dipertimbangkan secara bersamaan. Sebagai panduan sederhana, peneliti dapat mengajukan tiga pertanyaan: Apakah calon partisipan dapat membuat keputusan secara bebas berdasarkan informasi yang memadai? (*respect for persons*); Apakah risiko penelitian telah diminimalkan dan dapat dibenarkan dibandingkan dengan manfaat yang diharapkan? (*beneficence*); dan Apakah pemilihan partisipan serta distribusi beban dan manfaat penelitian dilakukan secara adil? (*justice*). Ketiga pertanyaan tersebut memberikan kerangka awal untuk menilai kelayakan etik suatu penelitian (lihat @fig-belmont).
 
-![Penerapan Belmont Report dalam Penelitian](images/belmont.png){#fig-belmont}
+![Penerapan Belmont Report dalam Penelitian](images/belmont.jpg){#fig-belmont}
 
 **Prinsip Etika dalam Kode Etik Psikologi**
 
@@ -109,7 +109,7 @@ Persetujuan etik bukan berarti seluruh tanggung jawab etis beralih kepada komite
 
 Berbagai pertimbangan etik tersebut saling berkaitan dan perlu dipertimbangkan secara sistematis sebelum penelitian dilaksanakan. Peta pengambilan keputusan etik pada @fig-etik merangkum beberapa pertimbangan utama yang perlu diperhatikan peneliti.
 
-![Peta Pengambilan Keputusan Etik Penelitian](images/etik.png){#fig-etik}
+![Peta Pengambilan Keputusan Etik Penelitian](images/etik.jpg){#fig-etik}
 
 ## Integritas dan Tanggung Jawab dalam Penelitian
 

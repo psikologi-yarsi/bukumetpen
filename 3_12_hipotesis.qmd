@@ -154,7 +154,7 @@ Hipotesis merupakan dugaan ilmiah yang menjadi dasar pengujian dalam penelitian 
 
 @fig-hipotesis mengilustrasikan bagaimana proses perumusan hipotesis dalam 3 desain penelitian yang berbeda.
 
-![Contoh Proses Perumusan Hipotesis](images/hipotesis.png){#fig-hipotesis}
+![Contoh Proses Perumusan Hipotesis](images/hipotesis.jpg){#fig-hipotesis}
 
 ::: {.callout-tip icon="false"}
 ## Kesalahan yang Sering Terjadi dalam Merumuskan Hipotesis
@@ -182,7 +182,7 @@ Sebagai contoh, apabila seorang peneliti ingin mengukur *resiliensi*, ia tidak c
 
 Operasionalisasi variabel merupakan salah satu tahapan penting dalam penelitian kuantitatif karena menentukan kualitas data yang diperoleh. Operasionalisasi yang kurang tepat dapat menyebabkan instrumen gagal merepresentasikan konsep yang ingin diukur sehingga hasil penelitian menjadi kurang valid. Sebaliknya, operasionalisasi yang baik akan menghasilkan pengukuran yang lebih akurat, konsisten, dan sesuai dengan tujuan penelitian [@DeVellis2023].
 
-![Pentingnya Operasionalisasi Variabel Penelitian](images/operasionalisasi.png){#fig-operasionalisasi}
+![Pentingnya Operasionalisasi Variabel Penelitian](images/operasionalisasi.jpg){#fig-operasionalisasi}
 
 ### Definisi Konseptual dan Definisi Operasional
 
@@ -196,7 +196,7 @@ Sebagai ilustrasi, konsep *resiliensi* dapat didefinisikan secara konseptual seb
 
 ::: {#tbl-definisi}
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Aspek** | **Definisi Konseptual** | **Definisi Operasional** |
 | Tujuan | Menjelaskan makna suatu konsep berdasarkan teori | Menjelaskan bagaimana konsep diukur dalam penelitian |
 | Sumber | Teori dan kajian literatur | Instrumen dan prosedur pengukuran |
@@ -264,7 +264,7 @@ Setelah variabel berhasil dioperasionalkan, informasi tersebut biasanya dirangku
 
 ::: {#tbl-operasionalisasi}
 |  |  |  |  |  |
-|:---|:---|:---|:---|:---|
+|:--------------|:--------------|:--------------|:--------------|:--------------|
 | **Variabel** | **Definisi Konseptual** | **Dimensi/Indikator** | **Instrumen** | **Skala** |
 | *Resiliensi* | Kemampuan individu untuk beradaptasi secara positif ketika menghadapi kesulitan hidup. | Kemampuan beradaptasi, ketekunan, regulasi emosi, optimisme | CD-RISC-10 | Likert 0–4 |
 | *Academic Burnout* | Kondisi kelelahan akibat tuntutan akademik yang berkepanjangan. | *Exhaustion*, *cynicism*, *academic efficacy* | MBI-SS | Likert 1–7 |

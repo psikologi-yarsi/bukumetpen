@@ -88,7 +88,7 @@ Untuk meminimalkan pengaruh variabel perancu, penelitian eksperimen menerapkan b
 
 ::: {#tbl-kontrol}
 | Strategi | Penjelasan |
-|:---|:---|
+|:-----------------------------------|:-----------------------------------|
 | **Kelompok kontrol** | Menggunakan kelompok pembanding yang tidak menerima perlakuan atau menerima perlakuan yang berbeda sehingga perubahan yang terjadi dapat dibandingkan dengan kelompok eksperimen. |
 | ***Random assignment*** | Menempatkan partisipan ke dalam kelompok penelitian secara acak agar karakteristik partisipan tersebar secara relatif seimbang pada setiap kelompok. |
 | **Standardisasi prosedur** (*holding variables constant*) | Menjaga agar seluruh kelompok memperoleh kondisi penelitian yang sama, misalnya instruksi, instrumen, ruangan, waktu, dan durasi pelaksanaan. |
@@ -116,7 +116,7 @@ Penggunaan pretest memungkinkan peneliti mengetahui kondisi awal peserta sebelum
 
 Secara umum, semakin lengkap informasi mengenai kondisi peserta sebelum dan sesudah perlakuan, semakin kuat pula dasar peneliti dalam mengevaluasi perubahan yang terjadi.
 
-![Unsur-unsur Pokok Penelitian Eksperimen](images/eksperimen_ch13.png){#fig-unsureksp}
+![Unsur-unsur Pokok Penelitian Eksperimen](images/eksperimen_ch13.jpg){#fig-unsureksp}
 
 Sebagaimana ditunjukkan pada @fig-unsureksp, kelima unsur tersebut saling berkaitan dalam menghasilkan penelitian eksperimen yang memiliki validitas internal yang tinggi. Semakin baik manipulasi dilakukan, semakin efektif pengendalian variabel luar, semakin seimbang karakteristik kelompok melalui r*andom assignment*, serta semakin tepat pengukuran hasil dilakukan, maka semakin kuat pula dasar peneliti dalam menyimpulkan bahwa perubahan pada variabel dependen berkaitan dengan perlakuan yang diberikan.
 
@@ -132,7 +132,7 @@ Namun demikian, bukan berarti eksperimen murni selalu menjadi pilihan terbaik. P
 
 ::: {#tbl-desaineksp}
 |  |  |  |  |
-|:---|:--:|:--:|:--:|
+|:-----------------|:----------------:|:----------------:|:----------------:|
 | **Karakteristik** | **Pra-eksperimen** | **Kuasi eksperimen** | **Eksperimen murni** |
 | Manipulasi variabel independen | ✓ | ✓ | ✓ |
 | Kelompok pembanding | Tidak selalu ada | Ada | Ada |
@@ -174,7 +174,7 @@ Pada *between-subjects design*, setiap partisipan hanya mengikuti satu kondisi e
 
 Kelebihan utama desain ini adalah tidak adanya pengaruh pengalaman dari kondisi sebelumnya (*carry-over effect*) karena setiap peserta hanya mengikuti satu perlakuan. Namun, desain ini umumnya memerlukan jumlah partisipan yang lebih banyak dan membutuhkan random assignment atau prosedur lain agar karakteristik awal setiap kelompok relatif seimbang.
 
-![Ilustrasi desain between-subjects](images/between2.png)
+![Ilustrasi desain between-subjects](images/between2.jpg)
 
 ### *Within-subjecst Design*
 
@@ -182,7 +182,7 @@ Pada *within-subjects design*, setiap partisipan mengikuti seluruh kondisi ekspe
 
 Keunggulan desain ini adalah membutuhkan jumlah partisipan yang lebih sedikit dan mampu mengurangi pengaruh perbedaan individual karena setiap peserta menjadi pembanding bagi dirinya sendiri. Namun, desain ini memiliki kelemahan berupa kemungkinan munculnya ***carry-over effect***, yaitu pengaruh dari kondisi sebelumnya terhadap kondisi berikutnya. Untuk meminimalkan hal tersebut, peneliti dapat mengatur urutan pemberian perlakuan menggunakan teknik ***counterbalancing***.
 
-![Ilustrasi desain within-subjects](images/within2.png)
+![Ilustrasi desain within-subjects](images/within2.jpg)
 
 ### *Perbandingan Between-subjects dan Within-subjects Design*
 
@@ -192,7 +192,7 @@ Tabel 13.2 merangkum perbedaan utama kedua struktur kondisi tersebut.
 
 ::: {#tbl-struktur}
 |  |  |  |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **Aspek** | ***Between-subjects design*** | ***Within-subjects design*** |
 | Partisipan | Setiap peserta hanya mengikuti satu kondisi | Setiap peserta mengikuti seluruh kondisi |
 | Jumlah partisipan | Relatif lebih banyak | Relatif lebih sedikit |
@@ -252,7 +252,7 @@ Pada desain ini, peneliti melakukan beberapa kali pengukuran sebelum dan sesudah
 
 Desain ini digunakan ketika pemberian perlakuan didasarkan pada nilai batas (*cut-off score*). Contohnya, mahasiswa dengan tingkat stres di atas skor tertentu memperoleh layanan konseling, sedangkan mahasiswa dengan skor di bawah batas tersebut tidak memperoleh layanan yang sama. Analisis kemudian dilakukan untuk mengetahui apakah terdapat perubahan yang nyata di sekitar titik batas tersebut.
 
-![Ilustrasi desain regression discontinuity](images/regres.png)
+![Ilustrasi desain regression discontinuity](images/regres.jpg)
 
 ### Bentuk-bentuk Eksperimen Murni
 
@@ -262,7 +262,7 @@ Eksperimen murni menggunakan manipulasi, kelompok pembanding, serta *random assi
 
 Peserta dibagi secara acak ke dalam kelompok eksperimen dan kelompok kontrol. Pengukuran hanya dilakukan setelah perlakuan diberikan. Desain ini sesuai digunakan apabila *pretest* diperkirakan dapat memengaruhi respons peserta.
 
-![Ilustrasi desain posttest-only control group](images/postonly2.png)
+![Ilustrasi desain posttest-only control group](images/postonly2.jpg)
 
 #### *Solomon four-group design*
 
@@ -274,13 +274,13 @@ Desain Solomon menggabungkan kelebihan desain *posttest-only* dan *pretest-postt
 
 *Factorial design* digunakan ketika penelitian melibatkan lebih dari satu variabel independen. Selain menguji pengaruh masing-masing variabel (*main effect*), desain ini juga memungkinkan peneliti menguji apakah terdapat interaksi (*interaction effect*) antarvariabel independen. Sebagai contoh, peneliti dapat menguji pengaruh **jenis pelatihan** (*mindfulness* vs. relaksasi) dan **durasi pelatihan** (10 menit vs. 20 menit) terhadap stres akademik mahasiswa menggunakan desain faktorial 2 × 2.
 
-![Ilustrasi desain faktorial](images/faktorial2.png)
+![Ilustrasi desain faktorial](images/faktorial2.jpg)
 
 @tbl-desainexp merangkum karakteristik utama masing-masing bentuk desain eksperimen sehingga memudahkan peneliti membandingkan kelebihan dan penerapan setiap desain.
 
 ::: {#tbl-desainexp}
 |  |  |  |  |  |
-|----|:--:|:--:|:--:|:--:|
+|---------------|:-------------:|:-------------:|:-------------:|:-------------:|
 | **Desain** | **Kelompok Pembanding** | ***Pretest*** | ***Random Assignment*** | **Kegunaan** |
 | *One-shot case study* | ✗ | ✗ | ✗ | Studi awal |
 | *One-group pretest-posttest* | ✗ | ✓ | ✗ | Evaluasi awal |

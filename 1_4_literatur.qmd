@@ -46,7 +46,7 @@ Menurut @Creswell2018, tinjauan literatur memiliki beberapa fungsi penting dalam
 
 Dengan demikian, tinjauan literatur tidak sekadar menjadi kumpulan ringkasan penelitian terdahulu, tetapi merupakan analisis kritis yang membantu membangun kerangka berpikir penelitian (lihat @fig-literatur) .
 
-![Proses Peninjauan dan Telaah Literatur](images/literatur.png){#fig-literatur}
+![Proses Peninjauan dan Telaah Literatur](images/literatur.jpg){#fig-literatur}
 
 ## Tujuan Tinjauan Literatur dalam Penelitian
 
@@ -117,7 +117,7 @@ Tidak semua sumber bacaan dapat dijadikan rujukan dalam penelitian ilmiah. Oleh 
 
 Perlu diingat bahwa kualitas penelitian tidak ditentukan oleh banyaknya jumlah referensi yang digunakan, melainkan oleh relevansi dan kualitas referensi tersebut. Sebelum menyusun tinjauan literatur, peneliti perlu memahami prioritas penggunaan berbagai jenis sumber ilmiah sebagaimana diilustrasikan pada @fig-hirarki. Pemahaman ini membantu peneliti memilih referensi yang sesuai dan menyusun landasan teori yang lebih kuat.
 
-![Hierarki Tingkat Keilmiahan Sumber Literatur dan Tahapan Evaluasi Referensi](images/hierarki.png){#fig-hirarki}
+![Hierarki Tingkat Keilmiahan Sumber Literatur dan Tahapan Evaluasi Referensi](images/hierarki.jpg){#fig-hirarki}
 
 ## Strategi Menelusuri Literatur
 

@@ -34,7 +34,7 @@ Pengumpulan data merupakan proses memperoleh informasi yang diperlukan untuk mem
 
 Dalam penelitian kualitatif, proses pengumpulan data bersifat fleksibel dan berkembang seiring dengan berlangsungnya penelitian. Informasi yang diperoleh pada tahap awal dapat memunculkan pertanyaan baru sehingga peneliti perlu menyesuaikan fokus pengumpulan data. Dengan demikian, pengumpulan dan analisis data berlangsung secara berulang (*iterative process*) hingga diperoleh pemahaman yang memadai mengenai fenomena yang diteliti [@Miles2020; @Saldana2025] (lihat @fig-sikluskualitatif).
 
-![Siklus Pengumpulan dan Analisis Data dalam Penelitian Kualitatif](images/sikluskualitatif.png){#fig-sikluskualitatif}
+![Siklus Pengumpulan dan Analisis Data dalam Penelitian Kualitatif](images/sikluskualitatif.jpg){#fig-sikluskualitatif}
 
 ## Teknik Pengumpulan Data Kualitatif
 
@@ -58,7 +58,7 @@ Diari dan dokumen pribadi dapat menjadi sumber data yang kaya mengenai pengalama
 
 ::: {#tbl-teknikkuali}
 |  |  |  |  |  |
-|:---|:---|:---|:---|:---|
+|:--------------|:--------------|:--------------|:--------------|:--------------|
 | **Teknik** | **Tujuan Utama** | **Jenis Data yang Dihasilkan** | **Kelebihan** | **Keterbatasan** |
 | **Wawancara mendalam** | Menggali pengalaman, persepsi, dan makna yang dimiliki partisipan | Narasi hasil percakapan individual | Menghasilkan data yang mendalam dan kaya makna; memungkinkan eksplorasi lebih lanjut melalui pertanyaan lanjutan | Membutuhkan waktu yang relatif lama dan sangat bergantung pada kemampuan pewawancara |
 | **Observasi** | Memahami perilaku, interaksi, dan konteks secara langsung | Catatan lapangan, foto, atau dokumentasi visual | Menangkap perilaku dalam konteks alami; melengkapi data hasil wawancara | Tidak semua fenomena dapat diamati secara langsung; interpretasi peneliti dapat memengaruhi hasil observasi |
@@ -80,7 +80,7 @@ Data yang diperoleh melalui wawancara, observasi, FGD, maupun dokumen belum dapa
 
 Sebelum melakukan analisis yang lebih mendalam, peneliti juga perlu membiasakan diri (*familiarization*) dengan data melalui pembacaan atau penelaahan berulang. Proses ini bertujuan memperoleh pemahaman menyeluruh mengenai isi data, mengenali pola awal, serta mencatat ide atau refleksi yang muncul selama membaca. Familiarisasi merupakan tahap penting karena menjadi dasar dalam proses pengodean dan pengembangan tema [@Braun2006]. @fig-penyiapandata mengIlustrasikan tahapan penyiapan data untuk analisis.
 
-![Tahapan Penyiapan Data Kualitatif untuk Analisis](images/penyiapandata.png){#fig-penyiapandata}
+![Tahapan Penyiapan Data Kualitatif untuk Analisis](images/penyiapandata.jpg){#fig-penyiapandata}
 
 ## Analisis Tematik
 
@@ -110,7 +110,7 @@ Langkah berikutnya adalah mengembangkan tema (*theme*), yaitu pola makna yang le
 
 Sebagai ilustrasi, kategori **tantangan adaptasi sosial**, **dukungan sosial**, dan **penyesuaian diri** dapat diintegrasikan menjadi tema **proses adaptasi mahasiswa perantau**. Tema inilah yang kemudian menjadi dasar bagi peneliti dalam menyusun narasi hasil penelitian. Hubungan antara data, kode, kategori, dan tema ditunjukkan pada @fig-datakuali.
 
-![Contoh Hubungan antara Data, Kode, Kategori, & Tema](images/datakuali.png){#fig-datakuali}
+![Contoh Hubungan antara Data, Kode, Kategori, & Tema](images/datakuali.jpg){#fig-datakuali}
 
 ## Interpretasi Data Kualitatif
 

@@ -104,7 +104,7 @@ Sebagai contoh, seorang peneliti mungkin mengamati bahwa siswa yang mengikuti pr
 
 Kelemahan utama empirisme adalah ketergantungannya pada persepsi dan interpretasi manusia yang tidak selalu objektif. Observasi dapat dipengaruhi oleh bias peneliti, kesalahan pengukuran, atau kondisi situasional tertentu. Tanpa prosedur sistematis dan kontrol yang memadai, empirisme dapat menghasilkan generalisasi yang keliru.
 
-![Cara-Cara Memperoleh Pengetahuan dan Keterbatasannya](images/pengetahuan.png){#fig-pengetahuan}
+![Cara-Cara Memperoleh Pengetahuan dan Keterbatasannya](images/pengetahuan.jpg){#fig-pengetahuan}
 
 ## Metode Ilmiah dan Penelitian Psikologi
 
@@ -119,7 +119,7 @@ Secara umum, metode ilmiah melibatkan tahapan:
 
 Dalam psikologi, metode ilmiah digunakan untuk memastikan bahwa penjelasan mengenai perilaku dan proses mental manusia didasarkan pada bukti, bukan pada asumsi atau kepercayaan semata. @fig-siklusilmiah mengilustrasikan siklus metode penelitian ilmiah secara umum dalam proses pengembangan pengetahuan.
 
-![Siklus Metode Ilmiah dalam Pengembangan Pengetahuan](images/siklusilmiah.png){#fig-siklusilmiah}
+![Siklus Metode Ilmiah dalam Pengembangan Pengetahuan](images/siklusilmiah.jpg){#fig-siklusilmiah}
 
 ## Mengapa Metode Ilmiah Penting bagi Mahasiswa Psikologi?
 
